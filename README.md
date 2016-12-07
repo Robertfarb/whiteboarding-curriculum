@@ -1,2 +1,772 @@
-# sf-job-search-curriculum
-Job Search Curriculum for SF Seekers
+# Job Search by Day (SF)
+
+Welcome to the job search! The job search structure is less rigid than the coding curriculum's, and it's important to know what's expected of you. Check back here every day and be sure to add the [calendar][calendar].
+
+## Table of Contents
+
+[Browse Job Search by Topic](SF/topics.md)
+
+Jump to:
+* [Week 10](#week10)
+* [Week 11](#week11)
+* [Week 12](#week12)
+* [Week 13+](#week13)
+
+# Week 10<a name="week10"></a>
+
+## Week 10 Overview
+* A full set of application materials is due in a week.   
+* Mornings and evenings are for working on application materials.
+* Afternoons are filled with lectures, group work, and workshops.
+* **There will lots of tasks competing for your time -- plan in advance!**
+* Expected time investment this week:
+  * [JS project](self-presentation/js_project.md): 20-30 hours this week
+  * [Resume][resume]: 5-10 hours (Monday & Tuesday afternoons, and additional edits throughout the week)
+  * [Cover letter][cover-letter]: 2-4 hours this week (Wednesday afternoon, and additional edits throughout the week)
+  * [Github cleanup](self-presentation/github.md): 2-4 hours
+  * [LinkedIn](linkedin-reading.md) & [AngelList](angel-list-reading.md): 2-4 hours
+  * [Portfolio site](self-presentation/portfolio.md): 3-8 hours (recommended but not required)
+  * Lectures and peer reviews: ~13 hours
+
+
+## W10D1
+### Homework
+* Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
+* Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
+ * In Slack, CMD+K and type "hunters"
+* Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder with your FSP URLs entered at the top.
+* **Submit your JavaScript Proposal by 9am**
+  * Choose a [JavaScript Project][js-project]
+  * Write your proposal ([sample proposal][js-sample-proposal])
+  * Upload your proposal to github
+  * [Submit your proposal][js-proposal-submission]
+
+### Morning Off
+* Roll call and lecture at 1:30pm.
+* Be respectful of the new cohort, sit in the Job Seeker area.
+
+### Afternoon
+#### Lectures
+* **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 3+ weeks.
+* Followed immediately by **Resumes**.
+
+#### Resume Work Time Part 1
+* [Resume instructions][resume]
+* Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.
+
+### Projects
+* [JavaScript Project](self-presentation/js_project.md)
+* [Resume][resume]
+
+## W10D2
+### Homework
+* Check your [calendar][calendar] for events happening today. Note times for office hours and lectures.
+* Read the [peer review instructions][peer-review-instructions].
+
+### Afternoon
+
+#### No Lecture
+
+#### Peer Reviews
+* First round of [peer reviews][peer-review-instructions] at 1:30pm.
+
+#### Resume Work Time Part 2
+* [Resume instructions][resume]
+* Your coach must approve your resume by the end of the day.
+
+### Projects
+* [JavaScript Project][js-project]
+* [Resume][resume]
+
+## W10D3
+### No Homework
+
+### Afternoon
+#### Lecture
+* Introduction to **Cover Letters**
+
+#### Cover Letter Work Time
+* [Cover Letter instructions][cover-letter]
+* Coaches will be walking around to answer questions, and you must have your coach sign off on your cover letter by the end of the day.
+
+#### Peer Reviews
+* [Peer reviews][peer-review-instructions] at 4:30pm.
+
+#### Flex Project Introduction (5:30, lecture)
+* Get introduced to the [Flex Project][flex-project].
+
+### Projects
+* [JavaScript Project][js-project]
+* [Cover letter][cover-letter]
+* Bonus: [portfolio site][portfolio]
+
+## W10D4
+### Homework
+* Read about [personal pitches][personal-pitch].
+* Write a rough personal pitch.
+
+### Afternoon
+#### Lecture & Workshop
+* Polish your **Personal Pitch**. Bring pen and paper or computer, and your rough personal pitch.
+
+#### Peer Reviews
+* [Peer reviews][peer-review-instructions] right after lecture.
+
+### Projects
+* [Personal pitch video][personal-pitch-video], due tomorrow at 9am
+* [JavaScript Project][js-project], due tomorrow at 12pm
+* Bonus: [portfolio site][portfolio]
+
+## W10D5
+### Homework
+* **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by 9am.
+* **[JavaScript Project][js-project] due 12pm.**
+  * Add live and repo links to the JavaScript Project Scorecard in your Job Search Folder.
+* Read about [Behavioral Questions][personal-pitch].
+* Familiarize yourself with more [behavioral questions][31-questions].
+
+### Afternoon
+#### Lecture & Workshop
+* **Behavioral Questions**. Bring pen and paper or a computer.
+
+#### Peer Reviews
+* Last day of [peer reviewing][peer-review-instructions]. Make it good!
+
+#### Happy Hour
+* At 5pm, join the new cohort for their first Happy Hour!
+
+### Projects
+* [JavaScript Project][js-project]
+* Bonus: [portfolio site][portfolio]
+
+
+## W10D6-7
+
+### Projects, due Monday 9am
+* [Flex Project][flex-project] Proposal
+* [Resume][resume] and [cover letter][cover-letter]
+* [Text-only resume][text-only]
+* [LinkedIn profile][linkedin]
+* Bonus: [GitHub cleanup][github]
+ * Change [authorship & commit history][github-history]
+* Bonus: [AngelList profile][angellist]
+* Bonus: [portfolio site][portfolio].
+
+# Week 11<a name="week11"></a>
+
+## Week 11 Overview
+* Building a third project to showcase your strongest skills
+* Learning the skills to tackle technical interviews
+* One-on-one meetings with your career coach
+
+## W11D1
+### Homework
+* **Submit your Flex Proposal by 9am**
+  * Choose a [Flex Project][flex-project]
+  * Write your proposal ([sample proposal][flex-sample-proposal])
+  * Upload your proposal to github
+  * [Submit your proposal][flex-proposal-submission]
+* **Upload to Job Search Folder by 9am**
+  * [Resume][resume]
+  * [Text-only resume][text-only]
+  * [Cover letter][cover-letter]
+  * Name documents clearly. If you have multiple versions, it must be clear which is your final version.
+  * Documents *must* be editable Google Docs.
+    * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. Your coach will consult the pdf for formatting and leave comments on the Google Doc.
+    * Do not upload Pages or Word files.
+* **Complete [LinkedIn profile][linkedin] by 9am**
+  * Link to your LinkedIn on your resume.
+* Bonus: [GitHub cleanup][github]
+ * Change [authorship & commit history][github-history]
+* Bonus: [AngelList profile][angellist]
+* Bonus: [portfolio site][portfolio].
+
+### Morning
+* Read the [Introduction to App Academy's Algorithms curriculum][intro-algos]
+* Read algorithms introductions:
+  * [Big-O][big-o]
+  * [Time Complexity](SF/algorithms/w11d1/time-complexity.md)
+  * [Big O Notation](SF/algorithms/w11d1/big-o-notation.md)
+  * [Table of Time Complexities](SF/algorithms/w11d1/table-of-time-complexities.md)
+  * [Interview Advice](SF/algorithms/w11d1/interview-advice.md)
+* Bonus: [Flex Project][flex-project]
+
+
+### Afternoon
+#### Lecture
+* **Math for Programmers**, a math primer for those without math backgrounds. Will cover what you need to know for algorithms.
+  * **Required** for anyone who hasn't studied or worked in a math-heavy field. Those with math backgrounds can skip.
+  * Specific topics covered:
+    * definition of mathematical functions used in Big O analysis (constant, linear, quadratic, logarithmic, exponential, factorial)
+    * definition and examples of base-2 (binary) notation
+    * important facts in discrete math such as 1 + 2 + ... + n = n(n-1)/2
+* **Pairboarding Introduction**, a brief primer for how to tackle whiteboard problems.
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+* Find a whiteboard with your pair.
+* Pair assignments are sent by email. If your pair is not present, find someone in a similar situation or tell a coach.
+
+#### Algorithms Lectures
+* **Introducing a/A's Algorithms Curriculum** (required)
+* **Analyzing Time and Space Complexity**
+
+### Projects
+* Big O Worksheet (sent by email)
+
+## W11D2
+### Homework
+* **Big O Worksheet due 12pm**
+* Read about the [Job Boards][job-boards]
+* Read about [Memory and Pointers](SF/algorithms/w11d2/pointers.md)
+* Read about [Static Arrays](SF/algorithms/w11d2/static-array.md)
+* Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. Read the [instructions][add-apps-instructions].
+* Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].  
+  * Get comfortable with these interfaces before you start applying. Companies use these for interviews and take-home challenges.
+
+### Afternoon
+#### Lecture
+* **Tackling Technical Interviews**
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Video
+ * **Bonus: [Memory and Assembly][memory-assembly-lecture]**
+  * Password is `go_video_go`
+
+
+### Projects
+* [Flex Project][flex-project]
+* No Algorithms Project
+
+## W11D3
+### Homework
+* Read about [Dynamic Arrays](SF/algorithms/w11d3/dynamic-array.md)
+* Read about [job search etiquette][job-search-etiquette]
+* Memorize a few [insightful questions][good-questions].
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][codility].
+
+### Afternoon
+#### Lecture
+* **Networking**, historically the 2nd-best way for a/A grads to find jobs.
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Lecture
+ * **Static and Dynamic Arrays**
+
+### Projects
+* [Flex Project][flex-project]
+* [Project 1 - Dynamic Array](SF/algorithms/w11d3/project1)
+
+## W11D4
+### Homework
+* **[Project 1 - Dynamic Array](SF/algorithms/w11d3/project1) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* Read [How Hashes Work](http://www.gotealeaf.com/blog/how-the-hash-works-in-ruby)
+* Read [LRU Cache](https://web.archive.org/web/20150710185255/http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html)
+* Skim [slides for Architecture lecture][architecture-slides], as they cover a lot of material.
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+
+### Afternoon
+#### Lecture
+* **Architecture Part 1**, an introduction to scaling web applications and system design.
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Videos
+ * **Hashmap and LRU Cache**, review
+  * The password for the videos is `go_video_go`.
+ * [Set and Int Set](https://vimeo.com/159431377)
+ * [Resizing Int Set Part 1](https://vimeo.com/159433039)
+ * [Resizing Int Set Part 2](https://vimeo.com/159437719)
+ * [Hashing](https://vimeo.com/159435811)
+ * [Hash Set](https://vimeo.com/159438691)
+ * [Linked Lists and Hashmaps](https://vimeo.com/159440267)
+ * [Caches](https://vimeo.com/159441490)
+ * [LRU Cache](https://vimeo.com/159435146)
+
+### Projects
+* [Flex Project][flex-project]
+* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2)
+
+## W11D5
+### Homework
+* Review [slides for Architecture lecture][architecture-slides].
+* Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+
+### Afternoon
+#### Lecture
+* **Architecture Part 2**, an introduction to scaling web applications and system design.
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Final Circle Time
+* Join your old circle to pass your wisdom and experience on to the next generation.
+
+#### No Algorithms
+
+### Projects
+* [Flex Project][flex-project]
+* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2)
+
+## W11D6-7
+
+### Projects
+* **[Flex Project][flex-project], due Monday at 9am**
+* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2), due Monday at 12pm
+* Bonus: Write tests for your projects.
+* Bonus: Practice building on top of [an existing codebase][kanban].
+* Bonus: Pick an [open-source project to contribute to][open-source-projects].
+
+# Week 12<a name="week12"></a>
+
+## Week 12 Overview
+* Continue studying algorithms
+* Technical interview practice
+* Start sending applications
+* Alumni lectures/panels
+* Graduation!
+
+## W12D1
+### Homework
+* **[Flex Project][flex-project] due at 9am**.
+  * Add repo links (and any links to live project or app store) to the Flex Project Scorecard in your Job Search Folder.
+* **[Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* **Read a/A's requirements for [sending applications][applying-for-jobs].**
+* Read, from a/A alum Daniel Babiak (Back-end engineer, Paypal), [how to ace front-end vs back-end interviews][babiak-tips]
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Implement instructor feedback on projects.
+
+### Afternoon
+#### Lecture
+* **Introduction to TalentMatch**, App Academy's internal recruiter team.
+* **Strategies for Applying**, which will cover a variety of material relevant to conducting a job search.
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Videos
+* **Heaps and Heapsort**
+* Reading: [Heaps Explained](SF/algorithms/w12d1/heap-1.md)
+* [Priority Queues][heaps1]
+* [Understanding Heaps][heaps2]
+* [Heap Implementation][heaps3]
+* [Heapsort (naive)][heapsort1]
+* [Heapsort (in-place)][heapsort2]
+
+### Projects
+* [Project 3 - Heaps and Heapsort](./SF/algorithms/w12d1/project3)
+* Bonus: [portfolio site][portfolio]
+
+## W12D2
+### Homework
+* **[Project 3 - Heaps and Heapsort](./SF/algorithms/w12d1/project3) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* Read, from a/A alum Ronnie Chen (Software Engineer, Slack), [resources and study guides for the job search][ronnie-tips]. A huge number of resources. It should take a couple hours to get familiar with what's available.
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* If cleared by your coach, send [a few applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Implement instructor feedback on projects.
+
+### Late Morning
+* Roll call at 10am to facilitate evening lecture.
+
+### Afternoon
+#### No Lecture
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Videos
+* **Quicksort**
+* **Analysis of Sorting Algorithms**
+* Reading:  [Sorting Comparison](./SF/algorithms/w12d2/sorting.md)
+* Reading: [Sorting Performance](./SF/algorithms/w12d2/sorting-2.md)
+* [Quicksort Review][quicksort1]
+* [In Place Quicksort][quicksort2]
+* [Quicksort Analysis and Choosing Pivot][quicksort3]
+* [Comparing Sorting Algorithms][sorting1]
+* [Sort Stability][sorting2]
+
+### Evening
+
+#### Lecture
+* **Ronnie Chen** (a/A alum, Software Engineer at Slack, previously at Braintree), gives tips for the job search process, talks about her own successful experience, and answers questions about what the work environment is like. (optional, recommended)
+
+### Projects
+* [Project 4 - Quicksort](./SF/algorithms/w12d2/project4)
+* Bonus: [portfolio site][portfolio]
+
+## W12D3
+### Homework
+* **[Project 4 - Quicksort](./SF/algorithms/w12d2/project4) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* Read about what happens when you [navigate to a URL?][navigate-to-a-url] ([video][harvard-vid])
+  * Memorize your answer to that interview question with [these bullets][browser-navigation].
+  * Very common interview question.
+* Read about the [funding stages of tech startups][funding-stages].
+* Bonus: Memorize [the ways to make a website faster][performance-cheat-sheet].
+* Bonus: [Ruby interview walkthrough][ruby-interview-walkthrough].
+* Bonus: Learn more Rails from the most interesting [Rails Casts][rails-casts].
+* Bonus Review: [Ruby and Rails fundamentals][rails-review].
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* If cleared by your coach, send [a few applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Implement instructor feedback on projects.
+
+### Late Morning
+* Roll call at 10am to facilitate evening alumni panel
+
+### Afternoon
+
+#### No Lecture
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Algorithms Lecture
+* **Binary Search Trees**
+
+### Evening
+#### Alumni Panel
+* Guest Alumni Panel at 6:30pm (optional, recommended)
+  * Ask about life as a software engineer, tips for people coming from an App Academy background, strategies for the job search, and more!
+
+### Projects
+* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* Bonus: [portfolio site][portfolio]
+
+## W12D4
+### Homework
+* Read about [negotiating an offer][offer-negotiation].
+* Get some data points for [salary negotiations][salary-data].
+* You can also check out this [HackerNews article][hn-negotiation-article]
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* If cleared by your coach, send [a few applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Implement instructor feedback on projects.
+
+### Late Morning
+* Roll call at 10am because of graduation!
+
+### Afternoon
+
+#### Lecture
+* **Negotiations**, aka "How Not to Set Thousands of Dollars on Fire"
+
+#### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+#### Graduation Day
+* Celebrate!  You've graduated a/A!
+* Teaching staff will put on a special presentation at 5pm (hint: prizes involved for awesome Full-Stack Projects!)
+* Have some drinks and snacks with your cohort, alums, and a/A staff at 6pm
+* Make sure to tie up any loose ends before meeting alumni
+  * [Resume][resume] and [cover letter][cover-letter]
+  * [LinkedIn][linkedin] & [Github][github]
+  * Full-Stack Project, [JS Project][js-project], [Flex Project][flex-project]
+  * An [elevator speech][elevator-speech] & personal pitch
+
+### Projects
+* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* Bonus: [portfolio site][portfolio]
+
+## W12D5
+
+### Day Off
+* It's the day after Graduation! No attendance will be called today, and we will not have mock interviews or office hours.
+
+## W12D6-7
+### Projects
+* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* Bonus: [portfolio site][portfolio]
+
+### Resources for Ongoing Study
+* Find online algorithms lectures or see this [Coursera course][Coursera].
+* Practice [these algorithms tests][algo-specs]
+* Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
+* Most importantly, keep coding.  Read about the importance of an [impressive Github](github-green-squares.md).
+
+# Week 13+<a name="week13"></a>
+
+## Week 13+ Overview
+* **Office hours, mock interviews, and algorithms continue this week.** Attendance is mandatory if you have sent fewer than 150 applications.
+* **Roll call is at 10am** every day until you are excused by your career coach. After you hit 150 applications, tell your coach and asked to be removed from roll.   
+* Even after being excused, continue coming back. Students that search from the office have a better work environment and find jobs faster.
+* Focus on studying for interviews and polishing on projects.
+
+## W13D1
+### Homework
+* **[Project 5 - BST](./SF/algorithms/w12d3/project5) is due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* **Join the [#mock_interview_meetup][mock-interview-slack] channel on Slack.**
+  * This weekly practice group covers algorithms strategies, practices behavioral questions, and continues advanced pairboarding.
+  * Open to a/A graduates every Thursday at 1:30pm in the Conference Room.
+* Read about  [graphs](./SF/algorithms/w13d1/graphs.md)
+* Read [tips for applying to your very favorite companies][get-any-job].
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Polish coding projects.
+
+### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+
+### Algorithms Lecture
+* **Introduction to Graphs**
+
+### Projects
+* Review Worksheet (sent by email)
+
+## W13D2
+### Homework
+* **Review Worksheet is due at 12pm**
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Polish coding projects.
+
+### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+### Algorithms Lecture
+* **Graph Algorithms - Connected Components, Topological Sort**
+
+### Projects
+* [Project 6 - Topological Sort](./SF/algorithms/w13d2/project6)
+
+## W13D3
+### Homework
+* **[Project 6 - Topological Sort](./SF/algorithms/w13d2/project6) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+* Read about [Dijkstra's algorithm](./SF/algorithms/w13d3/dijkstra.md)
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Polish coding projects.
+
+### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+### Algorithms Lecture
+* **Dijkstra's Algorithm**
+
+### Projects
+* [Project 7 - Dijkstra's Algorithm](./SF/algorithms/w13d3/project7)
+
+## W13D4
+### Homework
+* **[Project 7 - Dijkstra's Algorithm](./SF/algorithms/w13d3/project7) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Polish coding projects.
+
+### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+### Algorithms Lecture
+* **Dynamic Programming and Memoization**
+
+### Project
+* Project 8 - TBD
+TODO Include Project 8
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
+
+## W13D5
+### Homework
+* **Project 8 - Dynamic Programming due at 12pm**
+* Read [Next Steps for Algorithms!](./SF/algorithms/w13d4/next-steps.md)
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Polish coding projects.
+
+### Mock Interviews & Pairboarding
+* [Mock Interview Index][pair-boarding-index]
+
+## And Beyond!
+
+### Daily Tasks
+* Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
+* [Send 10 applications][applying-for-jobs].
+* Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+* Do one practice problem from *Cracking the Coding Interview* or *Elements of Programming Interviews*.
+* Improve old projects or work on new ones.
+
+
+### Resources for Ongoing Study
+* Find online algorithms lectures or see this [Coursera course][Coursera].
+* Practice [these algorithms tests][algo-specs]
+* Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
+* Most importantly, keep coding.  Read about the importance of an [impressive Github](github-green-squares.md).
+
+<!-- LINKS -->
+<!-- Job Search Projects -->
+[js-project]: self-presentation/js_project.md
+[js-sample-proposal]: job-search-projects/js-sample-proposal.md
+[js-proposal-submission]: https://docs.google.com/a/appacademy.io/forms/d/e/1FAIpQLSducrcmw-SRDpBmqtxlYTUSRah6Md73mIUd8ihSsH4tICGHfg/viewform
+
+[flex-project]: self-presentation/flex_project.md
+[flex-sample-proposal]: job-search-projects/flex-sample-proposal.md
+[flex-proposal-submission]: #
+
+[resume]: https://github.com/appacademy/ny-portfolio-curriculum/blob/master/resume/resume.md
+[text-only]: self-presentation/text-resume.md
+[cover-letter]: self-presentation/cover_letter.md
+[portfolio]: self-presentation/portfolio.md
+[peer-review-instructions]: self-presentation/job_app_materials_reviews.md
+
+<!-- Online Presence -->
+[linkedin]: linkedin-reading.md
+[github]: self-presentation/github.md
+[readme]: self-presentation/example_readmes.md
+[github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
+[angellist]: angel-list-reading.md
+
+<!-- Internal Resources -->
+[Jobberwocky]: http://progress.appacademy.io/jobberwocky
+[calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
+[hunters-channel]: https://app-academy.slack.com/messages/hunters
+[pair-boarding-index]: interview-prep/pairboarding/index.md#index
+[project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
+
+<!-- Self Presentation -->
+[personal-pitch]: self-presentation/personal-pitch.md
+[personal-pitch-video]: uploading-personal-pitch-video.md
+[31-questions]: https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
+
+<!-- Applying & Networking -->
+[job-boards]: mass-applying/job-boards.md
+[job-search-etiquette]: self-presentation/job_search_etiquette.md
+[typical-interview]: interview-prep/typical_interview.md
+[good-questions]: self-presentation/good_questions.md
+[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
+[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
+[babiak-tips]: https://github.com/d-babiak/job-market-notes
+[offer-negotiation]: negotiating/email-negotiations.md
+[salary-data]: negotiating/salary-data.md
+[hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
+
+[meetups]: engineering-culture/meetups.md
+
+<!-- Technical Interview Resources -->
+[interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
+[HackerRank]: https://www.hackerrank.com/
+[codility]: https://codility.com/
+[Codility]: https://codility.com/
+
+<!-- Algorithms Projects & Lectures -->
+[memory-assembly-lecture]: https://vimeo.com/175634887
+[array-lecture]: https://vimeo.com/175717721
+[heaps1]: https://vimeo.com/191997749/b59a137b19
+[heaps2]: https://vimeo.com/191997750/83ff39ba6a
+[heaps3]: https://vimeo.com/191997751/6db2554bbb
+[heapsort1]: https://vimeo.com/191997808/3d0a223bb1
+[heapsort2]: https://vimeo.com/191997809/849cf1b7ad
+[quicksort1]: https://vimeo.com/192003395/f90890d138
+[quicksort2]: https://vimeo.com/192206159/917569833b
+[quicksort3]: https://vimeo.com/192493786/dd6520c77d
+[sorting1]: https://vimeo.com/193472770/d43f132776
+[sorting2]: https://vimeo.com/193473425/dd01b240ee
+
+<!-- Algorithms Readings -->
+[big-o]: interview-prep/big_o.md
+
+[algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
+
+
+<!-- Misc. -->
+[architecture-slides]: https://drive.google.com/a/appacademy.io/file/d/0B1ljY87XS9z0aDZZRHo1dW5zZWNjQjIzcFI5TGxIRF9MSTk4/view?usp=sharing
+[open-source-projects]: engineering-culture/open_source.md
+[kanban]: interview-prep/kanban.md
+
+
+[ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
+[navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+[browser-navigation]: interview-prep/browser-navigation.md
+[harvard-vid]: https://www.youtube.com/watch?v=8KuO4r5CHjM
+
+[Coursera]: https://www.coursera.org/course/algo
+
+[systemsdesign]: further_readings/systems-design.md
+[hiredintech]: http://www.hiredintech.com/system-design/
+[get-any-job]: https://www.linkedin.com/pulse/how-get-any-job-you-want-even-youre-unqualified-raghav-haran?trk=hp-feed-article-title-like
+
+[funding-stages]: http://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
+[rails-casts]: further_readings/rails-casts-of-interest.md
+[rails-review]: further_readings/review.md
+[performance-cheat-sheet]: interview-prep/performance-cheat-sheet.md
+
+
+[intro-algos]: SF/algorithms/introduction.md
+
+[ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
+[bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
+
+[what-software-engineers-do]: engineering-culture/software_engineer_work.md
+
+[add-apps-instructions]: add-apps-to-jobberwocky.md
+[applying-for-jobs]: applying-for-jobs.md
+[add-apps-instructions]: adding-apps-to-jobberwocky.md
+
+[mock-interview-slack]: https://app-academy.slack.com/messages/mock_interview_meetup/
+
+[elevator-speech]: http://idealistcareers.org/a-quick-guide-to-writing-your-elevator-pitch-with-examples/
