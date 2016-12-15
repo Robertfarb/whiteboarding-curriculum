@@ -4,7 +4,7 @@ Welcome to the job search! The job search structure is less rigid than the codin
 
 ## Table of Contents
 
-[Browse Job Search by Topic](SF/topics.md)
+[Browse Job Search by Topic](job-search-by-topic.md)
 
 Jump to:
 * [Week 10](#week10)

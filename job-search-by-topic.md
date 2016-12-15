@@ -1,4 +1,4 @@
-# Job Search by Topic (SF)
+# Job Search by Topics (SF)
 
 [Browse Job Search by Day][job-search-by-day]
 
@@ -15,8 +15,6 @@
 ### Coding Refresher Resources
 * [JavaScript Readings](https://github.com/appacademy/job-search-curriculum/blob/master/SF/javascript-readings.md)
 * [Ruby/Rails Readings](https://github.com/appacademy/job-search-curriculum/blob/master/SF/ruby-rails-readings.md)
-* Also check if you got rusty on [Ruby and Rails fundamentals][rails-review].
-* So you know Rails? Learn more from the most interesting [Rails Casts][rails-casts].
 
 ### Life Resources (Housing, Counseling, etc..)
 * [Housing Options for Students in SF](https://github.com/appacademy/job-search-curriculum/blob/restructure-sf-curriculum/SF/housing-options.md)<br>
@@ -115,6 +113,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 
 ### Applying to Jobs
   * [Job Boards][job-boards]
+  * Practice with [interviewing.io](https://interviewing.io/)
   * [Bay Area Tech Companies][bay-tech-companies]
   * [Lecture on Bay Area Tech Companies by Asher](https://vimeo.com/175397889) pw is go_video_go
   * [What do software engineers actually do?][what-software-engineers-do]
@@ -123,6 +122,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
   * Constantly updated Job Board pulling all of [Lever's Bay Area positions] [lever-job-board]
   * [Ronnie's Lecture on the Job Search and why you shouldn't give up so fast](https://vimeo.com/176531540) pw is go_video_go
   * ["I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned."][spent-3-months]
+  * [Extra Credit Job Hunting][extra-credit]
 
 ### Interviewing
 * [Interview Prep](https://github.com/appacademy/job-search-curriculum/blob/master/SF/interview-prep.md)
@@ -190,6 +190,8 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 * [Breaking Into Startups](https://itun.es/us/u-Wygb.c) (a/A alum)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/)
 
+### Engineering Culture
+* Aline Lerner's [blog](http://blog.alinelerner.com/).
 
 <!-- Links -->
 [mihir-tips]: https://github.com/appacademy/job-search-curriculum/blob/restructure-sf-curriculum/mihirjobsearch.md
@@ -296,3 +298,5 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 [quicksort3]: https://vimeo.com/192493786/dd6520c77d
 [sorting1]: https://vimeo.com/193472770/d43f132776
 [sorting2]: https://vimeo.com/193473425/dd01b240ee
+
+[extra-credit]: ../further_readings/advanced-job-search-techniques.md
