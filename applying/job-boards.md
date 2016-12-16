@@ -1,16 +1,16 @@
-#Job Boards
+# Job Boards
 
 These are places where you'll find lots of job listings. Sign up for all the job
 alerts and complete a profile on each marketplace.
 
-##Email Updates
+## Email Updates
 Sign up for these. Crunchbase and Mattermark tell you what companies just got funded. Those are great places to apply.
   * [Crunchbase][crunchbase]
   * [Glassdoor job alerts][glassdoor]
   * [LinkedIn][linkedin]
   * [Mattermark][mattermark]
 
-##Marketplaces
+## Marketplaces
 Fill these out once and check them every now and then. Some require coding tests.  The coding challenges be tough so take a couple [HackerRank][hackerrank] tests to prepare.
   * [500 miles][500miles] - connect via an app
   * [AngelList][angellist] - make a profile, see great jobs
@@ -24,7 +24,7 @@ Fill these out once and check them every now and then. Some require coding tests
   * [Switch][Switch] - connect via an app
   * [The Muse][themuse] - company profiles with pics and videos
   * [Toptal][toptal] - for contract work
-  * [Triplebyte][triplebyte] - code-based matching.  They are an a/A partner, use [this link][triplebyte-code] to get extra attention! 
+  * [Triplebyte][triplebyte] - code-based matching.  They are an a/A partner, use [this link][triplebyte-code] to get extra attention!
   * [Underdog][underdog] (New York only)
   * [Untapt][untapt] (New York only)
 
@@ -38,17 +38,16 @@ If this list feels too long, start with AngelList and Hired.com.
 [beansprock]: http://www.beansprock.com/
 [themuse]: https://www.themuse.com/
 
-##Communities
+## Communities
 These online communities post job boards on the first of each month. Set a reminder in your calendar to look out for these.
-  * Ask [HackerNews][hackernews]: Who's Hiring?  Once per month posting with tons of YC jobs. 
-  * [Weave][Weave] arranges networking meetings on behalf of job seekers and professionals.  Apply to join and get personalized one-on-one meetings set up for you!   
+  * Ask [HackerNews][hackernews]: Who's Hiring?  Once per month posting with tons of YC jobs.
   * [Hackers & Founders][hackers-&-founders]
     * https://docs.google.com/forms/d/1y3QxRwPhnDk4-c5uzjH-lYLMESfaAT0m1kaOseEfmgE/viewform
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdF9JZE1RNjItMnZKdTNqSGd3bXJLTXc#gid=0
     * https://docs.google.com/spreadsheet/ccc?key=0AmQExXr67OcTdEVuYWViZngyaUdYRWZ1X1BKQlZMM1E&usp=sharing#gid=0
- 
 
-##Databases
+
+## Databases
 Good resources to hit your daily quota.
   * [Authentic Jobs][authentic]
   * Craigslist [SF][craigslist-sf] and [NY][craigslist-ny]
@@ -62,7 +61,7 @@ Good resources to hit your daily quota.
   * [VentureLoop][ventureloop]
   * [Zurb][zurb]
 
-##VC Funds
+## VC Funds
 
 Always a good place to look for companies that are hiring.
   * [Andreessen Horowitz][andreessen]
@@ -117,7 +116,6 @@ check 'Show Active' on the left).
 [rubynow]: http://jobs.rubynow.com/
 [simplyhired]: http://www.simplyhired.com/
 [ventureloop]: http://ventureloop.com/ventureloop/home.php
-[weave]: https://weave.in/
 [zurb]: http://zurb.com/jobs#programming
 
 [andreessen]: http://a16z.com/portfolio/

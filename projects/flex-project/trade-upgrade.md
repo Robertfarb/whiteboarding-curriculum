@@ -1,13 +1,13 @@
 # Trade 'n Upgrade
 
-This project is a chance to practice adding features to someone else's codebase, a skill that is essential in the majority of developer jobs. If chosen as a [Flex Project](flex_project.md), you will need to develop a substantial feature in someone else's Full-Stack Project and exchange your own Full-Stack Project for a similar addition. This adds great talking points during interviews, as you'll be able to intelligently communicate about what it's like working on a larger team project.
+This project is a chance to practice adding features to someone else's codebase, a skill that is essential in the majority of developer jobs. If chosen as a [Flex Project](flex-project.md), you will need to develop a substantial feature in someone else's Full-Stack Project and exchange your own Full-Stack Project for a similar addition. This adds great talking points during interviews, as you'll be able to intelligently communicate about what it's like working on a larger team project.
 
 Possible features will vary greatly depending on the Full-Stack Project, but should be substantial though not excessive, enough to fill 15-20 hours--don't underestimate how much time it will take to plan, understand another's code, and discuss changes. Aim for low-hanging feature-fruit, something just past MVP.
 
 1. Pick a partner to exchange Full-Stack Projects with.
 2. Find a time to fully flesh out proposed features for each Full-Stack Project.
  * Include new API endpoints, changes to schema, wireframes, React components.
-3. Utilize a [github workflow](github-workflow) that allows for multiple contributors.
+3. Utilize a [github workflow][github-workflow] that allows for multiple contributors.
   * Create and checkout a new feature branch.
   * Regularly rebase or merge master into feature branch if project owner is continuing to update master (at the very least, do this before submitting your pull request).
   * When feature is complete, submit a Pull Request so that project owner can review code.

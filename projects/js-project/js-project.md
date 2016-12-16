@@ -38,3 +38,7 @@ In summary, here are the checklists of what your project should have:
 * No .DS_Stores
 * Organize into /assets and /lib
 
+### Sample Proposal for JS Project
+
+To get a sense of what we're looking for in a proposal/readme, check out the [sample-proposal](js-sample-proposal.md).
+

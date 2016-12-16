@@ -15,7 +15,7 @@ be diluted as the company takes on more investors.
 Negotiate for salary, not for options. A high base salary means bigger
 raises in the future. Future employers won't understand that you took
 a low salary because you traded cash for a bunch of options. They'll
-just look at the lower salary :-(
+just look at the lower salary.
 
 Also: **I am not a lawyer**.
 
@@ -218,7 +218,7 @@ If you want to value an option grant, you need to:
     0. the company does something evil like fire you when your
        options become too valuable (cf., Skype, Zynga).
 
-Take myself as an example. I vested 2k shares of Quantcast options
+An example: I vested 2k shares of Quantcast options
 while I worked there (four years ago). I purchased them at a strike
 price of $0.25. The latest round valued them at $1.09/share. That
 means I made a grand total of ~$1,800 **over two years** from
@@ -231,7 +231,4 @@ That's why it's important to multiply by zero.
 
 ## 83(b)
 
-There are tax reasons why you might want to exercise early. I'm too
-lazy to summarize these. Read about 83(b) elections if you want to
-waste more time on this, or just enjoy tax laws. If so, you're
-sick. You need help.
+There are tax reasons why you might want to exercise early. Read about 83(b) elections if you want to waste more time on this, or just enjoy tax laws.

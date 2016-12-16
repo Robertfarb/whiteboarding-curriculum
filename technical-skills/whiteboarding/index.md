@@ -226,7 +226,3 @@ in order.
 #### [Question set B](./questions/16B.md)
 
 - Connected Components
-
-Sources:
-http://www.ardendertat.com/2012/01/09/programming-interview-questions/
-App Academy assessments

@@ -9,7 +9,7 @@ Every day, add 10 companies to [Jobberwocky][jobberwocky], marked as `will_apply
     * 1 means "Want to work there". Should be 10-15%
 
 [jobberwocky]: http://progress.appacademy.io/jobberwocky
-[cover-letter]: self-presentation/cover_letter.md
+[cover-letter]: ../../application-materials/cover-letter/cover-letter.md
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
-[job-boards]: mass-applying/job-boards.md
+[job-boards]: ../../applying/job-boards.md

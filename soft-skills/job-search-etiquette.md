@@ -17,9 +17,3 @@ Again, email each of your interviewers a short thank-you note on the same evenin
 *"I appreciate what you said about the emphasis on testing at [company name]. I value the flexibility that comes with testing and would love to work with like-minded engineers to learn and share best practices."*
 
 It's ok to be cheesy. Cheesy people are easier to work with than cynics.
-
-# Model Emails
-
-[Here][stock-emails] are some more models for inspiration.
-
-[stock-emails]: ../stock_emails/for_interview_process.md

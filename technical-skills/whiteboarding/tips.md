@@ -7,7 +7,6 @@
 * Are you a good communicator? Are you someone I want to think through a new feature with?
 * Can you code? Can you code neatly and correctly?
 
-
 ## Before you start
 
  Ask questions.  Don't rush, it's a problem-solving demo, not a speed-coding test.    

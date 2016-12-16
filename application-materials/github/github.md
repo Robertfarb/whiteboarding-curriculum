@@ -74,4 +74,4 @@ each other, you'll also have followers!
 
 ## [How to write a README][readme]
 
-[readme]: ../../projects/example_readmes.md
+[readme]: ../../projects/example-readmes.md

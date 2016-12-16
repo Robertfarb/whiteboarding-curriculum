@@ -19,7 +19,7 @@ amazon.com on a whiteboard and talk about how you'd scale it.
 
 Data structures are fundamental to the whole spectrum. You should know
 the time and space performance characteristics of the algorithms and
-data structures covered in the [algorithms curriculum][algorithms].
+data structures covered in the algorithms curriculum.
 
 ## OO Design
 
@@ -71,5 +71,3 @@ Scaling at eBay
 http://www.hpts.ws/papers/2009/session9/shoup.pdf
 Similar but separate:
 http://www.infoq.com/articles/ebay-scalability-best-practices
-
-[algorithms]: https://github.com/appacademy/algorithms-curriculum

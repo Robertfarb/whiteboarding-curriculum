@@ -8,15 +8,15 @@ Here are your options for projects:
 
 * Improve **ActiveRecordLite & RailsLite**, **Chess**, or another backend project
  * Good for **backend** positions, demonstrates OOP, is impressive to engineers
- * Read the [instructions](code_intensive.md) with included examples
-* Build a second **[JavaScript/FrontEnd Project](js_project.md)**
+ * Read the [instructions](ruby-project.md) with included examples
+* Build a second **[JavaScript/FrontEnd Project](../js-project/js-project.md)**
   * Make something distinct from your first JS Project
   * If interested in **frontend** positions, make sure at least one of your projects shows off CSS and design skills. The other should show off advanced JS mastery.
   * DON'T make two games
-* Create a **[Chrome Extension](chrome_extension.md)**
+* Create a **[Chrome Extension](chrome-extension.md)**
   * Chrome extensions are just JS, HTML, CSS. You have the knowledge!
-* Create a **[Ruby gem or JS library](gem_or_library.md)**
-* **[Trade 'n Upgrade](trade_upgrade.md)**: Build out a feature in a classmate's Full-Stack Project
+* Create a **[Ruby gem or JS library](gem-or-library.md)**
+* **[Trade 'n Upgrade](trade-upgrade.md)**: Build out a feature in a classmate's Full-Stack Project
  * Experience working with someone else code, where reading is 7/8ths of the battle!
 
 ## Requirements
@@ -30,13 +30,13 @@ All projects need to have these elements:
    * Technical implementation details for anything worth mentioning (basically anything you had to stop and think about before building)
      * Include links to the neatest parts of the code, or embed snippets
      * Include screenshots of anything that looks pretty
-     * A few example READMEs are linked from [this page][this page]
+     * A few example READMEs are linked from [this page][example-readmes]
    * To-dos and future features
  * Make sure there's no .DS_Stores, node_modules, etc.
  * If improving an old project, go through the whole thing and refactor everything.
  * Once complete, add the new project to your resume!
 
- [this page]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/github.md
+ [example-readmes]: ../example-readmes.md
 
 ### Group Projects
 
@@ -46,3 +46,7 @@ If you choose to do one of the above projects as a group, make sure you make use
   * Regularly rebase or merge master into feature branch if master is being updated (at the very least, do this before submitting your pull request and before merging in your feature branch).
   * When feature is complete, submit a Pull Request and assign it to a team member to review your code.
   * Discuss code, make any necessary changes. When assigned team member approves the pull request, merge the feature branch into master.
+
+### Sample Flex Project Proposal
+
+Check out a [sample proposal](flex-sample-proposal.md).

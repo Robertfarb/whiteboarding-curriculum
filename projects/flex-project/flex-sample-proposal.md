@@ -2,13 +2,13 @@
 
 ### Background
 
-**NB**: Because your flex project is the most original of the three, your background section may be longer than on other projects.  On
+**NB**: Because your flex project is the most original of the three, your background section may be longer than on other projects.
 
 Colorblindness and other visual impairments can make the internet difficult to use.  This Chrome extension will replace colors with appropriately contrasted colors or contrasted grey scale, depending on the user's settings.  Additionally, it will add underline to links on the page, in case links are delineated only by color.  
 
 Developers and designers may also be interested in knowing how colors affect visually impaired users. This extension will provide features that simulate colorblindness of varying degrees so that professionals can see how these users are experiencing their site.  
 
-Development of the features in this extension will be guided by <a href="https://www.usability.gov/get-involved/blog/2010/02/color-blindness.html">Usability.gov</a>, <a href="https://99designs.com/blog/tips/designers-need-to-understand-color-blindness/">99Designs</a>, and <a href="http://wearecolorblind.com">We Are Colorblind</a>.
+Development of the features in this extension will be guided by [Usability.gov](https://www.usability.gov/get-involved/blog/2010/02/color-blindness.html), [99Designs](https://99designs.com/blog/tips/designers-need-to-understand-color-blindness/), and [We Are Colorblind](http://wearecolorblind.com).
 
 ### Functionality & MVP
 
@@ -22,7 +22,7 @@ With this extension, users will be able to:
 
 ### Wireframes
 
-![wireframes](https://github.com/appacademy/job-search-curriculum/blob/master/job-search-projects/images/flex-settings.png)
+![wireframes](images/flex-settings.png)
 
 ### Technologies & Technical Challenges
 
@@ -46,7 +46,7 @@ The colors will be identified by mapping classes in the DOM to a variety of attr
 
 ### Implementation Timeline
 
-**Day 1**: Get started on the infrastructure of the extension, following <a href="https://developer.chrome.com/extensions/getstarted">this guide</a> from Chrome.  By the end of the day, I will have:
+**Day 1**: Get started on the infrastructure of the extension, following [this guide](https://developer.chrome.com/extensions/getstarted) from Chrome.  By the end of the day, I will have:
 
 - A completed `package.json`
 - A completed `manifest.json`

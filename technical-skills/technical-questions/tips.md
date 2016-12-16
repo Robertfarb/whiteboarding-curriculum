@@ -1,12 +1,11 @@
+## How to handle ambiguous questions
+
 * If the question is knowledge-based and you don't know, don't hesitate to say
   "I don't know but...". Then give it your best guess.
 * Sometimes you don't know where to start because the question is very broad. Eg.
   "How would you design Amazon.com?". Split the problem into two equally large
   subproblems (Amazon: front end or back end?) and ask your interviewer which
   path to choose. You can do this a couple times, like a binary search.
-
-
-## How to handle ambiguous questions
 
 During the job search you’ll often be in a position where you probably know the
 answer to the question being asked, but you’re unsure what exactly your

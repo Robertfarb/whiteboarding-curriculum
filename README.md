@@ -20,12 +20,12 @@ Jump to:
 * Afternoons are filled with lectures, group work, and workshops.
 * **There will lots of tasks competing for your time -- plan in advance!**
 * Expected time investment this week:
-  * [JS project](self-presentation/js_project.md): 20-30 hours this week
+  * [JS project][js-project]: 20-30 hours this week
   * [Resume][resume]: 5-10 hours (Monday & Tuesday afternoons, and additional edits throughout the week)
   * [Cover letter][cover-letter]: 2-4 hours this week (Wednesday afternoon, and additional edits throughout the week)
-  * [Github cleanup](self-presentation/github.md): 2-4 hours
-  * [LinkedIn](linkedin-reading.md) & [AngelList](angel-list-reading.md): 2-4 hours
-  * [Portfolio site](self-presentation/portfolio.md): 3-8 hours (recommended but not required)
+  * [Github cleanup][github]: 2-4 hours
+  * [LinkedIn][linkedin] & [AngelList][angellist]: 2-4 hours
+  * [Portfolio site][portfolio]: 3-8 hours (recommended but not required)
   * Lectures and peer reviews: ~13 hours
 
 
@@ -55,7 +55,7 @@ Jump to:
 * Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.
 
 ### Projects
-* [JavaScript Project](self-presentation/js_project.md)
+* [JavaScript Project][js-project]
 * [Resume][resume]
 
 ## W10D2
@@ -103,7 +103,7 @@ Jump to:
 ## W10D4
 ### Homework
 * Read about [personal pitches][personal-pitch].
-* Write a rough personal pitch.
+  * Write a rough personal pitch. Follow guidelines in the document linked above.
 
 ### Afternoon
 #### Lecture & Workshop
@@ -122,7 +122,7 @@ Jump to:
 * **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by 9am.
 * **[JavaScript Project][js-project] due 12pm.**
   * Add live and repo links to the JavaScript Project Scorecard in your Job Search Folder.
-* Read about [Behavioral Questions][personal-pitch].
+* Read about [Behavioral Questions][behavioral-questions].
 * Familiarize yourself with more [behavioral questions][31-questions].
 
 ### Afternoon
@@ -183,12 +183,7 @@ Jump to:
 
 ### Morning
 * Read the [Introduction to App Academy's Algorithms curriculum][intro-algos]
-* Read algorithms introductions:
-  * [Big-O][big-o]
-  * [Time Complexity](SF/algorithms/w11d1/time-complexity.md)
-  * [Big O Notation](SF/algorithms/w11d1/big-o-notation.md)
-  * [Table of Time Complexities](SF/algorithms/w11d1/table-of-time-complexities.md)
-  * [Interview Advice](SF/algorithms/w11d1/interview-advice.md)
+* Read algorithms introductions on [Big-O][big-o-readings]
 * Bonus: [Flex Project][flex-project]
 
 
@@ -218,8 +213,8 @@ Jump to:
 ### Homework
 * **Big O Worksheet due 12pm**
 * Read about the [Job Boards][job-boards]
-* Read about [Memory and Pointers](SF/algorithms/w11d2/pointers.md)
-* Read about [Static Arrays](SF/algorithms/w11d2/static-array.md)
+* Read about [Memory and Pointers][memory-pointers-readings]
+* Read about [Static Arrays][static-dynamic-array-readings]
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
 
 ### Daily Tasks
@@ -245,7 +240,7 @@ Jump to:
 
 ## W11D3
 ### Homework
-* Read about [Dynamic Arrays](SF/algorithms/w11d3/dynamic-array.md)
+* Read about [Dynamic Arrays][dynamic-array-readings]
 * Read about [job search etiquette][job-search-etiquette]
 * Memorize a few [insightful questions][good-questions].
 
@@ -265,7 +260,7 @@ Jump to:
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 1 - Dynamic Array](SF/algorithms/w11d3/project1)
+* [Project 1 - Dynamic Array][dynamic-array]
 
 ## W11D4
 ### Homework
@@ -302,7 +297,7 @@ Jump to:
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2)
+* [Project 2 - Hashmap and LRU Cache][hashmap]
 
 ## W11D5
 ### Homework
@@ -327,13 +322,13 @@ Jump to:
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2)
+* [Project 2 - Hashmap and LRU Cache][hashmap]
 
 ## W11D6-7
 
 ### Projects
 * **[Flex Project][flex-project], due Monday at 9am**
-* [Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2), due Monday at 12pm
+* [Project 2 - Hashmap and LRU Cache][hashmap], due Monday at 12pm
 * Bonus: Write tests for your projects.
 * Bonus: Practice building on top of [an existing codebase][kanban].
 * Bonus: Pick an [open-source project to contribute to][open-source-projects].
@@ -351,7 +346,7 @@ Jump to:
 ### Homework
 * **[Flex Project][flex-project] due at 9am**.
   * Add repo links (and any links to live project or app store) to the Flex Project Scorecard in your Job Search Folder.
-* **[Project 2 - Hashmap and LRU Cache](SF/algorithms/w11d4/project2) due at 12pm**
+* **[Project 2 - Hashmap and LRU Cache][hashmap] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
@@ -373,7 +368,7 @@ Jump to:
 
 #### Algorithms Videos
 * **Heaps and Heapsort**
-* Reading: [Heaps Explained](SF/algorithms/w12d1/heap-1.md)
+* Reading: [Heaps Explained][heaps-readings]
 * [Priority Queues][heaps1]
 * [Understanding Heaps][heaps2]
 * [Heap Implementation][heaps3]
@@ -381,12 +376,12 @@ Jump to:
 * [Heapsort (in-place)][heapsort2]
 
 ### Projects
-* [Project 3 - Heaps and Heapsort](./SF/algorithms/w12d1/project3)
+* [Project 3 - Heaps and Heapsort][heaps-heapsort]
 * Bonus: [portfolio site][portfolio]
 
 ## W12D2
 ### Homework
-* **[Project 3 - Heaps and Heapsort](./SF/algorithms/w12d1/project3) due at 12pm**
+* **[Project 3 - Heaps and Heapsort][heaps-heapsort] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
@@ -410,8 +405,7 @@ Jump to:
 #### Algorithms Videos
 * **Quicksort**
 * **Analysis of Sorting Algorithms**
-* Reading:  [Sorting Comparison](./SF/algorithms/w12d2/sorting.md)
-* Reading: [Sorting Performance](./SF/algorithms/w12d2/sorting-2.md)
+* Reading for [sorts][sorting-readings]
 * [Quicksort Review][quicksort1]
 * [In Place Quicksort][quicksort2]
 * [Quicksort Analysis and Choosing Pivot][quicksort3]
@@ -424,12 +418,12 @@ Jump to:
 * **Ronnie Chen** (a/A alum, Software Engineer at Slack, previously at Braintree), gives tips for the job search process, talks about her own successful experience, and answers questions about what the work environment is like. (optional, recommended)
 
 ### Projects
-* [Project 4 - Quicksort](./SF/algorithms/w12d2/project4)
+* [Project 4 - Quicksort][quicksort]
 * Bonus: [portfolio site][portfolio]
 
 ## W12D3
 ### Homework
-* **[Project 4 - Quicksort](./SF/algorithms/w12d2/project4) due at 12pm**
+* **[Project 4 - Quicksort][quicksort] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
@@ -467,7 +461,7 @@ Jump to:
   * Ask about life as a software engineer, tips for people coming from an App Academy background, strategies for the job search, and more!
 
 ### Projects
-* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* [Project 5 - BST][bst]
 * Bonus: [portfolio site][portfolio]
 
 ## W12D4
@@ -504,7 +498,7 @@ Jump to:
   * An [elevator speech][elevator-speech] & personal pitch
 
 ### Projects
-* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* [Project 5 - BST][bst]
 * Bonus: [portfolio site][portfolio]
 
 ## W12D5
@@ -514,7 +508,7 @@ Jump to:
 
 ## W12D6-7
 ### Projects
-* [Project 5 - BST](./SF/algorithms/w12d3/project5)
+* [Project 5 - BST][bst]
 * Bonus: [portfolio site][portfolio]
 
 ### Resources for Ongoing Study
@@ -533,14 +527,14 @@ Jump to:
 
 ## W13D1
 ### Homework
-* **[Project 5 - BST](./SF/algorithms/w12d3/project5) is due at 12pm**
+* **[Project 5 - BST][bst] is due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
 * **Join the [#mock_interview_meetup][mock-interview-slack] channel on Slack.**
   * This weekly practice group covers algorithms strategies, practices behavioral questions, and continues advanced pairboarding.
   * Open to a/A graduates every Thursday at 1:30pm in the Conference Room.
-* Read about  [graphs](./SF/algorithms/w13d1/graphs.md)
+* Read about  [graphs][graphs-readings]
 * Read [tips for applying to your very favorite companies][get-any-job].
 
 ### Daily Tasks
@@ -576,15 +570,15 @@ Jump to:
 * **Graph Algorithms - Connected Components, Topological Sort**
 
 ### Projects
-* [Project 6 - Topological Sort](./SF/algorithms/w13d2/project6)
+* [Project 6 - Topological Sort][topological-sort-readings]
 
 ## W13D3
 ### Homework
-* **[Project 6 - Topological Sort](./SF/algorithms/w13d2/project6) due at 12pm**
+* **[Project 6 - Topological Sort][topological-sort] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
-* Read about [Dijkstra's algorithm](./SF/algorithms/w13d3/dijkstra.md)
+* Read about [Dijkstra's algorithm][dijkstras-readings]
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -599,11 +593,11 @@ Jump to:
 * **Dijkstra's Algorithm**
 
 ### Projects
-* [Project 7 - Dijkstra's Algorithm](./SF/algorithms/w13d3/project7)
+* [Project 7 - Dijkstra's Algorithm][dijkstras]
 
 ## W13D4
 ### Homework
-* **[Project 7 - Dijkstra's Algorithm](./SF/algorithms/w13d3/project7) due at 12pm**
+* **[Project 7 - Dijkstra's Algorithm][dijkstras] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
@@ -631,7 +625,7 @@ TODO Include Project 8
 ## W13D5
 ### Homework
 * **Project 8 - Dynamic Programming due at 12pm**
-* Read [Next Steps for Algorithms!](./SF/algorithms/w13d4/next-steps.md)
+* Read [Next Steps for Algorithms!][algorithms-next-steps]
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -656,30 +650,30 @@ TODO Include Project 8
 * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Practice [these algorithms tests][algo-specs]
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
-* Most importantly, keep coding.  Read about the importance of an [impressive Github](github-green-squares.md).
+* Most importantly, keep coding.  Read about the importance of an [impressive Github][github].
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: self-presentation/js_project.md
-[js-sample-proposal]: job-search-projects/js-sample-proposal.md
+[js-project]: projects/js-project/js-project.md
+[js-sample-proposal]: projects/js-project/js-sample-proposal.md
 [js-proposal-submission]: https://docs.google.com/a/appacademy.io/forms/d/e/1FAIpQLSducrcmw-SRDpBmqtxlYTUSRah6Md73mIUd8ihSsH4tICGHfg/viewform
 
-[flex-project]: self-presentation/flex_project.md
-[flex-sample-proposal]: job-search-projects/flex-sample-proposal.md
+[flex-project]: projects/flex-project/flex-project.md
+[flex-sample-proposal]: projects/flex-project/flex-sample-proposal.md
 [flex-proposal-submission]: #
 
-[resume]: https://github.com/appacademy/ny-portfolio-curriculum/blob/master/resume/resume.md
-[text-only]: self-presentation/text-resume.md
-[cover-letter]: self-presentation/cover_letter.md
-[portfolio]: self-presentation/portfolio.md
-[peer-review-instructions]: self-presentation/job_app_materials_reviews.md
+[resume]: application-materials/resume/resume.md
+[text-only]: application-materials/resume/text-resume.md
+[cover-letter]: application-materials/cover-letter/cover-letter.md
+[portfolio]: application-materials/portfolio/portfolio.md
+[peer-review-instructions]: meta/app-academy/peer-reviews.md
 
 <!-- Online Presence -->
-[linkedin]: linkedin-reading.md
-[github]: self-presentation/github.md
-[readme]: self-presentation/example_readmes.md
+[linkedin]: application-materials/linkedin/linkedin.md
+[github]: application-materials/github/github.md
+[readme]: projects/example-readmes.md
 [github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
-[angellist]: angel-list-reading.md
+[angellist]: application-materials/angellist/angellist.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
@@ -689,23 +683,23 @@ TODO Include Project 8
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 
 <!-- Self Presentation -->
-[personal-pitch]: self-presentation/personal-pitch.md
-[personal-pitch-video]: uploading-personal-pitch-video.md
+[personal-pitch]: soft-skills/interviewing/personal-pitch.md
+[personal-pitch-video]: meta/app-academy/uploading-personal-pitch-video.md
+[behavioral-questions]: soft-skills/interviewing/behavioral-questions.md
 [31-questions]: https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
 
 <!-- Applying & Networking -->
-[job-boards]: mass-applying/job-boards.md
-[job-search-etiquette]: self-presentation/job_search_etiquette.md
-[typical-interview]: interview-prep/typical_interview.md
-[good-questions]: self-presentation/good_questions.md
+[job-boards]: applying/job-boards.md
+[job-search-etiquette]: soft-skills/job-search-etiquette.md
+[good-questions]: soft-skills/interviewing/asking-questions.md
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
-[offer-negotiation]: negotiating/email-negotiations.md
-[salary-data]: negotiating/salary-data.md
+[offer-negotiation]: soft-skills/negotiating/email-negotiations.md
+[salary-data]: soft-skills/negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
-[meetups]: engineering-culture/meetups.md
+[meetups]: soft-skills/networking/meetups.md
 
 <!-- Technical Interview Resources -->
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
@@ -727,45 +721,58 @@ TODO Include Project 8
 [sorting1]: https://vimeo.com/193472770/d43f132776
 [sorting2]: https://vimeo.com/193473425/dd01b240ee
 
-<!-- Algorithms Readings -->
-[big-o]: interview-prep/big_o.md
+<!-- Algorithms Readings & Projects -->
+[big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
+[memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
+[dynamic-array]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
+[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3
+[hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
+[heaps-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1
+[heaps-heapsort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1/project3
+[sorting-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2
+[quicksort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2/project4
+[bst]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d3/project5
+[graphs-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d1
+[topological-sort-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d2
+[topological-sort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d2/project6
+[dijkstras-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3
+[dijkstras]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3/project7
+[algorithms-next-steps]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w13d4/next-steps.md
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 
 
 <!-- Misc. -->
 [architecture-slides]: https://drive.google.com/a/appacademy.io/file/d/0B1ljY87XS9z0aDZZRHo1dW5zZWNjQjIzcFI5TGxIRF9MSTk4/view?usp=sharing
-[open-source-projects]: engineering-culture/open_source.md
-[kanban]: interview-prep/kanban.md
+[open-source-projects]: projects/other-projects/open-source.md
 
 
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [navigate-to-a-url]: http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
-[browser-navigation]: interview-prep/browser-navigation.md
+[browser-navigation]: technical-skills/technical-questions/http-request.md
 [harvard-vid]: https://www.youtube.com/watch?v=8KuO4r5CHjM
 
 [Coursera]: https://www.coursera.org/course/algo
 
-[systemsdesign]: further_readings/systems-design.md
+[systemsdesign]: technical-skills/system-design/introduction.md
 [hiredintech]: http://www.hiredintech.com/system-design/
 [get-any-job]: https://www.linkedin.com/pulse/how-get-any-job-you-want-even-youre-unqualified-raghav-haran?trk=hp-feed-article-title-like
 
 [funding-stages]: http://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
-[rails-casts]: further_readings/rails-casts-of-interest.md
-[rails-review]: further_readings/review.md
-[performance-cheat-sheet]: interview-prep/performance-cheat-sheet.md
+[rails-casts]: technical-skills/ruby-javascript/ruby-rails.md
+[rails-review]: technical-skills/ruby-javascript/ruby-rails.md
+[performance-cheat-sheet]: technical-skills/system-design/performance-cheat-sheet.md
 
 
-[intro-algos]: SF/algorithms/introduction.md
+[intro-algos]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/introduction.md
 
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
-[what-software-engineers-do]: engineering-culture/software_engineer_work.md
+[what-software-engineers-do]: technical-skills/engineering-culture/what-software-engineers-do.md
 
-[add-apps-instructions]: add-apps-to-jobberwocky.md
-[applying-for-jobs]: applying-for-jobs.md
-[add-apps-instructions]: adding-apps-to-jobberwocky.md
+[add-apps-instructions]: meta/app-academy/add-apps-to-jobberwocky.md
+[applying-for-jobs]: meta/app-academy/applying-for-jobs.md
 
 [mock-interview-slack]: https://app-academy.slack.com/messages/mock_interview_meetup/
 

@@ -51,4 +51,4 @@
 [coding-for-interviews]: http://codingforinterviews.com/
 [programming praxis]: http://programmingpraxis.com/
 [hiredintech]: http://www.hiredintech.com/system-design/
-[systemsdesign]: ../further_readings/systems-design.md
+[systemsdesign]: system-design/introduction.md

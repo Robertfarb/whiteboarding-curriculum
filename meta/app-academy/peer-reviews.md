@@ -4,7 +4,7 @@ The point of this is to get your job application materials as perfect as possibl
 
 ## Instructions
 
-You'll be assigned two people every day from W10D2..W11D2 (through W10D5 in SF) and you'll review all of their job application materials. That includes:
+You'll be assigned two people every day from W10D2..W10D5 and you'll review all of their job application materials. That includes:
 
 * Resume
 * Cover Letter
@@ -29,7 +29,7 @@ At the start of peer reviews, you'll be working on wording of your resume as wel
 
 For the first couple days of peer reviews, discuss the Selling Your Projects section of [this page][this page] with one another.  Make sure bullet points don't simply list user features, but include the engineering methods used to implement those features too.  
 
-[this page]: https://github.com/appacademy/ny-portfolio-curriculum/blob/master/resume/resume.md
+[this page]: ../../application-materials/resume/resume.md
 
 ### Other Materials
 

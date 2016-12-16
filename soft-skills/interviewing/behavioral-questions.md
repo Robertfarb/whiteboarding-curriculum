@@ -54,4 +54,4 @@ At the end of almost any interview, the interviewer will ask you what questions 
 
 You'll be prompted to read about this again next week, but if you want to skip ahead, some discussion about it is [here][questions-to-ask].  
 
-[questions-to-ask]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/good_questions.md
+[questions-to-ask]: asking-questions.md
