@@ -53,8 +53,8 @@ For **submission instructions**, go to the project due date in [Job Search by Da
   * [JavaScript Proposal Submission Form][js-proposal-submission]
 * [JavaScript Project][js-project] (due W10D5, 12pm)
 
-[js-project]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/js_project.md
-[js-project-proposal]: https://github.com/appacademy/job-search-curriculum/blob/master/job-search-projects/js-sample-proposal.md
+[js-project]: projects/js-project/js-project.md
+[js-project-proposal]: projects/js-project/js-sample-proposal.md
 [js-proposal-submission]: https://docs.google.com/a/appacademy.io/forms/d/e/1FAIpQLSducrcmw-SRDpBmqtxlYTUSRah6Md73mIUd8ihSsH4tICGHfg/viewform
 
 ### Flex Project
@@ -65,15 +65,15 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * Resources:
   * [List of Public APIs](https://rapidapi.com/)
 
-[flex-project]: https://github.com/appacademy/job-search-curriculum/blob/master/self-presentation/flex_project.md
+[flex-project]: projects/flex-project/flex-project.md
 [flex-proposal-submission]: https://docs.google.com/forms/d/e/1FAIpQLSdEVvY86bYlAUhYNIJEBrU98uCB6mrBh3NL_b13b92KskhOAQ/viewform
-[flex-proposal]: https://github.com/appacademy/job-search-curriculum/blob/master/job-search-projects/flex-sample-proposal.md
+[flex-proposal]: projects/flex-project/flex-sample-proposal.md
 
 ## Application Materials
 ### Resume
 * [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9am)
 
-[resume]: https://github.com/appacademy/ny-portfolio-curriculum/blob/master/resume/resume.md
+[resume]: application-materials/resume/resume.md
 
 ### Cover Letter
 * [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9am)
@@ -92,7 +92,6 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * [Portfolio Site](application-materials/portfolio/portfolio.md) (Optional, but highly recommended)
 
 ## Algorithms Projects
-[Algorithms Curriculum](https://github.com/appacademy/algorithms-curriculum)
 
 Due dates follow projects. Always due at 12pm PST. Password for videos are `go_video_go`.
 * To turn in Algorithms Projects:
