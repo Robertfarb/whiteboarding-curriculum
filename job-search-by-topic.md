@@ -86,7 +86,7 @@ For **submission instructions**, go to the project due date in [Job Search by Da
   * [Headshots](http://paulsimcock.zenfolio.com/appacademy)
     * Password is `rubyonrails`
 * [Utilizing your LinkedIn to its Full Potential Lecture](https://vimeo.com/189053139)
-  * Password is `go_video_go`
+  * Password is `go_video_go` (talk starts at minute 4)
 * [Curating your GitHub](application-materials/github/github.md) (Optional, but highly recommended)
 * [AngelList](application-materials/angellist/angellist.md) (Optional, but highly recommended)
 * [Portfolio Site](application-materials/portfolio/portfolio.md) (Optional, but highly recommended)
