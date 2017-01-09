@@ -17,6 +17,7 @@ Most of these things help with the immediate job search, and have huge results i
 ## Interview Smarter
 * Before interviews, understand the company's core values and mission statement. Modify personal pitch and answers to behavioral questions to complement what the company wants. Reference company material when it is natural to do so, but don't go overboard--you want to come off as prepared AND natural.
 * Read the company's blog posts if they have one, especially any engineering blogs. This will give you insight into the above point, and will also give you the material for specific technology-based questions ("In a blog post 2 months ago, it was mentioned Company was switching their backend to JavaScript. How has that transition been going?")
+* Ask in advance who you will be interviewing with.  Look up each person online to learn about their background.  If you don't get specific names, look up who works on the team you're applying to work with and learn about each of the team members.  
 
 ## Network Smarter
 
