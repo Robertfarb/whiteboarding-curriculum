@@ -25,7 +25,7 @@ Most of these things help with the immediate job search, and have huge results i
 ### In Person
 * Attend at least one meetup or networking event a week. Tell EVERYONE you’re looking. Get their names, follow up on LinkedIn the next day.
 * Go to job fairs, bringing copies of your printed resume and your portfolio on a tablet or laptop, ready to go.
-* Do something memorable to stick in their mind. (Have an interesting story, carry a personal card, etc.)
+  * Do something memorable to stick in their mind. (Have an interesting story, carry a personal card, etc.)
 * Go to events early, before it gets crowded or the attendees get tired.
 * Contact meetup organizers to ask if there's any way to help out at the event. This may be especially helpful if you struggle to open conversations without an official reason to do so.
 
