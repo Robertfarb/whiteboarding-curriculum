@@ -18,6 +18,7 @@ Most of these things help with the immediate job search, and have huge results i
 * Before interviews, understand the company's core values and mission statement. Modify personal pitch and answers to behavioral questions to complement what the company wants. Reference company material when it is natural to do so, but don't go overboard--you want to come off as prepared AND natural.
 * Read the company's blog posts if they have one, especially any engineering blogs. This will give you insight into the above point, and will also give you the material for specific technology-based questions ("In a blog post 2 months ago, it was mentioned Company was switching their backend to JavaScript. How has that transition been going?")
 * Ask in advance who you will be interviewing with.  Look up each person online to learn about their background.  If you don't get specific names, look up who works on the team you're applying to work with and learn about each of the team members.  
+* At the end of an interview, ask the interviewer for a coding challenge or  if you can build something with their API to send to them. 
 
 ## Network Smarter
 
@@ -35,6 +36,7 @@ Most of these things help with the immediate job search, and have huge results i
 * Offer to [buy people coffee](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/#networking) or lunch to pick their brains. Ask if they know anyone else you could talk to. Leave with more networking contacts than you walked in with.
 
 ## Build Your Personal Brand & Contribute Content to the Community
+* Volunteer at a software-related nonprofit and add the experience to your resume.  For example, teach at RailsBridge or help a nonprofit add a feature to their website.  
 * Build a personal portfolio site, possibly include a blog, without using a template. Do take inspiration from others, make it look really polished.
 * Create professional social media accounts (Twitter is good), regularly post content relevant to the sort of position you're hoping to get.
 * Standardize online handle/username as much as possible across professional social media accounts (github, stack overflow, twitter, etc.), and match your personal website url to that handle.
@@ -43,4 +45,4 @@ Most of these things help with the immediate job search, and have huge results i
 * Follow interesting people and repos on Github. Keep up to date with changes, look for opportunities to jump in.
 * Add comments and posts to blogs, forums, Quora, etc. Help people. Build connections.
 * Participate in Hackathons. If you can, win. If you can't, make friends.
-* Find open source projects to contribute to.
+* Find open source projects to contribute to.  Find these online or by attending meetups. 
