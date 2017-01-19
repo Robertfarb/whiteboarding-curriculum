@@ -30,15 +30,15 @@ Introduce yourself, the technologies you know, and your interest in the position
   * Alternatively, a well-crafted but unique opener sometimes catch a reader's attention. [This article][cover-letters-article] (and those it links to) can help you brainstorm original content.  
 * If relevant, include a sentence about your background (science, engineering, mathematics, CS, finance).
 * Based on the research you’ve done from Phase 0, include a company blurb that show your interest in the company and its values.  Your company blurb should show *specific knowledge of the industry* or an understanding of *challenges specific to the company*.  Below are examples:
-  * Weak: "I am excited to apply to GeneriCo because we both value high quality code and making awesome products."
-  * Strong: "A cloud-based point of sale allows businesses to centralize their transaction data like never before. I would love to help build GeneriCo's product and finally bring retail to the cloud."
+  * Weak: "I am excited to apply to GeneriCo because we both value awesome products and love traveling."
+  * Strong: "I lived abroad, and the best travel experiences were the ones not yet in the Lonely Planet. I’d love to contribute to building this experience for other like-minded travelers as a web developer."
   * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site.”
-  * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."
+  * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
 
 
 ## Phase 3: Skills Paragraphs
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
-* A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This should be very similar to your [resume bullet points][bullet-points] but not the exact same wording.  
+* A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.  
 * A description of your other skills (teamwork, problem solving).  
 * A description of your unique background that may be helpful to the company (e.g., the company creates products for real estate agents, and you have a background in real estate).   
 * Based on the job description, include the skills paragraphs that are most relevant.  For example, if the job description lists JavaScript as a key skill, then the paragraph you include should emphasize your knowledge of JavaScript.  
