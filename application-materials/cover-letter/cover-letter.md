@@ -34,7 +34,7 @@ Introduce yourself, the technologies you know, and your interest in the position
   * Strong: "A cloud-based point of sale allows businesses to centralize their transaction data like never before. I would love to help build GeneriCo's product and finally bring retail to the cloud."
   * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site.”
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth."
-  * A cover letter that's unique can sometimes draw more attention. [This article][cover-letters-article] (and those it links to) can help you brainstorm original ideas.  
+* Alternatively, a cover letter that's unique can sometimes draw more attention. [This article][cover-letters-article] (and those it links to) can help you brainstorm original ideas.  
 
 ## Phase 3: Skills Paragraphs
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
