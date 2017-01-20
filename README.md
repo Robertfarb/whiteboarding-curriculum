@@ -37,9 +37,10 @@ Jump to:
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder with your FSP URLs entered at the top.
 * **Submit your JavaScript Proposal by 9am**
   * Choose a [JavaScript Project][js-project]
+  * Submit [this form][js-proposal-survey] while thinking about how to market your project.
   * Write your proposal ([sample proposal][js-sample-proposal])
   * Upload your proposal to github
-  * [Submit your proposal][js-proposal-submission]
+  * Submit your proposal adding links to your repo in Jobberwocky
 
 ### Morning Off
 * Roll call and lecture at 1:30pm.
@@ -658,7 +659,7 @@ TODO Include Project 8
 <!-- Job Search Projects -->
 [js-project]: projects/js-project/js-project.md
 [js-sample-proposal]: projects/js-project/js-sample-proposal.md
-[js-proposal-submission]: https://docs.google.com/a/appacademy.io/forms/d/e/1FAIpQLSducrcmw-SRDpBmqtxlYTUSRah6Md73mIUd8ihSsH4tICGHfg/viewform
+[js-proposal-survey]: https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform
 
 [flex-project]: projects/flex-project/flex-project.md
 [flex-sample-proposal]: projects/flex-project/flex-sample-proposal.md
