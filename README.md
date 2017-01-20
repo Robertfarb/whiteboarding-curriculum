@@ -397,7 +397,9 @@ Jump to:
 * Roll call at 10am to facilitate evening lecture.
 
 ### Afternoon
-#### No Lecture
+
+#### Lecture
+* Architecture Part 2, an introduction to scaling web applications and system design.
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
