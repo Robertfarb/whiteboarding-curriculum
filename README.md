@@ -34,13 +34,13 @@ Jump to:
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
  * In Slack, CMD+K and type "hunters"
-* Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder with your FSP URLs entered at the top.
+* Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
 * **Submit your JavaScript Proposal by 9am**
-  * Choose a [JavaScript Project][js-project]
+  * Choose a [JavaScript Project][js-project].
   * Submit [this form][js-proposal-survey] while thinking about how to market your project.
-  * Write your proposal ([sample proposal][js-sample-proposal])
-  * Upload your proposal to github
-  * Submit your proposal adding links to your repo in Jobberwocky
+  * Create your project repo.
+  * Write your proposal ([sample proposal][js-sample-proposal]) as a README.md file in the project repo.
+  * Submit your proposal by adding links to your repo in Jobberwocky.
 
 ### Morning Off
 * Roll call and lecture at 1:30pm.
@@ -63,6 +63,8 @@ Jump to:
 ### Homework
 * Check your [calendar][calendar] for events happening today. Note times for office hours and lectures.
 * Read the [peer review instructions][peer-review-instructions].
+* Work on JavaScript Project.
+* Work on Resume.
 
 ### Afternoon
 
@@ -80,7 +82,9 @@ Jump to:
 * [Resume][resume]
 
 ## W10D3
-### No Homework
+### Homework
+* Work on JavaScript Project.
+* Work on Resume.
 
 ### Afternoon
 #### Lecture
@@ -105,6 +109,8 @@ Jump to:
 ### Homework
 * Read about [personal pitches][personal-pitch].
   * Write a rough personal pitch. Follow guidelines in the document linked above.
+* Work on JavaScript Project.
+* Work on cover letter.
 
 ### Afternoon
 #### Lecture & Workshop
@@ -121,8 +127,10 @@ Jump to:
 ## W10D5
 ### Homework
 * **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by 9am.
+  * Upload the video to your Job Search Google Drive
+  * Paste the link to Jobberwocky in your "Personal Pitch"
 * **[JavaScript Project][js-project] due 12pm.**
-  * Add live and repo links to the JavaScript Project Scorecard in your Job Search Folder.
+  * Add live link to the Jobberwocky and click "Queue for review" to submit. NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
 * Read about [Behavioral Questions][behavioral-questions].
 * Familiarize yourself with more [behavioral questions][31-questions].
 
@@ -144,6 +152,7 @@ Jump to:
 ## W10D6-7
 
 ### Projects, due Monday 9am
+* **To submit your Flex Project Proposal, Resume, and Cover Letter for review, go to Jobberwocky and paste in the relevant links under the correct job app materials.**
 * [Flex Project][flex-project] Proposal
 * [Resume][resume] and [cover letter][cover-letter]
 * [Text-only resume][text-only]
