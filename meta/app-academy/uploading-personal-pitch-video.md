@@ -15,12 +15,16 @@
   * Sound confident.
   * Prefer silence over filler words
 3. Feel free to re-record yourself as many times as you want until you are satisfied. Use this as a learning experience—watching yourself can be one of the best ways to get better at a personal pitch since we’re often our own harshest critic!
-4. Once you have the video recorded, upload it to your google drive. You have 2 options:
+
+## Uploading the Personal Pitch Video
+### Once you have the video recorded, upload it to your google drive.
   1. Upload it directly to your “Job Search” drive
     1. Click “New” in the top left corner
     2. Choose “File Upload” and then select the correct video file
     3. Rename the video file in your drive to “Personal Pitch"
-  2. If you’re concerned about the video taking up too much space in your Google Drive (a 2 minute MOV file is typically around 110MB, and you’re given 15 GB by Google), then you can also upload to youtube:
-    1. Directions for uploading: https://support.google.com/youtube/answer/57407?hl=en
-    2. For privacy setting, choose “Unlisted”
-    3. Once you’re done uploading, go back to your “Job Search” google drive, start a new Google Doc (Title it “Personal Pitch), and then copy and paste in the youtube link to this google doc.
+  2. Copy and paste the link to the video into your "Personal Pitch" on Jobberwocky.
+    1. To get the link, open the video on on Google Drive.
+    2. Click on the icon that has the three vertical dots on the top right corner of the screen.
+    3. Click "Share".
+    4. Click "Copy link"
+    5. Paste it into Jobberwocky and click "Queue for review".
