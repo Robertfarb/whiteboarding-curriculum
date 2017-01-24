@@ -159,6 +159,8 @@ Here are some suggested bullet points for your resume. Mix and match!
 * Teaches full-stack web development: Rails, SQL, JS, React, TDD, algorithms, design patterns, and programming best practices.
 * Topics include: TDD, scalability, algorithms, OOP, coding style, REST, security, single-page apps, and web development best practices.
 
+Note: if your background already includes significant engineering, coding, or startup experience, it is not necessary to include App Academy on your resume.  
+
 ### College
 
 If you took CS-related courses in college, add a "Curriculum Highlights" section
