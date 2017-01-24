@@ -32,6 +32,7 @@ Jump to:
 ## W10D1
 ### Homework
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
+* Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.  
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
  * In Slack, CMD+K and type "hunters"
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
@@ -690,6 +691,7 @@ TODO Include Project 8
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
+[job-serch-curriculum-drive-folder]:https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
 [pair-boarding-index]: interview-prep/pairboarding/index.md#index
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
