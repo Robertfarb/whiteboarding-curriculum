@@ -129,7 +129,7 @@ List these skills, and any other relevant ones. **Anything listed is fair game i
 * JavaScript
 * jQuery
 * React
-* Flux
+* Redux
 * SQL
 * Git
 * HTML5
