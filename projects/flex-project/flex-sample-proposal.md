@@ -19,7 +19,7 @@ With this extension, users will be able to:
 - [ ] Convert all colors to high-contrast,
 - [ ] Convert all colors to grey scale as a totally colorblind user would see it,
 - [ ] Convert all colors to low-contrast, as a mildly colorblind user would see it.
-
+ 
 ### Wireframes
 
 ![wireframes](images/flex-settings.png)
@@ -44,27 +44,48 @@ The primary technical challenges will be:
 
 The colors will be identified by mapping classes in the DOM to a variety of attributes in the CSS such as `color`, `background-color`, and perhaps others.  Going from color to grey scale will be done with a standard algorithm.  Going from color to high-contrast color will be more challenging: currently, I plan to utilize a subset of high-contrast colors and map the given colors via some distance algorithm to the best match for these colors.  
 
+### Group Members & Work Breakdown 
+
+Our group consists of two members, Munyo Frey and Ryan Hall.  
+
+Munyo's primary responsibilities will be:
+
+- Researching & implementing the ability to locate and alter DOM elements 
+- Creating the functionality to identify all colors based on the CSS file 
+- Writing the algorithm to correctly identify high-contrast alternatives
+- Creating the Chrome store page & marketing the app 
+
+Ryan's primary responsibilites will be:
+
+- Researching and setting up the Chrome extension infrastructure
+- Producing the new HTML file with new colors 
+- Creating the algorithm to correctly identify gray-scale alternatives 
+- Creating the Settings page 
+- Writing the repo's README, complete with screenshots and code snippets  
+
 ### Implementation Timeline
 
-**Day 1**: Get started on the infrastructure of the extension, following [this guide](https://developer.chrome.com/extensions/getstarted) from Chrome.  By the end of the day, I will have:
+**Day 1**: Get started on the infrastructure of the extension, following [this guide](https://developer.chrome.com/extensions/getstarted) from Chrome.  By the end of the day, we will have:
 
-- A completed `package.json`
-- A completed `manifest.json`
-- The ability to locate and alter a DOM element by class
+- A completed `package.json` (Ryan)
+- A completed `manifest.json` (Ryan)
+- The ability to locate and alter a DOM element by class (Munyo)
 
-**Day 2**: Work on identifying the colors used in the DOM by class and other attributes, and create and render a new DOM with different colors.  By the end of the day, I will have:
+**Day 2**: Work on identifying the colors used in the DOM by class and other attributes, and create and render a new DOM with different colors.  By the end of the day, we will have:
 
-- The ability to identify all colors
-- A new HTML file that gets rendered in place of the current DOM, using different colors
+- The ability to identify all colors (Munyo)
+- A new HTML file that gets rendered in place of the current DOM, using different colors (Ryan)
 
 **Day 3**: Dedicate this day to correctly replacing colors with their grey scale or high-contrast equivalents.  By the end of the day:
 
-- Implement an algorithm for replacing colors with grey scale tones
-- At least understand (and hopefully implement) and algorithm for replacing colors with high-contrast equivalents
-- Render a new DOM that contains each of these color equivalents
+- Implement an algorithm for replacing colors with grey scale tones (Ryan)
+- At least understand (and hopefully implement) and algorithm for replacing colors with high-contrast equivalents (Munyo)
+- Render a new DOM that contains each of these color equivalents (Ryan)
 
 **Day 4**: Create the settings page and connect the settings to the color change logic.  If time, create high-contrast grey scale and low-contrast algorithms as well.  By the end of the day:
 
-- Fully implemented settings changes that re-render a differently colored DOM
-- If time, implement the final two features: normal color to low contrast and normal to high-contrast grey scale
+- Fully implemented settings changes that re-render a differently colored DOM (Ryan)
+- A detailed README (Ryan)
+- A polished Chrome store page, sent to our networks to begin marketing/downloads (Munyo)
+- If time, implement the final two features: normal color to low contrast and normal to high-contrast grey scale (Both) 
 
