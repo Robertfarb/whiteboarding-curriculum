@@ -112,6 +112,8 @@ Jump to:
   * Write a rough personal pitch. Follow guidelines in the document linked above.
 * Work on JavaScript Project.
 * Work on cover letter.
+* Work on flex project proposal (due W11D1 at 9am)
+  * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
 
 ### Afternoon
 #### Lecture & Workshop
@@ -134,6 +136,8 @@ Jump to:
   * Add live link to the Jobberwocky and click "Queue for review" to submit. NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
 * Read about [Behavioral Questions][behavioral-questions].
 * Familiarize yourself with more [behavioral questions][31-questions].
+* Work on flex project proposal (due W11D1 at 9am)
+  * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
 
 ### Afternoon
 #### Lecture & Workshop
@@ -146,7 +150,8 @@ Jump to:
 * At 5pm, join the new cohort for their first Happy Hour!
 
 ### Projects
-* [JavaScript Project][js-project]
+* Work on flex project proposal (due W11D1 at 9am)
+  * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
 * Bonus: [portfolio site][portfolio]
 
 
@@ -155,6 +160,7 @@ Jump to:
 ### Projects, due Monday 9am
 * **To submit your Flex Project Proposal, Resume, and Cover Letter for review, go to Jobberwocky and paste in the relevant links under the correct job app materials.**
 * [Flex Project][flex-project] Proposal
+* Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform) **required**
 * [Resume][resume] and [cover letter][cover-letter]
 * [Text-only resume][text-only]
 * [LinkedIn profile][linkedin]
