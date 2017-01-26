@@ -5,7 +5,7 @@ The Flex Project helps fills in the gaps in your skill presentation not covered 
 For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures and completing algorithms assignments, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
 
 The key goal of the flex project is to help differentiate you from other bootcamp grads. With that said, here are a couple of directions you can choose to go with the flex project:
-Github workflow](https://www.atlassian.com/git/tutorials/syncing)
+
 1. Build a project that adds to your tech stack:
   * [Pixpy Pics](http://www.pixpy.tech/)
     * Built with Django/Python backend + React/Redux frontend (these students' cohort learned React/Flux)
