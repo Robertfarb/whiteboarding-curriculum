@@ -19,7 +19,7 @@ With this extension, users will be able to:
 - [ ] Convert all colors to high-contrast,
 - [ ] Convert all colors to grey scale as a totally colorblind user would see it,
 - [ ] Convert all colors to low-contrast, as a mildly colorblind user would see it.
- 
+
 ### Wireframes
 
 ![wireframes](images/flex-settings.png)
@@ -44,23 +44,23 @@ The primary technical challenges will be:
 
 The colors will be identified by mapping classes in the DOM to a variety of attributes in the CSS such as `color`, `background-color`, and perhaps others.  Going from color to grey scale will be done with a standard algorithm.  Going from color to high-contrast color will be more challenging: currently, I plan to utilize a subset of high-contrast colors and map the given colors via some distance algorithm to the best match for these colors.  
 
-### Group Members & Work Breakdown 
+### Group Members & Work Breakdown
 
 Our group consists of two members, Munyo Frey and Ryan Hall.  
 
 Munyo's primary responsibilities will be:
 
-- Researching & implementing the ability to locate and alter DOM elements 
-- Creating the functionality to identify all colors based on the CSS file 
+- Researching & implementing the ability to locate and alter DOM elements
+- Creating the functionality to identify all colors based on the CSS file
 - Writing the algorithm to correctly identify high-contrast alternatives
-- Creating the Chrome store page & marketing the app 
+- Creating the Chrome store page & marketing the app
 
 Ryan's primary responsibilites will be:
 
 - Researching and setting up the Chrome extension infrastructure
-- Producing the new HTML file with new colors 
-- Creating the algorithm to correctly identify gray-scale alternatives 
-- Creating the Settings page 
+- Producing the new HTML file with new colors
+- Creating the algorithm to correctly identify gray-scale alternatives
+- Creating the Settings page
 - Writing the repo's README, complete with screenshots and code snippets  
 
 ### Implementation Timeline
@@ -87,5 +87,15 @@ Ryan's primary responsibilites will be:
 - Fully implemented settings changes that re-render a differently colored DOM (Ryan)
 - A detailed README (Ryan)
 - A polished Chrome store page, sent to our networks to begin marketing/downloads (Munyo)
-- If time, implement the final two features: normal color to low contrast and normal to high-contrast grey scale (Both) 
+- If time, implement the final two features: normal color to low contrast and normal to high-contrast grey scale (Both)
 
+**Day 5**: Create demo page for chrome extension. By the end of the day:
+- Set up github pages (Ryan)
+- Mock up wireframes for how the demo page will look (Both)
+- Grab nice looking screenshots from the chrome extension (Munyo)
+- Make a few gifs that shows off the key features of the chrome extension (Munyo)
+
+### Plan for getting users and reviews
+- Both Munyo and Ryan will each share with at least 20 friends and family and ask for good reviews
+- Munyo will find an appropriate subreddit and make a post there to show off the chrome extension
+- Ryan will reach out to http://www.colourblindawareness.org/ to share the chrome extension 
