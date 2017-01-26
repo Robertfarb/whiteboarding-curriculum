@@ -1,4 +1,4 @@
-# Trade 'n Upgrade
+# Trade 'n Upgrade (deprecated)
 
 This project is a chance to practice adding features to someone else's codebase, a skill that is essential in the majority of developer jobs. If chosen as a [Flex Project](flex-project.md), you will need to develop a substantial feature in someone else's Full-Stack Project and exchange your own Full-Stack Project for a similar addition. This adds great talking points during interviews, as you'll be able to intelligently communicate about what it's like working on a larger team project.
 

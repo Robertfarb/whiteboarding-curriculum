@@ -2,22 +2,28 @@
 
 The Flex Project helps fills in the gaps in your skill presentation not covered by your Full-Stack Project or JavaScript Project. It is flexible because it is designed to show off your strongest skills and to complement the type of job you're looking for.
 
-This should be a small project, similar in scale to your JavaScript Project. You will only have a few days to complete it, alongside attending lectures and completing algorithms assignments. Choose a project that requires sufficient skill to impress potential employers, but not something so difficult you won't be able to complete it in time. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
+For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures and completing algorithms assignments, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
 
-Here are your options for projects:
+The key goal of the flex project is to help differentiate you from other bootcamp grads. With that said, here are a couple of directions you can choose to go with the flex project:
+Github workflow](https://www.atlassian.com/git/tutorials/syncing)
+1. Build a project that adds to your tech stack:
+  * [Pixpy Pics](http://www.pixpy.tech/)
+    * Built with Django/Python backend + React/Redux frontend (these students' cohort learned React/Flux)
+  * [Algo Arena](https://cryptic-tundra-51153.herokuapp.com/)
+    * Node.js/Express backend
+  * [iPict](https://itunes.apple.com/us/app/ipict/id1155986338)
+2. Create an app that solves a relevant problem
+  * [SafeScroll](https://chrome.google.com/webstore/detail/safescroll/lkkeaiancamiccigdofacokfdjegoanm/related)
+    * Tips for [Chrome Extension](chrome-extension.md)
+  * [eos-redux](https://www.npmjs.com/package/eos-redux)
+    * Tips for creating [gems, packages, or libraries](gem-or-library.md)
+  * [Echo Syndicate](http://www.echosyndicate.com/#/)
+3. Make something that leverages a cool library or works with different APIs
+  * [Cerebellum](https://mvelk.github.io/cerebellum/)
+  * [SoundScape](http://www.soundsscape.com/)
+  * [Uber on Slack](https://uberonslack.com/)
 
-* Improve **ActiveRecordLite & RailsLite**, **Chess**, or another backend project
- * Good for **backend** positions, demonstrates OOP, is impressive to engineers
- * Read the [instructions](ruby-project.md) with included examples
-* Build a second **[JavaScript/FrontEnd Project](../js-project/js-project.md)**
-  * Make something distinct from your first JS Project
-  * If interested in **frontend** positions, make sure at least one of your projects shows off CSS and design skills. The other should show off advanced JS mastery.
-  * DON'T make two games
-* Create a **[Chrome Extension](chrome-extension.md)**
-  * Chrome extensions are just JS, HTML, CSS. You have the knowledge!
-* Create a **[Ruby gem or JS library](gem-or-library.md)**
-* **[Trade 'n Upgrade](trade-upgrade.md)**: Build out a feature in a classmate's Full-Stack Project
- * Experience working with someone else code, where reading is 7/8ths of the battle!
+
 
 ## Requirements
 
@@ -40,7 +46,7 @@ All projects need to have these elements:
 
 ### Group Projects
 
-If you choose to do one of the above projects as a group, make sure you make use of an effective [Github workflow](https://www.atlassian.com/git/tutorials/syncing).
+When working in a group, make sure to make use of an effective [Github workflow](https://www.atlassian.com/git/tutorials/syncing).
 
   * Do your work on feature branches.
   * Regularly rebase or merge master into feature branch if master is being updated (at the very least, do this before submitting your pull request and before merging in your feature branch).
