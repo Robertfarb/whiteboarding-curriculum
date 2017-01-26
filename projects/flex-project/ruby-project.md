@@ -1,4 +1,4 @@
-# Ruby Project
+# Ruby Project (deprecated)
 
 The point of this project is to impress a technical screener/interviewer. In most cases, it won't have a front-end and won't be accessible to someone without a technical background as the only thing to show will be the GitHub repo. Good projects to pick are Active Record Lite and Rails Lite, or Chess. You're a much better developer now than when you wrote these programs, so there will be low-hanging fruit to improve and polish.
 
