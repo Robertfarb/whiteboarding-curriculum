@@ -172,7 +172,7 @@ Jump to:
 # Week 11<a name="week11"></a>
 
 ## Week 11 Overview
-* Building a third project to showcase your strongest skills
+* Building a third project to help differentiate yourself from other grads
 * Learning the skills to tackle technical interviews
 * One-on-one meetings with your career coach
 
@@ -746,7 +746,7 @@ TODO Include Project 8
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
 [dynamic-array]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
-[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3
+[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
 [hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
 [heaps-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1
 [heaps-heapsort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1/project3
@@ -790,9 +790,9 @@ TODO Include Project 8
 [ny-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydEk1Z25ER3V4aTdsWjlMRTVmWC1BU2c#gid=0
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 
-[what-software-engineers-do]: technical-skills/engineering-culture/what-software-engineers-do.md
+[what-software-engineers-do]: technical-skills/engineering-culture/what-do-software-engineers-do.md
 
-[add-apps-instructions]: meta/app-academy/add-apps-to-jobberwocky.md
+[add-apps-instructions]: meta/app-academy/adding-apps-to-jobberwocky.md
 [applying-for-jobs]: meta/app-academy/applying-for-jobs.md
 
 [mock-interview-slack]: https://app-academy.slack.com/messages/mock_interview_meetup/
