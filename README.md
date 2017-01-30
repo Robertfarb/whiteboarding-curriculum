@@ -346,9 +346,10 @@ Jump to:
 
 ### Projects
 * **[Flex Project][flex-project], due Monday at 9am**
+  * Please make sure all group members have uploaded their live url to Jobberwocky and hit "Queue for review"
 * [Project 2 - Hashmap and LRU Cache][hashmap], due Monday at 12pm
 * Bonus: Write tests for your projects.
-* Bonus: Practice building on top of [an existing codebase][kanban].
+* Bonus: Practice building on top of an existing code base.
 * Bonus: Pick an [open-source project to contribute to][open-source-projects].
 
 # Week 12<a name="week12"></a>
