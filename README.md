@@ -182,12 +182,13 @@ Jump to:
   * Choose a [Flex Project][flex-project]
   * Write your proposal ([sample proposal][flex-sample-proposal])
   * Upload your proposal to github
-  * [Submit your proposal][flex-proposal-submission]
+  * Submit your proposal by pasting in your repo url under Flex Project in Jobberwocky.
 * **Upload to Job Search Folder by 9am**
   * [Resume][resume]
   * [Text-only resume][text-only]
   * [Cover letter][cover-letter]
   * Name documents clearly. If you have multiple versions, it must be clear which is your final version.
+  * Paste in relevant links for resume and cover letter in Jobberwocky.
   * Documents *must* be editable Google Docs.
     * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. Your coach will consult the pdf for formatting and leave comments on the Google Doc.
     * Do not upload Pages or Word files.
@@ -699,7 +700,7 @@ TODO Include Project 8
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 [job-search-curriculum-drive-folder]:https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
-[pair-boarding-index]: interview-prep/pairboarding/index.md#index
+[pair-boarding-index]: technical-skills/whiteboarding/index.md#index
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 
 <!-- Self Presentation -->
