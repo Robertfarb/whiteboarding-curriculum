@@ -747,6 +747,7 @@ TODO Include Project 8
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
 [dynamic-array]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
+[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d3/dynamic-array.md
 [static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
 [hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
 [heaps-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1
