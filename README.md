@@ -311,9 +311,10 @@ Jump to:
  * [Caches](https://vimeo.com/159441490)
  * [LRU Cache](https://vimeo.com/159435146)
 
+
 ### Projects
 * [Flex Project][flex-project]
-* [Project 1 - Dynamic Array][dynamic-array] (due Friday at noon)
+* Finish [Project 1 - Dynamic Array][dynamic-array] (due Friday at noon)
 
 ## W11D5
 ### Homework
@@ -338,7 +339,14 @@ Jump to:
 #### Final Circle Time
 * Join your old circle to pass your wisdom and experience on to the next generation.
 
-#### No Algorithms
+#### Algorithms Videos
+* **Heaps and Heapsort**
+* Reading: [Heaps Explained][heaps-readings]
+* [Priority Queues][heaps1]
+* [Understanding Heaps][heaps2]
+* [Heap Implementation][heaps3]
+* [Heapsort (naive)][heapsort1]
+* [Heapsort (in-place)][heapsort2]
 
 ### Projects
 * [Flex Project][flex-project]
@@ -353,6 +361,15 @@ Jump to:
 * Bonus: Write tests for your projects.
 * Bonus: Practice building on top of an existing code base.
 * Bonus: Pick an [open-source project to contribute to][open-source-projects].
+
+#### Algorithms Videos
+* **Heaps and Heapsort**
+* Reading: [Heaps Explained][heaps-readings]
+* [Priority Queues][heaps1]
+* [Understanding Heaps][heaps2]
+* [Heap Implementation][heaps3]
+* [Heapsort (naive)][heapsort1]
+* [Heapsort (in-place)][heapsort2]
 
 # Week 12<a name="week12"></a>
 
@@ -388,13 +405,14 @@ Jump to:
 * [Mock Interview Index][pair-boarding-index]
 
 #### Algorithms Videos
-* **Heaps and Heapsort**
-* Reading: [Heaps Explained][heaps-readings]
-* [Priority Queues][heaps1]
-* [Understanding Heaps][heaps2]
-* [Heap Implementation][heaps3]
-* [Heapsort (naive)][heapsort1]
-* [Heapsort (in-place)][heapsort2]
+* **Quicksort**
+* **Analysis of Sorting Algorithms**
+* Reading for [sorts][sorting-readings]
+* [Quicksort Review][quicksort1]
+* [In Place Quicksort][quicksort2]
+* [Quicksort Analysis and Choosing Pivot][quicksort3]
+* [Comparing Sorting Algorithms][sorting1]
+* [Sort Stability][sorting2]
 
 ### Projects
 * [Project 3 - Heaps and Heapsort][heaps-heapsort]
@@ -425,15 +443,6 @@ Jump to:
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-#### Algorithms Videos
-* **Quicksort**
-* **Analysis of Sorting Algorithms**
-* Reading for [sorts][sorting-readings]
-* [Quicksort Review][quicksort1]
-* [In Place Quicksort][quicksort2]
-* [Quicksort Analysis and Choosing Pivot][quicksort3]
-* [Comparing Sorting Algorithms][sorting1]
-* [Sort Stability][sorting2]
 
 ### Evening
 
