@@ -274,20 +274,18 @@ Jump to:
 * [Mock Interview Index][pair-boarding-index]
 
 #### Algorithms Lecture
- * **Static and Dynamic Arrays**
+ * [Static Arrays][static-arrays] (10 minutes)
+ * [Dynamic Arrays][dynamic-arrays] (30 minutes)
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 1 - Dynamic Array][dynamic-array]
+
 
 ## W11D4
 ### Homework
-* **[Project 1 - Dynamic Array](SF/algorithms/w11d3/project1) due at 12pm**
-  * To turn in Algorithms Projects:
-    * Zip your solution.
-    * Upload on Progress Tracker under Assessments.
 * Read [How Hashes Work](http://www.gotealeaf.com/blog/how-the-hash-works-in-ruby)
 * Read [LRU Cache](https://web.archive.org/web/20150710185255/http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html)
+* Watch the Static Arrays and Dynamic Arrays videos. Be prepared for the pair programming algorithm projects!
 * Skim [slides for Architecture lecture][architecture-slides], as they cover a lot of material.
 
 ### Daily Tasks
@@ -315,10 +313,14 @@ Jump to:
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 2 - Hashmap and LRU Cache][hashmap]
+* [Project 1 - Dynamic Array][dynamic-array] (due Friday at noon)
 
 ## W11D5
 ### Homework
+* **[Project 1 - Dynamic Array](SF/algorithms/w11d3/project1) due at 12pm**
+  * To turn in Algorithms Projects:
+    * Zip your solution.
+    * Upload on Progress Tracker under Assessments.
 * Review [slides for Architecture lecture][architecture-slides].
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
@@ -340,7 +342,7 @@ Jump to:
 
 ### Projects
 * [Flex Project][flex-project]
-* [Project 2 - Hashmap and LRU Cache][hashmap]
+* [Project 2 - Hashmap and LRU Cache][hashmap] (due Monday at noon)
 
 ## W11D6-7
 
@@ -761,6 +763,8 @@ TODO Include Project 8
 [dijkstras-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3
 [dijkstras]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3/project7
 [algorithms-next-steps]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w13d4/next-steps.md
+[static-arrays]: https://vimeo.com/202107013
+[dynamic-arrays]: https://vimeo.com/202125903
 
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 
