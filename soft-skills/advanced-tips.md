@@ -1,6 +1,5 @@
 ## Advanced Tips for Job Hunting
-Extra credit job search techniques!
-
+  
 Most of these things help with the immediate job search, and have huge results in future job searches. Build your skills and your network early, reap the reward for the rest of your career.
 
 ## Apply Smarter
