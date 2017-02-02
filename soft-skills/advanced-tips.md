@@ -8,6 +8,7 @@ Most of these things help with the immediate job search, and have huge results i
 * Look up companies that recently got funded and apply to those places even if they haven't posted a opening.  They are hiring.
 * Find companies that hire from bootcamps. Use LinkedIn to see who has hired from App Academy and other schools.  
 * Upon deciding to apply to a company, go on LinkedIn and find everyone you know that has a connection to that company. Sometimes you'll be lucky and have a direct contact, but often you'll know someone once or twice removed. Reach out to your connection (or ask a mutual connection to put you in touch), and start a friendly conversation about the company. They may be willing to refer you, or at least make sure that your application has been seen.
+  * Join some groups on LinkedIn.  You can directly message anyone that's in a group you've joined.  Some groups (i.e. try searching Ruby on Rails) have hundreds of thousands of members.  
 * Additionally, leverage the amazing internet to find the email of someone at the company (recruiter or engineer) and contact them directly. It is usually ok to send a custom cover letter and resume through this method.
 * Go above and beyond for your priority companies. You should be willing to put in some time to increase your odds of being recognized.  There are many ways to do this, some ideas include:
   * Build them a project. Use their API for it if you can. It can be a simple single-day project, but it should be professional and polished.
