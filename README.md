@@ -285,7 +285,7 @@ Jump to:
 ### Homework
 * Read [How Hashes Work](http://www.gotealeaf.com/blog/how-the-hash-works-in-ruby)
 * Read [LRU Cache](https://web.archive.org/web/20150710185255/http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html)
-* Watch the Static Arrays and Dynamic Arrays videos. Be prepared for the pair programming algorithm projects!
+* Watch the [Static Arrays][static-arrays] and [Dynamic Arrays][dynamic-arrays] videos. Be prepared for the pair programming algorithm projects!
 * Skim [slides for Architecture lecture][architecture-slides], as they cover a lot of material.
 
 ### Daily Tasks
