@@ -299,6 +299,9 @@ Jump to:
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
+#### Pair Algorithms Project
+* Work on [Project 1 - Dynamic Array][dynamic-array] with pair partner
+
 #### Algorithms Videos
  * **Hashmap and LRU Cache**, review
   * The password for the videos is `go_video_go`.
@@ -322,6 +325,15 @@ Jump to:
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
+* watch **Hashmap and LRU Cache** videos
+  * [Set and Int Set](https://vimeo.com/159431377)
+  * [Resizing Int Set Part 1](https://vimeo.com/159433039)
+  * [Resizing Int Set Part 2](https://vimeo.com/159437719)
+  * [Hashing](https://vimeo.com/159435811)
+  * [Hash Set](https://vimeo.com/159438691)
+  * [Linked Lists and Hashmaps](https://vimeo.com/159440267)
+  * [Caches](https://vimeo.com/159441490)
+  * [LRU Cache](https://vimeo.com/159435146)
 * Review [slides for Architecture lecture][architecture-slides].
 * Read some advice for [interviewing at a company you really want to work at][hackreactor-article].
 
@@ -335,6 +347,9 @@ Jump to:
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
+
+#### Pair Algorithms Project
+* Work on [Project 2 - Hashmap and LRU Cache][hashmap] with pair partner
 
 #### Final Circle Time
 * Join your old circle to pass your wisdom and experience on to the next generation.
@@ -388,6 +403,7 @@ Jump to:
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
+* Watch Heaps and Heapsort Videos to prepare for Pair Algorithms Project
 * **Read a/A's requirements for [sending applications][applying-for-jobs].**
 * Read, from a/A alum Daniel Babiak (Back-end engineer, Paypal), [how to ace front-end vs back-end interviews][babiak-tips]
 
@@ -403,6 +419,9 @@ Jump to:
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
+
+#### Pair Algorithms Project
+* Work on [Project 3 - Heaps and Heapsort][heaps-heapsort] with pair partner.
 
 #### Algorithms Videos
 * **Quicksort**
