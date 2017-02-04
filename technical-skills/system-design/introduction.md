@@ -21,10 +21,10 @@ Data structures are fundamental to the whole spectrum. You should know
 the time and space performance characteristics of the algorithms and
 data structures covered in the algorithms curriculum.
 
-## AWS
+## Amazon Web Services
 
-Companies don't use Heroku. They use AWS.  To really show you've learned the basics, you can try putting your project onto an AWS server.  
-* https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+Companies don't use Heroku. They use AWS.  After graduation, some students have even moved their Flex or other projects to AWS to demonstrate that they're familiar with the service.   
+https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 
 
 
