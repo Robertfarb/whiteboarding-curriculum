@@ -356,7 +356,6 @@ Jump to:
 
 #### Algorithms Videos
 * **Heaps and Heapsort**
-* Reading: [Heaps Explained][heaps-readings]
 * [Priority Queues][heaps1]
 * [Understanding Heaps][heaps2]
 * [Heap Implementation][heaps3]
@@ -379,7 +378,6 @@ Jump to:
 
 #### Algorithms Videos
 * **Heaps and Heapsort**
-* Reading: [Heaps Explained][heaps-readings]
 * [Priority Queues][heaps1]
 * [Understanding Heaps][heaps2]
 * [Heap Implementation][heaps3]
@@ -780,7 +778,6 @@ TODO Include Project 8
 [dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d3/dynamic-array.md
 [static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
 [hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
-[heaps-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1
 [heaps-heapsort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1/project3
 [sorting-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2
 [quicksort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2/project4
