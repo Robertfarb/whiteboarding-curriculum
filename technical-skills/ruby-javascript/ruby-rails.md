@@ -19,6 +19,7 @@
 [rails-recipes]: http://pragprog.com/book/rr2/rails-recipes
 [well-grounded-rubyist]: http://www.manning.com/black2/
 
-
-`def fucntion (input)
-end`
+```ruby
+def fucntion (input)
+end
+```
