@@ -18,3 +18,7 @@
 [crafting-rails-apps]: http://pragprog.com/book/jvrails/crafting-rails-applications
 [rails-recipes]: http://pragprog.com/book/rr2/rails-recipes
 [well-grounded-rubyist]: http://www.manning.com/black2/
+
+
+`def fucntion (input)
+end`
