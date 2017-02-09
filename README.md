@@ -502,7 +502,7 @@ Jump to:
 * [Mock Interview Index][pair-boarding-index]
 
 #### Algorithms Lecture
-* **Binary Search Trees**
+* [**Binary Search Trees**][binary-search-trees-vid]
 
 ### Evening
 #### Alumni Panel
@@ -770,6 +770,7 @@ TODO Include Project 8
 [quicksort3]: https://vimeo.com/192493786/dd6520c77d
 [sorting1]: https://vimeo.com/193472770/d43f132776
 [sorting2]: https://vimeo.com/193473425/dd01b240ee
+[binary-search-trees-vid]: https://vimeo.com/203204585
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
