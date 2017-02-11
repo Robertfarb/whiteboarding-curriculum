@@ -560,6 +560,9 @@ Jump to:
 * [Project 5 - BST][bst]
 * Bonus: [portfolio site][portfolio]
 
+### Algorithms Video Lecture
+* [**Introduction to Graphs**][graphs-vid]
+
 ### Resources for Ongoing Study
 * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Practice [these algorithms tests][algo-specs]
@@ -584,6 +587,7 @@ Jump to:
   * This weekly practice group covers algorithms strategies, practices behavioral questions, and continues advanced pairboarding.
   * Open to a/A graduates every Thursday at 1:30pm in the Conference Room.
 * Read about  [graphs][graphs-readings]
+* Watch [**Introduction to Graphs**][graphs-vid] video lecture.
 * Read [tips for applying to your very favorite companies][get-any-job].
 
 ### Daily Tasks
@@ -595,9 +599,6 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-
-### Algorithms Lecture
-* **Introduction to Graphs**
 
 ### Projects
 * Review Worksheet (sent by email)
@@ -771,6 +772,7 @@ TODO Include Project 8
 [sorting1]: https://vimeo.com/193472770/d43f132776
 [sorting2]: https://vimeo.com/193473425/dd01b240ee
 [binary-search-trees-vid]: https://vimeo.com/203204585
+[graphs-vid]: https://vimeo.com/203562085
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
