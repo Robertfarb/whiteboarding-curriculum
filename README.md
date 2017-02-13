@@ -599,6 +599,8 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
+### Algorithms Video Lecture
+* **Graph Algorithms - Connected Components, Topological Sort**
 
 ### Projects
 * Review Worksheet (sent by email)
@@ -606,6 +608,7 @@ Jump to:
 ## W13D2
 ### Homework
 * **Review Worksheet is due at 12pm**
+* Watch **Graph Algorithms - Connected Components, Topological Sort**
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -616,8 +619,8 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-### Algorithms Lecture
-* **Graph Algorithms - Connected Components, Topological Sort**
+### Algorithms Video Lecture
+* **Dijkstra's Algorithm**
 
 ### Projects
 * [Project 6 - Topological Sort][topological-sort-readings]
@@ -629,6 +632,7 @@ Jump to:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
 * Read about [Dijkstra's algorithm][dijkstras-readings]
+* Watch **Dijkstra's Algorithm**
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -639,8 +643,8 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-### Algorithms Lecture
-* **Dijkstra's Algorithm**
+### Algorithms Video Lecture
+* **Dynamic Programming and Memoization**
 
 ### Projects
 * [Project 7 - Dijkstra's Algorithm][dijkstras]
@@ -651,7 +655,7 @@ Jump to:
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
-
+* Watch **Dynamic Programming and Memoization**
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -662,8 +666,6 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-### Algorithms Lecture
-* **Dynamic Programming and Memoization**
 
 ### Project
 * Project 8 - TBD
