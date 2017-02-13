@@ -600,7 +600,7 @@ Jump to:
 * [Mock Interview Index][pair-boarding-index]
 
 ### Algorithms Video Lecture
-* **Graph Algorithms - Connected Components, Topological Sort**
+* **Graph Algorithms - Topological Sort**[topological-vid]
 
 ### Projects
 * Review Worksheet (sent by email)
@@ -608,7 +608,7 @@ Jump to:
 ## W13D2
 ### Homework
 * **Review Worksheet is due at 12pm**
-* Watch **Graph Algorithms - Connected Components, Topological Sort**
+* Watch **Graph Algorithms - Connected Components, Topological Sort**[topological-vid]
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
@@ -775,6 +775,7 @@ TODO Include Project 8
 [sorting2]: https://vimeo.com/193473425/dd01b240ee
 [binary-search-trees-vid]: https://vimeo.com/203204585
 [graphs-vid]: https://vimeo.com/203562085
+[topological-vid]: https://vimeo.com/203906270
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
