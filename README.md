@@ -619,8 +619,6 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-### Algorithms Video Lecture
-* **Dijkstra's Algorithm**
 
 ### Projects
 * [Project 6 - Topological Sort][topological-sort-readings]
@@ -643,8 +641,8 @@ Jump to:
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-### Algorithms Video Lecture
-* **Dynamic Programming and Memoization**
+### Algorithms Lecture
+* **Dijkstra's Algorithm**
 
 ### Projects
 * [Project 7 - Dijkstra's Algorithm][dijkstras]
@@ -665,6 +663,9 @@ Jump to:
 
 ### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
+
+### Algorithms Lecture
+* **Dynamic Programming and Memoization**
 
 
 ### Project
