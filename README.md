@@ -703,6 +703,7 @@ TODO Include Project 8
 * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Practice [these algorithms tests][algo-specs]
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
+* Review [non technical readings][non-tech] from the main course.
 * Most importantly, keep coding.  Read about the importance of an [impressive Github][github].
 
 <!-- LINKS -->
@@ -836,3 +837,5 @@ TODO Include Project 8
 [mock-interview-slack]: https://app-academy.slack.com/messages/mock_interview_meetup/
 
 [elevator-speech]: http://idealistcareers.org/a-quick-guide-to-writing-your-elevator-pitch-with-examples/
+
+[non-tech]: technical-skills/non-technical-readings.md
