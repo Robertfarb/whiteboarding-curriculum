@@ -163,6 +163,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 
 ### Technical Interviewing
 * [Interview Questions Spreadsheet][interview-questions]
+* [Coding challenge overview and examples][coding-challenges]
 * [How Hashes Work](http://www.gotealeaf.com/blog/how-the-hash-works-in-ruby)
 * [LRU Cache](https://web.archive.org/web/20150710185255/http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html)
 * Pick an [open-source project to contribute to][open-source-projects]
@@ -221,6 +222,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 * Aline Lerner's [blog](http://blog.alinelerner.com/).
 
 <!-- Links -->
+[coding-challenges]:https://github.com/appacademy/ny-applying-curriculum/blob/master/additional-resources/coding-challenges/coding-challenges.md
 [mihir-tips]: applying/mihir-job-search-advice.md
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
