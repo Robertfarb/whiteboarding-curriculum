@@ -15,7 +15,7 @@ Jump to:
 # Week 10<a name="week10"></a>
 
 ## Week 10 Overview
-* A full set of application materials is due in a week.   
+* A full set of application materials is due in a week.
 * Mornings and evenings are for working on application materials.
 * Afternoons are filled with lectures, group work, and workshops.
 * **There will lots of tasks competing for your time -- plan in advance!**
@@ -32,7 +32,7 @@ Jump to:
 ## W10D1
 ### Homework
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
-* Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.  
+* Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
  * In Slack, CMD+K and type "hunters"
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
@@ -237,7 +237,7 @@ Jump to:
 
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. Read the [instructions][add-apps-instructions].
-* Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].  
+* Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].
   * Get comfortable with these interfaces before you start applying. Companies use these for interviews and take-home challenges.
 
 ### Afternoon
@@ -321,7 +321,7 @@ Jump to:
 
 ## W11D5
 ### Homework
-* **[Project 1 - Dynamic Array](SF/algorithms/w11d3/project1) due at 12pm**
+* **[Project 1 - Dynamic Array][dynamic-array] due at 12pm**
   * To turn in Algorithms Projects:
     * Zip your solution.
     * Upload on Progress Tracker under Assessments.
@@ -567,13 +567,13 @@ Jump to:
 * Find online algorithms lectures or see this [Coursera course][Coursera].
 * Practice [these algorithms tests][algo-specs]
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
-* Most importantly, keep coding.  Read about the importance of an [impressive Github](github-green-squares.md).
+* Most importantly, keep coding.  Read about the importance of an [impressive Github][github].
 
 # Week 13+<a name="week13"></a>
 
 ## Week 13+ Overview
 * **Office hours, mock interviews, and algorithms continue this week.** Attendance is mandatory if you have sent fewer than 150 applications.
-* **Roll call is at 10am** every day until you are excused by your career coach. After you hit 150 applications, tell your coach and asked to be removed from roll.   
+* **Roll call is at 10am** every day until you are excused by your career coach. After you hit 150 applications, tell your coach and asked to be removed from roll.
 * Even after being excused, continue coming back. Students that search from the office have a better work environment and find jobs faster.
 * Focus on studying for interviews and polishing on projects.
 

@@ -136,7 +136,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
   * Practice with [interviewing.io](https://interviewing.io/)
   * [Bay Area Tech Companies][bay-tech-companies]
   * [Lecture on Bay Area Tech Companies by Asher](https://vimeo.com/175397889) pw is go_video_go
-  * [What do software engineers actually do?](technical-skills/engineering-culture/what-software-engineers-do.md)
+  * [What do software engineers actually do?](technical-skills/engineering-culture/what-do-software-engineers-do.md)
   * Do one practice problem on [HackerRank][HackerRank] and another on [Codility] [Codility]
   * Read about [job search etiquette](soft-skills/job-search-etiquette.md)
   * Constantly updated Job Board pulling all of [Lever's Bay Area positions][lever-job-board]
