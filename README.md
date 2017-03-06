@@ -838,4 +838,4 @@ TODO Include Project 8
 
 [elevator-speech]: http://idealistcareers.org/a-quick-guide-to-writing-your-elevator-pitch-with-examples/
 
-[non-tech]: technical-skills/non-technical-readings.md
+[non-tech]: https://github.com/appacademy/curriculum/blob/master/course/non-technical-readings.md
