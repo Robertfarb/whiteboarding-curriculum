@@ -39,7 +39,7 @@ This is a pretty typical scenario. Build your resume to grab a recruiter's atten
 
 ### General Guidelines
 
-Use the example resumes above as guides for formatting.
+Use the example resumes above as guides for formatting, or [customize one of our templates.][drive-templates]  
 
 You __must__ submit your Resume for review as a Google Doc. You may use a different program to build
 a fancier layout if you like, but you must still submit a plain-text Google Doc to us through Jobberwocky
@@ -272,7 +272,7 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Is it a Google Doc where you have granted edit access for your career coach?
   0. Have you eliminated or minimized any timeline gaps in your resume?
 
-[drive-templates]: https://drive.google.com/open?id=0B3noREts_wUyMFZHWVhvcUUtU1E&authuser=0
+[drive-templates]: https://drive.google.com/drive/folders/0B3noREts_wUyMFZHWVhvcUUtU1E?usp=sharing
 [example-resumes]: examples/exemplary-resumes.md
 [highlights]: resume-highlighted-keywords.pdf
 [sans-highlights]: resume-without-highlighted-keywords.pdf
