@@ -54,7 +54,7 @@ Jump to:
 
 #### Resume Work Time Part 1
 * [Resume instructions][resume]
-* Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.
+* Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.  Resumes are due by Weds at 9am.  Please make sure all links are accessible on Jobberwocky.
 
 ### Projects
 * [JavaScript Project][js-project]
@@ -76,7 +76,7 @@ Jump to:
 
 #### Resume Work Time Part 2
 * [Resume instructions][resume]
-* Your coach must approve your resume by the end of the day.
+* Your coach must approve your resume which is due tomorrow at 9am.  Please make sure resumes are linked correctly on Jobberwocky.
 
 ### Projects
 * [JavaScript Project][js-project]
@@ -93,7 +93,7 @@ Jump to:
 
 #### Cover Letter Work Time
 * [Cover Letter instructions][cover-letter]
-* Coaches will be walking around to answer questions, and you must have your coach sign off on your cover letter by the end of the day.
+* Coaches will be walking around to answer questions. Final cover letters are due tomorrow by 4pm with links accessible via Jobberwocky
 
 #### Peer Reviews
 * [Peer reviews][peer-review-instructions] at 4:30pm.
@@ -129,7 +129,7 @@ Jump to:
 
 ## W10D5
 ### Homework
-* **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by 9am.
+* **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by MONDAY 9am.
   * Upload the video to your Job Search Google Drive
   * Paste the link to Jobberwocky in your "Personal Pitch"
 * **[JavaScript Project][js-project] due 12pm.**
@@ -137,11 +137,12 @@ Jump to:
 * Read about [Behavioral Questions][behavioral-questions].
 * Familiarize yourself with more [behavioral questions][31-questions].
 * Work on flex project proposal (due W11D1 at 9am)
+* Onine presence (LinkedIn, Github) due Monday 9am (W11D1)
   * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
 
 ### Afternoon
 #### Lecture & Workshop
-* **Behavioral Questions**. Bring pen and paper or a computer.
+* Polish your **Personal Pitch**. Bring pen and paper or computer, and your rough personal pitch.
 
 #### Peer Reviews
 * Last day of [peer reviewing][peer-review-instructions]. Make it good!
@@ -200,6 +201,9 @@ Jump to:
 * Bonus: [portfolio site][portfolio].
 
 ### Morning
+#### Lecture & Workshop
+* **Behavioral Questions**. Bring pen and paper or a computer.
+
 * Read the [Introduction to App Academy's Algorithms curriculum][intro-algos]
 * Read algorithms introductions on [Big-O][big-o-readings]
 * Bonus: [Flex Project][flex-project]
@@ -207,13 +211,7 @@ Jump to:
 
 ### Afternoon
 #### Lecture
-* **Math for Programmers**, a math primer for those without math backgrounds. Will cover what you need to know for algorithms.
-  * **Required** for anyone who hasn't studied or worked in a math-heavy field. Those with math backgrounds can skip.
-  * Specific topics covered:
-    * definition of mathematical functions used in Big O analysis (constant, linear, quadratic, logarithmic, exponential, factorial)
-    * definition and examples of base-2 (binary) notation
-    * important facts in discrete math such as 1 + 2 + ... + n = n(n-1)/2
-* **Pairboarding Introduction**, a brief primer for how to tackle whiteboard problems.
+* **Github Workflow
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
@@ -240,9 +238,15 @@ Jump to:
 * Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].
   * Get comfortable with these interfaces before you start applying. Companies use these for interviews and take-home challenges.
 
+### Morning
+* Flex work time
+
 ### Afternoon
 #### Lecture
 * **Tackling Technical Interviews**
+
+#### Lecture
+* **Pairboarding
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
@@ -340,6 +344,16 @@ Jump to:
 ### Daily Tasks
 * Add 10 `will_apply` applications to [Jobberwocky][jobberwocky]. [Instructions][add-apps-instructions].
 * Do one practice problem on [HackerRank][HackerRank] or [Codility][Codility].
+
+### Morning
+#### Lecture
+* **Math for Programmers**, a math primer for those without math backgrounds. Will cover what you need to know for algorithms.
+  * **Required** for anyone who hasn't studied or worked in a math-heavy field. Those with math backgrounds can skip.
+  * Specific topics covered:
+    * definition of mathematical functions used in Big O analysis (constant, linear, quadratic, logarithmic, exponential, factorial)
+    * definition and examples of base-2 (binary) notation
+    * important facts in discrete math such as 1 + 2 + ... + n = n(n-1)/2
+* **Pairboarding Introduction**, a brief primer for how to tackle whiteboard problems.
 
 ### Afternoon
 #### Lecture
