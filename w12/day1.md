@@ -1,5 +1,5 @@
 ## W12D1
-### Homework
+### Homework & Daily Tasks
 * **[Flex Project][flex-project] due at 9am**.
   * Turn it in on [Jobberwocky][Jobberwocky].
 * **Read a/A's requirements for [sending applications][applying-for-jobs].**
@@ -27,7 +27,7 @@
 
 * Do some practice problems on [HackerRank][HackerRank] or [Codility][Codility].
 * Begin to read and practice from Elements of Programming Interviews
-* Read [Ronnie's][ronnie-tips] and [another alum's][babiak-tips] tips on interviewing.
+* Read [a successful alum's][babiak-tips] tips on interviewing.
 <!-- Job Search Projects -->
 
 [flex-project]: projects/flex-project/flex-project.md
