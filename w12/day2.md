@@ -15,6 +15,7 @@
 * Dynamic Array [project][dynamic-array]
 * **Turn in project on [Jobberwocky][Jobberwocky] by 9am tomorrow.**
 
+
 ### Bonus
 
 * Get started on the Arrays chapter of [Elements of Programming Interviews][elements-book]
