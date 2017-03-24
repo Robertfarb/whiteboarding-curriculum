@@ -15,6 +15,10 @@
 * Review [non technical readings][non-tech] from the main course.
 * Most importantly, keep coding.  Read about the importance of an [impressive Github][github].
 
+until you are excused by your career coach. After you hit 150 applications, tell your coach and asked to be removed from roll.
+* Even after being excused, continue coming back. Students that search from the office have a better work environment and find jobs faster.
+* Focus on studying for interviews and polishing on projects.
+
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: projects/js-project/js-project.md
