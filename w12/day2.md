@@ -13,7 +13,7 @@
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
 * Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
 * Dynamic Array [project][dynamic-array]
-* **Turn in project on [Jobberwocky][Jobberwocky] by 9am tomorrow.**
+* **Turn in project on [Jobberwocky][Jobberwocky] by 10am tomorrow.**
 
 
 ### Bonus
