@@ -27,23 +27,3 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
-
-
-<!-- Applying & Networking -->
-[job-boards]: applying/job-boards.md
-[job-search-etiquette]: soft-skills/job-search-etiquette.md
-[good-questions]: soft-skills/interviewing/asking-questions.md
-[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
-[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
-[babiak-tips]: https://github.com/d-babiak/job-market-notes
-[offer-negotiation]: soft-skills/negotiating/email-negotiations.md
-[salary-data]: soft-skills/negotiating/salary-data.md
-[hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
-
-[meetups]: soft-skills/networking/meetups.md
-
-<!-- Technical Interview Resources -->
-[interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
-[HackerRank]: https://www.hackerrank.com/
-[codility]: https://codility.com/
-[Codility]: https://codility.com/
