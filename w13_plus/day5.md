@@ -17,4 +17,5 @@
 * Solution review: Dijkstra's Algorithm
 * [Mock Interviews][pair-boarding-index]
 * Dynamic Programming video[link TBD]
-* Project: Dynamic Programming[link TBD], **due by 6pm today**.
+* Project: Dynamic Programming[link TBD], **due by 4:30pm today**.
+* Solution review: Dynamic Programming 
