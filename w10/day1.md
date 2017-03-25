@@ -30,11 +30,11 @@
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: projects/js-project/js-project.md
-[js-sample-proposal]: projects/js-project/js-sample-proposal.md
+[js-project]: ../projects/js-project/js-project.md
+[js-sample-proposal]: ../projects/js-project/js-sample-proposal.md
 
-[resume]: application-materials/resume/resume.md
-[text-only]: application-materials/resume/text-resume.md
+[resume]: ../application-materials/resume/resume.md
+[text-only]: ../application-materials/resume/text-resume.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
