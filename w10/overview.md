@@ -11,6 +11,12 @@
   * [LinkedIn][linkedin] & [AngelList][angellist]: 2-4 hours
   * [Portfolio site][portfolio]: 3-8 hours (recommended but not required)
   * Lectures and peer reviews: ~13 hours
+* Important Deadllines **(submit all materials on Jobberwocky by hitting "Queue for Review")**
+  * JS project proposal: **due Monday 9am**
+  * FSP live, repo, and scorecard links: **due Monday 9am**
+  * Resumes: **due Wednesday 9am**
+  * Cover Letter: **due Thursday 9am**
+  * JS project (paste in your live link to Jobberwocky): **due Friday 9am**
 
   Days:
   * [Day 1](./day1.md)
