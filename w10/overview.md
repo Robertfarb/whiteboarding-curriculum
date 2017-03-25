@@ -36,7 +36,7 @@
   <!-- Online Presence -->
   [linkedin]: ../application-materials/linkedin/linkedin.md
   [github]: ../application-materials/github/github.md
-  [angellist]: application-materials/angellist/angellist.md
+  [angellist]: ../application-materials/angellist/angellist.md
 
 
   <!-- Internal Resources -->
