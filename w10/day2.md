@@ -22,9 +22,9 @@
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: projects/js-project/js-project.md
-[resume]: application-materials/resume/resume.md
-[peer-review-instructions]: meta/app-academy/peer-reviews.md
+[js-project]: ../projects/js-project/js-project.md
+[resume]: ../application-materials/resume/resume.md
+[peer-review-instructions]: ../meta/app-academy/peer-reviews.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
