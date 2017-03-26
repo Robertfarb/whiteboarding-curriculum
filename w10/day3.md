@@ -1,7 +1,7 @@
 ## W10D3
 ### Homework
 * Work on JavaScript Project.
-* Work on Resume.
+* **Resume due at 9am (provide google doc link to resume on [Jobberwocky][Jobberwocky])**
 
 ### Afternoon
 #### Lecture
