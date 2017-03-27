@@ -1,12 +1,12 @@
-## Color Corrector
+## Color Corrector (Flex project sampel proposal)
 
 ### Background
 
 **NB**: Because your flex project is the most original of the three, your background section may be longer than on other projects.
 
-Colorblindness and other visual impairments can make the internet difficult to use.  This Chrome extension will replace colors with appropriately contrasted colors or contrasted grey scale, depending on the user's settings.  Additionally, it will add underline to links on the page, in case links are delineated only by color.  
+Colorblindness and other visual impairments can make the internet difficult to use.  This Chrome extension will replace colors with appropriately contrasted colors or contrasted grey scale, depending on the user's settings.  Additionally, it will add underline to links on the page, in case links are delineated only by color.
 
-Developers and designers may also be interested in knowing how colors affect visually impaired users. This extension will provide features that simulate colorblindness of varying degrees so that professionals can see how these users are experiencing their site.  
+Developers and designers may also be interested in knowing how colors affect visually impaired users. This extension will provide features that simulate colorblindness of varying degrees so that professionals can see how these users are experiencing their site.
 
 Development of the features in this extension will be guided by [Usability.gov](https://www.usability.gov/get-involved/blog/2010/02/color-blindness.html), [99Designs](https://99designs.com/blog/tips/designers-need-to-understand-color-blindness/), and [We Are Colorblind](http://wearecolorblind.com).
 
@@ -42,11 +42,11 @@ The primary technical challenges will be:
 - Determining which grey scale tone corresponds to each color -- this will be different depending on whether the user requires high contrast or not
 - Determining which high-contrast colors should be used to replace the existing colors, when the extension is in high contrast color mode
 
-The colors will be identified by mapping classes in the DOM to a variety of attributes in the CSS such as `color`, `background-color`, and perhaps others.  Going from color to grey scale will be done with a standard algorithm.  Going from color to high-contrast color will be more challenging: currently, I plan to utilize a subset of high-contrast colors and map the given colors via some distance algorithm to the best match for these colors.  
+The colors will be identified by mapping classes in the DOM to a variety of attributes in the CSS such as `color`, `background-color`, and perhaps others.  Going from color to grey scale will be done with a standard algorithm.  Going from color to high-contrast color will be more challenging: currently, I plan to utilize a subset of high-contrast colors and map the given colors via some distance algorithm to the best match for these colors.
 
 ### Group Members & Work Breakdown
 
-Our group consists of two members, Munyo Frey and Ryan Hall.  
+Our group consists of two members, Munyo Frey and Ryan Hall.
 
 Munyo's primary responsibilities will be:
 
@@ -61,7 +61,7 @@ Ryan's primary responsibilites will be:
 - Producing the new HTML file with new colors
 - Creating the algorithm to correctly identify gray-scale alternatives
 - Creating the Settings page
-- Writing the repo's README, complete with screenshots and code snippets  
+- Writing the repo's README, complete with screenshots and code snippets
 
 ### Implementation Timeline
 
@@ -98,4 +98,4 @@ Ryan's primary responsibilites will be:
 ### Plan for getting users and reviews
 - Both Munyo and Ryan will each share with at least 20 friends and family and ask for good reviews
 - Munyo will find an appropriate subreddit and make a post there to show off the chrome extension
-- Ryan will reach out to http://www.colourblindawareness.org/ to share the chrome extension 
+- Ryan will reach out to http://www.colourblindawareness.org/ to share the chrome extension
