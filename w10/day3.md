@@ -14,7 +14,7 @@
 #### Peer Reviews
 * [Peer reviews][peer-review-instructions] at 4:30pm.
 
-#### Flex Project Introduction (5:30, lecture)
+#### Flex Project Introduction (5:30pm lecture)
 * Get introduced to the [Flex Project][flex-project].
 
 ### Projects
@@ -25,9 +25,7 @@
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: ../projects/js-project/js-project.md
-
 [flex-project]: ../projects/flex-project/flex-project.md
-[resume]: ../application-materials/resume/resume.md
 [cover-letter]: ../application-materials/cover-letter/cover-letter.md
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [peer-review-instructions]: ../meta/app-academy/peer-reviews.md

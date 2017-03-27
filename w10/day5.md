@@ -1,5 +1,7 @@
 ## W10D5
 ### Homework
+* Read about [personal pitches][personal-pitch].
+  * Write a rough personal pitch. Follow guidelines in the document linked above.
 * **[Personal Pitch video][personal-pitch-video]** in Job Search Folder by MONDAY 9am.
   * Upload the video to your Job Search Google Drive
   * Paste the link to Jobberwocky in your "Personal Pitch"
@@ -23,7 +25,7 @@
 
 ### Projects
 * Work on flex project proposal (due W11D1 at 9am)
-  * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
+* [Personal pitch video][personal-pitch-video], due Monday at 9am on [Jobberwocky][Jobberwocky]
 * Bonus: [portfolio site][portfolio]
 
 <!-- LINKS -->
