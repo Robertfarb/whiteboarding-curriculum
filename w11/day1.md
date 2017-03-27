@@ -5,17 +5,13 @@
   * Write your proposal ([sample proposal][flex-sample-proposal])
   * Upload your proposal to github
   * Submit your proposal by pasting in your repo url under Flex Project in Jobberwocky.
-* **Upload to Job Search Folder by 9am**
-  * [Resume][resume]
-  * [Text-only resume][text-only]
-  * [Cover letter][cover-letter]
-  * Name documents clearly. If you have multiple versions, it must be clear which is your final version.
-  * Paste in relevant links for resume and cover letter in Jobberwocky.
-  * Documents *must* be editable Google Docs.
-    * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. Your coach will consult the pdf for formatting and leave comments on the Google Doc.
-    * Do not upload Pages or Word files.
+*  **[Personal Pitch video][personal-pitch-video]** in Job Search Folder and Jobberwcoky by 9am.
+    * Upload the video to your Job Search Google Drive
+    * Paste the link to Jobberwocky in your "Personal Pitch"
 * **Complete [LinkedIn profile][linkedin] by 9am**
   * Link to your LinkedIn on your resume.
+* Read about [Behavioral Questions][behavioral-questions].
+* Familiarize yourself with more [behavioral questions][31-questions].
 * Bonus: [GitHub cleanup][github]
  * Change [authorship & commit history][github-history]
 * Bonus: [AngelList profile][angellist]

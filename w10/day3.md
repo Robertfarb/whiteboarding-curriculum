@@ -2,6 +2,9 @@
 ### Homework
 * Work on JavaScript Project.
 * **Resume due at 9am (provide google doc link to resume on [Jobberwocky][Jobberwocky])**
+  * Document *must* be editable Google Docs.
+  * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. 3) Put the text-only version in the link field, and add the link to pdf as a "To-do". Your coach will consult the pdf for formatting and leave comments on the Google Doc.
+  * Do not upload Pages or Word files.
 
 ### Afternoon
 #### Lecture
