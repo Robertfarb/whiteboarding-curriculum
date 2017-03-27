@@ -25,13 +25,27 @@ Based on the research you’ve done in Phase 0, make an outline and list what yo
 Introduce yourself, the technologies you know, and your interest in the position.
 
 * If possible, use the hiring manager’s name.  If you don't know the hiring manager's name, start with "Hi [Company Name] Team”.  
-* Introduce who you are by saying you are a web developer with specific technical skills (JavaScript, Rails, etc).  
+
+### Have a GREAT OPENING LINE
+Recruiters receive an enormous amount of materials to read...what will make you stand out right from the beginning?  If you were a Recruiter what would you rather see?
+
+I am a software developer with experience in React, Rails, and Javascript.   :-(
+I am an experienced software developer with a strong knowledge base in React, Ruby, Rails and Javascript (sort of ok)
+Looking for a rockstar software engineer who knows React, Ruby, Rails and Javascript?  (Gets attention)
+
+As you know, in life, you do not get a second chance to make a first impression.  Grab them in the first sentence.
+
+* **  [This article][cover-letters-article] (and those it links to) can help you brainstorm original content.  
+
+* Note:
   * Don’t call yourself a 'Full Stack' engineer.  While App Academy trained you in the full stack, calling yourself a 'full stack engineer' in is a little premature because 'Full stack' often means so experienced I can build whatever you throw at me.  For now just call yourself a web developer.  
-* Alternatively, a well-crafted but unique opener sometimes catch a reader's attention. [This article][cover-letters-article] (and those it links to) can help you brainstorm original content.  
+
 * If relevant, include a sentence about your background (science, engineering, mathematics, CS, finance).
 * Based on the research you’ve done from Phase 0, include a company blurb that show your interest in the company and its values.  Your company blurb should show *specific knowledge of the industry* or an understanding of *challenges specific to the company*.  Below are examples:
+
   * Weak: "I am excited to apply to GeneriCo because we both value awesome products and love traveling."
   * Strong: "I lived abroad, and the best travel experiences were the ones not yet in the Lonely Planet. I’d love to contribute to building this experience for other like-minded travelers as a web developer."
+  
   * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site.”
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
 
@@ -43,10 +57,25 @@ Based on the research you’ve done earlier, draft a few skills paragraphs that 
 * A description of your unique background that may be helpful to the company (e.g., the company creates products for real estate agents, and you have a background in real estate).   
 * Based on the job description, include the skills paragraphs that are most relevant.  For example, if the job description lists JavaScript as a key skill, then the paragraph you include should emphasize your knowledge of JavaScript.  
 
+
 ## Phase 4: Closing Paragraph
 * Thank them for their time and reiterate your interest in the company/position.
 * Include a live link to your portfolio site.
 * Mention the materials you're sending along: résumé + github + link to a live project.
+
+## Some good resources:
+Here are some good resources for samples:
+https://www.monster.com/career-advice/cover-letter-resume/cover-letter-samples
+http://www.coverletter.us/software-engineer-cover-letter/
+
+
+Things to look out for:
+https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-software-engineers/
+
+
+SAMPLE RESUMES AND COVERS
+http://insights.dice.com/dices-library-of-free-sample-resumes/
+
 
 ## Phase 5: Review Your Letter For Common Pitfalls
 - [ ] Your cover letter is one page or shorter.
@@ -77,7 +106,7 @@ Once you have a strong template cover letter, the process of writing a new cover
 
 [Salutation] Hello GeneriCo’s Team,
 
-[Opening paragraph:  introduction of who you are and company specific blurb]  I am a web developer with a background in Ruby, JavaScript, and frameworks such as Rails and React.  GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth, and I’d love to help GeneriCo.
+[Opening paragraph:  introduction of who you are and company specific blurb]  GeneriCo's userbase is growing fast. As a web developer with a background in Ruby, JavaScript, and frameworks such as Rails and React, I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth.
 
 [Technical skills paragraph option 1 - front end position]  I love to create software that is beautiful and interactive.  You can see an example of my frontend skills in my project [name/link].  I achieved the smooth user interface through careful utilization of React rendering and event listeners, and used Flexbox with React transitions for the clean, pixel-perfect look.
 
@@ -91,6 +120,59 @@ Once you have a strong template cover letter, the process of writing a new cover
 
 [Signing off]  Warm regards,
 Frank Matterson
+
+## More Ideas...
+
+Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
+
+I recently worked on a project___________ etc. etc.
+
+Also, check out ___________ as you will notice I ___________
+
+(Quick sentence about how you relate to the company).  I love AirBnB and as a software engineer, I know…..  (Next sentence about how you would be asset to their team)
+
+I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
+
+(Remember...their time is valuable...thank them...)
+
+### MAKE IT EASY FOR THE RECRUITER
+
+Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience).  Based on your job description:
+
+* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
+
+* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
+
+* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
+
+(Quick sentence about how you relate to the company).  I love AirBnB and as a software developer, I know….  (Next sentence)
+
+I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
+
+### NEED TO ** BOLD**?  If the recruiter only is looking for several seconds, maybe use a bold to highlight several key power words:
+
+Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.  Based on your job description:
+
+* Point on one of their bullet points and **specifics on your experience as it relates to the job description.**  For example, “as someone who has Ruby and Rails experience I…..
+
+* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has **Ruby and Rails experience** I…..
+
+* **Point on one of their bullet points and specifics** on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
+
+(Quick sentence about how you relate to the company).  I love AirBnB and as a software engineer, I know …..  (Next sentence)
+
+I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
+
+### ANOTHER IDEA
+
+I believe that being a good collaborator, having strong curiosity and the willingness to learn and grow are some the traits of an awesome Software Engineer.  As someone who has these traits and experience with Javascript, HTML 5, Ruby, Rails and CSS, I am really excited to reply to  your posting that I saw for a __________on_______________
+
+This paragraph should relate to one or two points from the job post and how it relates to your experience.
+
+This paragraph should describe something about you and your projects, challenges/results.
+
+Last thank you and let's get together soon paragraph.
+
 
 [bullet-points]: ../resume/crafting-your-bullets.md
 [cover-letters-article]:https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej

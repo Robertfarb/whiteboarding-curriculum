@@ -28,3 +28,14 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
 * *End:* "I've now built two games in JavaScript and one full-stack web app using Bootstrap and Rails.  I want to join [company] because [...]."
 
 Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.  A few specifics are critical for your listener to fully understand your story.
+
+## HELPFUL TIP 1:  
+When creating your personal pitch keep in mind that about 40% should be about you and 60% should be about your life/experience as a developer (How you got started, what you have done/are working on, why you love the industry, etc.) 
+
+## HELPFUL TIP 2:
+Your pitch IS important.  The best way to practice are as follows:
+PHONE SCREENS:  Record yourself on your phone so you can hear what you sound like.  Are you loud and clear?  Do you have filler words?  Talking too fast?  Listen as a Recruiter would hear you for the first time
+
+ON SITE:  Same as above but also have someone practice with you and video yourself.  Do you have good eye contact?  (Practice with some sticky pads and make eyes on them, put them around the room) Volume?  Fidgety?
+
+As adults we lean quicker when we can see and hear ourselves.
