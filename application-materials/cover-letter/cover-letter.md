@@ -100,7 +100,6 @@ Looking for an exceptional **software engineer who knows React, Ruby, Rails and 
 ## Some good resources:
 Here are some good resources for samples:
 https://www.monster.com/career-advice/cover-letter-resume/cover-letter-samples
-http://www.coverletter.us/software-engineer-cover-letter/
 
 
 Things to look out for:
