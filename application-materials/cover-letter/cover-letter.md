@@ -48,19 +48,52 @@ As you know, in life, you do not get a second chance to make a first impression.
   
   * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site.”
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
-
+  
+  OTHER GREAT OPENERS:
+  
+  Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
+  
+  Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience). 
+  
+  Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+  
 
 ## Phase 3: Skills Paragraphs
+
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
 * A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.  
 * A description of your other skills (teamwork, problem solving).  
 * A description of your unique background that may be helpful to the company (e.g., the company creates products for real estate agents, and you have a background in real estate).   
 * Based on the job description, include the skills paragraphs that are most relevant.  For example, if the job description lists JavaScript as a key skill, then the paragraph you include should emphasize your knowledge of JavaScript.  
 
+**MAKE IT DISTINCTIVE AND EASY FOR THE RECRUITER**
+Recruiters have very limited time.  An idea might be to add BULLET POINTS and BOLD keywords or phrases.  The idea here is to use some of the top bullet points of their job description and relate it to what you do.  For example:
+
+**Their job description bullet point:**  
+"You’ll use a diverse set of technologies including Node.js, NoSQL databases, and real-time message delivery systems"
+
+**Your cover letter bullet point:**  
+"On my recent projects wwww.amazingproject.com I employed Node,js, NoSQL databases and have created an efficient and effective real-time message delivery system"
+
+**BOLD**
+Sometimes, to make it easier for the Recruiter it can be advantageos to BOLD a few keywords/phrases in your opening paragraph as well as in the body and/or bulleted sections of your cover.  For example:
+
+Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+
+* On my recent projects wwww.amazingproject.com I employed **Node,js, NoSQL databases and have created an efficient and effective real-time message delivery system**
+
+* Comfortable with **networking concepts, including HTTP and TCP/IP**
+
+* **Strong understanding of data modeling and storage** with both NoSQL and relational databases
+
+
+
 
 ## Phase 4: Closing Paragraph
 * Thank them for their time and reiterate your interest in the company/position.
+
 * Include a live link to your portfolio site.
+
 * Mention the materials you're sending along: résumé + github + link to a live project.
 
 ## Some good resources:
@@ -71,10 +104,6 @@ http://www.coverletter.us/software-engineer-cover-letter/
 
 Things to look out for:
 https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-software-engineers/
-
-
-SAMPLE RESUMES AND COVERS
-http://insights.dice.com/dices-library-of-free-sample-resumes/
 
 
 ## Phase 5: Review Your Letter For Common Pitfalls
@@ -121,21 +150,7 @@ Once you have a strong template cover letter, the process of writing a new cover
 [Signing off]  Warm regards,
 Frank Matterson
 
-## More Ideas...
-
-Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
-
-I recently worked on a project___________ etc. etc.
-
-Also, check out ___________ as you will notice I ___________
-
-(Quick sentence about how you relate to the company).  I love AirBnB and as a software engineer, I know…..  (Next sentence about how you would be asset to their team)
-
-I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
-
-(Remember...their time is valuable...thank them...)
-
-### MAKE IT EASY FOR THE RECRUITER
+--------------------
 
 Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience).  Based on your job description:
 
@@ -149,21 +164,7 @@ Collaborating with teams, working efficiently and paying attention to detail is 
 
 I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
 
-### NEED TO ** BOLD**?  If the recruiter only is looking for several seconds, maybe use a bold to highlight several key power words:
-
-Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.  Based on your job description:
-
-* Point on one of their bullet points and **specifics on your experience as it relates to the job description.**  For example, “as someone who has Ruby and Rails experience I…..
-
-* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has **Ruby and Rails experience** I…..
-
-* **Point on one of their bullet points and specifics** on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
-
-(Quick sentence about how you relate to the company).  I love AirBnB and as a software engineer, I know …..  (Next sentence)
-
-I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
-
-### ANOTHER IDEA
+----------
 
 I believe that being a good collaborator, having strong curiosity and the willingness to learn and grow are some the traits of an awesome Software Engineer.  As someone who has these traits and experience with Javascript, HTML 5, Ruby, Rails and CSS, I am really excited to reply to  your posting that I saw for a __________on_______________
 
@@ -172,6 +173,9 @@ This paragraph should relate to one or two points from the job post and how it r
 This paragraph should describe something about you and your projects, challenges/results.
 
 Last thank you and let's get together soon paragraph.
+
+## DO NOT PLAGIARIZE COVER LETTERS....
+Just sayin....
 
 
 [bullet-points]: ../resume/crafting-your-bullets.md
