@@ -43,7 +43,7 @@ As you know, in life, you do not get a second chance to make a first impression.
 
 * Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
 
-** [This article][cover-letters-article] ** (and those it links to) can help you brainstorm original content.
+[This article][cover-letters-article] (and those it links to) can help you brainstorm original content.
 
 * Note: Don’t call yourself a 'Full Stack' engineer.  While App Academy trained you in the full stack, calling yourself a 'full stack engineer' in is a little premature because 'Full stack' often means so experienced I can build whatever you throw at me.  For now just call yourself a software engineer or web developer.
 
