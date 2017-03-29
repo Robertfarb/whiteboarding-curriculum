@@ -79,7 +79,7 @@ Recruiters have very limited time.  An idea might be to add BULLET POINTS and BO
 **BOLD**
 Sometimes, to make it easier for the Recruiter it can be advantageos to BOLD a few keywords/phrases in your opening paragraph as well as in the body and/or bulleted sections of your cover.  For example:
 
-Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+Looking for an exceptional **software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
 
 * On my recent projects wwww.amazingproject.com I employed **Node,js, NoSQL databases and have created an efficient and effective real-time message delivery system**
 
