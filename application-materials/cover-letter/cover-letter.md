@@ -37,11 +37,13 @@ As you know, in life, you do not get a second chance to make a first impression.
 
 **OTHER GREAT OPENERS:**
 
-* Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
+DO NOT USE THESE OPENERS.  WRITE YOUR OWN.  
 
-* Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience).
+* Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
 
-* Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+* Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
+
+* Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
 
 ** [This article][cover-letters-article] ** (and those it links to) can help you brainstorm original content.
 
