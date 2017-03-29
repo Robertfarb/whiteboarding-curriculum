@@ -24,55 +24,54 @@ Based on the research you’ve done in Phase 0, make an outline and list what yo
 ## Phase 2: Opening Paragraph
 Introduce yourself, the technologies you know, and your interest in the position.
 
-* If possible, use the hiring manager’s name.  If you don't know the hiring manager's name, start with "Hi [Company Name] Team”.  
+* If possible, use the hiring manager’s name.  If you don't know the hiring manager's name, start with "Hi [Company Name] Team”.
 
 ### Have a GREAT OPENING LINE
 Recruiters receive an enormous amount of materials to read...what will make you stand out right from the beginning?  If you were a Recruiter what would you rather see?
 
-I am a software developer with experience in React, Rails, and Javascript.   :-(
-I am an experienced software developer with a strong knowledge base in React, Ruby, Rails and Javascript (sort of ok)
-Looking for a rockstar software engineer who knows React, Ruby, Rails and Javascript?  (Gets attention)
+* I am a software developer with experience in React, Rails, and Javascript.   :-(
+* I am an experienced software developer with a strong knowledge base in React, Ruby, Rails and Javascript (sort of ok)
+* Looking for a rockstar software engineer who knows React, Ruby, Rails and Javascript?  (Gets attention)
 
 As you know, in life, you do not get a second chance to make a first impression.  Grab them in the first sentence.
 
-* **  [This article][cover-letters-article] (and those it links to) can help you brainstorm original content.  
+**OTHER GREAT OPENERS:**
 
-* Note:
-  * Don’t call yourself a 'Full Stack' engineer.  While App Academy trained you in the full stack, calling yourself a 'full stack engineer' in is a little premature because 'Full stack' often means so experienced I can build whatever you throw at me.  For now just call yourself a web developer.  
+* Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
+
+* Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience).
+
+* Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+
+** [This article][cover-letters-article] ** (and those it links to) can help you brainstorm original content.
+
+* Note: Don’t call yourself a 'Full Stack' engineer.  While App Academy trained you in the full stack, calling yourself a 'full stack engineer' in is a little premature because 'Full stack' often means so experienced I can build whatever you throw at me.  For now just call yourself a software engineer or web developer.
 
 * If relevant, include a sentence about your background (science, engineering, mathematics, CS, finance).
 * Based on the research you’ve done from Phase 0, include a company blurb that show your interest in the company and its values.  Your company blurb should show *specific knowledge of the industry* or an understanding of *challenges specific to the company*.  Below are examples:
 
   * Weak: "I am excited to apply to GeneriCo because we both value awesome products and love traveling."
   * Strong: "I lived abroad, and the best travel experiences were the ones not yet in the Lonely Planet. I’d love to contribute to building this experience for other like-minded travelers as a web developer."
-  
+
   * Weak: "I enjoy shopping online and especially like it when the experience is streamlined like on your site.”
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
-  
-  OTHER GREAT OPENERS:
-  
-  Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
-  
-  Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience). 
-  
-  Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
-  
+
 
 ## Phase 3: Skills Paragraphs
 
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
-* A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.  
-* A description of your other skills (teamwork, problem solving).  
-* A description of your unique background that may be helpful to the company (e.g., the company creates products for real estate agents, and you have a background in real estate).   
-* Based on the job description, include the skills paragraphs that are most relevant.  For example, if the job description lists JavaScript as a key skill, then the paragraph you include should emphasize your knowledge of JavaScript.  
+* A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.
+* A description of your other skills (teamwork, problem solving).
+* A description of your unique background that may be helpful to the company (e.g., the company creates products for real estate agents, and you have a background in real estate).
+* Based on the job description, include the skills paragraphs that are most relevant.  For example, if the job description lists JavaScript as a key skill, then the paragraph you include should emphasize your knowledge of JavaScript.
 
 **MAKE IT DISTINCTIVE AND EASY FOR THE RECRUITER**
 Recruiters have very limited time.  An idea might be to add BULLET POINTS and BOLD keywords or phrases.  The idea here is to use some of the top bullet points of their job description and relate it to what you do.  For example:
 
-**Their job description bullet point:**  
+**Their job description bullet point:**
 "You’ll use a diverse set of technologies including Node.js, NoSQL databases, and real-time message delivery systems"
 
-**Your cover letter bullet point:**  
+**Your cover letter bullet point:**
 "On my recent projects wwww.amazingproject.com I employed Node,js, NoSQL databases and have created an efficient and effective real-time message delivery system"
 
 **BOLD**
@@ -108,28 +107,28 @@ https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-
 
 ## Phase 5: Review Your Letter For Common Pitfalls
 - [ ] Your cover letter is one page or shorter.
-- [ ] Uses the same font as your Resume, and should be at least 11 point font.  
+- [ ] Uses the same font as your Resume, and should be at least 11 point font.
 - [ ] Uses the same header as your Resume.
-- [ ] Only includes positive language that sells you as a candidate.  Excludes negative language that downplays your skills (“I don’t have much experience/a CS Degree, but I can . . .”).   
-- [ ] Includes the skills paragraphs that are relevant to the job description.  
+- [ ] Only includes positive language that sells you as a candidate.  Excludes negative language that downplays your skills (“I don’t have much experience/a CS Degree, but I can . . .”).
+- [ ] Includes the skills paragraphs that are relevant to the job description.
 - [ ] Is addressed to the right person/company.
-- [ ] Doesn’t have typos or broken links.  
-- [ ] Includes a company blurb that is specific to the company and doesn’t sound generic.  
+- [ ] Doesn’t have typos or broken links.
+- [ ] Includes a company blurb that is specific to the company and doesn’t sound generic.
 
 ## Phase 6: Emailing Like A Boss
 Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and also paste your cover letter in the body of the email.
 * The subject line can be helpful to find your email in crowded inbox. "Junior Rails Engineer - New York" is more helpful than "Applying to CoolCompany, inc".
 * Set up a signature with your mail client. Include the link to your portfolio site.  You could try something like this:
 
-  Mark Zuckerberg  
-  markzuckerberg.com  
+  Mark Zuckerberg
+  markzuckerberg.com
   @finkd
 
 ## Phase 7: Iterate
-Once you have a strong template cover letter, the process of writing a new cover letter should be more efficient.  We recommend spending 10-15 minutes to tailor each cover letter.    
+Once you have a strong template cover letter, the process of writing a new cover letter should be more efficient.  We recommend spending 10-15 minutes to tailor each cover letter.
 * Spend 5 minutes researching the company.
 * Spend 5-7 minutes drafting and editing a company blurb tailored to the company.
-* Spend 2 minutes choosing the skills paragraph you want to include.  
+* Spend 2 minutes choosing the skills paragraph you want to include.
 
 ## Sample Cover Letter
 
@@ -179,4 +178,4 @@ Just sayin....
 
 
 [bullet-points]: ../resume/crafting-your-bullets.md
-[cover-letters-article]:https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej
+[cover-letters-article]: https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej

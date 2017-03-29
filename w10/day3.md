@@ -3,7 +3,11 @@
 * Work on JavaScript Project.
 * **Resume due at 9am (provide google doc link to resume on [Jobberwocky][Jobberwocky])**
   * Document *must* be editable Google Docs.
-  * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. 3) Put the text-only version in the link field, and add the link to pdf as a "To-do". Your coach will consult the pdf for formatting and leave comments on the Google Doc.
+  * If you used another application:
+    * Upload a PDF
+    * Copy and paste the text to a Google Doc.
+    * Put the nice-looking, pdf version in the link field
+    * Add the link to text-version as a "To-do" and be sure to include that file in your job search folder. Your coach will consult the pdf for formatting and leave comments on the Google Doc.
   * Do not upload Pages or Word files.
 
 ### Afternoon
