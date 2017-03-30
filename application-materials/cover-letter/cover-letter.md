@@ -37,11 +37,13 @@ As you know, in life, you do not get a second chance to make a first impression.
 
 **OTHER GREAT OPENERS:**
 
-* Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I recently saw on ________that you were looking for someone with this knowledge base (or experience) and I would enjoy the opportunity to meet with you to share with you some of my related projects and experience.
+DO NOT USE THESE OPENERS.  WRITE YOUR OWN.  
 
-* Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I recently saw on ________that you were looking for someone with this knowledge and I would enjoy the opportunity to meet with you to share with you some of my related projects (or experience).
+* Looking for a rockstar (or knowledgeable or experienced) software engineer who knows React, Ruby, Rails and Javascript?  I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
 
-* Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+* Collaborating with teams, working efficiently and paying attention to detail is what I do best as a software engineer.  As a Developer I have (thorough knowledge, experience, skills ) with React, Ruby, Rails and Javascript.  I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
+
+* Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I am (something company specific, like how you relate to their project/mission/industry) and I would enjoy the opportunity to meet with you to share with you my related projects and experience.
 
 [This article][cover-letters-article] (and those it links to) can help you brainstorm original content.
 
@@ -77,7 +79,7 @@ Recruiters have very limited time.  An idea might be to add BULLET POINTS and BO
 **BOLD**
 Sometimes, to make it easier for the Recruiter it can be advantageos to BOLD a few keywords/phrases in your opening paragraph as well as in the body and/or bulleted sections of your cover.  For example:
 
-Looking for an exceptional ** software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
+Looking for an exceptional **software engineer who knows React, Ruby, Rails and Javascript?**   I recently saw on ________that you were looking for someone with these special skills and I would enjoy the opportunity to meet with you to share with you some of my related projects.
 
 * On my recent projects wwww.amazingproject.com I employed **Node,js, NoSQL databases and have created an efficient and effective real-time message delivery system**
 
@@ -98,7 +100,6 @@ Looking for an exceptional ** software engineer who knows React, Ruby, Rails and
 ## Some good resources:
 Here are some good resources for samples:
 https://www.monster.com/career-advice/cover-letter-resume/cover-letter-samples
-http://www.coverletter.us/software-engineer-cover-letter/
 
 
 Things to look out for:
