@@ -28,7 +28,6 @@ The key goal of the flex project is to help differentiate you from other bootcam
 ## Requirements
 
 All projects need to have these elements:
- * Fill out [marketing opportunity proposal](https://docs.google.com/forms/d/e/1FAIpQLSehUjuwLhwstHthDCq7x-NPkvzftHM5ONQKBg9n5wRDbqykww/viewform)
  * README - make sure it has:
    * Description of project, including goals
    * Link to live demo and/or instructions on how to use and run code
@@ -39,7 +38,12 @@ All projects need to have these elements:
      * A few example READMEs are linked from [this page][example-readmes]
    * To-dos and future features
  * Make sure there's no .DS_Stores, node_modules, etc.
- * If improving an old project, go through the whole thing and refactor everything.
+ * If it is a non-live project (ie. Chrome extension, mobile app, slackbot, npm package), then it **is required** to have a demo page.
+   * [Uber on Slack demo page](https://uberonslack.com/)
+   * [Bookr demo page](https://vinitp94.github.io/BookrLive/)
+ * **If it is a mobile app**, then it must have a link to an emulator on the demo page.
+   * [Sample emulator](https://appetize.io/app/kdwf1bge5u8abnak3qgqv898xc?device=nexus5&scale=100&orientation=portrait&osVersion=7.0)
+ * Demo pages should be super simple. It's basically like making a [personal portfolio](../../application-materials/portfolio/portfolio.md), except for your project. Use templates, and keep it simple!
  * Once complete, add the new project to your resume!
 
  [example-readmes]: ../example-readmes.md
@@ -53,6 +57,12 @@ When working in a group, make sure to make use of an effective [Github workflow]
   * When feature is complete, submit a Pull Request and assign it to a team member to review your code.
   * Discuss code, make any necessary changes. When assigned team member approves the pull request, merge the feature branch into master.
 
-### Sample Flex Project Proposal
-
-Check out a [sample proposal](flex-sample-proposal.md).
+### Flex Project Proposal
+* Due W11D1 at 9am
+* Similar to other projects, proposal will be written in a repo
+  * **Only one repo needed per team**
+* Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
+* On Jobberwocky, state who your teammates are in the 'To-do' section.
+  * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
+* Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
+* Check out a [sample proposal](flex-sample-proposal.md).

@@ -26,7 +26,7 @@ With this extension, users will be able to:
 
 ### Technologies & Technical Challenges
 
-This extension will be implemented using the standard Chrome extension technology: Javascript, HTML, and CSS.  In addition to the `manifest.json` and `package.json` files, there will be two scripts:
+This extension will be implemented using the standard Chrome extension technology: JavaScript, HTML, and CSS.  In addition to the `manifest.json` and `package.json` files, there will be two scripts:
 
 - `content.js`: will contain the logic for finding and recoloring elements in the DOM
 - `options.js`: will contain the logic for changing the user's settings

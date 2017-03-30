@@ -51,7 +51,7 @@ Look into setting up a CNAME record to make www.firstnamelastname.com redirect t
 
 **2. Register a domain**
 
-We recommend [namecheap.com][namecheap] for registering domains.    
+We recommend [namecheap.com][namecheap] for registering domains.
 
 [namecheap]: http://www.namecheap.com/
 
@@ -68,11 +68,11 @@ Canonical names make your hostname point to another. You want www.mycoolurl.com 
 0. Click on your domain.
 0. Click "All Host records" in the blue menu on the left.
 0. In the "www" row
-    * Enter the URL you want to point to under the "IP Address/URL" column.    
-    * Select CNAME (Alias) under "Record Type".    
+    * Enter the URL you want to point to under the "IP Address/URL" column.
+    * Select CNAME (Alias) under "Record Type".
 0. Click "Save Changes".
 
-More detailed instructions:    
+More detailed instructions:
 [namecheap setup][namecheap-tutorial]
 [namecheap-tutorial]: http://www.namecheap.com/support/knowledgebase/article.aspx/1031/2/
 
