@@ -7,7 +7,7 @@
   * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
 * [Personal pitch video][personal-pitch-video] due Monday at 9am on [Jobberwocky][Jobberwocky]
 * [LinkedIn profile][linkedin]
-* Bonus: [GitHub cleanup][github]
+* Bonus: [GitHub cleanup][github] 
  * Change [authorship & commit history][github-history]
  * Update [READMEs][readme]
 * Bonus: [AngelList profile][angellist]
