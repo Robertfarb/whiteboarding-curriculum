@@ -38,4 +38,4 @@ PHONE SCREENS:  Record yourself on your phone so you can hear what you sound lik
 
 ON SITE:  Same as above but also have someone practice with you and video yourself.  Do you have good eye contact?  (Practice with some sticky pads and make eyes on them, put them around the room) Volume?  Fidgety?
 
-As adults we lean quicker when we can see and hear ourselves.
+As adults we learn quicker when we can see and hear ourselves.
