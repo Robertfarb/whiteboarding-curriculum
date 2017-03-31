@@ -8,8 +8,8 @@
 * [Personal pitch video][personal-pitch-video] due Monday at 9am on [Jobberwocky][Jobberwocky]
 * [LinkedIn profile][linkedin]
 * Bonus: [GitHub cleanup][github]
- - Change [authorship & commit history][github-history]
- - Update [READMEs][readme]
+  * Change [authorship & commit history][github-history]
+  * Update [READMEs][readme]
 * Bonus: [AngelList profile][angellist]
 * Bonus: [portfolio site][portfolio].
 
