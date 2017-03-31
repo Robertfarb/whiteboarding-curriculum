@@ -2,7 +2,6 @@
 
 ### Projects, due Monday 9am
 * **To submit your Flex Project Proposal, Resume, and Cover Letter for review, go to [Jobberwocky][Jobberwocky] and paste in the relevant links under the correct job app materials.**
-  * **Make sure you have the correct Flex Proposal scorecard
 * [Flex Project][flex-project] Proposal
   * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
 * [Personal pitch video][personal-pitch-video] due Monday at 9am on [Jobberwocky][Jobberwocky]
