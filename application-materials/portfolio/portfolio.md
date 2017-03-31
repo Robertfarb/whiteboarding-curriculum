@@ -6,7 +6,7 @@ No need to go crazy with your personal site. Maybe a jQuery animation here and t
 
  Include:
 * A personal summary - this will be very similar to your personal pitch
-* A nice, well-lit picture of you. In NY, the one in the progress tracker is perfect
+* A nice, well-lit picture of you. The one in Progress Tracker is perfect
 * A list of your projects with short descriptions
     * Use the descriptions from your résumé
     * For each project include a live link and a link to its Github repo
