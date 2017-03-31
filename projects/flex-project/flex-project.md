@@ -62,6 +62,7 @@ When working in a group, make sure to make use of an effective [Github workflow]
 * Similar to other projects, proposal will be written in a repo
   * **Only one repo needed per team**
 * Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
+  * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
 * On Jobberwocky, state who your teammates are in the 'To-do' section.
   * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
 * Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.

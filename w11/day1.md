@@ -5,6 +5,7 @@
   * Write your proposal ([sample proposal][flex-sample-proposal])
   * Upload your proposal to github
   * Submit your proposal by pasting in your repo url under Flex Project in Jobberwocky.
+  * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
 *  **[Personal Pitch video][personal-pitch-video]** in Job Search Folder and Jobberwcoky by 9am.
     * Upload the video to your Job Search Google Drive
     * Paste the link to Jobberwocky in your "Personal Pitch"
@@ -50,7 +51,7 @@
 
 [flex-project]: projects/flex-project/flex-project.md
 [flex-sample-proposal]: projects/flex-project/flex-sample-proposal.md
-[flex-proposal-submission]: #
+[flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
 
 [resume]: application-materials/resume/resume.md
 [text-only]: application-materials/resume/text-resume.md
