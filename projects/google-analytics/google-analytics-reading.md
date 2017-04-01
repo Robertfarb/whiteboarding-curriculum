@@ -1,4 +1,4 @@
-# Google Analytics Walkthrough
+# Google Analytics In-Depth Walkthrough
 
 [**Video Demo**](https://vimeo.com/204210467) (password: go_video_go)
 
