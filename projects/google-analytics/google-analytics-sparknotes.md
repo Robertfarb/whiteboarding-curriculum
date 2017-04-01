@@ -18,12 +18,15 @@ On the other hand, if your projects are getting absolutely no views, then that m
 
 2. Once you sign up for an account, you should be taken to a page that looks like this:
 ![Google Analytics main](images/ga_setup2.png)
+
   * Under where it says 'Website tracking', copy and paste that script into the head of all of your projects in the index.html file. Again, I want to reiterate that you do not need to create a new property for each project; one property and its script tag will work for all of them (more on this later).
 
 3. Then, please share collab access with your coach so that they can also look at the data and perhaps share their advice. Do this by clicking on the gear icon on the bottom left corner:
 ![admin gear icon](images/gear_icon.png)
+
   * Hitting the gear icon takes you to this view:
 ![settings view](images/ga_setup3.png)
+
   * Under the middle column, 'Property', click on 'User Management'.
   * Then, in the 'Add permissions for:' field, please put your coach's email.
     * Eli: eli@appacademy.io
@@ -34,6 +37,7 @@ On the other hand, if your projects are getting absolutely no views, then that m
 
 4. Finally, filter out your own IP address so you don't end up tracking your own views as well. Do this by clicking the gear icon on the bottom left corner again. Then, on the right most column, labeled 'View/All Web Site Data', click 'Filters', which should take you to this view:
 ![filter IP](images/ga_setup4.png)
+
   * Click "Add Filter"
   * Name the Filter
   * For 'filter type', choose "Exclude"
@@ -45,8 +49,10 @@ On the other hand, if your projects are getting absolutely no views, then that m
 #### Viewing the Data
 * Finally, to view the data breakdown between your different projects, go to the left hand column and click on the 'behavior' icon:
 ![behavior icon](images/behavior_icon.png)
+
 * Click on 'Site Content', and then 'All Pages', which leads you to this view:
 ![viewing the data](images/ga_setup5.png)
+
 * For 'Primary Dimension', click on 'Page Title', which should then get you a breakdown of how many views each of your projects are getting.
 
 
