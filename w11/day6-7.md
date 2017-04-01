@@ -6,6 +6,7 @@
   * **Remember, presentation is extremely important!**
     * All "Non-live" apps (anything that must be downloaded) **must have** demo pages with links to the actual download page.
     * Mobile apps **must have** have a demo page that contains a link to an [emulator][emulator]. (It must be eventually placed on the app store. Looks much more impressive and legitimate to recruiters.)
+    * Everyone should place a high priority on aesthetics, UI, and UX.
 
 
 <!-- LINKS -->
