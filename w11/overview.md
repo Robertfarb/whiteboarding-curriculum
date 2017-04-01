@@ -9,6 +9,7 @@ Days:
 * [Day 3](./day3.md)
 * [Day 4](./day4.md)
 * [Day 5](./day5.md)
+* [Day 6 - 7](./day6-7.md)
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: projects/js-project/js-project.md
