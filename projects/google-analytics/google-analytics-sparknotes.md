@@ -10,7 +10,7 @@ Putting Google Analytics on your projects will give us more information to work 
 On the other hand, if your projects are getting absolutely no views, then that might be an indication that with your current resume, you're getting screened before the recruiter is even interested in opening up the projects.
 
 #### Quick Setup
-1. Go to www.analytics.google.com and sign up:
+1. Go to https://analytics.google.com/analytics/web  and sign up:
 ![Sign up](images/ga_setup1.png)
   * For 'Account Name', just put your own name (ie. 'Joshua Ling').
   * Under 'Setting up your property', for 'Website Name', you can also just put your name because you can end up using this one 'property' for all of your projects.
