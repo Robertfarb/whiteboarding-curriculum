@@ -22,7 +22,7 @@ On the other hand, if your projects are getting absolutely no views, then that m
 
 3. Then, please share collab access with your coach so that they can also look at the data and perhaps share their advice. Do this by clicking on the gear icon on the bottom left corner:
 ![admin gear icon](images/gear_icon.png)
-Hitting the gear icon takes you to this view:
+  * Hitting the gear icon takes you to this view:
 ![settings view](images/ga_setup3.png)
   * Under the middle column, 'Property', click on 'User Management'.
   * Then, in the 'Add permissions for:' field, please put your coach's email.
