@@ -115,4 +115,5 @@ Use a template so you don't have to design anything.
 ## Quick hacks
 
 To demo some HTML/CSS/JS fast, there's [HTML Preview][html-preview].
+
 [html-preview]: http://htmlpreview.github.io/
