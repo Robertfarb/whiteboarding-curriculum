@@ -72,7 +72,7 @@ Use a template so you don't have to design anything.
   * *I should be able to `cmd + f` 'resume' and 'email'*
 * Links to your GitHub and LinkedIn
 * Links to your blog / Twitter / etc. if they're well maintained and show your interest in the web/tech.
-* [Google analytics] so you can see who's looking at your site.
+* [Google analytics][google-analytics] so you can see who's looking at your site.
     * Send each company a [unique query string so you can track][company-tracking] which ones are visiting your page.
     * You'll find this under Audience > Overview > View Full Report.
     * The Behavior Flow feature will tell you which parts of your site they're looking at most.
