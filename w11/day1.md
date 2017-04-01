@@ -14,7 +14,7 @@
 * Read about [Behavioral Questions][behavioral-questions].
 * Familiarize yourself with more [behavioral questions][31-questions].
 * Bonus: [GitHub cleanup][github]
- * Change [authorship & commit history][github-history]
+  * Change [authorship & commit history][github-history]
 * Bonus: [AngelList profile][angellist]
 * Bonus: [portfolio site][portfolio].
 * Bonus: Set up [Google Analytics][analytics-sparknotes]
