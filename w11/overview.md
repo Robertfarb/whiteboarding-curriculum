@@ -20,15 +20,15 @@ Days:
 * [Day 6 - 7](./day6-7.md)
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[flex-project]: ./projects/flex-project/flex-project.md
-[portfolio]: ./application-materials/portfolio/portfolio.md
+[flex-project]: ../projects/flex-project/flex-project.md
+[portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ./projects/google-analytics/google-analytics-sparknotes.md
 
 <!-- Online Presence -->
-[linkedin]: ./application-materials/linkedin/linkedin.md
-[github]: ./application-materials/github/github.md
-[angellist]: ./application-materials/angellist/angellist.md
+[linkedin]: ../application-materials/linkedin/linkedin.md
+[github]: ../application-materials/github/github.md
+[angellist]: ../application-materials/angellist/angellist.md
 
 <!-- Misc. -->
 [architecture-slides]: https://drive.google.com/a/appacademy.io/file/d/0B1ljY87XS9z0aDZZRHo1dW5zZWNjQjIzcFI5TGxIRF9MSTk4/view?usp=sharing
-[systems-design]: ./technical-skills/system-design/introduction.md
+[systems-design]: ../technical-skills/system-design/introduction.md
