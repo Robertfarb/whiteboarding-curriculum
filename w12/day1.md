@@ -16,21 +16,23 @@
 
 * Big O practice problem review
 * Lecture: Networking with Eli
-* Workshop: Networking Happy Hour!  
+* Workshop: Networking Happy Hour!
 
 ### Evening
 
 * **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
-* Tuesday roll call at 10am -- sleep in!  
+* Tuesday roll call at 10am -- sleep in!
 
 ### Bonus
 
+* **Bonus: [Memory and Assembly][memory-assembly-lecture]**
+  * Password is `go_video_go`
 * Do some practice problems on [HackerRank][HackerRank] or [Codility][Codility].
 * Begin to read and practice from Elements of Programming Interviews
 * Read [a successful alum's][babiak-tips] tips on interviewing.
 <!-- Job Search Projects -->
 
-[flex-project]: projects/flex-project/flex-project.md
+[flex-project]: ../projects/flex-project/flex-project.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
@@ -46,3 +48,7 @@
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
+
+
+<!-- Algorithms Projects & Lectures -->
+[memory-assembly-lecture]: https://vimeo.com/175634887

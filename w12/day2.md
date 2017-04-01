@@ -1,12 +1,19 @@
 ## W12D2
 ### Homework & Daily Tasks
+* Read about [Memory and Pointers][memory-pointers-readings]
+* Read about [Static Arrays][static-dynamic-array-readings]
 * Continue to implement instructor feedback on your projects.
-* Review any algorithms concepts that did not make sense.
+* Read about the [Job Boards][job-boards]
+* Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
+
+### Daily Tasks
+* Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].
+  * Get comfortable with these interfaces before you start applying. Companies use these for interviews and take-home challenges.
 
 ### Late Morning
 * Roll call at 10am to facilitate previous evening's lecture.
 * Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!  
+* Open work time: use this time to revise your projects!
 
 ### Afternoon
 
