@@ -17,7 +17,6 @@
 
 ### Projects
 * [Flex Project][flex-project]
-* No Algorithms Project
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
