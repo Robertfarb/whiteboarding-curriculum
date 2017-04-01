@@ -12,7 +12,7 @@
 * **Complete [LinkedIn profile][linkedin] by 9am**
   * Link to your LinkedIn on your resume.
 * Read about [Behavioral Questions][behavioral-questions].
-* Familiarize yourself with more [behavioral questions][31-questions].
+  * Familiarize yourself with more [behavioral questions][31-questions].
 * Bonus: [GitHub cleanup][github]
   * Change [authorship & commit history][github-history]
 * Bonus: [AngelList profile][angellist]
@@ -54,3 +54,4 @@
 <!-- Self Presentation -->
 [personal-pitch-video]: ../meta/app-academy/uploading-personal-pitch-video.md
 [behavioral-questions]: ../soft-skills/interviewing/behavioral-questions.md
+[31-questions]: https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
