@@ -100,7 +100,7 @@ Use a template so you don't have to design anything.
 
 ## Phase 4: Review For Submission
 
-**N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
+**N.B. Address these and then submit on Jobberwocky under 'Personal Site'**
 
 ### Portfolio Site:
 
