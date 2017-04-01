@@ -10,5 +10,5 @@
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[flex-project]: projects/flex-project/flex-project.md
+[flex-project]: ../projects/flex-project/flex-project.md
 [emulator]: https://appetize.io/app/kdwf1bge5u8abnak3qgqv898xc?device=nexus5&scale=100&orientation=portrait&osVersion=7.0
