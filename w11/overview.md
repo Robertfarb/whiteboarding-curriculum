@@ -22,7 +22,7 @@ Days:
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
 [portfolio]: ../application-materials/portfolio/portfolio.md
-[analytics-sparknotes]: ./projects/google-analytics/google-analytics-sparknotes.md
+[analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md
 
 <!-- Online Presence -->
 [linkedin]: ../application-materials/linkedin/linkedin.md
