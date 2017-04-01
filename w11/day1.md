@@ -35,22 +35,22 @@
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[flex-project]: projects/flex-project/flex-project.md
-[flex-sample-proposal]: projects/flex-project/flex-sample-proposal.md
+[flex-project]: ../projects/flex-project/flex-project.md
+[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
 [flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
-[portfolio]: application-materials/portfolio/portfolio.md
+[portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md
 
 <!-- Online Presence -->
-[linkedin]: application-materials/linkedin/linkedin.md
-[github]: application-materials/github/github.md
-[readme]: projects/example-readmes.md
+[linkedin]: ../application-materials/linkedin/linkedin.md
+[github]: ../application-materials/github/github.md
+[readme]: ../projects/example-readmes.md
 [github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
-[angellist]: application-materials/angellist/angellist.md
+[angellist]: ../application-materials/angellist/angellist.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 
 <!-- Self Presentation -->
-[personal-pitch-video]: meta/app-academy/uploading-personal-pitch-video.md
-[behavioral-questions]: soft-skills/interviewing/behavioral-questions.md
+[personal-pitch-video]: ../meta/app-academy/uploading-personal-pitch-video.md
+[behavioral-questions]: ../soft-skills/interviewing/behavioral-questions.md
