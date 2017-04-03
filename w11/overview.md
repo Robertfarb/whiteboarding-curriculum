@@ -7,6 +7,7 @@
 * [Setting up Google Analytics][analytics-sparknotes]
   * **Remember to share access with your coach!**
 * Building a [flex project][flex-project] to help differentiate yourself from other grads
+  * Use a good [git workflow][git-workflow]
 * Learning the skills to tackle behavioral and technical interviews
 * Learning about [web architecture][architecture-slides] and [systems design][systems-design]
 * One-on-one meetings with your career coach
@@ -23,6 +24,7 @@ Days:
 [flex-project]: ../projects/flex-project/flex-project.md
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md
+[git-workflow]: ../projects/git-workflow.md
 
 <!-- Online Presence -->
 [linkedin]: ../application-materials/linkedin/linkedin.md

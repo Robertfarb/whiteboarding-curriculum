@@ -4,6 +4,7 @@
 
 ### Morning
 * Flex work time
+  * Use good [git workflow][git-workflow].
 
 ### Afternoon
 #### Lecture
@@ -21,6 +22,7 @@
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
+[git-workflow]: ../projects/git-workflow.md
 
 <!-- Internal Resources -->
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index

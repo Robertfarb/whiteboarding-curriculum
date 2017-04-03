@@ -27,7 +27,7 @@
 
 ### Afternoon
 #### Lecture
-* **Github Workflow**
+* [**Github Workflow**][git-workflow]
 
 #### Work time
 * [Flex project][flex-project] (2:30 - 6pm)
@@ -40,6 +40,7 @@
 [flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md
+[git-workflow]: ../projects/git-workflow.md
 
 <!-- Online Presence -->
 [linkedin]: ../application-materials/linkedin/linkedin.md

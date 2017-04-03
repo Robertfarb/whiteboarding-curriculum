@@ -14,13 +14,12 @@ The ["feature-branch" workflow][feature-branch] is one of multiple types of work
     * Run `git branch` to confirm which branch you are on.
 3. Work on the feature, committing often with strong commit messages.
     * [How to write good commit messages][good-commit-messages]
-        * Capitalize first letter
         * Do not end subject line with period
-        * Use imperative mood (ie. good: 'Create auth log in form'; bad: 'Created auth log in form'; bad: 'Will create auth log in form')
+        * Use imperative mood (start with a present tense and verb) (ie. good: 'Create auth log in form'; bad: 'Created auth log in form'; bad: 'Will create auth log in form')
 4. When you are ready to publish your features/changes, push to your remote repository from your local feature branch.
-    * The first time you push from a local feature-branch, you will need to set upstream origin: `git push --set-upstream origin feature-branch-name`
-    * If it's not the first time, then a simple `git push` will do
-5. Go to your remote repository, and create a pull request.
+    * The first time you push from a local feature-branch, you will need to set upstream origin: `git push -u origin feature-branch-name`
+    * If it's not the first time, then do `git push origin feature-branch-name`.
+5. Go to your repository on Github, and create a pull request.
     * **If there are merge conflicts**, go back to command line and [resolve them][resolving-merge-conflicts].
     * Once you finish resolving, commit and push.
 6. Assign someone to review your pull request.
@@ -35,7 +34,12 @@ In addition to using that interface, checkout that remote feature branch on to y
 * login-form
 * navbar-dropdown-menu
 
-Let's say that your teammate assigns you to review the pull request on his or her feature branch `login-form`. From your command line, `checkout login-form` so that you can view and test the code locally.
+
+Let's say that your teammate assigns you to review the pull request on his or her feature branch `login-form`. From your command line, `git checkout login-form` so that you can view and test the code locally.
+
+Once you approve a pull request, delete the branch on Github.
+
+On the same note, if your pull request gets approved, you don't have to keep working on that same local feature branch. You can delete it locally with `git branch -d feature-branch-name-that-was-approved` and then check out another feature branch to work on something else.
 
 #### General tips for a successful workflow
 1. When switching between branches, your branch must be clean. To keep it simple, commit any changes before switching.
@@ -47,6 +51,7 @@ Let's say that your teammate assigns you to review the pull request on his or he
     * Check 'Protect this branch' and 'Require pull requst reviews before merging'.
 4. Use `git log` to review what commits have happened on your current branch
 5. Use `git branch` to confirm that you are on the correct branch.
+6. Use `git status` to see whether you have staged or unsaved files.
 
 [feature-branch]: https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
 [resolving-merge-conflicts]: https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
