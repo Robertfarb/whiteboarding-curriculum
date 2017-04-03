@@ -19,13 +19,13 @@ The ["feature-branch" workflow][feature-branch] is one of multiple types of work
         * Use imperative mood (ie. good: 'Create auth log in form'; bad: 'Created auth log in form'; bad: 'Will create auth log in form')
 4. When you are ready to publish your features/changes, push to your remote repository from your local feature branch.
     * The first time you push from a local feature-branch, you will need to set upstream origin: `git push --set-upstream origin feature-branch-name`
-    * If it's not the first time a simple `git push` will do
+    * If it's not the first time, then a simple `git push` will do
 5. Go to your remote repository, and create a pull request.
-    * If there are merge conflicts, go back to command line and [resolve them][resolving-merge-conflicts].
-    * Once you finish resolving, commit, and push.
+    * **If there are merge conflicts**, go back to command line and [resolve them][resolving-merge-conflicts].
+    * Once you finish resolving, commit and push.
 6. Assign someone to review your pull request.
     * If the reviewer requests changes, then make the changes on your local feature-branch, commit, and then push the changes. The new changes will automatically show up on the pull request.
-    * If the reviewer approves and there are no merge conflicts, the reviewer can merge the branch into master on Github.
+    * If the reviewer approves and there are no merge conflicts, then the reviewer can merge the branch into master on Github.
 
 #### Reviewing a pull request
 When you're assigned to review a pull request, Github has a nice interface for you to review changes and leave comments.
@@ -35,7 +35,7 @@ In addition to using that interface, checkout that remote feature branch on to y
 * login-form
 * navbar-dropdown-menu
 
-Let's say that your teammate assigns you to review the pull request on his or her feature branch (login-form). From your command line, `checkout login-form` so that you can view and test the code locally.
+Let's say that your teammate assigns you to review the pull request on his or her feature branch `login-form`. From your command line, `checkout login-form` so that you can view and test the code locally.
 
 #### General tips for a successful workflow
 1. When switching between branches, your branch must be clean. To keep it simple, commit any changes before switching.
