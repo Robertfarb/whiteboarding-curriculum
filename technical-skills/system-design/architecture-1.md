@@ -57,3 +57,90 @@ In this configuration, the user would still send out the HTTP request, but this 
 If you run your application servers on three different machines, then the load balancer would send approximately a third of requests to each one. All three machines are essentially clones of each other. Theoretically, you can now do 3 times the work you could before.
 
 In terms of cost, the database box(machine) is typically very high-end and expensive since it's doing much heavier work. The application server machines, on the other hand, are less expensive because it's more cost-efficient to run more cheap boxes than a few expensive boxes.
+
+---
+
+box (your machine or cloud) runs servers
+-app server (Rails)
+-web server (Puma)
+-database
+
+when you go to a URL
+-user contacts DNS (domain name service) (provided by browser, OS, ISP)
+-DNS lookup records associate URL to IP (like phone book)
+-domain name could be associated with another domain name first
+-once you find IP address, opens TCP (transmission control protocol) connection via HTTP request
+-connects to web server
+-server can accept connection. only job is to ask app server how to populate response
+-web server uses rack middleware to interact with app server
+-app opens up TCP connection to database to interact with database
+-app sends over SQL code, DB returns data
+
+HTTP is protocol for communication (e.g., a language)
+TCP is the medium by which servers communicate (e.g., the phone)
+
+DB can save data from both disk and RAM
+-disk (permanent, persistent)
+-RAM (staging area, fast reading, volatile)
+
+elastic compute cloud (EC2)
+-lets you rent a box (machine) in AWS data center
+-get AWS-specific domain name
+-configure nameserver to identify this domain with your own (CNAME record)
+
+rails
+-written in ruby, which can execute slowly (can use jruby to make it faster)
+-webrick is simple and slow
+-puma is multithreaded and fast
+
+postgresql
+-very high read rates (if data is in RAM)
+-lower write rates (needs to write to disk)
+
+CPU only speaks assembly
+compilation
+-program written in assembly which takes in code and translates to assembly
+-outputs binary assembly instructions, saves as executable
+-can then run exe
+-compiler is a translator
+
+interpretation
+-interpreter can be written in compiled language
+-simultaneous translation
+-as it sees interpreted language, it will immediately tell the CPU what the assembly is
+
+MRI - single threaded, default ruby interpreter
+JRuby - multithreaded
+
+CPU core
+-1 core: single worker. could go faster and faster but only one
+-more cores: more workers. in parallel. multithreaded
+
+improving performance:
+
+scaling up (more powerful, better equipment)
+-more CPUs, faster CPUs, more cores (improves app server and DB server)
+-more RAM (improves DB read performance)
+-use SSD over rotational disks, use RAID (improves DB write performance)
+
+scaling out (more machines)
+-more app servers (app tier)
+-NGINX in its own box
+-DB box is typically very high-end and expensive
+-app machines are low-end and inexpensive
+
+heroku dyno: app server. more dynos, more app servers
+
+distributed application server
+-run identical copies of app server on multiple machines
+-load balancer (NGINX) distributes work to multiple machines
+-NGINX is a reverse proxy, it obscures machines with the web service
+-DB is running on another machine, all app servers connect to it
+-application tier has multiple machines, DB tier doesn't
+
+database constraints are important because a distribution system can pass validations but then send conflicting requests to the DB
+most databases run queries in parallel
+
+increasing number of app machines doesn't distribute load on a DB server
+-read load is greater than write load
+-distributing read load is a huge win
