@@ -1,15 +1,20 @@
-leader-follower replication (master/slave)
-DB tier with multiple machines
--all Rails machines talk to all DB machines. both read/write
--all writes go to leader machines
--reads go to all machines
--only the leader writes to follower machines to keep followers up to date
--leader ships logs, which are a record of changes
--follower state replicates leader state
--followers are like backups and increase durability
--followers don't see queries, just see the effects of the queries from the log
+# Web Architecture (Part II)
 
-distributing write load
+### Scaling out database reads
+In the previous section, we discussed scaling out the application tier. In that implementation, the work of the application server can be distributed across as many machines as possible. However, because the database server is still only running on one machine, the database eventually ends up becoming the limiting factor.
+
+Since many web apps have much more database reads than writes, let's first explore how to scale out the reads.
+
+![leader follower databases](images/03-leader-follower-replication.jpg)
+
+In this implementation, let's say that we have 3 application servers, just like before, but now we also have 3 database machines. Of the 3 database machines, one of them is the leader, and **all** of the write operations go to the leader.
+
+Once a write operation is executed by the leader, the leader sends logs, which is a compressed history of the changes, to the 2 follower databases. This keeps the other 2 databses up-to-date with the leader, which then allows the read operations from the application servers to be distributed evenly across all 3 database machines. In summary, the followers don't see queries; rather, they just see the effects of the queries from the logs.
+
+One additional benefit of this configuration is that the followers also serves a backups, which increases overall durability.
+
+### Distributing write load
+In the above implementation,
 sharding
 -creates complexity
 -split up data across n machines
