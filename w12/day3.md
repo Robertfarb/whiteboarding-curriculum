@@ -1,19 +1,19 @@
 ## W12D3
 
 ### Homework & Daily Tasks
-* **Turn in the Dynamic Array project on [Jobberwocky][Jobberwocky] by 9am.**
+* **Turn in the Dynamic Array project on [Jobberwocky][Jobberwocky] by noon.**
 * Continue to implement instructor feedback on your projects.
 
 ### Late Morning
 * Roll call at 10am to facilitate evening's alumni panel.
 * Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!  
+* Open work time: use this time to revise your projects!
 
 ### Afternoon
 * Review: Dynamic Array project solution
 * [Mock Interviews][pair-boarding-index]
 * HashMap & LRU Cache project (you may want to review [w2d5][hashmaps-lru-videos] material)
-* **Turn in the project on [Jobberwocky][Jobberwocky] by 10am tomorrow**.
+* **Turn in the project on [Jobberwocky][Jobberwocky] by noon tomorrow**.
 
 ### Evening
 #### Alumni Panel

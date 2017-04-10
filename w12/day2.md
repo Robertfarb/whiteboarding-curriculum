@@ -1,11 +1,11 @@
 ## W12D2
 ### Homework & Daily Tasks
+* **Download [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos before coming to App Academy.**
 * Read about [Memory and Pointers][memory-pointers-readings]
 * Read about [Static Arrays][static-dynamic-array-readings]
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
-* **Download [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos before coming to App Academy.**
 
 ### Daily Tasks
 * Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].
@@ -21,7 +21,7 @@
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
 * Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
 * Dynamic Array [project][dynamic-array]
-* **Turn in project on [Jobberwocky][Jobberwocky] by 10am tomorrow.**
+* **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
 
 
 ### Bonus
@@ -32,7 +32,7 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
-[pair-boarding-index]: technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
 
 <!-- Applying & Networking -->
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
