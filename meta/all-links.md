@@ -27,7 +27,7 @@
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 [job-search-curriculum-drive-folder]:https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
-[pair-boarding-index]: technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 
 <!-- Self Presentation -->
@@ -37,14 +37,14 @@
 [31-questions]: https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer
 
 <!-- Applying & Networking -->
-[job-boards]: applying/job-boards.md
-[job-search-etiquette]: soft-skills/job-search-etiquette.md
-[good-questions]: soft-skills/interviewing/asking-questions.md
+[job-boards]: ../applying/job-boards.md
+[job-search-etiquette]: ../soft-skills/job-search-etiquette.md
+[good-questions]: ../soft-skills/interviewing/asking-questions.md
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
-[offer-negotiation]: soft-skills/negotiating/email-negotiations.md
-[salary-data]: soft-skills/negotiating/salary-data.md
+[offer-negotiation]: ../soft-skills/negotiating/email-negotiations.md
+[salary-data]: ../soft-skills/negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 [meetups]: soft-skills/networking/meetups.md
@@ -53,7 +53,7 @@
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [HackerRank]: https://www.hackerrank.com/
 [codility]: https://codility.com/
-
+[elements-book]: http://elementsofprogramminginterviews.com/
 <!-- Algorithms Projects & Lectures -->
 [memory-assembly-lecture]: https://vimeo.com/175634887
 [array-lecture]: https://vimeo.com/175717721
@@ -111,9 +111,9 @@
 [get-any-job]: https://www.linkedin.com/pulse/how-get-any-job-you-want-even-youre-unqualified-raghav-haran?trk=hp-feed-article-title-like
 
 [funding-stages]: http://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
-[rails-casts]: technical-skills/ruby-javascript/ruby-rails.md
-[rails-review]: technical-skills/ruby-javascript/ruby-rails.md
-[performance-cheat-sheet]: technical-skills/system-design/performance-cheat-sheet.md
+[rails-casts]: ../technical-skills/ruby-javascript/ruby-rails.md
+[rails-review]: ../technical-skills/ruby-javascript/ruby-rails.md
+[performance-cheat-sheet]: ../technical-skills/system-design/performance-cheat-sheet.md
 
 
 [intro-algos]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/introduction.md

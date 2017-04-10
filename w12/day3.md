@@ -33,16 +33,21 @@
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
 
 
 <!-- Technical Interview Resources -->
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [HackerRank]: https://www.hackerrank.com/
-[codility]: https://codility.com/
-[Codility]: https://codility.com/
-
+[elements-book]: http://elementsofprogramminginterviews.com/
 <!-- Algorithms Projects & Lectures -->
 
 [hashmaps-lru-videos]: https://github.com/appacademy/curriculum/tree/f6bce8fbad7f9f2490807f4dd4babf700c06d792/ruby#w2d5
 
 [hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
+
+<!-- Misc -->
+[performance-cheat-sheet]: technical-skills/system-design/performance-cheat-sheet.md
+[ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
+[rails-casts]: ../technical-skills/ruby-javascript/ruby-rails.md
+[rails-review]: ../technical-skills/ruby-javascript/ruby-rails.md
