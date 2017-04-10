@@ -5,6 +5,7 @@
 * **Read a/A's requirements for [sending applications][applying-for-jobs].**
 * Begin to implement instructor feedback on your projects.
 * **Go to Ronnie Chen's lecture tonight!**
+* Read [Big O Readings][big-o-readings].
 
 ### Morning
 
@@ -21,6 +22,7 @@
 ### Evening
 
 * **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
+* Read [Ronnie's tips][ronnie-tips] on job search.
 * Tuesday roll call at 10am -- sleep in!
 
 ### Bonus
@@ -30,6 +32,8 @@
 * Do some practice problems on [HackerRank][HackerRank] or [Codility][Codility].
 * Begin to read and practice from Elements of Programming Interviews
 * Read [a successful alum's][babiak-tips] tips on interviewing.
+
+
 <!-- Job Search Projects -->
 
 [flex-project]: ../projects/flex-project/flex-project.md
@@ -40,9 +44,7 @@
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
 <!-- Technical Interview Resources -->
-[interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [HackerRank]: https://www.hackerrank.com/
-[codility]: https://codility.com/
 [Codility]: https://codility.com/
 
 
@@ -52,3 +54,6 @@
 
 <!-- Algorithms Projects & Lectures -->
 [memory-assembly-lecture]: https://vimeo.com/175634887
+
+<!-- Misc -->
+[applying-for-jobs]: ../meta/app-academy/applying-for-jobs.md
