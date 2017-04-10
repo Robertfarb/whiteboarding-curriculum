@@ -30,7 +30,7 @@
 * **Bonus: [Memory and Assembly][memory-assembly-lecture]**
   * Password is `go_video_go`
 * Do some practice problems on [HackerRank][HackerRank] or [Codility][Codility].
-* Begin to read and practice from Elements of Programming Interviews
+* Begin to read and practice from [Elements of Programming Interviews][elements-book]
 * Read [a successful alum's][babiak-tips] tips on interviewing.
 
 
@@ -46,6 +46,7 @@
 <!-- Technical Interview Resources -->
 [HackerRank]: https://www.hackerrank.com/
 [Codility]: https://codility.com/
+[elements-book]: http://elementsofprogramminginterviews.com/
 
 
 <!-- Algorithms Readings & Projects -->

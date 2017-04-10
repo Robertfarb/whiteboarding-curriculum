@@ -5,6 +5,7 @@
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
+* **Download [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos before coming to App Academy.**
 
 ### Daily Tasks
 * Do one practice problem on [HackerRank][HackerRank]. Do another on [Codility][codility].
@@ -35,9 +36,13 @@
 
 <!-- Applying & Networking -->
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
+[job-boards]: ../applying/job-boards.md
 
 <!-- Technical Interview Resources -->
 [elements-book]: http://elementsofprogramminginterviews.com/
+[HackerRank]: https://www.hackerrank.com/
+[codility]: https://codility.com/
+
 <!-- Algorithms Projects & Lectures -->
 [array-lecture]: https://vimeo.com/175717721
 
@@ -50,3 +55,7 @@
 [static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
 [static-arrays]: https://vimeo.com/202107013
 [dynamic-arrays]: https://vimeo.com/202125903
+
+
+<!-- Misc -->
+[what-software-engineers-do]: ../technical-skills/engineering-culture/what-do-software-engineers-do.md
