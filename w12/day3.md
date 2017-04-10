@@ -26,7 +26,6 @@
 * Take a look at [some ways to make a website faster][performance-cheat-sheet].
 * Read about [Ruby interview walkthrough][ruby-interview-walkthrough].
 * Learn more Rails from the most interesting [Rails Casts][rails-casts].
-* Review [Ruby and Rails fundamentals][rails-review].
 
 
 <!-- LINKS --><!-- Job Search Projects -->
@@ -50,4 +49,3 @@
 [performance-cheat-sheet]: ../technical-skills/system-design/performance-cheat-sheet.md
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [rails-casts]: ../technical-skills/ruby-javascript/ruby-rails.md
-[rails-review]: ../technical-skills/ruby-javascript/ruby-rails.md
