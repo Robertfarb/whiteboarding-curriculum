@@ -47,7 +47,7 @@
 [hashmap]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d4/project2
 
 <!-- Misc -->
-[performance-cheat-sheet]: technical-skills/system-design/performance-cheat-sheet.md
+[performance-cheat-sheet]: ../technical-skills/system-design/performance-cheat-sheet.md
 [ruby-interview-walkthrough]: https://gist.github.com/ryansobol/5252653
 [rails-casts]: ../technical-skills/ruby-javascript/ruby-rails.md
 [rails-review]: ../technical-skills/ruby-javascript/ruby-rails.md
