@@ -20,7 +20,7 @@
 
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
 * Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
-* Dynamic Array (**Download from Jobberwocky at 4pm**)
+* Dynamic Array Project (**Download from Jobberwocky at 4pm**)
 * **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
 
 
