@@ -20,6 +20,7 @@
 
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
 * Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
+* [Dynamic Array Reading][dynamic-array-reading]
 * Dynamic Array Project (**Download from Jobberwocky at 4pm**)
 * **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
 
@@ -50,7 +51,7 @@
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
-[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d3/dynamic-array.md
+[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
 [static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
 [static-arrays]: https://vimeo.com/202107013
 [dynamic-arrays]: https://vimeo.com/202125903

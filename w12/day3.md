@@ -13,7 +13,9 @@
 * Review: Dynamic Array project solution
 * [Mock Interviews][pair-boarding-index]
 * HashMap & LRU Cache project (you may want to review [w2d5][hashmaps-lru-videos] material)
+* Project will go live on Progress Tracker Assessments page at 4pm.
 * **Turn in the project on [Jobberwocky][Jobberwocky] by noon tomorrow**.
+    * Reminder: name your project `#{first_name}_#{last_name}`
 
 ### Evening
 #### Alumni Panel
