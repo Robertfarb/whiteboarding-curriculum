@@ -3,7 +3,7 @@
 
 * Read about [negotiating an offer][offer-negotiation].
 * Continuing implementing staff feedback on your projects.
-* **Turn in the HashMap & LRU Cache project on [Jobberwocky][Jobberwocky] by 9am.**
+* **Turn in the HashMap & LRU Cache project on [Jobberwocky][Jobberwocky] by noon.**
 
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNews article][hn-negotiation-article]
@@ -12,7 +12,7 @@
 
 * Roll call at 10am because of graduation!
 * Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!  
+* Open work time: use this time to revise your projects!
 
 ### Afternoon
 * Review: HashMap & LRU Cache project solution
@@ -28,3 +28,4 @@
 [offer-negotiation]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/pay-talk.md
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
