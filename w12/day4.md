@@ -25,5 +25,6 @@
 <!-- LINKS -->
 
 <!-- Internal Resources -->
+[offer-negotiation]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/pay-talk.md
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
