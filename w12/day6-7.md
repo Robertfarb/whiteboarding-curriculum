@@ -16,6 +16,6 @@
 [Coursera]: https://www.coursera.org/course/algo
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [hiredintech]: http://www.hiredintech.com/system-design/
-[systemsdesign]: technical-skills/system-design/introduction.md
+[systemsdesign]: ../technical-skills/system-design/introduction.md
 [github]: ../application-materials/github/github.md
 [raymond-arch]: https://github.com/rlee0525/TechnicalConceptsForInterviews
