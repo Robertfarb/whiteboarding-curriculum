@@ -1,4 +1,11 @@
 ## W12D5
+### Homework
+* Download Heaps and Heap Sort videos
+    * [Heaps 1][heaps1]
+    * [Heaps 2][heaps2]
+    * [Heaps 3][heaps3]
+    * [Heapsort 1][heapsort1]
+    * [Heapsort 2][heapsort2]
 
 ### Morning Off
 * It's the day after Graduation! Attendance is **not required** this morning.
@@ -13,7 +20,7 @@
    * [Heaps 3][heaps3]
    * [Heapsort 1][heapsort1]
    * [Heapsort 2][heapsort2]
-* Project: [Heaps and Heapsort][heaps-heapsort]
+* **Heaps and Heap Sort Project goes live on Progress Tracker at 3:30pm.** Project is due at noon on Monday W13D1.
 
 ### Bonus
 
