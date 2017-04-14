@@ -34,7 +34,7 @@
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 
 <!-- Technical Interview Resources -->
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d10
 
 <!-- Algorithms Projects & Lectures -->
 
