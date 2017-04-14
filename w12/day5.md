@@ -24,7 +24,7 @@
 
 ### Bonus
 
-* Work some heap problems on [HackerRank][hackerrank] or from [Elements of Programming Interviews][elements-book]
+* Work some heap problems on [HackerRank][hackerrank].
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
