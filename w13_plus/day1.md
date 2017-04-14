@@ -4,7 +4,7 @@
 
 * **Finish Friday's Heaps & Heapsort project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Start applying to companies!  40 application quota begins this week.
-* Begin to think about what your next project will be & who you will work with.
+* Begin to think about what your next project will be & who you would like to work with.
 
 ### Morning
 
@@ -34,10 +34,7 @@
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 
 <!-- Technical Interview Resources -->
-[interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
-[HackerRank]: https://www.hackerrank.com/
-[codility]: https://codility.com/
-[Codility]: https://codility.com/
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
 
 <!-- Algorithms Projects & Lectures -->
 
