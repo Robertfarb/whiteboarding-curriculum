@@ -16,17 +16,14 @@
 * Roll call at 1:30pm
 * Solution review: BST & AVL
 * [Mock Interviews][pair-boarding-index]
-* Dijkstra's Algorithm video[link TBD]
+* Dijkstra's Algorithm video
 * Dijkstra's Algorithm [reading][dijkstras-readings]
-* Project: [Dijkstra's Algorithm][dijkstras], **due by 9am tomorrow**.
+* Project: Dijkstra's Algorithm goes live at 4pm, **due by noon tomorrow**.
 
-    <!-- LINKS -->
-    [Jobberwocky]: http://progress.appacademy.io/jobberwocky
+<!-- LINKS -->
+[Jobberwocky]: http://progress.appacademy.io/jobberwocky
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d13
 
-    <!-- Algorithms Projects & Lectures -->
-    [graphs-vid]: https://vimeo.com/203562085
-    [topological-vid]: https://vimeo.com/203906270
-
-    <!-- Algorithms Readings & Projects -->
-    [dijkstras-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3
-    [dijkstras]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3/project7
+<!-- Algorithms Readings & Projects -->
+[dijkstras-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3
+[dijkstras]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d3/project7

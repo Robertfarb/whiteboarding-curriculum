@@ -19,10 +19,7 @@
 * Graphs videos:
    * [Introduction to Graphs][graphs-vid]
    * [Topological Sort][topological-vid]
-* Readings:
-   * [Graphs][graphs-readings]
-   * [Topological Sort][topological-sort-readings]
-* Project: Topological Sort project goes live , **due by 12pm tomorrow**.
+* Project: Topological Sort project goes live at 4pm, **due by 12pm tomorrow**.
 
 <!-- LINKS -->
 <!-- Internal Resources -->
