@@ -4,7 +4,6 @@
 
 * **Finish yesterday's Quicksort project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Continue applying to companies!  40 application quota begins this week.
-* Continue to think about what your next project will be & who you will work with.
 
 ### Morning
 
@@ -17,8 +16,9 @@
 * Roll call at 1:30pm
 * Solution review: Quicksort
 * [Mock Interviews][pair-boarding-index]
+* Reading: [BST][bst]
 * Video: [Binary search tree][binary-search-trees-vid]
-* Project: [BST & AVL][bst], **due by 12pm tomorrow**.
+* Project: BST project goes live at 4pm (please use the version from Jobberwocky), **due by 12pm tomorrow**.
 
 <!-- LINKS -->
 
@@ -28,8 +28,7 @@
 
 <!-- Technical Interview Resources -->
 [binary-search-trees-vid]: https://vimeo.com/203204585
-[graphs-vid]: https://vimeo.com/203562085
-[topological-vid]: https://vimeo.com/203906270
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d11
 
 <!-- Algorithms Readings & Projects -->
 [bst]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d3/project5
