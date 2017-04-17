@@ -35,7 +35,7 @@
 For **submission instructions**, go to the project due date in [Job Search by Day][job-search-by-day]
 
 ## Coding Projects
-* [Add Google Analytics to your final projects](../projects/google-analytics/google-analytics-sparknotes.md)
+* [Add Google Analytics to your final projects](./projects/google-analytics/google-analytics-sparknotes.md)
 
 ### Full Stack Project
 * [Full-Stack Project][fsp] (due W9D5)
