@@ -8,14 +8,14 @@
 ### Morning
 
 * Roll call at 10am.
-* Office Hours with TAs, Josh, and Scott from 10am-12pm.
-* Open work time: work on your algorithms project, implementing instructor feedback on projects, or sending applications.
+* Dynamic Programming Lecture (10 - 11am)
+* Djikstra's Project Review (11 - noon)
 
 ### Afternoon
 
 * Roll call at 1:30pm
-* Solution review: Dijkstra's Algorithm
-* [Mock Interviews][pair-boarding-index]
-* Dynamic Programming video[link TBD]
-* Project: Dynamic Programming[link TBD], **due by 4:30pm today**.
-* Solution review: Dynamic Programming 
+* Dynamic Programming Project Worktime (1:30 - 4:30pm) **due by 4:30pm today**
+* Solution review: Dynamic Programming (4:30 - 6pm)
+
+
+[Jobberwocky]: http://progress.appacademy.io/jobberwocky
