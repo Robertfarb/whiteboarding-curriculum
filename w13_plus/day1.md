@@ -9,7 +9,7 @@
 ### Morning
 
 * Roll call at 10am all week.
-* Office Hours with TAs, Josh, and Scott from 10am-12pm.
+* Office Hours with TAs from 10am-12pm.
 * Open work time: work on your algorithms project, implementing instructor feedback on projects, or sending applications.
 
 ### Afternoon
@@ -24,7 +24,7 @@
    * [Sorting Algorithms 1][sorting1]
    * [Sorting Algorithms 2][sorting2]
 * Reading: [sorting algorithms][sorting-readings]
-* Project: [Optimized Quicksort][quicksort], **due by 12pm tomorrow**.
+* Project: Optimized Quicksort will be live at 4pm, **due by 12pm tomorrow**.
 
 
 <!-- LINKS -->
@@ -46,4 +46,3 @@
 
 <!-- Algorithms Readings & Projects -->
 [sorting-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2
-[quicksort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2/project4
