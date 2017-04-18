@@ -192,7 +192,7 @@ Recall that consecutive powers of 2 add nicely, that is, 1 + 2 + 4 + ... + 2<sup
 
 In other words, `O(depth) = O(log n)` if our BST is full or close to full. However, here is an example of a BST on the other extreme:
 
-<img src="./diagrams/degenerate.png" />
+<img src="https://github.com/appacademy/sf-job-search-curriculum/blob/master/algorithms/binary_search_trees/diagrams/degnerate.png" />
 
 Such a tree is often referred to as *degenerate*. Spend a moment convincing yourself that this tree is, in fact, a BST. Here, each of the *n* nodes is on its own level, so *depth* = *n*. That means, in turn, that `O(depth) = O(n)`, which is not nearly as fast as `O(log n)`.
 
@@ -210,7 +210,7 @@ The first thing that we must do is decide what it means for a tree to be "accept
 
 Notice that just like our `#insert` and `#find` algorithms, this definition is recursive. Let's look at a couple examples to get the hang of what a balanced tree is. First, let's check the degenerate tree that we saw in the previous section:
 
-<img src="./diagrams/degenerate.png" />
+<img src="https://github.com/appacademy/sf-job-search-curriculum/blob/master/algorithms/binary_search_trees/diagrams/degnerate.png" />
 
 The depth of `degenerate_bst.right_subtree` is 0, and `degenerate_bst.left_subtree` has a depth of 4. Hence, `degenerate_bst` is *not* balanced, since these two depths differ by 4 > 1. That's good! We want to exclude the degenerate case from our set of "acceptable" trees.
 
