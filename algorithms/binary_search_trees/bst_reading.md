@@ -71,23 +71,23 @@ One last point: what about the case in which out data set *does* contain repeats
 
 We have successfully defined `#insert`. The function `#find` is quite similar. Let's think about how we might do this, using our tree from the previous section as an example:
 
-<img src="./build_bst_soln.png" />
+<img src="./diagrams/build_bst_soln.png" />
 
 Imagine that we want to perform `tree.find(5)`. How might we do this? Let's start at the obvious place: the root. Since the root's value is 3 and 3 < 5, we know that 6 must be in `tree`'s right subtree, or it can't be in `tree`. So, we turn our attention towards the right subtree:
 
-<img src="./bst_find_1.png" />
+<img src="./diagrams/bst_find_1.png" />
 
 Now, we perform a similar analysis: the root of `tree.right_subtree` is 10, so if 5 can be found, it'll be in `10`'s left subtree:
 
-<img src="./bst_find_2.png" />
+<img src="./diagrams/bst_find_2.png" />
 
 And now, the root of the tree we're searching (`tree.right_subtree.left_subtree`) is equal to 5, so we return `true`. The image below summarizes our steps.
 
-<img src="./bst_find_4.png" />
+<img src="./diagrams/bst_find_4.png" />
 
 What happens if the value we're trying to find isn't in our tree?  This case is essentially `insert(val)`; we're trying to find the place within the tree that, by design, *must* contain `val` if indeed `tree` contains `val`.  We will know that we can return `false` if we cannot proceed in our tree in the necessary direction. For example, let us attempt to `find(7)` in `tree`:
 
-<img src="./bst_find_5.png" />
+<img src="./diagrams/bst_find_5.png" />
 
 Let's summarize the steps that we're taking in our `find(val)` algorithm:
 
@@ -105,13 +105,13 @@ Note that as with `#insert`, the `#find` algorithm is recursive. In fact, the tw
 
 Our next function, `#delete`, is a little more challenging. We have a couple different cases we must consider. We'll start with the easiest case: that in which the node to be deleted has no children. Imagine we'd like to perform `delete(6)` on the tree below:
 
-<img src="./bst_delete_1.png" />
+<img src="./diagrams/bst_delete_1.png" />
 
 The reason that this case is easy is because we can simply erase `6` without anything much changing. Since `6` has no children, it leaves no orphaned nodes when it is deleted.  We'll get more into the practicalities of "erasing" `6` during the hands-on portion of this project.
 
 Let's explore the case where our node to be deleted has one child.  For instance, let's perform `delete(10)`. Now, in addition to deleting `10`, we must replace it with something in order to maintain a cohesive BST. There's an obvious solution: simply "promote" `10`'s child, making `10`'s parent its new parent, as shown below.
 
-<img src="./bst_delete_2.png" />
+<img src="./diagrams/bst_delete_2.png" />
 
 Although this looks like it's a fine way to delete `10`, we must ensure that this actually works.  That is, can we perform this promotion and be sure that we'll be left with a BST? This is really two questions:
 
@@ -122,7 +122,7 @@ Although this looks like it's a fine way to delete `10`, we must ensure that thi
 
 Great! One more case to go, and that is the case in which our node to be deleted has both a left and a right child. Say we want to perform `delete(15)` on `tree2`, pictured below. Because `15` has two children, this is going to disrupt the tree considerably. We want to choose a replacement for `15` that causes minimal disruption.
 
-<img src="./bst_delete_4.png" />
+<img src="./diagrams/bst_delete_4.png" />
 
 The replacement, `r`, that we choose for `15` must satisfy three conditions:
 
@@ -134,7 +134,7 @@ Let's start with a simple choice: which side of the original tree shall we pick 
 
 We must take a small detour here to ensure that we are able to easily find the maximum (or, analogously, the minimum) of a BST, as we wish to call `max(tree.left_subtree)`. This is an easy problem, it turns out. As always, we begin at the tree's root node. All nodes greater than the root are to its right, so we look for the root's right child. If it has one, we in turn find the *right child* of this right child. We proceed in this way until we cannot go any further to the right. This final right child is the maximum of the tree, as illustrated below.
 
-<img src="./bst_delete_5.png" />
+<img src="./diagrams/bst_delete_5.png" />
 
 Pause here and ask yourself two questions:
 
@@ -143,11 +143,11 @@ Pause here and ask yourself two questions:
 
 We now have our `r`, which satisfies both of our conditions; since `r` = `14` is the maximum of the left subtree, it'll be greater than every element in the *new* left subtree once it replaces `15` as the root. `r` also remains less than every element in the original (now its own) right subtree:
 
-<img src="./bst_delete_6.png" />
+<img src="./diagrams/bst_delete_6.png" />
 
 Now that we've promoted `r` to replace `15`, we must take care of one last piece: what should we do with `r`'s left subtree? Since we are in essence "deleting" `r` locally, we will treat this as we did our second case in this analysis: we promote `r`'s left child to take its place:
 
-<img src="./bst_delete_7.png" />
+<img src="./diagrams/bst_delete_7.png" />
 
 This works, but what would we do if `r` had two children instead of one? Fortunately, this case *cannot* occur; if it did, then `r` would not be the maximum of `3`'s left subtree, because its right child would be larger. Hence, we have buttoned up all our cases, and we're ready to summarize the steps to our `delete(val)` algorithm:
 
@@ -166,17 +166,17 @@ This algorithm is known as *Hibbard deletion* and is widely used in BST implemen
 
 We began this reading with a promise to create a data structure that performed `#find`, `#insert`, and `#delete` *fast*. Now it's time to see if that's true. Let's start with `#find`. Recall the work that we did to `find(6)` in `tree`:
 
-<img src="./bst_find_6.png" />
+<img src="./diagrams/bst_find_6.png" />
 
 Notice that at each new *level* of the tree, we make a binary choice, comparing 6 to the node we're currently exploring. This comparison takes `O(1)` time. Hence, what matters here is the *number of levels* in the tree. We refer to this as the **depth** of the tree.
 
-<img src="./bst_depth.png" />
+<img src="./diagrams/bst_depth.png" />
 
 All the operations `#find`, `#insert`, `#max`, and `#min` run in `O(depth)` time, since we traversing at most `depth` levels of the tree, performing a `O(1)` operation at each level. Similarly, `#delete` is `O(depth)` because we must perform both `#find` and `#max` (or `#min`) throughout the course of performing `#delete`.
 
 Now we ask ourselves another question: what are the bounds on `depth` in terms of `n`, the number of elements in the tree? On one extreme, we can imagine a tree which is complete, or close to it: that is, all or almost all of the available spaces for nodes are occupied. Here's one such example:
 
-<img src="./full_tree.png" />
+<img src="./diagrams/full_tree.png" />
 
 In a tree such as this, the <i>k</i>th level of the tree contains approximately 2<sup><i>k</i> - 1</sup> nodes. We add up the number of nodes level by level, leaving us with the following equation:
 
@@ -192,7 +192,7 @@ Recall that consecutive powers of 2 add nicely, that is, 1 + 2 + 4 + ... + 2<sup
 
 In other words, `O(depth) = O(log n)` if our BST is full or close to full. However, here is an example of a BST on the other extreme:
 
-<img src="./degenerate.png" />
+<img src="./diagrams/degenerate.png" />
 
 Such a tree is often referred to as *degenerate*. Spend a moment convincing yourself that this tree is, in fact, a BST. Here, each of the *n* nodes is on its own level, so *depth* = *n*. That means, in turn, that `O(depth) = O(n)`, which is not nearly as fast as `O(log n)`.
 
@@ -210,25 +210,25 @@ The first thing that we must do is decide what it means for a tree to be "accept
 
 Notice that just like our `#insert` and `#find` algorithms, this definition is recursive. Let's look at a couple examples to get the hang of what a balanced tree is. First, let's check the degenerate tree that we saw in the previous section:
 
-<img src="./degenerate.png" />
+<img src="./diagrams/degenerate.png" />
 
 The depth of `degenerate_bst.right_subtree` is 0, and `degenerate_bst.left_subtree` has a depth of 4. Hence, `degenerate_bst` is *not* balanced, since these two depths differ by 4 > 1. That's good! We want to exclude the degenerate case from our set of "acceptable" trees.
 
 Let's next look at this tree:
 
-[image of a hat-shaped tree]
+<img src="./diagrams/hat_tree.png" />
 
 Notice that the depth of a tree like this will always be *n*/2, which means that all of our operations will run on this tree in `O(n)` time. So we hope that we determine this tree to be unbalanced. Indeed, it is: although we satisfy Step 1 of our definition of balanced, since `hat_tree.left_subtree.depth` - `hat_tree.right_subtree.depth` = 0, we do not satisfy Step 2. Both `hat_tree.right_subtree` and `hat_tree.left_subtree` are unbalanced. In fact, they are examples of the very degenerate case we saw a moment ago.
 
 What about the other extreme, our "good" example tree?
 
-<img src="./full_tree.png" />
+<img src="./diagrams/full_tree.png" />
 
 Let's exercise our definition of balanced to check.
 
 **Step 1.** Find the depths of `full_bst.left_subtree` and `full_bst.right_subtree`.
 
-<img src="./balanced_1.png" />
+<img src="./diagrams/balanced_1.png" />
 
 The difference in the depths is 2 - 2 = 0. So far, so good!
 
@@ -237,7 +237,7 @@ The difference in the depths is 2 - 2 = 0. So far, so good!
 <ul>
   <li>**Step 2a.** Compare the depths of the left and right subtrees of `full_bst.left_subtree`.
 
-    <img src="./balanced_2.png" />
+    <img src="./diagrams/balanced_2.png" />
 
     The difference in the depths is 1 - 1 = 0. Still good!
   </li>
@@ -251,7 +251,7 @@ The difference in the depths is 2 - 2 = 0. So far, so good!
 <ul>
   <li>**Step 3a.** Compare the depths of the left and right subtrees of `full_bst.right_subtree`.
 
-    <img src="./balanced_3.png" />
+    <img src="./diagrams/balanced_3.png" />
 
     The difference in the depths is 1 - 0 = 1. We're still balanced so far!
   </li>
@@ -285,12 +285,12 @@ This gives us a clue as to what we should do: we ought to traverse the entire le
 
 Let's practice on a familiar example.
 
-<img src="./in_order_1.png" />
+<img src="./diagrams/in_order_1.png" />
 
 We'll do our recording by pushing into an array, `results = []`.
 
 **Step 1.** Perform an in-order traversal of the left subtree.
-<img src="./in_order_1.png" />
+<img src="./diagrams/in_order_1.png" />
 <ul>
   <li>**Step 1a.** Perform an in-order traversal of the left subtree's left subtree. The left subtree is a single node, `0`. When we perform this traversal, we implicitly explore the left, but because it is empty, we immediately return to the root node, `0`. We now record that node by pushing its value into `results`. Then, we implicitly explore the right subtree, which is also empty. Hence, our exploration of this sub-subtree is finished.
 
