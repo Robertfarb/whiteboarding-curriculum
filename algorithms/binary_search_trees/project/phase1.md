@@ -59,7 +59,7 @@ You'll need a helper method, `#maximum`, for this one.  After that, the work tha
 
 Remember that a lynch pin in our binary search tree was ensuring that the tree was (and remained) *balanced* and thus maintained a depth that was approximately equal to `log (n)` where *n* is the number of nodes in the tree. Otherwise, we ended up with nasty cases like this one:
 
-<img src="./diagrams/degenerate.png" />
+<img src="../diagrams/degenerate.png" />
 
 We defined the *balanced* property as follows:
 
