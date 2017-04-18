@@ -290,27 +290,26 @@ Let's practice on a familiar example.
 We'll do our recording by pushing into an array, `results = []`.
 
 **Step 1.** Perform an in-order traversal of the left subtree.
+
 <img src="./diagrams/in_order_1.png" />
-<ul>
-  <li>**Step 1a.** Perform an in-order traversal of the left subtree's left subtree. The left subtree is a single node, `0`. When we perform this traversal, we implicitly explore the left, but because it is empty, we immediately return to the root node, `0`. We now record that node by pushing its value into `results`. Then, we implicitly explore the right subtree, which is also empty. Hence, our exploration of this sub-subtree is finished.
+
+**Step 1a.** Perform an in-order traversal of the left subtree's left subtree. The left subtree is a single node, `0`. When we perform this traversal, we implicitly explore the left, but because it is empty, we immediately return to the root node, `0`. We now record that node by pushing its value into `results`. Then, we implicitly explore the right subtree, which is also empty. Hence, our exploration of this sub-subtree is finished.
 
   After this step, `results = [0]`.
-  </li>
-  <li>**Step 1b.** Record the value of `root`. Here, `root` = `2`, because we are still thinking within the context of traversing the *left subtree* of the original. So, we push `2` into `results` and `results = [0, 2]`.
-  </li>
-  <li>**Step 1c.** Perform an in-order traversal of the right subtree. This subtree is empty, so our traversal terminates immediately.
-</ul>
+
+**Step 1b.** Record the value of `root`. Here, `root` = `2`, because we are still thinking within the context of traversing the *left subtree* of the original. So, we push `2` into `results` and `results = [0, 2]`.
+
+**Step 1c.** Perform an in-order traversal of the right subtree. This subtree is empty, so our traversal terminates immediately.
 
 **Step 2.** Record the value of the `root`. We're back in the context of the original tree, so `root` = `3`. We push 3 into `results`, so `results = [0, 2, 3].`
 
 **Step 3.** Perform an in-order traversal of the right subtree. This is a lot like Step 1!
-<ul>
-  <li>**Step 3a.** Perform an in-order traversal of the right subtree's left subtree. The left subtree is a single node, `4`. Just like our previous traversals of singleton nodes, we explore the empty left, push 4 into `results`, and explore the empty right. Now, `results = [0, 2, 3, 4]`.
-  </li>
-  <li>**Step 3b.** Record the value of `root` = `5`. Now, `results = [0, 2, 3, 4, 5]`.
-  </li>
-  <li>**Step 3c.** Perform an in-order traversal of the right subtree, another singleton node, `6`. After this step, `results = [0, 2, 3, 4, 6]`.
-</ul>
+
+**Step 3a.** Perform an in-order traversal of the right subtree's left subtree. The left subtree is a single node, `4`. Just like our previous traversals of singleton nodes, we explore the empty left, push 4 into `results`, and explore the empty right. Now, `results = [0, 2, 3, 4]`.
+
+**Step 3b.** Record the value of `root` = `5`. Now, `results = [0, 2, 3, 4, 5]`.
+
+**Step 3c.** Perform an in-order traversal of the right subtree, another singleton node, `6`. After this step, `results = [0, 2, 3, 4, 6]`.
 
 Lo and behold, we return our sorted data set, `[0, 2, 3, 4, 6]`.
 
