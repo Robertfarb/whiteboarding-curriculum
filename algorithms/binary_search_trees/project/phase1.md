@@ -1,6 +1,8 @@
-# Building a BST
+# Phase 1: Building a BST
 
-In this project, we'll translate our conceptual idea of a binary search tree into a real, live Ruby object with all the functionality that we dreamt of.  Follow the specs as well as this walk-through, and soon you'll have a BST of your very own.
+In this project, we'll translate our conceptual idea of a binary search tree into a real, live Ruby object with all the functionality that we dreamt of.  
+
+**NB**: this project doesn't have specs yet.  It's in beta!  Use the examples from the BST reading as sample test input, and make sure everything is working as you go.
 
 ## The Setup
 
@@ -49,9 +51,9 @@ This is the tricky one! Review the binary search tree reading for details. Here 
 
 1. If a node has no children, simply remove it.
 2. If a node has only one child, delete it and promote its child to take its place.
-3. If a node has two children, find the smallest node in its right subtree and promote that node to replace the deleted node. If necessary, promote that node's child to replace its parent.
+3. If a node has two children, find the largest node in its left subtree and promote that node to replace the deleted node. If necessary, promote that node's child to replace its parent.
 
-You'll need a helper method, `#minimum`, for this one.  After that, the work that we want to do here essentially involves a lot of pointer swapping.  
+You'll need a helper method, `#maximum`, for this one.  After that, the work that we want to do here essentially involves a lot of pointer swapping.  
 
 #### `#is_balanced?` and `#depth`
 
@@ -66,15 +68,15 @@ We defined the *balanced* property as follows:
 
 Write `#depth` first, as you will use this as a helper method in `#is_balanced?`. From there, recursion will once again be our friend.
 
-#### `#in_order` and `#post_order`
+#### `#in_order_traversal`
 
-As our final Phase 1 exercise, let's implement `#in_order`, which returns the set of `val`s held by the nodes in the `BinarySearchTree` in sorted order. Recall our algorithm for this:
+As our final Phase 1 exercise, let's implement `#in_order_traversal`, which returns the set of `val`s held by the nodes in the `BinarySearchTree` in sorted order. Recall our algorithm for this:
 
 1. Perform an in-order traversal of the left subtree,
 2. Print (or push) the value of the root,
 3. Perform an in-order traversal of the right subtree.
 
-Your `#in_order` method should return an array that contains the data set underlying the BST, in sorted order.
+Your `#in_order_traversal` method should return an array that contains the data set underlying the BST, in sorted order.
 
 ## What Our Tree Is and Isn't
 
