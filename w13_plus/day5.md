@@ -8,14 +8,15 @@
 ### Morning
 
 * Roll call at 10am.
-* Dynamic Programming Lecture (10 - 11am)
+* Djikstra's worktime (10 - 11am) **Djikstra's due at 11am**
 * Djikstra's Project Review (11 - noon)
 
 ### Afternoon
 
 * Roll call at 1:30pm
-* Dynamic Programming Project Worktime (1:30 - 4:30pm) **due by 4:30pm today**
-* Solution review: Dynamic Programming (4:30 - 6pm)
+* Dynamic Programming Lecture (1:30 - 3pm)
+* Dynamic Programming Project Worktime (3pm - 5pm) **due by 4:30pm today**
+* Solution review: Dynamic Programming (5 - 6pm)
 
 
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky

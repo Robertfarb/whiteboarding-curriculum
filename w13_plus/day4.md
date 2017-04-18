@@ -16,9 +16,9 @@
 * Roll call at 1:30pm
 * Solution review: BST & AVL
 * [Mock Interviews][pair-boarding-index]
-* Dijkstra's Algorithm video
+* Dijkstra's Algorithm live lecture (4 - 5:30pm)
 * Dijkstra's Algorithm [reading][dijkstras-readings]
-* Project: Dijkstra's Algorithm goes live at 4pm, **due by noon tomorrow**.
+* Project: Dijkstra's Algorithm goes live at 4pm, **due by 11am tomorrow**.
 
 <!-- LINKS -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
