@@ -23,9 +23,9 @@ Which person would you interview, all else being equal?  To make your profile gr
   makes it easier for employers to find you and review your code.
 * Make sure you have a decent profile picture (nothing indecent! Be fully clothed, not drinking or doing something else unsavory, and the pic should be only you)
 
-## Starred Repos
+## Pinned Repos
 
-Github gives you the option to star up to 6 repos so that they show up on your profile page.  Star the repos of all the projects on your resume, and fill in the rest with other good repos.  Write a README for each of these that describes the project's purpose, what you accomplished, and (if applicable) how to run the code or where to find a live version.  Some a/A repos to choose from:
+Github gives you the option to pin up to 6 repos so that they show up on your profile page.  Pin the repos of all the projects on your resume, and fill in the rest with other good repos.  Write a README for each of these that describes the project's purpose, what you accomplished, and (if applicable) how to run the code or where to find a live version.  Some a/A repos to choose from:
 
 - RailsLite or ActiveRecord Lite
 - Chess
@@ -38,4 +38,4 @@ Students sometimes have other good repos from before (or during) App Academy.  F
 - HackerRank, CodeWars, Project Euler, or other "challenge" problem solutions
 - Code from a personal project from before a/A
 
-Once you have solutions to your algorithms projects up, you should star that repo as well.
+Once you have solutions to your algorithms projects up, you should pin that repo as well.
