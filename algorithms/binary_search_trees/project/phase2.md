@@ -26,6 +26,4 @@ There is a third common traversal as well: *pre-order traversal*. Can you hazard
 
 #### `reconstruct`
 
-We now have the ability to perform in-order and post-order traversals on our BSTs. Let's go in reverse. Write a function that takes in a tree's in-order and post-order traversals and uses that data to reconstruct the original BST.
-
-*NB*: neither an in-order nor a post-order traversal on its own is enough information to determinatively construct a binary search tree, but taken together they are. (Why?)
+We now have the ability to perform in-order and post-order traversals on our BSTs (and maybe pre-order if you wrote that one!). Let's go in reverse. It's not possible to write a function that reconstructs a BST using *only* its in-order traversal (why? find a counterexample!).  However, we can do so with either the pre- or post-order traversals. Write a function that takes in a tree's post-order traversal and uses that data to reconstruct the original BST.
