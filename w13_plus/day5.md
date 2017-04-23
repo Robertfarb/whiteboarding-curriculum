@@ -15,7 +15,7 @@
 
 * Roll call at 1:30pm
 * Dynamic Programming Lecture (1:30 - 3pm)
-* Dynamic Programming Project Worktime (3pm - 5pm) **due by 4:30pm today**
+* [Dynamic Programming Project](https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d4) Worktime (3pm - 5pm) **due by 4:30pm today**
 * Solution review: Dynamic Programming (5 - 6pm)
 
 
