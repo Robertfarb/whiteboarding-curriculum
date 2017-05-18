@@ -1,12 +1,14 @@
 ## Creating a Snappy, Professional LinkedIn
 
-A good, polished LinkedIn profile is essential during the job search, especially in the tech industry.  Your LinkedIn will often be the first thing that potential employers, recruiters, and useful contacts look at as they try to evaluate your professional credentials.  
+A good, polished LinkedIn profile is **essential** during the job search, especially in the tech industry.  Your LinkedIn will often be the first thing that potential employers, recruiters, and useful contacts look at as they try to evaluate your professional credentials.  
 
 ### Elements of Your LinkedIn Profile
 
 #### Summary  
 
-The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  It's also the most difficult to write.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  Here are a couple examples that show how widely summaries can vary:
+The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  
+
+As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
 **Charles:**
 
@@ -14,7 +16,7 @@ The summary is one of the most important parts of your LinkedIn, especially as a
 
 **Theresa:**
 
-"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
+"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React.
 
 I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams."
 
@@ -22,7 +24,7 @@ I have a reputation for asking great questions, shipping quality code, being a s
 
 "People ask me what I do. Here's the list:
 
-- Software Developer (Rhumbix)
+- Software Developer who knows Javascript, Ruby, Rails, CSS and Django (Rhumbix)
 - Mask Maker (Arté Masks)
 - Thespian (Golden Thread Productions)
 - Mentor (Dev Bootcamp)
@@ -77,7 +79,7 @@ If you have any academic publications such as research papers, a thesis or disse
 
 ### Building Your LinkedIn Network
 
-It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
+**It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
 
 - Your App Academy cohort, TAs, instructors, and career coaches
 - Former colleagues and supervisors (with some rare exceptions -- if you've been fired or left a job on bad terms, it's not worth connecting)
