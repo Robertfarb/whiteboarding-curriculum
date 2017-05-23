@@ -1,10 +1,14 @@
 ## Creating a Snappy, Professional LinkedIn
 
-A good, polished LinkedIn profile is essential during the job search, especially in the tech industry.  Your LinkedIn will often be the first thing that potential employers, recruiters, and useful contacts look at as they try to evaluate your professional credentials.  Just know **they are looking!**
+A good, polished LinkedIn profile is **essential** during the job search, especially in the tech industry.  Your LinkedIn will often be the first thing that potential employers, recruiters, and useful contacts look at as they try to evaluate your professional credentials.  
 
 ### Elements of Your LinkedIn Profile
 
 #### What makes a good LinkedIn profile from top to bottom?  
+
+The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  
+
+As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
 **PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
 Title:  Right underneath the photo make sure your titles are up-to-date.  ## Remember, you are now a Software Developer.## 
@@ -19,10 +23,35 @@ _"Simply put, I love to code. The sleuthwork of identifying the source of a bug 
 _I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
 ___________
 
+"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React.
 _"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
 
 _I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
 
+**Majd:**
+
+"People ask me what I do. Here's the list:
+
+- Software Developer who knows Javascript, Ruby, Rails, CSS and Django (Rhumbix)
+- Mask Maker (Arté Masks)
+- Thespian (Golden Thread Productions)
+- Mentor (Dev Bootcamp)
+- Capoeirista-in-training (Capoeira Angola Quintal)
+- Acrobat-in-training (Circus Center)
+
+That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of them. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."
+
+**Marc:**
+
+"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
+
+I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
+
+Another note: you can include images in your summary.  Some folks include screenshots of their projects, which is a good way to showcase your work right off the bat.  
+
+#### Profile Picture  
+
+Use a picture that's friendly, but professional.  Don't use a photo in which you are drinking, partying, or dressed inappropriately (if you wouldn't show up to App Academy in the clothes you're wearing in the picture, find a different one).  A lot of folks use their App Academy photo in their LinkedIn profile, but you don't necessarily have to.  
 
 #### Projects  
 As an App Academy grad, the projects section of your LinkedIn is very important.  You can use the same bullet points that you use in your resume, but you have a little more flexibility on LinkedIn -- instead of limiting yourself to 3-4 projects, list everything substantial, polished, and complete that you've worked on.  You can (and should) include screenshots as well to show off your work, and you can be slightly more verbose when you're describing your project than you are in your resume.
@@ -60,7 +89,7 @@ If you have any academic publications such as research papers, a thesis or disse
 
 ### Building Your LinkedIn Network
 
-It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
+**It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
 
 - Your App Academy cohort, TAs, instructors, and career coaches
 - Former colleagues and supervisors (with some rare exceptions -- if you've been fired or left a job on bad terms, it's not worth connecting)
