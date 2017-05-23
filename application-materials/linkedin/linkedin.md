@@ -4,21 +4,29 @@ A good, polished LinkedIn profile is **essential** during the job search, especi
 
 ### Elements of Your LinkedIn Profile
 
-#### Summary  
+#### What makes a good LinkedIn profile from top to bottom?  
 
 The summary is one of the most important parts of your LinkedIn, especially as a job-seeker.  Unlike the rest of your LinkedIn, it's a chance to inject some individuality and personality into your profile.  Ideally, you want it to be unique, eye-catching, professional, and personal all at the same time (see why it's the hard part?).  There's room to be creative and flexible in the summary, though -- it can be long-ish or short, include images, bring in a variety of pieces from your background -- whatever tells your story the best.  
 
 As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
-**Charles:**
+**PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
+Title:  Right underneath the photo make sure your titles are up-to-date.  ## Remember, you are now a Software Developer.## 
+  
+**SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
 
-"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean."
+_"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”
+___________
 
-**Theresa:**
+_"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
+
+_I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
+___________
 
 "Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React.
+_"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
 
-I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams."
+_I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
 
 **Majd:**
 
@@ -59,6 +67,8 @@ As with your projects, you can be a bit more expansive with your previous experi
 
 As with your resume, include a brief summary of the position and 3-5 bullet points describing your responsibilities.  When possible, get endorsements on LinkedIn from coworkers and supervisors from the positions you include.
 
+Also, as with your resume, remember to that your bullets showcase what you have accomplished as well as specific numbers when possible...just like your resume.
+
 #### Education
 
 Include anything post-high school, even if it's not a degree from a STEM field.  List them in chronological order, with App Academy at the top.  It's not necessary to include informal/online education unless it was part of a certificate/degree program or was relatively formal in nature (e.g., if you did a part-time course through General Assembly before a/A, include it, but don't include Coursera courses).  
@@ -89,6 +99,14 @@ If you have any academic publications such as research papers, a thesis or disse
 - Networking contacts that you've met at meetups, a/A events, or elsewhere
 
 When in doubt, connect.  Don't refuse connections, either, except in rare cases (spam, people with job titles you personally wouldn't want to show up in your connections, etc.).  Don't stop connecting when you land a job.  Your network will be especially important when you're searching for your next job, so keep broadening and building.  No rest for the wicked!
+
+**Ideas on how to connect and network on LinkedIn
+
+Just "connecting" with someone probably will not get you the best results.  Make sure to include an awesome note.  Examples include:
+
+_Hi John.  Awesome to meet you last night at the networking event.  Would definitely enjoy meeting up again either in person or on Skype to learn more about you, your role and about the company.  Might you have time to chat next Monday or Tuesday?"
+
+_Hi Kelly.  I noticed you work at ________ .  I really like (Company name) because of (specific reasons).  Currently I am looking for work as a Software Developer and would sincerely enjoy the chance to learn more about you, your role, the company as well as to increase my network of awesome connections.  Might you have time for a brief phone or Skype call on Monday or Tuesday?  In advance, thanks for your time and consideration.  Looking forward to connecting."
 
 ### Leveraging Your Network
 
