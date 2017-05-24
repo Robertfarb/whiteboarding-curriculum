@@ -46,4 +46,21 @@ describe 'TopologicalSort' do
       expect(solutions).to include(topological_sort(vertices.shuffle))
     end
   end
+
+  it "returns [] for a cyclic or unconnected graph" do
+
+    1.times do
+      Edge.new(v1, v2)
+      Edge.new(v1, v3)
+      Edge.new(v2, v4)
+      Edge.new(v3, v4)
+      Edge.new(v2, v5)
+      Edge.new(v4, v6)
+      Edge.new(v5, v6)
+      Edge.new(v6, v7)
+      Edge.new(v7, v8)
+      Edge.new(v8, v2)
+      expect(topological_sort(vertices.shuffle)).to eq([])
+    end
+  end
 end
