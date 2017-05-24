@@ -1,4 +1,6 @@
 class BinaryMinHeap
+  attr_reader :store, :prc
+
   def initialize(&prc)
   end
 
@@ -13,9 +15,6 @@ class BinaryMinHeap
 
   def push(val)
   end
-
-  protected
-  attr_accessor :prc, :store
 
   public
   def self.child_indices(len, parent_index)
