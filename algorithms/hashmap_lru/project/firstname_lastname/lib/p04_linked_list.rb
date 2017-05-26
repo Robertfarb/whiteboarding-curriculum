@@ -1,4 +1,4 @@
-class Link
+class Node
   attr_accessor :key, :val, :next, :prev
 
   def initialize(key = nil, val = nil)
@@ -13,7 +13,7 @@ class Link
   end
 
   def remove
-    # optional but useful, connects previous link to next link
+    # optional but useful, connects previous node to next node
     # and removes self from list.
   end
 end
@@ -23,7 +23,7 @@ class LinkedList
   end
 
   def [](i)
-    each_with_index { |link, j| return link if i == j }
+    each_with_index { |node, j| return node if i == j }
     nil
   end
 
@@ -56,6 +56,6 @@ class LinkedList
 
   # uncomment when you have `each` working and `Enumerable` included
   # def to_s
-  #   inject([]) { |acc, link| acc << "[#{link.key}, #{link.val}]" }.join(", ")
+  #   inject([]) { |acc, node| acc << "[#{node.key}, #{node.val}]" }.join(", ")
   # end
 end
