@@ -17,7 +17,7 @@
   * FSP live, repo, and scorecard links: **due Monday 9am**
   * Resumes: **due Wednesday 9am**
   * Cover Letter: **due Thursday 9am**
-  * JS project (paste in your live link to Jobberwocky): **due Friday 9am**
+  * JS project (paste in your live link to Jobberwocky): **due Friday 12pm**
 
   Days:
   * [Day 1](./day1.md)
