@@ -24,7 +24,7 @@ The key goal of the flex project is to help differentiate you from other bootcam
   * [Uber on Slack](https://uberonslack.com/)
 
 ## Flex Project Proposal
-  * Due W11D1 at 12am (This is Sunday/Monday midnight)
+  * Due W11D1 at 9am
   * Similar to other projects, proposal will be written in a repo
     * **Only one repo needed per team**
   * Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
@@ -32,19 +32,19 @@ The key goal of the flex project is to help differentiate you from other bootcam
   * On Jobberwocky, state who your teammates are in the 'To-do' section.
     * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
   * Required sections:
-    * Background and Overview
-    * Functionality and MVP
-    * Technologies and Technical Challenges
-    * Things Accomplished Over the Weekend
-    * Group Members and Work Breakdown
+    * **Background and Overview**
+    * **Functionality and MVP**
+    * **Technologies and Technical Challenges**
+    * **Things Accomplished Over the Weekend**
+    * **Group Members and Work Breakdown**
       * Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
-    * Plan for getting users and reviews (if your app is a downloadable app)
+    * **Plan for getting users and reviews** (if your app is a downloadable app)
   * Check out some sample proposals
     * [Sample Proposal for that implements Machine Learning and uses Django](./flex-sample-proposal2/README.md)
     * [Sample Proposal for Chrome Extension](flex-sample-proposal.md).
 
 
-## Requirements
+## Project Requirements
 
 All projects need to have these elements:
  * README - make sure it has:
