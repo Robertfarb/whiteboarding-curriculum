@@ -65,7 +65,13 @@ This problem decomposes into several areas of activity:
 
 ![ux-phase](./images/ux-phase.png)
 
-
+## Accomplished over the Weekend
+ - Identified our Dataset and downloaded it, identified key issues for cleaning the data
+ - Downloaded pyAudioAnalysis library and analyzed a song using different methods
+ - Downloaded TensorFlow and got halfway through a tutorial
+ - Completed a Django tutorial and created a skeleton
+ - Researched Spotify API and quotas, and figured out the available data we will have
+ 
 ## Group Members & Work Breakdown
 
 **Andrew MacIver**,
