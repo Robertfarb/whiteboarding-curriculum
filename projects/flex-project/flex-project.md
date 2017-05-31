@@ -2,7 +2,7 @@
 
 The Flex Project helps fills in the gaps in your skill presentation not covered by your Full-Stack Project or JavaScript Project. It is flexible because it is designed to show off your strongest skills and to complement the type of job you're looking for.
 
-For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures and completing algorithms assignments, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
+For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
 
 The key goal of the flex project is to help differentiate you from other bootcamp grads. With that said, here are a couple of directions you can choose to go with the flex project:
 
@@ -23,6 +23,16 @@ The key goal of the flex project is to help differentiate you from other bootcam
   * [SoundScape](http://www.soundsscape.com/)
   * [Uber on Slack](https://uberonslack.com/)
 
+## Flex Project Proposal
+  * Due W11D1 at 12am (This is Sunday/Monday midnight)
+  * Similar to other projects, proposal will be written in a repo
+    * **Only one repo needed per team**
+  * Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
+    * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
+  * On Jobberwocky, state who your teammates are in the 'To-do' section.
+    * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
+  * Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
+  * Check out a [sample proposal](flex-sample-proposal.md).
 
 
 ## Requirements
@@ -56,14 +66,3 @@ When working in a group, make sure to make use of an effective [Github workflow]
   * Regularly rebase or merge master into feature branch if master is being updated (at the very least, do this before submitting your pull request and before merging in your feature branch).
   * When feature is complete, submit a Pull Request and assign it to a team member to review your code.
   * Discuss code, make any necessary changes. When assigned team member approves the pull request, merge the feature branch into master.
-
-### Flex Project Proposal
-* Due W11D1 at 9am
-* Similar to other projects, proposal will be written in a repo
-  * **Only one repo needed per team**
-* Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
-  * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
-* On Jobberwocky, state who your teammates are in the 'To-do' section.
-  * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
-* Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
-* Check out a [sample proposal](flex-sample-proposal.md).
