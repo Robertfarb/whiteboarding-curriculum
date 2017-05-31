@@ -31,8 +31,17 @@ The key goal of the flex project is to help differentiate you from other bootcam
     * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
   * On Jobberwocky, state who your teammates are in the 'To-do' section.
     * ie. "I'm on the same team as Greg Chamberlain." (please write full names)
-  * Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
-  * Check out a [sample proposal](flex-sample-proposal.md).
+  * Required sections:
+    * Background and Overview
+    * Functionality and MVP
+    * Technologies and Technical Challenges
+    * Things Accomplished Over the Weekend
+    * Group Members and Work Breakdown
+      * Proposal must have a day-by-day breakdown **for each individual**. See sample proposal for clarification.
+    * Plan for getting users and reviews (if your app is a downloadable app)
+  * Check out some sample proposals
+    * [Sample Proposal for that implements Machine Learning and uses Django](./flex-sample-proposal2/README.md)
+    * [Sample Proposal for Chrome Extension](flex-sample-proposal.md).
 
 
 ## Requirements
