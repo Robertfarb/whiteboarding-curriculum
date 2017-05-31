@@ -17,10 +17,9 @@ The key goal of the flex project is to help differentiate you from other bootcam
     * Tips for [Chrome Extension](chrome-extension.md)
   * [eos-redux](https://www.npmjs.com/package/eos-redux)
     * Tips for creating [gems, packages, or libraries](gem-or-library.md)
-  * [Echo Syndicate](http://www.echosyndicate.com/#/)
+  * [Prism](http://www.prismextension.com/)
 3. Make something that leverages a cool library or works with different APIs
   * [Cerebellum](https://mvelk.github.io/cerebellum/)
-  * [SoundScape](http://www.soundsscape.com/)
   * [Uber on Slack](https://uberonslack.com/)
 
 ## Flex Project Proposal
@@ -59,9 +58,9 @@ All projects need to have these elements:
  * Make sure there's no .DS_Stores, node_modules, etc.
  * If it is a non-live project (ie. Chrome extension, mobile app, slackbot, npm package), then it **is required** to have a demo page.
    * [Uber on Slack demo page](https://uberonslack.com/)
-   * [Bookr demo page](https://vinitp94.github.io/BookrLive/)
+   * [VS Code Org Mode](https://jsonreeder.github.io/vscode-org-mode/)
  * **If it is a mobile app**, then it must have a link to an emulator on the demo page.
-   * [Sample emulator](https://appetize.io/app/kdwf1bge5u8abnak3qgqv898xc?device=nexus5&scale=100&orientation=portrait&osVersion=7.0)
+   * [Demo Page with Emulator](https://jastack.github.io/demo_page/)
  * Demo pages should be super simple. It's basically like making a [personal portfolio](../../application-materials/portfolio/portfolio.md), except for your project. Use templates, and keep it simple!
  * Once complete, add the new project to your resume!
 
