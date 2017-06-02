@@ -15,18 +15,25 @@ Title:  Right underneath the photo make sure your titles are up-to-date.  ## Rem
   
 **SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
 
-_"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”
-___________
+"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”
 
-_"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
+---
 
-_I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
-___________
+"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
 
-"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React.
-_"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
+I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
 
-_I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
+---
+
+"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React."
+
+---
+
+"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
+
+I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
+
+---
 
 **Majd:**
 
@@ -89,7 +96,7 @@ If you have any academic publications such as research papers, a thesis or disse
 
 ### Building Your LinkedIn Network
 
-**It's to your advantage to have a broad network of connections on LinkedIn.  Once you've polished your profile, start connecting!  Your connections should include:
+**It's to your advantage to have a broad network of connections on LinkedIn.**  Once you've polished your profile, start connecting!  Your connections should include:
 
 - Your App Academy cohort, TAs, instructors, and career coaches
 - Former colleagues and supervisors (with some rare exceptions -- if you've been fired or left a job on bad terms, it's not worth connecting)
@@ -100,35 +107,38 @@ If you have any academic publications such as research papers, a thesis or disse
 
 When in doubt, connect.  Don't refuse connections, either, except in rare cases (spam, people with job titles you personally wouldn't want to show up in your connections, etc.).  Don't stop connecting when you land a job.  Your network will be especially important when you're searching for your next job, so keep broadening and building.  No rest for the wicked!
 
-**Ideas on how to connect and network on LinkedIn
+**Ideas on how to connect and network on LinkedIn**
 
 Just "connecting" with someone probably will not get you the best results.  Make sure to include an awesome note.  Examples include:
 
-_Hi John.  Awesome to meet you last night at the networking event.  Would definitely enjoy meeting up again either in person or on Skype to learn more about you, your role and about the company.  Might you have time to chat next Monday or Tuesday?"
+"Hi John.  Awesome to meet you last night at the networking event.  Would definitely enjoy meeting up again either in person or on Skype to learn more about you, your role and about the company.  Might you have time to chat next Monday or Tuesday?"
 
-_Hi Kelly.  I noticed you work at ________ .  I really like (Company name) because of (specific reasons).  Currently I am looking for work as a Software Developer and would sincerely enjoy the chance to learn more about you, your role, the company as well as to increase my network of awesome connections.  Might you have time for a brief phone or Skype call on Monday or Tuesday?  In advance, thanks for your time and consideration.  Looking forward to connecting."
+"Hi Kelly.  I noticed you work at ________ .  I really like (Company name) because of (specific reasons).  Currently I am looking for work as a Software Developer and would sincerely enjoy the chance to learn more about you, your role, the company as well as to increase my network of awesome connections.  Might you have time for a brief phone or Skype call on Monday or Tuesday?  In advance, thanks for your time and consideration.  Looking forward to connecting."
 
 ### Leveraging Your Network
 
 If you already have a network on LinkedIn (even if it's not huge), leveraging it in your job search can be very effective.  Here's how you can go about it.
 
-**Step 1.**  Identify a company you're interested in.  Let's go with Pandora, for instance.  Go to the company's page, and look at the **How You're Connected** box:
+**Step 1.**  Identify a company you're interested in.  Let's go with Pandora, for instance.  Do a search for the company, and go to the `People who work at ____` result.
 
-![pandora](https://cloud.githubusercontent.com/assets/10385145/12734301/65cd1932-c8f4-11e5-9f1f-e9d08b19cc5d.png)
-
-Click "see all" -- this shows you all the ways in which you're connected through your network to someone who works at Pandora.  
+![Pandora search](./images/pandora_search.png)
 
 **Step 2a.**  If you have a first-degree connection who works in a tech-related position (software developer, product manager, designer, etc.) and who you know well enough to reach out to directly, great!  Send them a polite message asking to buy them coffee or lunch and chat about the company.  Mention that you're on the job market.  They'll likely know that you're looking for a referral to the company; if they don't offer it, politely work it into your conversation.
 
-You may also have a first-degree connection who does not work in a tech-related position.  For these folks, reach out and ask if they'd be willing to introduce you to one of the software developers.  Let them know you're doing research on companies and that you're on the job market.  
+You may also have a first-degree connection who does not work in a tech-related position.  For these folks, reach out and ask if they'd be willing to introduce you to one of the software developers.  Let them know you're doing research on companies and that you're on the job market. 
 
-**Step 2b.** If you don't have a first-degree connection, take a look at your second-degree connections.  Go through each of these connections and evaluate two things:
+![connections](./images/connections.png)
+
+**Step 2b.** If you don't have a first-degree connection, take a look at your second-degree connections. Specifically, look at how you're connectd to them by going to their profile, and then clicking `Mutual Connections`. 
+
+![mutual connections](./images/connections.png)
+
+Go through each of these connections and evaluate two things:
 
 1.  How well do you know the connection in question?  Could you count on this person to go to bat for you, give you a solid recommendation, and facilitate an introduction to their connection at Pandora?  If so, rate them a 1.  If you think they might be willing to give you an introduction but you're not sure, rate them a 2.  If the connection is fairly distant or someone who definitely wouldn't be able to recommend you, rate them a 3.  
 
 2.  How closely does your connection's Pandora connection match the position you'd like to apply for?  A software engineer, engineering manager, or other member of the technical staff gets a 1.  Someone who'd probably work closely with the engineering staff, such as a product manager or a designer, gets a 2.  Someone totally outside of engineering, such as an administrative assistant, gets a 3.  
 
-![connections](https://cloud.githubusercontent.com/assets/10385145/12734388/ff955750-c8f4-11e5-97b1-73af04b99fec.png)
 
 Now, take some action!  Evaluate the numbers you got above, and choose the best pair.  Obviously, the best is a 1 and a 1 or a 1/2
 -- someone who works at the company you're interested in who can recommend you to someone who works as a software developer.  If you don't have a 1/1 pair, choose a 1/2 or a 2/1 pair.  Message your connection and ask for an intro:
