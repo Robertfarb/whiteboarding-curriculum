@@ -45,6 +45,7 @@ On the other hand, if your projects are getting absolutely no views, then that m
   * Choose "that are equal to"
   * Paste in your IP address (Google: "What's my IP address?")
   * Also, add App Academy's IP address (66.162.144.78)
+  * Another option could be to add this [Chrome Extension](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 
 #### Viewing the Data
 * Finally, to view the data breakdown between your different projects, go to the left hand column and click on the 'behavior' icon:
