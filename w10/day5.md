@@ -10,6 +10,7 @@
     * [Github history][github-history]
   * [AngelList][angellist]
   * [Personal portfolio site][portfolio]
+  * [Setting Up Analytics][analytics]
   * Onine presence materials due Monday 9am (W11D1)
 * **[JavaScript Project][js-project] due 12pm.**
   * Add live link to [Jobberwocky][Jobberwocky] and click "Queue for review" to submit. NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
@@ -43,6 +44,7 @@
 [readme]: ../projects/example-readmes.md
 [github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
 [angellist]: ../application-materials/angellist/angellist.md
+[analytics]: ../projects/google-analytics/google-analytics-sparknotes.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky

@@ -6,9 +6,9 @@ Building a Chrome Extension is usually best to do if you're addressing a real ne
 
 1. Build a [test extension by following the tutorial][tutorial] and skim the extension overview and developer's guide to get a sense of what extensions can do.
 2. Identify a real-world need. This could be as simple as "this game's official stats are not as user friendly as I would like", or a more complicated "I've always wanted to be able to synchronize the background of my Chrome homepage to NASA launches".
-  * Remember that this project should take 15-20 hours. Choose a project that is simple enough to complete in that time, but complicated or useful enough to impress a potential employer.
+  * Remember, the flex project is the one project that can differentiate you from other bootcamp grads, so be sure to choose something that is complicated or useful enough to impress a potential employer.
 3. Build the extension!
-4. Don't forget to add a readme to the github repo and add the project to your resume.  
+4. Don't forget to add a readme to the github repo and add the project to your resume.
 5. [Submit to the Chrome Web Store](https://developer.chrome.com/webstore/publish).  Most reviewers will not download your extension, so make the descriptions and screenshots excellent.  If your extension has complex features, consider posting a video walkthrough on youtube.
 6. Get a few friends to download your extension and leave positive reviews. If you get good public reviews, use these downloads and reviews as the 1st bullet point under this project.
 
