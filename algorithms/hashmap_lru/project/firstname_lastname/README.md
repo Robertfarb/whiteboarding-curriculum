@@ -1,7 +1,7 @@
 # MyHashMap
 
 Today you will implement your very own HashMap. If this sounds tricky,
-don't worry--we've provided specs. 
+don't worry--we've provided specs.
 
 ## Learning Goals
 
@@ -187,21 +187,21 @@ have to build a subordinate, underlying data structure.
 ## Phase 4: Linked List
 
 A [linked list][linked-list-wiki] is a data structure that consists of a
-series of links. Each link holds a value and a pointer to the next link (or `nil`). Given a pointer to the first (or head) link, you can access
-any arbitrary link by traversing the links in order.
+series of nodes. Each node holds a value and a pointer to the next node (or `nil`). Given a pointer to the first (or head) node, you can access
+any arbitrary node by traversing the nodes in order.
 
-We will be implementing a special type of linked list called a "doubly linked list" - this means that each link should also hold a pointer to the previous link. Given a pointer to the last (or tail) link, we can traverse the list in reverse order.
+We will be implementing a special type of linked list called a "doubly linked list" - this means that each node should also hold a pointer to the previous node. Given a pointer to the last (or tail) node, we can traverse the list in reverse order.
 
-Our LinkedLists will ultimately be used in lieu of arrays for our HashMap buckets. In order to make the HashMap work, each link in your linked list will need to store both a key and a value.
+Our LinkedLists will ultimately be used in lieu of arrays for our HashMap buckets. In order to make the HashMap work, each node in your linked list will need to store both a key and a value.
 
-The `Link` class is provided for you. It's up to you to implement the
+The `Node` class is provided for you. It's up to you to implement the
 `LinkedList`.
 
 ### Making Heads and Tails of `LinkedList`
 
-There are a few ways to implement `LinkedList`. You can either start with head and tail of your list as `nil`, or start them off as sentinel links. We recommend using sentinel links because they can help you avoid unnecessary type checking for `nil`.
+There are a few ways to implement `LinkedList`. You can either start with head and tail of your list as `nil`, or start them off as sentinel nodes. We recommend using sentinel nodes because they can help you avoid unnecessary type checking for `nil`.
 
-A sentinel link is merely a "dummy" link that does not hold a value. Your `LinkedList` should keep track of pointers (read: instance variables) to sentinel links for its head and tail. The head and tail should never be reassigned.
+A sentinel node is merely a "dummy" node that does not hold a value. Your `LinkedList` should keep track of pointers (read: instance variables) to sentinel nodes for its head and tail. The head and tail should never be reassigned.
 
 Given these properties of our `LinkedList`, how might we check if our list is empty? How might we check if we are at the end of our list? Think about how your linked list will function as you implement the methods below.
 
@@ -210,8 +210,8 @@ Given these properties of our `LinkedList`, how might we check if our list is em
 Go forth and implement the following methods:
 - `first`
 - `empty?`
-- `#append(key, val)` - Append a new link to the end of the list.
-- `#update(key, val)` - Find an existing link by key and update it's value.
+- `#append(key, val)` - Append a new node to the end of the list.
+- `#update(key, val)` - Find an existing node by key and update its value.
 - `#get(key)`
 - `#include?(key)`
 - `#remove(key)`
@@ -220,7 +220,7 @@ Specs await!
 
 Once you're done with those, we're going to also make your linked lists
 enumerable. We want them to be just as flexible as arrays. Remember back
-to when you wrote `Array#my_each`, and let's get this thing enumerating. The block passed to `#each` will yield to a `link`.
+to when you wrote `Array#my_each`, and let's get this thing enumerating. The block passed to `#each` will yield to a `node`.
 
 Once you have `#each` defined, you can include the `Enumerable` module
 into your class. As long as you have `each` defined, the `Enumerable`
@@ -284,9 +284,9 @@ So that's our caching strategy. But how do we actually build this thing?
 Well, an LRU cache is built using a combination of two data structures:
 a hash map, and a linked list.
 
-This is how we'll use the linked list: Each link in the list will hold a
-cached object. We'll always add new links to the end of the list, so the
-links at the end will always be the freshest, while those at the beginning
+This is how we'll use the linked list: Each node in the list will hold a
+cached object. We'll always add new nodes to the end of the list, so the
+nodes at the end will always be the freshest, while those at the beginning
 are the oldest. Whenever an object is requested and found in the cache,
 it becomes the freshest item, so we'll need to move it to the end of the
 list to maintain that order.
@@ -299,14 +299,14 @@ linked list, it's easy to add stuff, delete stuff, and to update its
 position among the most recently used items in our cache.
 
 The only problem is lookup time. Linked lists are slow. If we want to
-figure out if an item is in the cache, we have to look at each link
+figure out if an item is in the cache, we have to look at each node
 one-by-one; that's an `O(n)` traversal. That's not great. Let's see if
 we can augment this with a hash map to make it faster.
 
 Here's the plan: we'll create a hash map whose keys will be the same keys
 that we put in our linked list. But unlike the linked list, our hash map won't
 store the values associated with those keys. Instead, the hash map will
-point to the *link object in our linked list* (if it exists). Every time
+point to the *node object in our linked list* (if it exists). Every time
 we update the LRU cache by inserting or deleting an element, we'll
 insert it into our hash or delete it from our hash (which both take
 `O(1)` time).
@@ -335,9 +335,9 @@ So let's map the same data in both a hash map and in a linked list.
   using the Proc.
 - Now build your LRU cache. Every time you add a new key-value pair to
   your cache, you'll take two steps.
-  - First, look to see if the key points to any link in your hash map.
+  - First, look to see if the key points to any node in your hash map.
     If it does, that means that the item exists in your cache. Before
-    you return the value from the link though, move the link to the very
+    you return the value from the node though, move the node to the very
     end of the list (since it's now the most recently used item).
   - Say the key isn't in your hash map. That means it's not in your
     cache, so you need to compute its value and then add it. That has
