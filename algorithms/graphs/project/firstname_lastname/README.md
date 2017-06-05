@@ -15,15 +15,15 @@ The idea of Kahn’s algorithm is to repeatedly remove nodes that have zero in-d
 * Determine the in-degree of each node.
 * Collect nodes with zero in-degree in a queue.
 * While the queue is not empty:
-  - Pop node u from queue,
-  - remove u from the graph (depending on your implementation, this may or may not involve the 'destroy!' method; what are the complications to destroying as we loop? What is another way we can track the number of in_edges?),
-  - check if there is a new node with in-degree zero (among the neighbors of u)
+  - Pop node `u` from queue,
+  - remove `u` from the graph (depending on your implementation, this may or may not involve the `destroy!` method; what are the complications to destroying as we loop? What is another way we can track the number of `in_edges`?),
+  - check if there is a new node with in-degree zero (among the neighbors of `u`)
   - If yes, put that node into the queue.
   - We maintain a list that records in which order the nodes are removed.
 * If the queue is empty:
   - if we removed all nodes from the graph, return the list
   - else we return an empty list that indicates that an order is not possible due to a cycle
-  
+
 What is the time complexity of this algorithm? Make sure to analyze time complexity based on the set of vertices and edges.
 
 ### Tarjan's Algorithm

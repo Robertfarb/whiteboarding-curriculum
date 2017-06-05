@@ -4,7 +4,7 @@ In this project, you'll be implementing a __heap__ and __heapsort__
 
 ## Heap
 
-Start by implementing `BinaryMinHeap`. Instances of `BinaryMinHeap` will use an array to store items.
+Start by implementing `BinaryMinHeap`. Instances of `BinaryMinHeap` will use an array to store items. Define a default prc for the MinHeap property. You will be able pass in a different prc that will make it behave like a MaxHeap.
 
 Add the `::child_indices` and `::parent_index` methods. The `::child_indices` method should take in a parent index and the length of an array and return only the child indices that fall within the array. The `::parent_index` method should take in a child index and return its parent index.
 
