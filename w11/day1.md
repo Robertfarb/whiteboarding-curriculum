@@ -21,17 +21,25 @@
   * **Remember to share access with your coach!**
 
 ### Morning
-#### Lecture & Workshop
-* **[Behavioral Interviewing][behavioral-questions]**. Bring pen and paper or a computer.
 
-
-### Afternoon
 #### Lecture
 * [**Github Workflow**][git-workflow]
 
 #### Work time
-* [Flex project][flex-project] (2:30 - 6pm)
+* [Flex project][flex-project] (10 - 12)
   * Get off to a strong start!
+  * Make sure your group has wireframes for the UX workshop at 1:30pm.
+
+### Afternoon
+
+#### Workshop
+* UX testing
+
+#### Lecture & Workshop
+* **[Behavioral Interviewing][behavioral-questions]**. Bring pen and paper or a computer.
+
+#### Work time
+* [Flex project][flex-project] (5 - 6pm)
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
