@@ -22,7 +22,7 @@
 [flex-project]: ../projects/flex-project/flex-project.md
 
 <!-- Internal Resources -->
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d2
 
 <!-- Misc. -->
 [architecture-slides]: https://drive.google.com/a/appacademy.io/file/d/0B1ljY87XS9z0aDZZRHo1dW5zZWNjQjIzcFI5TGxIRF9MSTk4/view?usp=sharing

@@ -20,4 +20,4 @@
 [flex-project]: ../projects/flex-project/flex-project.md
 
 <!-- Internal Resources -->
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d3

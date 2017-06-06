@@ -5,14 +5,6 @@
 ### Morning
 * Flex project work time
 
-#### Lecture
-* **Math for Programmers**, a math primer for those without math backgrounds. Will cover what you need to know for algorithms lectures next week.
-  * **Required** for anyone who hasn't studied or worked in a math-heavy field. Those with math backgrounds can skip.
-  * Specific topics covered:
-    * definition of mathematical functions used in Big O analysis (constant, linear, quadratic, logarithmic, exponential, factorial)
-    * definition and examples of base-2 (binary) notation
-    * important facts in discrete math such as 1 + 2 + ... + n = n(n-1)/2
-
 ### Afternoon
 #### Lecture
 * **Architecture Part 3**
@@ -32,4 +24,4 @@
 [flex-project]: ../projects/flex-project/flex-project.md
 
 <!-- Internal Resources -->
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d4
