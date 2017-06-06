@@ -110,21 +110,4 @@ Double Bedroom - $1495 <br>
 Single Bedroom - $1295<br>
 Deposit: One month's rent
 
-### <a href="http://www.sfhousingservices.com/251-9th-street---soma" title="9th St SOMA">9th St SOMA</a>
-Double Bedroom - $1,495 <br>
-Single Bedroom - $1,295 <br>
-Deposit: $1,295
-
-### <a href="http://www.sfhousingservices.com/7th-street---soma" title="221 7th St SOMA">221 7th St SOMA</a>
-Triple Bedroom - $725<br>
-Double Bedroom - $1,695<br>
-Single Bedroom - $1,495<br>
-Deposit: One month's rent
-
-### <a href="http://www.sfhousingservices.com/panoramic---exclusive-housing" title="Luxury Living - Mid Market">Luxury Living - Mid Market</a>
-Private Bedroom in a Triple - $1,995<br>
-Double Bedroom - $1,395<br>
-Studio - $2,795<br>
-Deposit: One month's rent
-
 Contact Tony at 650-218-1995 or tbrettkelly@tricommercial.com if interested in any of these locations.

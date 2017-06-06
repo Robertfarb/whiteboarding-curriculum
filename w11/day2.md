@@ -14,7 +14,7 @@
 * **Pairboarding**
 
 #### Mock Interviews & Pairboarding
-* [Mock Interview Index][pair-boarding-index]
+* [Mock Interview Index][pair-boarding-index] (Start on Day 1)
 
 ### Projects
 * [Flex Project][flex-project]
