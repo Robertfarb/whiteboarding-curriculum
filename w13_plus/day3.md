@@ -1,25 +1,23 @@
 ## W13D3
 ### Homework & Daily Tasks
 
-* **Finish yesterday's BST & AVL project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
+* **Finish yesterday's DP project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Continue applying to companies!  40 application quota begins this week.
 * Continue to think about what your next project will be & who you will work with.
 
 ### Morning
 
 * Roll call at 10am.
-* Office Hours with TAs, Josh, and Scott from 10am-12pm.
+* Office Hours with TAs, Josh, and Andrew from 10am-12pm.
 * Open work time: work on your algorithms project, implementing instructor feedback on projects, or sending applications.
 
 ### Afternoon
 
 * Roll call at 1:30pm
-* Solution review: BST & AVL
+* Solution review: DP 1
 * [Mock Interviews][pair-boarding-index]
-* Graphs videos:
-   * [Introduction to Graphs][graphs-vid]
-   * [Topological Sort][topological-vid]
-* Project: Topological Sort project goes live at 4pm, **due by 12pm tomorrow**.
+* Video Lecture/Work Time for DP 2 at 4:30pm
+* Project: Dynamic Programming 2 project goes live at 4pm on [Jobberwocky][Jobberwocky], **due by 12pm tomorrow**.
 
 <!-- LINKS -->
 <!-- Internal Resources -->

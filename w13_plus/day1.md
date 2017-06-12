@@ -2,7 +2,7 @@
 
 ### Homework & Daily Tasks
 
-* **Finish Friday's Heaps & Heapsort project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
+* **Finish Friday's Binary Search Tree project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Start applying to companies!  40 application quota begins this week.
 * Begin to think about what your next project will be & who you would like to work with.
 
@@ -15,16 +15,12 @@
 ### Afternoon
 
 * Roll call at 1:30pm as usual
-* Solution review: Heaps & Heapsort
+* Solution review: BST
 * [Mock Interviews][pair-boarding-index]
-* Sorting algorithm analysis videos:
-   * [Quicksort 1][quicksort1]
-   * [Quicksort 2][quicksort2]
-   * [Quicksort 3][quicksort3]
-   * [Sorting Algorithms 1][sorting1]
-   * [Sorting Algorithms 2][sorting2]
-* Reading: [sorting algorithms][sorting-readings]
-* Project: Optimized Quicksort will be live at 4pm, **due by 12pm tomorrow**.
+* Graphs and Topological Sort Video:
+  * [Graphs][graphs-vid]
+  * [Topological Sort][topological-vid]
+* Project: Graphs and Topological Sort will be live at 4pm, **due by 12pm tomorrow**.
 
 
 <!-- LINKS -->
@@ -38,11 +34,5 @@
 
 <!-- Algorithms Projects & Lectures -->
 
-[quicksort1]: https://vimeo.com/192003395/f90890d138
-[quicksort2]: https://vimeo.com/192206159/917569833b
-[quicksort3]: https://vimeo.com/192493786/dd6520c77d
-[sorting1]: https://vimeo.com/193472770/d43f132776
-[sorting2]: https://vimeo.com/193473425/dd01b240ee
-
-<!-- Algorithms Readings & Projects -->
-[sorting-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d2
+[graphs-vid]: https://vimeo.com/203562085
+[topological-vid]: https://vimeo.com/203906270
