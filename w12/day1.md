@@ -21,7 +21,7 @@
 
 ### Afternoon
 
-* Pair Boarding from `1:30 - 3:00`
+* [Pair Boarding][pair-boarding-index] from `1:30 - 3:00`
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
 * Dynamic Array Project will go live on Jobberwocky at 3pm today!
 * Read about [Memory and Pointers][memory-pointers-readings]
