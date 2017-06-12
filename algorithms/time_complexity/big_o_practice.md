@@ -31,14 +31,15 @@ Let's start with some array manipulation to get us warmed up. Find the time comp
 
 1. Specify which aspect (or aspects) of the input the time complexity depends on. E.g., if a function is `O(n)`, what is *n*?
 2. Explain thoroughly and clearly *why* the time complexity is what it is.
-3. Find the *best*, *worst*, and *average* cases. Sometimes the "average" case is really difficult to find; if it's not obvious what the average case is, discuss with your partner, estimate, and ask a TA if you get confused.
+3. Find the *worst* cases. 
 3. Discuss space complexity too: this is usually deemphasized over time complexity, but some interviewers will ask about it.
 4. Find the constant factor. E.g., suppose the time complexity of some method is `O(n)` where *n* is the length of the array given to the function as input. If you iterate over this array exactly 3 times, the constant factor will be 3. Again, this is something that is typically deemphasized, but sometimes gets asked about.
 
 **NB**: you can assume that any print statements (`console.log`, `puts`, etc.) run in constant time. We'll come back to this near the end, but this is also a safe assumption to make in interviews.
 
-So, what's the time complexity of this function? Remember to find those constant factors as well as the overall time complexity, especially for these simple exampels. **Partner A**, explain this one to **Partner B**.
+So, what's the time complexity of this function? Remember to find those constant factors as well as the overall time complexity, especially for these simple examples. **Partner A**, explain this one to **Partner B**.
 
+1.
 ```ruby
 def add(a, b)
   if a > b
@@ -51,6 +52,7 @@ end
 ```
 Ok, now move onto this one. It's **Partner B**'s turn to explain:  
 
+2.
 ```ruby
 def print_arr_1(arr)
   arr.each do |idx|
@@ -62,6 +64,7 @@ Great, two easy ones out of the way! Now, what happens when we add just one more
 
 **NB**: alternate who does the explaining for the rest of the Warm-Ups.
 
+3.
 ```ruby
 def print_arr_2(arr)
   arr.each_with_index do |el, idx|
@@ -70,8 +73,9 @@ def print_arr_2(arr)
   end
 end
 ```
-Let's make another change, again asking ourselves how the time complexity is affected.  This time, pay special attention to differentiating best, worst, and average cases. (**NB**: what would "average" mean here?)
+Let's make another change, again asking ourselves how the time complexity is affected. 
 
+4.
 ```ruby
 def print_arr_3(arr)
   arr.each do |el|
@@ -80,8 +84,9 @@ def print_arr_3(arr)
   end
 end
 ```
-Finally, let's add a little bit to our code. Here, pay attention to the subtle things that change, namely constant factors and best/worst/average cases.
+Finally, let's add a little bit to our code. 
 
+5.
 ```ruby
 def print_arr_4(arr)
   arr.each do |el|
@@ -98,6 +103,7 @@ end
 ```
 Now let's make a bigger change.  Define a basic `search` function as follows:
 
+6.
 ```ruby
 def search(arr, target)
   arr.each_with_index do |el, idx|
@@ -107,6 +113,7 @@ end
 ```
 Now, let's use this `search` within another function.  Determine the time complexity of the following:
 
+7.
 ```ruby
 def searchity_search(arr, target)
   results = []
@@ -119,6 +126,7 @@ end
 ```
 You may have noted that the *nested* nature of `search` within the loop of this function affects this drastically. But not all loops are created equal. Think carefully about this one:
 
+8.
 ```ruby
 def searchity_search_2(arr, target)
   results = []
@@ -129,9 +137,8 @@ def searchity_search_2(arr, target)
   results  
 end
 ```
-**STOP**. At this point, call over a TA and explain the time complexities of `searchity_search` and `searchity_search_2`. Be prepared to talk about best and worst cases in particular!
 
-
+9.
 ```javascript
 var a = 1;
 var b = 1;
@@ -144,6 +151,7 @@ for (i = 0; i < N; i++) {
 }
 ```
 
+10.
 ```javascript
 for (i = 0; i < N; i++) {
   for (j = i+1; j < N; j++) {
@@ -155,6 +163,7 @@ for (i = 0; i < N; i++) {
 }
 ```
 
+11.
 ```javascript
 for (i = 0; i < N; i++) {
   for (j = 0; j < M; j++) {
@@ -164,6 +173,8 @@ for (i = 0; i < N; i++) {
   }
 }
 ```
+
+12.
 ```javascript
 var spock = "Live long and prosper";
 var picard = "Engage!";
@@ -179,6 +190,8 @@ for (j = 0; j < M; j++) {
   var kirk = "i have nothing to say";
 }
 ```
+
+13.
 ```javascript
 var notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
 
@@ -195,10 +208,14 @@ for (k = 0; k < N; k++) {
 }
 ```
 
+**At this point, look at the solutions, and for any problems that don't make 
+sense, call over a TA to discuss!**
+
 ### Interacting with Iterativeness
 
 Let's leave the arrays behind for a bit, and look at a few other functions. Start with **Partner A** explaining the time complexity of this one:
 
+1.
 ```javascript
 let iterative_1 = (n, m) => {
   let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
@@ -213,6 +230,7 @@ let iterative_1 = (n, m) => {
 ```
 How do things change when we make this subtle alteration?
 
+2.
 ```javascript
 let iterative_2 = (n) => {
   let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
@@ -227,6 +245,7 @@ let iterative_2 = (n) => {
 ```
 Now, let's combine both ideas. What's the time complexity of this function?
 
+3.
 ```javascript
 let iterative_3 = (n, m) => {
   let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
@@ -243,15 +262,8 @@ let iterative_3 = (n, m) => {
 }
 ```
 
-**STOP**. Time to teach the TAs a thing or two. Call one over and explain `iterative_3`'s time complexity.
+**STOP**. At this point, check in with the solutions!
 
-
-
-Set of functions:
-
-a. for (j = 0; j < N; j++) f(j);
-b. for (j = 0; j < N; j++) g(j);
-c. for (j = 0; j < N; j++) g(k);
 ### Radical Recursion
 
 Recursive functions are among the toughest to evaluate for time complexity. Remember **FFS**:
@@ -295,7 +307,7 @@ void rec_mystery_3(int n, int m, int o)
   }
 }
 ```
-**STOP**. Once you've hit this point, you are clearly a wizard. Call over a TA and explain `rec_mystery_2` and `rec_mystery_3`.
+**STOP**. Once you've hit this point, you are clearly a wizard. Check in with the solutions, and in particular, look through `rec_mystery_2` and `rec_mystery_3` to make sure you understand.
 
 
 class Array
@@ -367,7 +379,10 @@ You can find the time complexity of `grab_bag` *without* bounding. Try drawing o
 
 **STOP**. TA Time again! Call someone over and explain `grab_bag` -- both ways if you can!
 
-### Blustery Bonuses
+Well done! If you finished early, go ahead and start watching the 
+[Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
+
+<!--### Blustery Bonuses
 
 Well done, Padawans. Soon you will command your own starships, perhaps even the Enterprise. Here are a couple of fun bonuses in the meantime.
 
@@ -386,4 +401,4 @@ Another blast from the past! Write a function that takes in a positive integer a
 
 12345 => 6 since 1 + 2 + 3 + 4 + 5 = 15, and 1 + 5 = 6.
 
-**NB**: you'll have to use bounding here. And even with that, it's really stinkin' hard!
+**NB**: you'll have to use bounding here. And even with that, it's really stinkin' hard!-->
