@@ -25,8 +25,8 @@
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
 * Dynamic Array Project will go live on Jobberwocky at 3pm today!
     * **First watch the videos above**
-    * **Then, go through the [Dynamic Arrays Reading][dynamic-arrays-reading]
-    * **Finally, do the project (download from Joberwocky), using the videos and reading as a guide.
+    * **Then, go through the [Dynamic Arrays Reading]**[dynamic-arrays-reading]
+    * **Finally, do the project (download from Joberwocky), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
 * Read about [Memory and Pointers][memory-pointers-readings]
 * Read about [Static Arrays][static-dynamic-array-readings]
