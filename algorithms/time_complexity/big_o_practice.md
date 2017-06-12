@@ -208,7 +208,7 @@ for (k = 0; k < N; k++) {
 }
 ```
 
-**At this point, look at the solutions, and for any problems that don't make 
+**At this point, look at the [solutions][solutions], and for any problems that don't make 
 sense, call over a TA to discuss!**
 
 ### Interacting with Iterativeness
@@ -262,7 +262,7 @@ let iterative_3 = (n, m) => {
 }
 ```
 
-**STOP**. At this point, check in with the solutions!
+**STOP**. At this point, check in with the [solutions][solutions]!
 
 ### Radical Recursion
 
@@ -307,7 +307,7 @@ void rec_mystery_3(int n, int m, int o)
   }
 }
 ```
-**STOP**. Once you've hit this point, you are clearly a wizard. Check in with the solutions, and in particular, look through `rec_mystery_2` and `rec_mystery_3` to make sure you understand.
+**STOP**. Once you've hit this point, you are clearly a wizard. Check in with the [solutions][solutions], and in particular, look through `rec_mystery_2` and `rec_mystery_3` to make sure you understand.
 
 
 class Array
@@ -377,10 +377,12 @@ end
 
 You can find the time complexity of `grab_bag` *without* bounding. Try drawing out the recursive calls like we did in lecture to see if you can do this.
 
-**STOP**. You're done! Check in with the solutions to make sure you understand.
+**STOP**. You're done! Check in with the [solutions][solutions] to make sure you understand.
 
 Well done! If you finished early, go ahead and start watching the 
 [Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
+
+[solutions]: ./big_o_practice_solution.md
 
 <!--### Blustery Bonuses
 
