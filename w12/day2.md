@@ -16,10 +16,6 @@
 ### Afternoon
 
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
-* Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
-* [Dynamic Array Reading][dynamic-array-reading]
-* Dynamic Array Project (**Download from Jobberwocky at 4pm**)
-* **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
 
 ### Evening
 * **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)

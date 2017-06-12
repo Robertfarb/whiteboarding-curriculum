@@ -24,6 +24,9 @@
 * [Pair Boarding][pair-boarding-index] from `1:30 - 3:00`
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
 * Dynamic Array Project will go live on Jobberwocky at 3pm today!
+    * **First watch the videos above**
+    * **Then, go through the [Dynamic Arrays Reading][dynamic-arrays-reading]
+    * **Finally, do the project (download from Joberwocky), using the videos and reading as a guide.
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
 * Read about [Memory and Pointers][memory-pointers-readings]
 * Read about [Static Arrays][static-dynamic-array-readings]
@@ -59,8 +62,7 @@
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
-[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
-[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
+[dynamic-array-readings]: ../algorithms/arrays/arrays_reading.md
 [static-arrays]: https://vimeo.com/202107013
 [dynamic-arrays]: https://vimeo.com/202125903
 
