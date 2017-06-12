@@ -4,9 +4,8 @@
   * Turn it in on [Jobberwocky][Jobberwocky].
 * **Read a/A's requirements for [sending applications][applying-for-jobs].**
 * Begin to implement instructor feedback on your projects.
-* **Go to Ronnie Chen's lecture tonight!**
 * Read [Big O Readings][big-o-readings].
-* [**Math for Programmers**][math-primer], a math primer video lecturefor those without math backgrounds. Will cover what you need to know for algorithms lectures this week.
+* [**Math for Programmers**][math-primer], a math primer video lecture for those without math backgrounds. Will cover what you need to know for algorithms lectures this week.
   * **Required** for anyone who hasn't studied or worked in a math-heavy field. Those with math backgrounds can skip.
   * Specific topics covered:
     * definition of mathematical functions used in Big O analysis (constant, linear, quadratic, logarithmic, exponential, factorial)
@@ -22,14 +21,15 @@
 
 ### Afternoon
 
-* Big O practice problem review
+* **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
+* Dynamic Array Project will go live on Jobberwocky at 3pm today!
+* Read about [Memory and Pointers][memory-pointers-readings]
+* Read about [Static Arrays][static-dynamic-array-readings]
 * Lecture: Networking with Eli
 * Workshop: Networking Happy Hour!
 
 ### Evening
 
-* **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
-* Read [Ronnie's tips][ronnie-tips] on job search.
 * Tuesday roll call at 10am -- sleep in!
 
 ### Bonus
@@ -47,9 +47,8 @@
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
-
-[ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
 [babiak-tips]: https://github.com/d-babiak/job-market-notes
+
 <!-- Technical Interview Resources -->
 [HackerRank]: https://www.hackerrank.com/
 [Codility]: https://codility.com/
@@ -58,6 +57,11 @@
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
+[memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
+[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
+[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
+[static-arrays]: https://vimeo.com/202107013
+[dynamic-arrays]: https://vimeo.com/202125903
 
 
 <!-- Algorithms Projects & Lectures -->

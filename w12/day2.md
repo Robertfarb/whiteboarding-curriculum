@@ -1,8 +1,6 @@
 ## W12D2
 ### Homework & Daily Tasks
-* **Download [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos before coming to App Academy.**
-* Read about [Memory and Pointers][memory-pointers-readings]
-* Read about [Static Arrays][static-dynamic-array-readings]
+* **Go to Ronnie Chen's lecture tonight!**
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
@@ -13,8 +11,7 @@
 
 ### Late Morning
 * Roll call at 10am to facilitate previous evening's lecture.
-* Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!
+* Finish Dynamic Arrays Project
 
 ### Afternoon
 
@@ -24,6 +21,9 @@
 * Dynamic Array Project (**Download from Jobberwocky at 4pm**)
 * **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
 
+### Evening
+* **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
+* Read [Ronnie's tips][ronnie-tips] on job search.
 
 ### Bonus
 
@@ -50,11 +50,7 @@
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
-[memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
-[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
-[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
-[static-arrays]: https://vimeo.com/202107013
-[dynamic-arrays]: https://vimeo.com/202125903
+
 
 
 <!-- Misc -->
