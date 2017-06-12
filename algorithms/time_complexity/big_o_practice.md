@@ -377,7 +377,7 @@ end
 
 You can find the time complexity of `grab_bag` *without* bounding. Try drawing out the recursive calls like we did in lecture to see if you can do this.
 
-**STOP**. TA Time again! Call someone over and explain `grab_bag` -- both ways if you can!
+**STOP**. You're done! Check in with the solutions to make sure you understand.
 
 Well done! If you finished early, go ahead and start watching the 
 [Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
