@@ -305,39 +305,6 @@ void rec_mystery_3(int n, int m, int o)
 ```
 
 
-```ruby
-class Array
-  def grab_bag
-    return [[]] if empty?
-    bag = take(count - 1).grab_bag
-    bag.concat(bag.map { |handful| handful + [last] })
-  end
-end
-```
-```javascript
-Array.prototype.mixyUppy = function(){
-  if (this.length === 1) {
-    return [this];
-  }
-
-  var mixes = [];
-  var prevMixes = this.slice(1).mixyUppy();
-
-  prevMixes.forEach(function(mix) {
-    mix.forEach(function(el, i) {
-      mixes.push(
-        mix.slice(0, i).concat(this[0], mix.slice(i))
-      );
-    }.bind(this));
-
-    mixes.push(mix.concat(this[0]));
-  }.bind(this));
-
-  return mixes;
-};
-```
-
-
 ### Recursion's Revenge: Bubbling Bountiful Bounds
 
 Now let's take a look at some more challenging stuff. You may find yourself using bounding in this section, along with FFS for recursive functions. Take a look at this one first, which is a modication of `rec_mystery_3`:
@@ -372,6 +339,31 @@ end
 **Hint 1**: what is this function doing? Describe it in words, and use this to get a bound.
 
 You can find the time complexity of `grab_bag` *without* bounding. Try drawing out the recursive calls like we did in lecture to see if you can do this.
+
+### Bonus
+Nice work! Here's a bonus!
+```javascript
+Array.prototype.mixyUppy = function(){
+  if (this.length === 1) {
+    return [this];
+  }
+
+  var mixes = [];
+  var prevMixes = this.slice(1).mixyUppy();
+
+  prevMixes.forEach(function(mix) {
+    mix.forEach(function(el, i) {
+      mixes.push(
+        mix.slice(0, i).concat(this[0], mix.slice(i))
+      );
+    }.bind(this));
+
+    mixes.push(mix.concat(this[0]));
+  }.bind(this));
+
+  return mixes;
+};
+```
 
 At this point, look over your notes and answers to make sure you understand how you've solved each question. Solutions will be sent out tonight for you to review and compare with your answers!
 
