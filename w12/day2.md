@@ -33,7 +33,7 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d6
 
 <!-- Applying & Networking -->
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea

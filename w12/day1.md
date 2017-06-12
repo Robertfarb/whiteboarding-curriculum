@@ -21,6 +21,7 @@
 
 ### Afternoon
 
+* Pair Boarding from `1:30 - 3:00`
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
 * Dynamic Array Project will go live on Jobberwocky at 3pm today!
 * Read about [Memory and Pointers][memory-pointers-readings]
@@ -38,7 +39,6 @@
   * Password is `go_video_go`
 * Do some practice problems on [HackerRank][HackerRank] or [Codility][Codility].
 * Begin to read and practice from [Elements of Programming Interviews][elements-book]
-* Read [a successful alum's][babiak-tips] tips on interviewing.
 
 
 <!-- Job Search Projects -->
@@ -53,7 +53,7 @@
 [HackerRank]: https://www.hackerrank.com/
 [Codility]: https://codility.com/
 [elements-book]: http://elementsofprogramminginterviews.com/
-
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d5
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
