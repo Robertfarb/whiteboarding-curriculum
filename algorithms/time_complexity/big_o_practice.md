@@ -18,7 +18,8 @@ Today we're going to practice analyzing a few functions' time complexities. This
 
 1. Explain this as clearly as possible to your partner. Take good notes 
 on how you're answering each question because solutions will be sent out
-tonight!
+tonight! The more detailed your answers, the better you'll be able to
+compare them to the solutions.
 2. The partner sitting on the left is now **Partner A**, and on the right sits **Partner B**.
 
 Notice also that we are somewhat language agnostic in this assignment -- that't intentional. Some of the subtler time complexity points do depend upon what language you're using, but for the most part the language won't matter for the big stuff. There are some exceptions, but for today, assume language doesn't matter.
@@ -372,9 +373,7 @@ end
 
 You can find the time complexity of `grab_bag` *without* bounding. Try drawing out the recursive calls like we did in lecture to see if you can do this.
 
-At this point, look over your notes to make sure you understand how you've
-solved each question. Solutions will be sent out tonight for you to 
-review and compare with your answers!
+At this point, look over your notes and answers to make sure you understand how you've solved each question. Solutions will be sent out tonight for you to review and compare with your answers!
 
 Well done! If you finished early, go ahead and start watching the 
 [Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
