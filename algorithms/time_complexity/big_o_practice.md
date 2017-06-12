@@ -14,12 +14,12 @@ Project:
 
 # Time Complexity: Instructions
 
-Today we're going to practice analyzing a few functions' time complexities. This is a unique topic; you'll have to be able to conjure the time complexity of your code on the spot in interviews, and you'll be expected to do so without the benefit of Googling the basics (like "What is a logarithm?"). Because of that, we have some special rules:
+Today we're going to practice analyzing a few functions' time complexities. This is a unique topic; you'll have to be able to conjure the time complexity of your code on the spot in interviews, and you'll be expected to do so without the benefit of Googling the basics (like "What is a logarithm?"). 
 
-1. No Googling! Or Stack Overflowing or Asking Jeeves. Your resources are the TAs and your notes.
-2. Pay careful attention to the **STOP** signs in the project. At these points, you'll be directed to pause to explain something to your partner or to a TA. This is for *you*, the person doing the explaining. The best way to learn something is to teach it, so strive to be clear and thorough when you are the explainer!
-3. When you get to a **STOP** or you get stuck, post in the #placements-queue channel on Slack.
-4. The partner sitting on the left is now **Partner A**, and on the right sits **Partner B**.
+1. Explain this as clearly as possible to your partner. Take good notes 
+on how you're answering each question because solutions will be sent out
+tonight!
+2. The partner sitting on the left is now **Partner A**, and on the right sits **Partner B**.
 
 Notice also that we are somewhat language agnostic in this assignment -- that't intentional. Some of the subtler time complexity points do depend upon what language you're using, but for the most part the language won't matter for the big stuff. There are some exceptions, but for today, assume language doesn't matter.
 
@@ -208,9 +208,6 @@ for (k = 0; k < N; k++) {
 }
 ```
 
-**At this point, look at the [solutions][solutions], and for any problems that don't make 
-sense, call over a TA to discuss!**
-
 ### Interacting with Iterativeness
 
 Let's leave the arrays behind for a bit, and look at a few other functions. Start with **Partner A** explaining the time complexity of this one:
@@ -262,8 +259,6 @@ let iterative_3 = (n, m) => {
 }
 ```
 
-**STOP**. At this point, check in with the [solutions][solutions]!
-
 ### Radical Recursion
 
 Recursive functions are among the toughest to evaluate for time complexity. Remember **FFS**:
@@ -307,9 +302,9 @@ void rec_mystery_3(int n, int m, int o)
   }
 }
 ```
-**STOP**. Once you've hit this point, you are clearly a wizard. Check in with the [solutions][solutions], and in particular, look through `rec_mystery_2` and `rec_mystery_3` to make sure you understand.
 
 
+```ruby
 class Array
   def grab_bag
     return [[]] if empty?
@@ -377,7 +372,9 @@ end
 
 You can find the time complexity of `grab_bag` *without* bounding. Try drawing out the recursive calls like we did in lecture to see if you can do this.
 
-**STOP**. You're done! Check in with the [solutions][solutions] to make sure you understand.
+At this point, look over your notes to make sure you understand how you've
+solved each question. Solutions will be sent out tonight for you to 
+review and compare with your answers!
 
 Well done! If you finished early, go ahead and start watching the 
 [Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
