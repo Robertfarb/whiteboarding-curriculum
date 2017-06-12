@@ -17,7 +17,7 @@
 
 * Algorithms mini-course begins
 * Lecture: Introduction to Time Complexity
-* Project: Big O practice
+* Project: [Big O practice][big-o-practice]
 
 ### Afternoon
 
@@ -71,3 +71,5 @@
 
 <!-- Misc -->
 [applying-for-jobs]: ../meta/app-academy/applying-for-jobs.md
+
+[big-o-practice]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/algorithms/time_complexity/big_o_practice.md
