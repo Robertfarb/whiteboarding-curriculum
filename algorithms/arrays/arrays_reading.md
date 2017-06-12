@@ -121,7 +121,3 @@ Don't forget to evaluate time complexity as part of the project you'll be doing 
 ## Your Turn
 
 Now that you know how arrays work in a variety of languages, it's time to do some implementation.  Phase 1 will have you implement a dynamic array using a static array.  In Phase 2, you'll use your new data structure to implement some of the basic array functionality as well as coding up some answers to common interview questions on arrays.
-
-[Phase 1](./phase1.md)
-
-[Phase 2](./phase2.md) 
