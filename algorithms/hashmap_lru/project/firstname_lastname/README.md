@@ -236,10 +236,10 @@ bucket, we'll just append it to the end of that linked list.
 
 So here again is a summary of how you use our hash map:
 - Hash the key, mod by the number of buckets (implement the `#bucket` method first for cleaner code - it should return the correct bucket for a hashed key)
-- To **set**, insert a new link with the key and value into the correct bucket. (You can use your `LinkedList#append` method.) If the key already exists, you will need to update the existing link.
+- To **set**, insert a new node with the key and value into the correct bucket. (You can use your `LinkedList#append` method.) If the key already exists, you will need to update the existing node.
 - To **get**, check whether the linked list contains the key you're
   looking up
-- To **delete**, remove the link corresponding to that key from the
+- To **delete**, remove the node corresponding to that key from the
   linked list
 
 Finally, let's make your hash map properly enumerable. You know the
@@ -346,7 +346,7 @@ So let's map the same data in both a hash map and in a linked list.
         will be your key's value. Append that key-value pair to the
         linked list (since, again, it's now the most recently used
         item). Then, add the key to your hash, along with a pointer to
-        the new link. Finally, you have to check if the cache has
+        the new node. Finally, you have to check if the cache has
         exceeded its `max` size. If so, call the`eject!` function, which
         should delete the least recently used item so your LRU cache is
         back to `max` size.
@@ -358,3 +358,21 @@ So let's map the same data in both a hash map and in a linked list.
 And you did it! Congratulations!
 
 [lru-cache]: http://mcicpc.cs.atu.edu/archives/2012/mcpc2012/lru/lru.html
+
+## Phase 7: Practical Problem
+Let's now do a problem that's more similar to what you'll be seeing in 
+interviews. It might be one that you've already seen before, but the main idea
+is to try and use one of the data structures that you just built up!
+
+### Problem
+Write a method to test whether the letters forming  a string can be 
+permuted to form a palindrome. For example, "edified" can be permute to form
+"deified". 
+
+### Approach
+You've probably realized that we should use a hash map here. Use the hash map 
+class that you implemented! This time, when you're setting and getting, picture
+in your mind what's goin on under the hood within the hashmap. 
+
+For example, whenever you set a key-value pair, picture all the specific 
+processes that's happening to the inputs.
