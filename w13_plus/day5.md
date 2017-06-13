@@ -8,7 +8,6 @@
 
 * Roll call at 10am.
 * 10 am [Mock Interviews][pair-boarding-index]
-* Djikstra's Project Review (11 - noon)
 
 ### Afternoon
 
