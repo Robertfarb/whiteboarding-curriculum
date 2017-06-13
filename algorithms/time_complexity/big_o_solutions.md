@@ -1,4 +1,6 @@
-# Arrays are Awesome
+# Time Complexity Practice: Solutions
+
+## Arrays are Awesome
 
 1. `add`: Constant. All the operations (comparison, addition, and subtraction) are in constant time.
 
@@ -24,22 +26,104 @@
 
 8. `searchity_search_2`: (n(n + 1))/2
 
-9.
 
-# Interaacting with Iterativeness
+### `iterative_1`
 
-1. `iterative_1`: Time complexity is just n*m because you are iterating up to n
-and for every n, you are also iterating up to m.
+The functions `iterative_1`, `iterative_2`, and `iterative_3` all use nested loops, but with some subtle differences amongst the three functions. Let's start by taking a look at `iterative_1`.
 
-**FLAG FOR SCOTT'S REVIEW AND EXPLANATION**
-2. `iterative_2`: Time complexity is just n^2. Let's say n = 5. On the first iteration,
-we do 0 operations. On the second, we do 1, and it increases by 1 until we hit 
-n = 5. If we combine all of the operations, it's the sum of integers from 0 to n.
-This can be expressed as: `n * ((n + 1) / 2)`. If we discount the constants, this
-is still n^2.
+```javascript
+let iterative_1 = (n, m) => {
+  let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
 
-**FLAG FOR SCOTT'S REVIEW AND EXPLANATION**
-3. `iterative_3`: Time complexity is still n*m. 
+  for (var i = 0; i < n; i++) {
+    for (var j = 0; j < m; j++) {
+      let position = (i+j) % 8;
+      console.log(notes[position]);
+    }
+  }
+}
+```
+The two lines within the inner loop run in constant time:
+
+```javascript
+let position = (i+j) % 8;
+console.log(notes[position]);
+```
+So, we only need to figure out how many times this piece of code runs. The inner loop runs *m* times, from *j* = 0 to *j* = *m* - 1. If this loop ran on its own, it would run in O(*m*) time. However, the *outer loop* runs the *inner loop*, and it does so *n* times, from *i* = 0 to *i* = *n* - 1. Hence, the total number of times the two lines of code above run is *nm*, so this function runs in O(*nm*) time.
+
+### `iterative_2`
+
+Next, let's look at `iterative_2`.
+
+```javascript
+let iterative_2 = (n) => {
+  let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
+
+  for (var i = 0; i < n; i++) {
+    for (var j = i; j >= 0; j--) {
+      let position = (i+j) % 8;
+      console.log(notes[position]);
+    }
+  }
+}
+```
+
+Once again, the two lines housed within the inner loop run in constant time, so we need only determine how many times those two lines run. The key difference between this difference and `iterative_1` is that the number of times the inner loop runs depends upon which iteration of the outer loop we're currently on. So our tactic here will be a little different: instead of simply multiplying, we'll count up the number of iterations of the inner loop for *each* value of *i*. Take a look at the table below:
+
+<img src="iter_table_1.png" />
+
+To obtain the total number of times the two lines inside the inner loop run, we'll simply add together the righthand column.
+
+*number of calls* = 1 + 2 + 3 + ... + (*n* - 1) + *n*
+=> *number of calls* = *n*(*n* + 1)/2
+
+This is a quadratic expression, so the time complexity of `iterative_2` is O(<i>n</i><sup>2</sup>).
+
+### `iterative_3`
+
+Finally, here's `iterative_3`:
+
+```javascript
+let iterative_3 = (n, m) => {
+  let notes = ["do", "rei", "mi", "fa", "so", "la", "ti", "do"];
+
+  let bigger = n > m ? n : m;
+  let smaller = n <= m ? n : m;
+
+  for (var i = 0; i < smaller; i++) {
+    for (var j = i; j < bigger; j++) {
+      let position = (i+j) % 8;
+      console.log(notes[position]);
+    }
+  }
+}
+```
+
+This time, our loops iterate to different bounds *and* the inner loop varies in size. Since the inner loop's size varies, we'll use the same strategy that we did with `iterative_2` and count the total number of times the code inside the inner loop runs as *i* varies. For brevity, assume *n* > *m*, so *n* = *bigger* and *m* = *smaller*.
+
+<img src="iter_table_2.png" />
+
+This table looks similar to the one we saw with the previous problem. But sadly, we aren't summing *all* the integers from 1 to *n* in the righthand column -- only those from *n - m* + 1 to *n* -- so we can't use the identity we used for `iterative_2` -- or *can* we??? Take a look at this table, which includes some extra values of *i*, colored red (all lines where *i* is bigger than *m* - 1).
+
+<img src="iter_table_3.png" />
+
+Now we'll use the summation identity, but we'll do it twice: we'll add together red and black entries in the table, then subtract off the red entries.
+
+*number of calls* = *all table entries* - *red table entries*
+
+=> *number of calls* = (1 + 2 + 3 + ... + (*n* - 1) + *n*) - (1 + 2 + 3 + ... + (*n* - *m* - 2) + (*n* - *m* - 1))
+
+=> *number of calls* = *n*(*n* + 1)/2 - (*n* - *m* - 1)(*n* - *m*)/2
+
+To make the algebra a little easier, we'll multiply each side by 2. Then, we'll foil out the multiplication and do some cancelling.
+
+2 x *num of calls* = *n*(*n* + 1) - (*n* - *m* - 1)(*n* - *m*)
+
+=> 2 x *num of calls* = *n*<sup>2</sup> + *n* - (*n*<sup>2</sup> - *nm* - *nm* + *m*<sup>2</sup> - *n* + *m*)
+
+=> 2 x *num of calls* = 2<i>nm</i> - *m*<sup>2</sup> + 2n - *m*
+
+The fastest-growing term on the righthand side is 2<i>nm</i>. Since *n* > *m*, this term grows faster than *m*<sup>2</sup>. Hence, `iterative_3` runs in O(*nm*) time.
 
 ### `rec_mystery`
 
@@ -62,12 +146,14 @@ end
 ```
 One pass through this function is clearly a constant time operation. Yay! That means we simply need to find the number of recursive calls that we're making. The diagram below represents those calls. For the sake of simplicity, we'll assume that *n* mod 5 = 2 and thus eventually reaches 2, but this assumption doesn't change our underlying analysis.
 
-*n* -> *n* - 5 -> *n* - 10 -> ... -> 2
+*n* &rarr; *n* - 5 &rarr; *n* - 10 &rarr; ... &rarr; 2
 
 How many calls have we made? Let's work backward. We start at 0, and add 5 until we reach *n*. The number of 5's in our sum is equal to the number of recursive calls being made.
 
 2 + 5 + 5 + 5 + ... + 5 = *n*
+
 => 2 + 5 x (*number of calls*) = *n*
+
 => *number of calls* = (*n* - 2)/5
 
 The number of calls is (*n* - 2)/5, and thus `rec_mystery` runs in O(*n*) time.
@@ -89,12 +175,14 @@ Once again, one pass through this function takes constant time, so we only need 
 
 Again, let's work backwards. Since we are dividing by 5 on each call until we reach 1, we'll multiply to work our way back up the chain to *n*:
 
-1 -> 5 -> 5<sup>2</sup> -> 5<sup>3</sup> -> ... -> *n*/5<sup>2</sup> -> *n*/5 -> *n*
+1 &rarr; 5 &rarr; 5<sup>2</sup> &rarr; 5<sup>3</sup> &rarr; ... &rarr; *n*/5<sup>2</sup> &rarr; *n*/5 &rarr; *n*
 
 Translate this into a mathematical equation, as we did before:
 
 1 x 5 x 5 x 5 x ... x 5 = *n*
+
 => 5<sup>*number of calls*</sup> = *n*
+
 => *number of calls* = log<sub>5</sub> *n*
 
 The number of calls is log<sub>5</sub> *n*, and so the time complexity is O(log<sub>5</sub> *n*) or O(log *n*). (Note that the base of a logarithm (or an exponent) doesn't matter when we're talking about time complexity. Not writing a base implies base 10, usually.)
@@ -123,13 +211,14 @@ This function takes in three inputs instead of one: *n*, *m*, and *o*. Don't let
 
 So, that leaves us to figure out how many recursive calls are being made. Let's draw a tree:
 
-[insert image of call tree ]
+<img src="call_tree.png" />
 
 As we can see, this looks a lot like our call tree for the Fibonacci numbers -- there are just more variables there. Level *k* from the top does 2<sup><i>k</i></sup> calls, which was exactly the case with `#fibonacci` as well.
 
 One other key observation, however, is that this call tree will terminate when *n* = 0. That's important -- it means that not just each level, but the total *number* of levels, is determined only by *n*. This tree will terminate at level *n*, when the input in *n*'s place is equal to 0. Hence, as with `fibonacci`, we get:
 
 *number of calls* = 1 + 2 + 4 + ... + 2<sup><i>n</i> - 1</sup> + 2<sup><i>n</i></sup>
+
 => *number of calls* = 2<sup><i>n</i> + 1</sup> - 1
 
 So, `rec_mystery_3` runs in O(2</sup><i>n</i></sup>) time.
@@ -164,29 +253,3 @@ In Step 1, we simply observe that for the base case, an array of size 0, `grab_b
 
 Now, for Step 2, we will assume that `grab_bag` runs in 2<sup><i>n - 1</i></sup> time for an array of size *n* - 1. That means that the line `bag = take(count - 1).grab_bag` takes 2<sup><i>n - 1</i></sup> time to run. Additionally, `bag` has *size* 2<sup><i>n - 1</i></sup>. This is important, because the next line iterates through `bag` and performs a constant time operation on each bag, so the iterator also takes 2<sup><i>n - 1</i></sup> time to run. Finally, we concatenate each of these 2<sup><i>n - 1</i></sup> items onto `bag`. So, we have three operations running in O(2<sup><i>n - 1</i></sup>) time, which means that `grab_bag` runs in O(3*2<sup><i>n - 1</i></sup>) = O(1.5*2<sup><i>n</i></sup>) = O(2<sup><i>n</i></sup>)
 time as well.
-
-
-
-```javascript
-Array.prototype.mixyUppy = function(){
-  if (this.length === 1) {
-    return [this];
-  }
-
-  var mixes = [];
-  var prevMixes = this.slice(1).mixyUppy();
-
-  prevMixes.forEach(function(mix) {
-    mix.forEach(function(el, i) {
-      mixes.push(
-        mix.slice(0, i).concat(this[0], mix.slice(i))
-      );
-    }.bind(this));
-
-    mixes.push(mix.concat(this[0]));
-  }.bind(this));
-
-  return mixes;
-};
-```
-
