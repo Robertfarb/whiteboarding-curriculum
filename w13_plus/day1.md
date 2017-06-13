@@ -33,6 +33,5 @@
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d10
 
 <!-- Algorithms Projects & Lectures -->
-
 [graphs-vid]: https://vimeo.com/203562085
 [topological-vid]: https://vimeo.com/203906270

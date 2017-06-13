@@ -3,6 +3,8 @@
 * **Go to Ronnie Chen's lecture tonight!**
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
+* Dynamic Arrays Project due at noon on Progress Tracker
+    * **PLEASE RENAME YOUR PROJECT TO #{firstname}_#{lastname} BEFORE ZIPPING
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
 
 ### Daily Tasks
@@ -15,7 +17,10 @@
 
 ### Afternoon
 
+* Dynamic Arrays Project Review (1:30 - 3:00)
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
+* HashMap/LRU Cache Video Lectures & Project
+    * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
 
 ### Evening
 * **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
@@ -46,7 +51,7 @@
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
-
+[hm-lru-videos]: https://github.com/appacademy/curriculum/tree/master/ruby#w2d5
 
 
 <!-- Misc -->
