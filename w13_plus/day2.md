@@ -16,10 +16,7 @@
 * Roll call at 1:30pm
 * Solution review: Quicksort
 * [Mock Interviews][pair-boarding-index]
-* **Updated Readings**
-  * [BST Phase 1][bst-1]
-  * [BST Phase 2][bst-2]
-* Video: [Binary search tree][binary-search-trees-vid]
+
 * Project: BST project goes live at 4pm (please use the version from Jobberwocky), **due by 12pm tomorrow**.
 
 <!-- LINKS -->
@@ -29,10 +26,9 @@
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 
 <!-- Technical Interview Resources -->
-[binary-search-trees-vid]: https://vimeo.com/203204585
+
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d11
 
 <!-- Algorithms Readings & Projects -->
 [bst]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d3/project5
-[bst-1]: ../algorithms/binary_search_trees/project/phase1.md
-[bst-2]: ../algorithms/binary_search_trees/project/phase2.md
+

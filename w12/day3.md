@@ -12,6 +12,12 @@
 * HashMap/LRU Cache Review Session
 * [Mock Interviews][pair-boarding-index]
 * Heaps and Heap Sort Video Lectures and Project
+    * Videos on heaps and heapsort:
+      * [Heaps 1][heaps1]
+      * [Heaps 2][heaps2]
+      * [Heaps 3][heaps3]
+      * [Heapsort 1][heapsort1]
+      * [Heapsort 2][heapsort2]
 
 ### Evening
 #### Alumni Panel
@@ -31,7 +37,11 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d7
-
+[heaps1]: https://vimeo.com/191997749/b59a137b19
+[heaps2]: https://vimeo.com/191997750/83ff39ba6a
+[heaps3]: https://vimeo.com/191997751/6db2554bbb
+[heapsort1]: https://vimeo.com/191997808/3d0a223bb1
+[heapsort2]: https://vimeo.com/191997809/849cf1b7ad
 
 <!-- Technical Interview Resources -->
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0

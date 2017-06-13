@@ -1,6 +1,6 @@
 ## W12D6-7
 ### Projects
-* Project 3 - Heaps/Heap Sort: **due Monday at noon**
+* Binary Search Tree Project due Monday
 * Bonus: [portfolio site][portfolio]
 
 
