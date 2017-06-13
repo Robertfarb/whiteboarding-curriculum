@@ -2,7 +2,7 @@
 
 ### Homework & Daily Tasks
 
-* **Finish Friday's Heaps & Heapsort project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
+* **Finish Friday's Binary Search Tree project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Start applying to companies!  40 application quota begins this week.
 * Begin to think about what your next project will be & who you would like to work with.
 
@@ -15,10 +15,12 @@
 ### Afternoon
 
 * Roll call at 1:30pm as usual
-* Solution review: Heaps & Heapsort
+* Solution review: BST
 * [Mock Interviews][pair-boarding-index]
-
-* Project: Optimized Quicksort will be live at 4pm, **due by 12pm tomorrow**.
+* Graphs and Topological Sort Video:
+  * [Graphs][graphs-vid]
+  * [Topological Sort][topological-vid]
+* Project: Graphs and Topological Sort will be live at 4pm, **due by 12pm tomorrow**.
 
 
 <!-- LINKS -->
@@ -29,3 +31,7 @@
 
 <!-- Technical Interview Resources -->
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d10
+
+<!-- Algorithms Projects & Lectures -->
+[graphs-vid]: https://vimeo.com/203562085
+[topological-vid]: https://vimeo.com/203906270
