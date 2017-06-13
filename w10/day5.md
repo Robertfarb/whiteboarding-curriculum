@@ -23,7 +23,7 @@
 * Online Presence Lecture and Workshop
 
 #### Happy Hour
-* At 5pm, join the new cohort for their first Happy Hour!
+* At 5:30pm, join the new cohort for their first Happy Hour!
 
 ### Projects
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)

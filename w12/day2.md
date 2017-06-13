@@ -1,10 +1,10 @@
 ## W12D2
 ### Homework & Daily Tasks
-* **Download [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos before coming to App Academy.**
-* Read about [Memory and Pointers][memory-pointers-readings]
-* Read about [Static Arrays][static-dynamic-array-readings]
+* **Go to Ronnie Chen's lecture tonight!**
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
+* Dynamic Arrays Project due at noon on Progress Tracker
+    * **PLEASE RENAME YOUR PROJECT TO #{firstname}_#{lastname} BEFORE ZIPPING
 * Bonus: Read [What do software engineers actually do?][what-software-engineers-do]
 
 ### Daily Tasks
@@ -13,17 +13,18 @@
 
 ### Late Morning
 * Roll call at 10am to facilitate previous evening's lecture.
-* Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!
+* Finish Dynamic Arrays Project
 
 ### Afternoon
 
+* Dynamic Arrays Project Review (1:30 - 3:00)
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
-* Static Array [video][static-arrays] followed by Dynamic Array [video][dynamic-arrays]
-* [Dynamic Array Reading][dynamic-array-reading]
-* Dynamic Array Project (**Download from Jobberwocky at 4pm**)
-* **Turn in project on [Jobberwocky][Jobberwocky] by noon tomorrow.**
+* HashMap/LRU Cache Video Lectures & Project
+    * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
 
+### Evening
+* **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
+* Read [Ronnie's tips][ronnie-tips] on job search.
 
 ### Bonus
 
@@ -33,7 +34,7 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#index
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d6
 
 <!-- Applying & Networking -->
 [ronnie-tips]: https://gist.github.com/ronnieftw/7907630469242f0999ea
@@ -50,11 +51,7 @@
 
 <!-- Algorithms Readings & Projects -->
 [big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
-[memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
-[dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d3/project1
-[static-dynamic-array-readings]: https://github.com/appacademy/job-search-curriculum/blob/master/SF/algorithms/w11d2/static-array.md
-[static-arrays]: https://vimeo.com/202107013
-[dynamic-arrays]: https://vimeo.com/202125903
+[hm-lru-videos]: https://github.com/appacademy/curriculum/tree/master/ruby#w2d5
 
 
 <!-- Misc -->

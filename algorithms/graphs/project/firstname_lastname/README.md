@@ -35,3 +35,8 @@ An alternative algorithm for topological sorting is based on depth-first search.
 Each node n gets prepended to the output list L only after considering all other nodes which depend on n (all descendants of n in the graph). Specifically, when the algorithm adds node n, we are guaranteed that all nodes which depend on n are already in the output list L: they were added to L either by the recursive call to visit() which ended before the call to visit n, or by a call to visit() which started even before the call to visit n.
 
 What is the time complexity?
+
+
+### Install order
+
+Given an Array of tuples, where `tuple[0]` represents a package id, and `tuple[1]` represents its dependency, determine the order in which the packages should be installed. Only packages that have dependencies will be listed, but all packages from `1..max_id` exist. N.B. this is how `npm` works.
