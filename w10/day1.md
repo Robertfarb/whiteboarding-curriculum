@@ -2,6 +2,7 @@
 ### Homework
 * **Submit your Full Stack Project on Jobberwocky by 9am**
     * **Please have the [correct scorecard][project-scorecard]**
+    * **The above scorecard has multiple tabs. Please use the same scorecard for your JS project as well.**
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
