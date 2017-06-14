@@ -1,5 +1,7 @@
 ## W10D1
 ### Homework
+* **Submit your Full Stack Project on Jobberwocky by 9am**
+    * **Please have the [correct scorecard][project-scorecard]**
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
@@ -42,3 +44,4 @@
 [job-search-curriculum-drive-folder]: https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
+[project-scorecard]: https://docs.google.com/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit#gid=0
