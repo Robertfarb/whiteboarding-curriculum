@@ -48,9 +48,9 @@ Some areas to pay attention to and give specific feedback on:
 **Here's the agenda:**
 * First 5 minutes: Both partners study the interview questions they're about to give.
 * Next 25 minutes: Partner A calls Partner B and gives the interview.
-* Next 5 minute: Partner A gives constructive feedback for Partner B. Hang up.
+* Next 5 minute: Partner A gives constructive feedback for Partner (go over the scorecard). Hang up.
 * Next 25 minutes: Partner B cals Partner A to give the interview.
-* Final 5 minutes: Partner B gives constructive feedback for Partner B.
+* Final 5 minutes: Partner B gives constructive feedback for Partner B (go over the scorecard).
 
 Alright, let's get started! Please determine who will be partner A and who
 will be partner B:
