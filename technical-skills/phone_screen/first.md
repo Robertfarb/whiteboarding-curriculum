@@ -6,7 +6,8 @@
 4. What steps do you take when you are unsure on how to solve a technical problem?
 5. Tell me about something you've been working on recently.
 6. What are some projects you like to work on? What are some that you don't like to work on? Why?
-7. [What's the event loop?](https://github.com/joshling1919/node/blob/master/notes/event-loop.md)
+7. [What's the event loop?](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/)
+    * [Here's another awesome video for you to watch later on event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 8. [What happens when you type in "www.google.com" and hit enter?](http://edusagar.com/articles/view/70/What-happens-when-you-type-a-URL-in-browser)
 9. Do you have any questions for me? 
 
