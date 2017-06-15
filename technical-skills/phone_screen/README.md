@@ -2,14 +2,7 @@
 
 Welcome to your first (and only) mock phone screen practice today! 
 
-Before we do anything else, please determine who will be partner A and who
-will be partner B.
-
-If you are Partner A, then click on [this first interview][first-interview]. You
-will be the **interviewer** for this one.
-
-If you are Partner B, then click on [this second interview][second-interview].
-You will be the **interviewer** for this one.
+## Areas of Focus
 
 Today, as an interviewer, pay close attention to the communication skills of
 your partner, and be very intentional about giving critical, constructive feedback.
@@ -21,6 +14,8 @@ tell whether or not you're doing well on the interview, and that can be nerve-wr
 
 That's why today, let's help each other out in making sure that our verbal communication
 is excellent, and if it's not, provide feedback on how to get there.
+
+## Instructions
 
 **Before starting the interview, decide which company you are going to pretend
 that you are talking to on the phone interview today.**
@@ -41,6 +36,16 @@ Some areas to pay attention to and give specific feedback on:
     examples to demonstrate the depth of their knowledge?
 5. Did they rush into answering the question? Or did they take a pause (but not too long) to come
 up with a well thought out answer?
+
+## Phone Screens
+Alright, let's get started! Please determine who will be partner A and who
+will be partner B:
+
+* If you are Partner A, then click on [this first interview][first-interview]. You
+will be the **interviewer** for this one.
+
+* If you are Partner B, then click on [this second interview][second-interview].
+You will be the **interviewer** for this one.
 
 <!--Links-->
 [first-interview]: ./first.md
