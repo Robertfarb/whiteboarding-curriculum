@@ -17,10 +17,10 @@ is excellent, and if it's not, provide feedback on how to get there.
 
 ## Instructions
 
-**Before starting the interview, decide which company you are going to pretend
+* **Before starting the interview, decide which company you are going to pretend
 that you are talking to on the phone interview today.**
 
-**In addition, before starting the interview, please review the questions you
+* **In addition, before starting the interview, please review the questions you
 are about to give (especially the technical ones) to make sure you understand
 them fully before asking them.**
 
@@ -38,6 +38,14 @@ Some areas to pay attention to and give specific feedback on:
 up with a well thought out answer?
 
 ## Phone Screens
+
+**Here's the agenda:**
+* First 5 minutes: Both partners study the interview questions they're about to give.
+* Next 25 minutes: Partner A calls Partner B and gives the interview.
+* Next 5 minute: Partner A gives constructive feedback for Partner B. Hang up.
+* Next 25 minutes: Partner B cals Partner A to give the interview.
+* Final 5 minutes: Partner B gives constructive feedback for Partner B.
+
 Alright, let's get started! Please determine who will be partner A and who
 will be partner B:
 
