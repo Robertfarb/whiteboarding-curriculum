@@ -41,3 +41,7 @@ Some areas to pay attention to and give specific feedback on:
     examples to demonstrate the depth of their knowledge?
 5. Did they rush into answering the question? Or did they take a pause (but not too long) to come
 up with a well thought out answer?
+
+<!--Links-->
+[first-interview]: ./first.md
+[second-interview]: ./second.md
