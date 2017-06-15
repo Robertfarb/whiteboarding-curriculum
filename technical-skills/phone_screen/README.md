@@ -24,6 +24,13 @@ that you are talking to on the phone interview today.**
 are about to give (especially the technical ones) to make sure you understand
 them fully before asking them.**
 
+* Both people should set up this scorecard in their own job search drive:
+[Phone Screen Scorecard][scorecard]
+
+* Share edit access on the scorecard with each other.
+
+
+
 Some areas to pay attention to and give specific feedback on:
 1. Did they drone on for too long?
 2. Did they speak clearly, with volume, and with good pacing?
@@ -34,8 +41,7 @@ Some areas to pay attention to and give specific feedback on:
     want to work with?
     * If it's technical, were the concrete and concise? Did they give specific 
     examples to demonstrate the depth of their knowledge?
-5. Did they rush into answering the question? Or did they take a pause (but not too long) to come
-up with a well thought out answer?
+5. Did they rush into answering the question? Or did they take a pause (but not too long) to come up with a well thought out answer?
 
 ## Phone Screens
 
@@ -58,3 +64,4 @@ You will be the **interviewer** for this one.
 <!--Links-->
 [first-interview]: ./first.md
 [second-interview]: ./second.md
+[scorecard]: https://docs.google.com/spreadsheets/d/1fjcs0dtVVs4ErIT6KOV0Ke3Z3PSNukjTRgIATd1IFZ4/edit?usp=sharing
