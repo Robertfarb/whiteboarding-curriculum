@@ -12,7 +12,7 @@
 
 ### Afternoon
 * Heaps and Heap Sort Project Review
-* Mock Phone Screen
+* [Mock Phone Screen][phone-screen]
 * Quick Sort Video Lecture/Project
    * [Quicksort 1][quicksort1]
    * [Quicksort 2][quicksort2]
@@ -32,6 +32,7 @@
 [offer-negotiation]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/pay-talk.md
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
+[phone-screen]: ../technical-skills/phone_screen/README.md
 
 [quicksort1]: https://vimeo.com/192003395/f90890d138
 [quicksort2]: https://vimeo.com/192206159/917569833b
