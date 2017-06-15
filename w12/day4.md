@@ -17,6 +17,7 @@
    * [Quicksort 1][quicksort1]
    * [Quicksort 2][quicksort2]
    * [Quicksort 3][quicksort3]
+* Bonus videos on sorting
    * [Sorting Algorithms 1][sorting1]
    * [Sorting Algorithms 2][sorting2]
   
