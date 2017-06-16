@@ -10,8 +10,9 @@
 * Lecture: Introduction to TalentMatch
 * [Pair Boarding][pairboarding-index]
 * Binary Search Tree Video Lectures and Project
-    * Video: [Binary search tree][binary-search-trees-vid]
-    * [BST Reading][bst-reading]
+    * First watch the video: [Binary search tree][binary-search-trees-vid]
+    * Then read through the [BST Reading][bst-reading]
+    * Finally, download the BST project from Progress Tracker.
 
 ### Bonus
 
