@@ -99,4 +99,4 @@ In this part of the lesson, let's do a fairly common interview problem.
 
 #### `kth_largest`
 
-Write a function that takes in a binary search tree (as a `tree_node` and an integer *k*, and returns the <i>k</i>th largest element in the BST.
+Write a function that takes in a binary search tree (as a `tree_node`) and an integer *k*, and returns the <i>k</i>th largest element in the BST.
