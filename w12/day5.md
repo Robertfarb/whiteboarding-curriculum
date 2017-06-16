@@ -11,7 +11,7 @@
 * [Pair Boarding][pairboarding-index]
 * Binary Search Tree Video Lectures and Project
     * Video: [Binary search tree][binary-search-trees-vid]
-    * [BST Reading]: 
+    * [BST Reading][bst-reading]
 
 ### Bonus
 
