@@ -95,7 +95,7 @@ Sally forth! Phase 2 awaits!
 
 ## Phase 2: Binary Search Trees in Action
 
-In this part of the lesson, let's do a fairly common interview problem.
+In this part of the lesson, let's do an interview problem that involves a BST.
 
 #### `kth_largest`
 
