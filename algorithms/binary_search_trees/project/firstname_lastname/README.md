@@ -24,7 +24,9 @@ This class will be pretty simple. We need only an `#initialize` method and the a
 
 Now comes the fun stuff. We'll recreate all the functionality discussed in the lecture on our `BinarySearchTree`, plus a couple extras.  
 
-**NB: There are multiple ways to implement these various methods. If you need to, feel free to tweak the skeleton and add helper methods in order to write the methods in a way that makes sense to you, as long as it passes the specs. _However, please do not change the specs._ In our implementation of the BST, some of these BST methods call on helper methods and allow for the recursion to happen in the helper methods. But again, it's up to you to decide how you want to implement your methods, as long as it properly executes what it needs to do on a Binary Search Tree.**
+**NB: There are multiple ways to implement these various methods. If you need to, feel free to tweak the skeleton and add helper methods in order to write the methods in a way that makes sense to you, as long as it passes the specs. _However, please do not change the specs._** 
+
+**In our implementation of the BST, some of these BST methods call on helper methods and allow for the recursion to happen in the helper methods. But again, it's up to you to decide how you want to implement your methods, as long as it properly executes what it needs to do on a Binary Search Tree.**
 
 Also, in the skeleton file for the `BinarySearchTree` class, there are method arguments that have a variable named `tree_node`. A `tree_node` is essentially just a root node, and we call it a `tree_node` because it holds access to the rest of the tree. We didn't want to also call it `root_node` since we already had a `@root`. 
 
@@ -64,7 +66,7 @@ You'll need a helper method, `#maximum`.  After that, the work that we want to d
 
 Remember that a lynch pin in our binary search tree was ensuring that the tree was (and remained) *balanced* and thus maintained a depth that was approximately equal to `log (n)` where *n* is the number of nodes in the tree. Otherwise, we ended up with nasty cases like this one:
 
-<img src="../diagrams/degenerate.png" />
+<img src="https://github.com/appacademy/sf-job-search-curriculum/blob/master/algorithms/binary_search_trees/diagrams/degnerate.png" />
 
 We defined the *balanced* property as follows:
 
