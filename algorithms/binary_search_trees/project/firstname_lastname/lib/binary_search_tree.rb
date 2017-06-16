@@ -2,24 +2,30 @@ class BinarySearchTree
   def initialize
   end
 
-  def find(el)
+  def insert(value)
   end
 
-  def insert(el)
+  def find(value, tree_node = @root)
   end
 
-  def delete(el)
+  def delete(value)
   end
 
-  def is_balanced?
+  # helper method for #delete:
+  def maximum(tree_node = @root)
   end
 
-  def in_order_traversal
-  end
-
-  def maximum
-  end
-
-  def depth
+  def depth(tree_node = @root)
   end 
+  
+  def is_balanced?(tree_node = @root)
+  end
+
+  def in_order_traversal(tree_node = @root, arr = [])
+  end
+
+
+  private
+  # optional helper methods go here:
+
 end

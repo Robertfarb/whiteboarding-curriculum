@@ -5,8 +5,6 @@
 
 In this project, we'll translate our conceptual idea of a binary search tree into a real, live Ruby object with all the functionality that we dreamt of.  
 
-**NB**: this project doesn't have specs yet.  It's in beta!  Use the examples from the BST reading as sample test input, and make sure everything is working as you go.
-
 ## The Setup
 
 First, we must consider carefully how we'd like to represent our BST and the nodes within it. There is not a single "right" way to do this, but there are some time complexities and functionality that we *must* achieve, namely:
@@ -14,9 +12,9 @@ First, we must consider carefully how we'd like to represent our BST and the nod
 - **Nodes**: allows each node to hold a value, `val`, and accesses and sets that `val` in constant time,
 - **Child/parent connections**: allows each node to hold a left child and/or a right child, with access to the children in constant time
 
-Notice that we don't necessarily *need* to represent a node's `parent` connection explicitly; however, that might be a useful attribute to track should we ever need it.  (How would we access `parent` if we don't define it in the constructor? How could this affect time complexities?)
+Notice that we don't necessarily *need* to represent a node's `parent` connection explicitly; however, that might be a useful attribute to track should we ever need it.  
 
-It'll be helpful to separate our concerns into two structures: `BSTNode` and `BinarySearchTree`.  Each `BSTNode` will hold the information relevant to an individual node: its value and pointers to its children. For now, we'll leave off the pointer to its parent. The `BinarySearchTree` will house a collection of nodes tied together using the conceptual rules of the BST outlined in the videos and readings.  
+It'll be helpful to separate our concerns into two structures: `BSTNode` and `BinarySearchTree`.  Each `BSTNode` will hold the information relevant to an individual node: its value and pointers to its children. It's up to you whether or not you want to include the parent pointer, but do know that it could determine how your methods are later written in the `BinarySearchTree` class. The `BinarySearchTree` will house a collection of nodes tied together using the conceptual rules of the BST outlined in the videos and readings.  
 
 ## `BSTNode`
 
@@ -26,9 +24,13 @@ This class will be pretty simple. We need only an `#initialize` method and the a
 
 Now comes the fun stuff. We'll recreate all the functionality discussed in the lecture on our `BinarySearchTree`, plus a couple extras.  
 
+**NB: There are multiple ways to implement these various methods. If you need to, feel free to tweak the skeleton and add helper methods in order to write the methods in a way that makes sense to you, as long as it passes the specs. _However, please do not change the specs._ In our implementation of the BST, some of these BST methods call on helper methods and allow for the recursion to happen in the helper methods. But again, it's up to you to decide how you want to implement your methods, as long as it properly executes what it needs to do on a Binary Search Tree.**
+
+Also, in the skeleton file for the `BinarySearchTree` class, there are method arguments that have a variable named `tree_node`. A `tree_node` is essentially just a root node, and we call it a `tree_node` because it holds access to the rest of the tree. We didn't want to also call it `root_node` since we already had a `@root`. 
+
 #### `#initialize`
 
-Let's review how we conceptually created a binary search tree: we began with a root. Instantiate this within `#initialize`, and don't forget its accessor. Remember that the root is a node, and it ought to start off empty itself.
+Let's review how we conceptually created a binary search tree: we began with a root. Instantiate this within `#initialize`, and don't forget its accessor. Remember that the root is a node, but let's start it off equal to `nil`, and when we eventually insert the first element, then we'll set it to equal a node.
 
 #### `#insert`
 
@@ -38,13 +40,13 @@ Recall our algorithm for inserting a node into a tree:
 2. If the node is less than the root, insert into the left subtree. If there is no left subtree, the node becomes the root's left child.
 3. If the node is greater than the root, insert into the right subtree. If there is no right subtree, the node becomes the root's right child.
 
-Write this method.  `#insert` should take in a `BSTNode` and insert it into its proper position in the `BinarySearchTree`. Hint: this algorithm is recursive.
+Write this method.  `#insert` should take in a `value` and insert it into its proper position in the `BinarySearchTree`. Hint: this algorithm is recursive (in our solution, we use recursion in a helper method).
 
 Once you have `#insert` working, go back and tweak it to account for duplicate values.
 
 #### `#find`
 
-Write a method that takes in a `val` and returns `true` if any node in the tree has value equal to `val` and false otherwise. Remember: a binary search tree keeps all nodes less than the root in its left subtree, and all nodes greater than the root in its right subtree.
+Write a method that takes in a `value` and returns the node that has that value. If none of the nodes in the BST has that value, then return nil. Remember: a binary search tree keeps all nodes less than the root in its left subtree, and all nodes greater than the root in its right subtree.
 
 **NB**: you had two choices for how to handle duplicates in `#insert`. Your implementation of `#find` will depend (to a small extent) on which of these choices you made.
 
@@ -56,7 +58,7 @@ This is the tricky one! Review the binary search tree reading for details. Here 
 2. If a node has only one child, delete it and promote its child to take its place.
 3. If a node has two children, find the largest node in its left subtree and promote that node to replace the deleted node. If necessary, promote that node's child to replace its parent.
 
-You'll need a helper method, `#maximum`, for this one.  After that, the work that we want to do here essentially involves a lot of pointer swapping.  
+You'll need a helper method, `#maximum`.  After that, the work that we want to do here essentially involves a lot of pointer swapping. Helper methods are recommended here!
 
 #### `#is_balanced?` and `#depth`
 
@@ -73,7 +75,7 @@ Write `#depth` first, as you will use this as a helper method in `#is_balanced?`
 
 #### `#in_order_traversal`
 
-As our final Phase 1 exercise, let's implement `#in_order_traversal`, which returns the set of `val`s held by the nodes in the `BinarySearchTree` in sorted order. Recall our algorithm for this:
+As our final Phase 1 exercise, let's implement `#in_order_traversal`, which returns the set of `value`s held by the nodes in the `BinarySearchTree` in sorted order. Recall our algorithm for this:
 
 1. Perform an in-order traversal of the left subtree,
 2. Print (or push) the value of the root,
@@ -83,39 +85,16 @@ Your `#in_order_traversal` method should return an array that contains the data 
 
 ## What Our Tree Is and Isn't
 
-Great job! You've built a basic BST. This structure has all the features of a binary search tree, but it's important to know what this tree isn't: it is *not* a self-balancing tree. That's important, because we have no safeguard to ensure that our time complexities remain logarithmic for `#find`, `#insert`, and `#delete`. The bonus after Phase 2 is a walk-through that has you create a self-balancing tree and goes over the rebalacing algorithm in more depth.
+Great job! You've built a basic BST. This structure has all the features of a binary search tree, but it's important to know what this tree isn't: it is *not* a self-balancing tree. That's important, because we have no safeguard to ensure that our time complexities remain logarithmic for `#find`, `#insert`, and `#delete`. After phase 2, as a bonus, you can try to create a self-balancing tree and implement the rebalacing algorithm.
 
 Before you explore the world of AVL/self-balancing trees, go on to use your tree for some interview-style questions. It's more important that you do Phase 2 than the bonus, because these are the kinds of exercises you may be expected to do on an actual interview. (No a/A student has ever been asked to implement a rebalancing algorithm or an AVL tree from scratch.  No one.)
 
 Sally forth! Phase 2 awaits!  
 
-
 ## Phase 2: Binary Search Trees in Action
 
-In this part of the lesson, we'll use our newly created BST to do a few fun things. These are pretty typical interview questions, though they are on the medium-hard to hard side of what you're likely to encounter in your search.
-
-**NO CHEATING!**. Don't Ask Jeeves or Jeeves' lesser cousin, Google. Figure these out on your own!
+In this part of the lesson, let's do a fairly common interview problem.
 
 #### `kth_largest`
 
-Write a function that takes in a binary search tree and an integer *k*, and returns the <i>k</i>th largest element in the BST.
-
-#### `lowest_common_ancestor`
-
-In a binary search tree, an *ancestor* of a `example_node` is a node that is on a higher level than `example_node`, and can be traced directly back to `example_node` without going up any levels. (I.e., this is intuitively what you think an ancestor should be.) Every node in a binary tree shares at least one ancestor -- the root. In this exercise, write a function that takes in a BST and two nodes, and returns the node that is the lowest common ancestor the given nodes.
-
-#### `post_order_traversal`
-
-A *post-order traversal* of a tree is a variation on in-order traversal. It is performed as follows:
-
-1. Perform a post-order traversal of the left subtree,
-2. Perform a post-order traversal of the right subtree,
-3. Record the value of the root.
-
-Write a function that takes in a BST and returns the underlying data set in post-order traversal order.
-
-There is a third common traversal as well: *pre-order traversal*. Can you hazard a guess at its algorithm?
-
-#### `reconstruct`
-
-We now have the ability to perform in-order and post-order traversals on our BSTs (and maybe pre-order if you wrote that one!). Let's go in reverse. It's not possible to write a function that reconstructs a BST using *only* its in-order traversal (why? find a counterexample!).  However, we can do so with either the pre- or post-order traversals. Write a function that takes in a tree's post-order traversal and uses that data to reconstruct the original BST.
+Write a function that takes in a binary search tree (as a `tree_node` and an integer *k*, and returns the <i>k</i>th largest element in the BST.
