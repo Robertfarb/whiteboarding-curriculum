@@ -315,7 +315,6 @@ Lo and behold, we return our sorted data set, `[0, 2, 3, 4, 6]`.
 
 ## Your Turn
 
-In this lesson, we've talked through the conceptual construction of a BST along with the algorithms we'd use to accomplish some basic tasks.  We have not, however, talked much at all about implementation. That's next. In Phase 1, we'll walk through an implementation of a BST in Ruby. In Phase 2, you'll use that BST to code up answers to a few interview-style questions that use your BST.
+In this lesson, we've talked through the conceptual construction of a BST along with the algorithms we'd use to accomplish some basic tasks.  We have not, however, talked much at all about implementation. That's next. In Phase 1, we'll walk through an implementation of a BST in Ruby. In Phase 2, you'll use your BST knowledge to solve a fairly typical BST problem.
 
-[Phase 1](./project/phase1.md)
-[Phase 2](./project/phase2.md)
+The instructions for the 2 phases are in the project's README.
