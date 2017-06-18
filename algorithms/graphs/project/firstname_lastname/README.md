@@ -34,6 +34,7 @@ An alternative algorithm for topological sorting is based on depth-first search.
 
 Each node n gets prepended to the output list L only after considering all other nodes which depend on n (all descendants of n in the graph). Specifically, when the algorithm adds node n, we are guaranteed that all nodes which depend on n are already in the output list L: they were added to L either by the recursive call to visit() which ended before the call to visit n, or by a call to visit() which started even before the call to visit n.
 
+Cycle catching can be tricky, try without it first maybe.
 What is the time complexity?
 
 
