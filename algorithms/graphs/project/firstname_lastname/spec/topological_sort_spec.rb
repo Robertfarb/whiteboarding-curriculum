@@ -14,26 +14,17 @@ describe 'TopologicalSort' do
 
   before(:each) do
     vertices.push(v1, v2, v3, v4, v5, v6, v7, v8)
-    # Edge.new(v1, v2)
-    # Edge.new(v1, v3)
-    # Edge.new(v2, v4)
-    # Edge.new(v3, v4)
-    # Edge.new(v2, v5)
-    # Edge.new(v4, v6)
-    # Edge.new(v5, v6)
-    # Edge.new(v6, v7)
-    # Edge.new(v7, v8)
   end
 
   it "sorts the vertices" do
     solutions = [
-      [v1, v2, v3, v4, v5, v6, v7, v8],
-      [v1, v2, v3, v5, v4, v6, v7, v8],
-      [v1, v3, v2, v4, v5, v6, v7, v8],
-      [v1, v3, v2, v5, v4, v6, v7, v8]
+      [v1.value, v2.value, v3.value, v4.value, v5.value, v6.value, v7.value, v8.value],
+      [v1.value, v2.value, v3.value, v5.value, v4.value, v6.value, v7.value, v8.value],
+      [v1.value, v3.value, v2.value, v4.value, v5.value, v6.value, v7.value, v8.value],
+      [v1.value, v3.value, v2.value, v5.value, v4.value, v6.value, v7.value, v8.value]
     ]
 
-    20.times do
+    1.times do
       Edge.new(v1, v2)
       Edge.new(v1, v3)
       Edge.new(v2, v4)
@@ -43,7 +34,7 @@ describe 'TopologicalSort' do
       Edge.new(v5, v6)
       Edge.new(v6, v7)
       Edge.new(v7, v8)
-      expect(solutions).to include(topological_sort(vertices.shuffle))
+      expect(solutions).to include(topological_sort(vertices.shuffle).map{ |vert| vert.value})
     end
   end
 
@@ -60,7 +51,7 @@ describe 'TopologicalSort' do
       Edge.new(v6, v7)
       Edge.new(v7, v8)
       Edge.new(v8, v2)
-      expect(topological_sort(vertices.shuffle)).to eq([])
+      expect(topological_sort(vertices.shuffle).map{ |el| el.value }).to eq([])
     end
   end
 end
