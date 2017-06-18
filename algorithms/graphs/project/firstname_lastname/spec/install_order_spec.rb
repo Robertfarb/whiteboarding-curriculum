@@ -8,6 +8,7 @@ describe '#install_order' do
     arr = [[3, 1], [2, 1], [6, 5], [3, 6], [3, 2], [4, 3], [9, 1]]
     result = install_order(arr)
     expect(result.index(8)).not_to be_nil
+    expect(result.index(7)).not_to be_nil
   end
 
   it 'returns the correct order' do
