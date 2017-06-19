@@ -285,13 +285,11 @@ This gives us a clue as to what we should do: we ought to traverse the entire le
 
 Let's practice on a familiar example.
 
-<img src="./diagrams/in_order_1.png" />
+<img src="./diagrams/build_bst_soln.png" />
 
 We'll do our recording by pushing into an array, `results = []`.
 
 **Step 1.** Perform an in-order traversal of the left subtree.
-
-<img src="./diagrams/in_order_1.png" />
 
 **Step 1a.** Perform an in-order traversal of the left subtree's left subtree. The left subtree is a single node, `0`. When we perform this traversal, we implicitly explore the left, but because it is empty, we immediately return to the root node, `0`. We now record that node by pushing its value into `results`. Then, we implicitly explore the right subtree, which is also empty. Hence, our exploration of this sub-subtree is finished.
 
