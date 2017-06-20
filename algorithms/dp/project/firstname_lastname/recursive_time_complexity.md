@@ -115,19 +115,19 @@ This leads us to our final formulation of the rules for evaluating recursive tim
 
 But wait: we completed this process for `rec_mins`, but not for `fibonacci` -- we never actually found the number of recursive calls being made. Let's do that now. Imagine that we call `fibonacci(n)`. This gives rise to a bunch of other recursive calls: 2 for each call to `fibonacci` (that's not a base case). Picture these calls as a big tree:
 
-[image of a giant tree of calls]
+<img src="dp_images/fib_call_tree_3.png" />
 
 This tree terminates only when every branch hits a base case. Here's the entire call tree for `fibonacci(5)`:
 
-[image of tree with 5]
+<img src="dp_images/fib_call_tree_2.png" />
 
 We can use this tree and some important mathematical properties to find the total number of calls that `fibonacci(n)` makes. Note first that each level of this tree makes twice the number of calls as the previous level: level 0 makes 1 call, level 1 makes 2 calls, level 2 makes 4 calls, etc. In general, level *k* will make 2<sup><i>k</i></sup> calls.
 
-[pic of leveled-off trees]
+<img src="dp_images/fib_call_tree_4.png" />
 
 Now, how many levels are there in this tree? This information can be found by looking at the branch on the very left edge of the tree. This branch terminates at the lowest level of the tree, level *n*.
 
-[image of tree with level info]
+<img src="dp_images/fib_call_tree_5.png" />
 
 So, to find the total number of calls made by `fibonacci(n)`, we add together all the calls on all the levels of this tree.
 
