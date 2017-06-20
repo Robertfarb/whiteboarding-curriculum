@@ -2,8 +2,8 @@
 
 Today we'll learn a technique that combines an old tool, recursion, with a new idea, memoization. This topic relies heavily on recursion, so if you're feeling rusty, do these two readings first: 
 
-[Recursion Review](./recursion.md)
-[Recursive Time Complexity](./recursive_time_complexity.md)
+1. [Recursion Review](./recursion.md)
+2. [Recursive Time Complexity](./recursive_time_complexity.md)
 
 Then, get started with Dynamic Programming!
 
