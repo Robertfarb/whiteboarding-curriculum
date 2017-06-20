@@ -13,9 +13,9 @@ This tiny, innocuous-looking function runs in O(2<sup>n</sup>) time. What does t
 
 It would be nice to be able to use recursion without withering into old age and dying long before our program can finish executing. To figure out how we'll do this, let's have another look at the call tree from our reading on recursive time complexity. This time, take a look at how many times we're calling `fibonacci(3)`.  
 
-[ call tree ]
+<img src="dp_images/fib_call_tree_2.png />
 
-We make X calls to `fibonacci(3)`. That seems like a lot of extra work. It'd be nicer (and faster) to *store* the value of `fibonacci(3)` once we know what it is, and then refer back to it later on. This simple idea, often called *memoization*, is the key to the technique we'll be learning today: dynamic programming.
+We make 3 calls to `fibonacci(3)`. That seems like a lot of extra work. It'd be nicer (and faster) to *store* the value of `fibonacci(3)` once we know what it is, and then refer back to it later on. This simple idea, often called *memoization*, is the key to the technique we'll be learning today: dynamic programming.
 
 Dynamic programming combines recursion with memoization to achieve faster runtimes while still utilizing the recursive relationships inherent in many computer science problems.
 
