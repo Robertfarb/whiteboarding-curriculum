@@ -35,25 +35,25 @@ We want to alter our logic just slightly so that in addition to *finding* our so
 
 1. If *n* = 1 or 2, return 1.
 2. If *n* > 2:
-  - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
-  - Record *ans* in a cache.
-  - Return *ans*.
+    - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
+    - Record *ans* in a cache.
+    - Return *ans*.
 
 We're pretty vague here -- what kind of data structure should we use for our cache? We know that we want fast access to our data, so we should go with a data structure that gives us constant lookup time. Both a hash and an array will do that for us. Although we could use an array in this case, a hash is better since it does not confine us to integer keys.
 
 1. If *n* = 1 or 2, return 1.
 2. If *n* > 2:
-  - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
-  - Record *ans* in `@cache`, a storage hash.
-  - Return *ans*.
+    - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
+    - Record *ans* in `@cache`, a storage hash.
+    - Return *ans*.
 
 Almost there, but there's one thing missing: we haven't actually *optimized* anything yet! Remember, the optimization happens when we take advantage of all this stored data by returning early if our answer is stored in the cache. This check takes place in Case 1. Let's initialize `@cache = { 1 => 1, 2 => 1 }` so that our base case is still included in this check.
 
 1. If `@cache[n]` is not `nil`, return it.
 2. If *n* > 2:
-  - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
-  - Record *ans* in `@cache`, a storage hash.
-  - Return *ans*.
+    - Let `ans = fibonacci(n - 1) + fibonacci(n - 2)`.
+    - Record *ans* in `@cache`, a storage hash.
+    - Return *ans*.
 
 That's it! Let's see how this changes our code when we incorporate these changes.
 
@@ -97,8 +97,11 @@ And that's all there is to it! Before moving on, copy the code above into IRB an
 Now let's look at the Fibonacci sequence another way. Imagine that you were asked to find `fibonacci(100)`. Since we know the recursive relationship of the Fibonacci sequence, our thought process might be something like this:
 
 *fibonacci(100) depends on fibonacci(99) and fibonacci(98)...better find those.*
+
 *fibonacci(99) depends on fibonacci(98) and fibonacci(97)...better find those.*
+
 *fibonacci(98) depends on fibonacci(97) and fibonacci(96)...better find those.*
+
 *... and so on ...*
 
 Eventually, we'd come to our base cases, `fibonacci(1)` and `fibonacci(2)`. In the course of this process, however, we have named every piece of information that we need in order to produce `fibonacci(100)`: namely, we require `fibonacci(1)`, `fibonacci(2)`, `fibonacci(3)`, ... , `fibonacci(99)`. So why must we build this list starting at the top, with `fibonacci(99)`? Since we know what we need, how about we build it from the *bottom up*?
