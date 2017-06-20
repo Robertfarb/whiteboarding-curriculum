@@ -169,4 +169,4 @@ That being said, there are some problems where a recursive approach is the bette
 
 Now that we've got recursion in our tool belt, we have a couple more topics to discuss! First, we'll spend some time talking about how to evaluate the time complexity of recursive algorithms. Then, we'll talk about how to drastically improve that time complexity with *dynamic programming*.
 
-Next: Read about [Recursive Time Complexity](./recusive_time_complexity.md)
+Next: Read about [Recursive Time Complexity](./recursive_time_complexity.md)
