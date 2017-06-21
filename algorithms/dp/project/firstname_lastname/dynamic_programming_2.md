@@ -222,4 +222,4 @@ Make a visual interface for `maze_solver` using Javascript. Having a visualizati
 
 ## Next Steps
 
-Tomorrow, pick up with [Dynamic Programming, Part 2](./dynamic_programming_3.md)
+Tomorrow, we'll do some more advanced Dynamic Programming problems for part 2!

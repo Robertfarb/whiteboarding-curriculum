@@ -9,4 +9,3 @@ Then, get started with Dynamic Programming!
 
 1. [Dynamic Programming - Reading](./dynamic_programming_1.md)
 2. [Day 1 Project](./dynamic_programming_2.md)
-3. [Day 2 Project](../../../advanced_dp/project/firstname_lastname/README.md)

@@ -16,7 +16,7 @@
 * Roll call at 1:30pm
 * Solution review: Graphs and Topo Sort
 * [Mock Interviews][pair-boarding-index]
-* Project: Dynamic Programming 1 project goes live at 4pm (please use the version from [Jobberwocky][Jobberwocky]), **due by 12pm tomorrow**.
+* Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
 
 <!-- LINKS -->
 
