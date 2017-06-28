@@ -4,6 +4,10 @@
 
 ## Essential a/A Job Seeker Links
 
+### After Job Search Curriculum
+* [Resources][after-jsc]
+  * **Please let us know if you find other excellent resources!**
+
 ### Job Search Curriculum Related Links
 * [Jobberwocky][jobberwocky]
 * [Mock Interviews & Pairboarding Index][pair-boarding-index]
@@ -282,3 +286,5 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 
 [lever-job-board]: https://docs.google.com/spreadsheets/d/1o2PsuE9DVsDN5W1oyIjAyQlDpB3Rb2uNWa6_auLTvw8/edit?usp=sharing
 [job-search-by-day]: README.md
+
+[after-jsc]: ./w13_plus/afterJSC.md
