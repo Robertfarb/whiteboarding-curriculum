@@ -19,7 +19,8 @@
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
 * [Raymond Lee's repo][raymond-lee]
 * [System Design Study Guide][system-design-guide]
-* Ned architecture videos and slides (pw: `go_video_go`)
+* [Ned Pre-recorded Lectures][ned-lectures]
+* Ned architecture live lecture videos and slides (pw: `go_video_go`)
   * [Part 1][arch-1]
   * [Part 2][arch-2]
   * [Part 3][arch-3]
@@ -56,6 +57,7 @@
 [systemsdesign]: ../technical-skills/system-design/introduction.md
 [raymond-lee]: https://github.com/rlee0525/TechnicalConceptsForInterviews
 [system-design-guide]: https://github.com/donnemartin/system-design-primer
+[ned-lectures]: https://ruggeri.github.io/architecture_lecture/
 [arch-1]: https://vimeo.com/220699504
 [arch-2]: https://vimeo.com/220716498
 [arch-3]: https://vimeo.com/220718252
