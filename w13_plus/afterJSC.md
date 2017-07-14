@@ -14,6 +14,7 @@
 * [Coursera course][Coursera].
 * Practice [these algorithms tests][algo-specs]
 * [MIT Course][MIT]
+* [Very comprehensive repo on several topics][comprehensive]
 
 ### Systems Design and Web Architecture
 * Learn about [architecture, scalability][hiredintech] and [systems design][systemsdesign].
@@ -51,6 +52,7 @@
 [Coursera]: https://www.coursera.org/course/algo
 [algo-specs]: https://github.com/jaysonvirissimo/practice-thy-algorithms
 [MIT]: https://courses.csail.mit.edu/6.006/fall11/notes.shtml
+[comprehensive]: https://github.com/jwasham/coding-interview-university/blob/master/README.md
 
 <!--Systems Design-->
 [hiredintech]: http://www.hiredintech.com/system-design/
