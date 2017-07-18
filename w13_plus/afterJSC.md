@@ -33,6 +33,7 @@
 * [JS 30- Build 30 mini projects in vanilla JS in 30 Days][js-30]
 * [Frontend questions][frontend-questions]
 * [Frontend handbook][frontend-handbook]
+* [Awesome Interview Questions][awesome-interview-questions]
 
 **If you come across any other useful resources, please send it to us so we can add them here!**
 
@@ -70,6 +71,7 @@
 [js-30]: https://javascript30.com/
 [frontend-questions]: https://github.com/h5bp/Front-end-Developer-Interview-Questions
 [frontend-handbook]: https://frontendmasters.com/books/front-end-handbook/2017/
+[awesome-interview-questions]: https://github.com/MaximAbramchuck/awesome-interview-questions
 
 <!--General Advice-->
 [github]: ../application-materials/github/github.md
