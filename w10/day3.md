@@ -1,22 +1,24 @@
 ## W10D3
 ### Homework
 * Work on JavaScript Project.
-* **Resume due at 9am (provide google doc link to resume on [Jobberwocky][Jobberwocky])**
-  * Document *must* be editable Google Docs.
-  * If you used another application:
-    * Upload a PDF
-    * Copy and paste the text to a Google Doc.
-    * Put the nice-looking, pdf version in the link field
-    * Add the link to text-version as a "To-do" and be sure to include that file in your job search folder. Your coach will consult the pdf for formatting and leave comments on the Google Doc.
-  * Do not upload Pages or Word files.
+* Work on Resume and Cover Letter: Due tomorrow morning at 9am.
+* Read about online presence:
+  * [Linkedin][linkedin]
+  * [Github][github]
+    * [Readmes][readme]
+    * [Github history][github-history]
+  * [AngelList][angellist]
+  * [Personal portfolio site][portfolio]
+  * [Setting Up Analytics][analytics]
+  * Onine presence materials due Monday 9am (W11D1)
 
 ### Afternoon
-#### Lecture
-* Introduction to **Cover Letters**
 
-#### Cover Letter Work Time
-* [Cover Letter instructions][cover-letter]
-* Coaches will be walking around to answer questions. Final cover letters are due tomorrow by 4pm with links accessible via [Jobberwocky][Jobberwocky]
+#### Lecture
+* Online Presence Lecture 
+
+#### Work Time
+* JS Project, Resume, and Cover Letter
 
 #### Peer Reviews
 * [Peer reviews][peer-review-instructions] at 4:30pm.
@@ -39,3 +41,11 @@
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
+
+<!-- Online Presence -->
+[linkedin]: ../application-materials/linkedin/linkedin.md
+[github]: ../application-materials/github/github.md
+[readme]: ../projects/example-readmes.md
+[github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
+[angellist]: ../application-materials/angellist/angellist.md
+[analytics]: ../projects/google-analytics/google-analytics-sparknotes.md

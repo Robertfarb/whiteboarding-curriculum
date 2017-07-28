@@ -3,16 +3,16 @@
 * **Submit your Full Stack Project on Jobberwocky by 9am**
     * **Please have the [correct scorecard][project-scorecard]**
     * **The above scorecard has multiple tabs. Please use the same scorecard for your JS project as well.**
+* **Submit your JavaScript Proposal by 9am on Jobberwocky**
+  * Choose a [JavaScript Project][js-project].
+  * Create your project repo.
+  * Write your proposal ([sample proposal][js-sample-proposal]) as a README.md file in the project repo.
+  * Submit your proposal by adding links to your repo in [Jobberwocky][Jobberwocky] and hitting "Queue for Review".
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
 * Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
  * In Slack, CMD+K and type "hunters"
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
-* **Submit your JavaScript Proposal by 9am**
-  * Choose a [JavaScript Project][js-project].
-  * Create your project repo.
-  * Write your proposal ([sample proposal][js-sample-proposal]) as a README.md file in the project repo.
-  * Submit your proposal by adding links to your repo in [Jobberwocky][Jobberwocky] and hitting "Queue for Review".
 
 ### Morning Off
 * Roll call and lecture at 1:30pm.
@@ -21,6 +21,7 @@
 ### Afternoon
 #### Lectures
 * **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 4+ weeks.
+* **Meet Your Coach!**
 * Followed immediately by **Resumes**.
 
 #### Resume Work Time Part 1

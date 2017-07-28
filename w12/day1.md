@@ -28,8 +28,6 @@
     * **Then, go through the [Dynamic Arrays Reading][dynamic-array-reading]**
     * **Finally, do the project (download from Joberwocky), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
-* Lecture: Networking with Eli
-* Workshop: Networking Happy Hour!
 
 ### Evening
 

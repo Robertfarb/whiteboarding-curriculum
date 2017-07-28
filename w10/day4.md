@@ -1,10 +1,13 @@
 ## W10D4
 ### Homework
 * Work on JavaScript Project.
-* Work on cover letter. Due today (W10D4) at 4pm.
+* **Cover Letter due today (W10D4) at 9am**
   * Document *must* be editable Google Docs.
-  * If you used another application, 1) upload a PDF and 2) copy and paste the text to a Google Doc. 3) Put the text-only version in the link field, and add the link to pdf as a "To-do". Your coach will consult the pdf for formatting and leave comments on the Google Doc.
-  * Do not upload Pages or Word files.
+* **Resume due at 9am (provide google doc link to resume on [Jobberwocky][Jobberwocky])**
+  * Document *must* be editable Google Docs.
+  * If you used another application:
+    * Put the link to the text-only version in the `link` field on Jobberwocky
+    * Add a link to the pdf version as a `To Do` item.
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
 
 ### Afternoon
@@ -13,15 +16,15 @@
 * Form groups for the [flex project][flex-project]
 * Start brainstorming ideas for flex project
 
-#### Peer Reviews
-* Last day of [peer reviewing][peer-review-instructions]. Make it good!
-
 #### Lecture
-* None
+* Lecture: Networking with Eli
+* Workshop: Networking Happy Hour!
+
+#### Peer Reviews
+* Last day of [peer reviewing][peer-review-instructions]. Focus on JavaScript Project today!
+
 
 #### Work time
-* Cover Letters (2:30 - 4pm)
-  * Cover Letter due at 4pm on [Jobberwocky][Jobberwocky]
 * JS project (4 - 6pm)
   * JS project due at Friday 9am on [Jobberwocky][Jobberwocky]
 

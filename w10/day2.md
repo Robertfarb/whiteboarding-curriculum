@@ -7,24 +7,28 @@
 
 ### Afternoon
 
-#### No Lecture
+#### Lecture
+* Introduction to **Cover Letters**
+
+#### Cover Letter and Resumes Worktime
+* [Cover Letter instructions][cover-letter]
+* [Resume instructions][resume]
+* Coaches will be present to answer questions. Final cover letters and resumes are due **Thursday at 9am** with links accessible via [Jobberwocky][Jobberwocky].
 
 #### Peer Reviews
-* First round of [peer reviews][peer-review-instructions] at 1:30pm.
-
-#### Resume Work Time Part 2
-* [Resume instructions][resume]
-* Your coach must approve your resume which is due tomorrow at 9am.  Please make sure resumes are linked correctly on [Jobberwocky][Jobberwocky].
+* First round of [peer reviews][peer-review-instructions] at 5pm.
 
 ### Projects
 * [JavaScript Project][js-project]
 * [Resume][resume]
+*[Cover Letter][cover-letter]
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: ../projects/js-project/js-project.md
 [resume]: ../application-materials/resume/resume.md
 [peer-review-instructions]: ../meta/app-academy/peer-reviews.md
+[cover-letter]: ../application-materials/cover-letter/cover-letter.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
