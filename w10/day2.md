@@ -21,7 +21,7 @@
 ### Projects
 * [JavaScript Project][js-project]
 * [Resume][resume]
-*[Cover Letter][cover-letter]
+* [Cover Letter][cover-letter]
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
