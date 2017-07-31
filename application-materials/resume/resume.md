@@ -3,6 +3,10 @@
 ## Phase 0: Motivation
 
 Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
+## Finished Product
+Here are some templates to give you an idea of what the finishd product should look like:
+[ATS Version][ats-resume]
+[Etsy Versions][etsy-resume]
 
 ## Warmup
 
@@ -279,3 +283,5 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 [resume-bullets]: crafting-your-bullets.md
 [resume-verbs]: resume-verbs.md
 [resume-keywords]: resume-keywords.md
+[etsy-resume]: https://www.etsy.com/search?q=resume%20template&ref=auto1
+[ats-resume]: https://docs.google.com/document/d/1RkgQJR1SHYFDiLY9cWT1isrWf610xs3JuO4wlA4Yqao/edit?usp=sharing
