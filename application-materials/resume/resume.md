@@ -5,8 +5,8 @@
 Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
 ## Finished Product
 Here are some templates to give you an idea of what the finishd product should look like:
-[ATS Version][ats-resume]
-[Etsy Versions][etsy-resume]
+* [ATS Version][ats-resume]
+* [Etsy Versions][etsy-resume]
 
 ## Warmup
 
