@@ -1,14 +1,15 @@
 # Crafting Your Resume
 
-## Phase 0: Motivation
-
-Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
 ## Finished Product
 Here are some templates to give you an idea of what the finished product should look like:
 * [ATS Version][ats-resume]
 * [Etsy Versions][etsy-resume]
 
-To see how your resume is being parsed by an ATS system, paste/upload your resume and a job posting here at [Jobscan][jobscan]
+At the end, to see how your resume is being parsed by an ATS system, paste/upload your resume and a job posting here at [Jobscan][jobscan].
+
+## Phase 0: Motivation
+
+Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
 
 ## Warmup
 
