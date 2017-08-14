@@ -6,7 +6,7 @@
 
 2. `print_arr_1`: Linear. The each loop will go through every element in the input array and perform a constant operation on every element (`puts`). Each additional element in the array results in another iteration.
 
-3. `print_arr_2`: Linear. `each_with_index` will iterate through every element. All the operations inside the loop are constant (see [here][http://batsov.com/articles/2014/02/17/the-elements-of-style-in-ruby-number-13-length-vs-size-vs-count/] for an explanation about Array#length).
+3. `print_arr_2`: Linear. `each_with_index` will iterate through every element. All the operations inside the loop are constant (see [here](http://batsov.com/articles/2014/02/17/the-elements-of-style-in-ruby-number-13-length-vs-size-vs-count/) for an explanation about Array#length).
 
 4. `print_arr_3`:
  * Best case: constant. If the element we're looking for is the first one in the array, it'll meet the break condition and exit immediately.
