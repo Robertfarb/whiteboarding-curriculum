@@ -225,7 +225,8 @@ void rec_mystery_3(int n, int m, int o)
 }
 ```
 
-The next one is a bit harder. Scroll down below the code to see a hint or two.
+The next one is a bit harder. If you're stumped, feel free to take a look
+at the solution, and then come back and try to explain in your own words.
 
 ```ruby
 class Array
@@ -236,7 +237,6 @@ class Array
   end
 end
 ```
-**Hint 1**: what is this function doing? Describe it in words, and use this to get a bound.
 
 At this point, look over your notes and answers to make sure you understand how you've solved each question. 
 
