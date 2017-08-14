@@ -24,7 +24,8 @@
  * Best case: Linear. If the array is all the same elements and the target is 0, the inner loop will run in constant time because it'll immediately find the first element. We still have to loop `n` times through the outer loop.
  * Worst case: Quadratic. If `target + el` doesn't exist in the array, both the inner and outer loops will go through the entire length of the array.
 
-8. `searchity_search_2`: (n(n + 1))/2
+8. `searchity_search_2`: (n(n + 1))/2. Therefore, if you remove all of the constant factors, it would 
+still be (n)^2.
 
 
 ### `iterative_1`
