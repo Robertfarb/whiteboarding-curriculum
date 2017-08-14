@@ -243,6 +243,6 @@ At this point, look over your notes and answers to make sure you understand how 
 Well done! If you finished early, go ahead and start watching the 
 [Video Lectures](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w12/day1.md#afternoon) on Arrays that you'll need for the project tonight.
 
-[solutions]: ./big_o_practice_solution.md
+[solutions]: ./big_o_solutions.md
 
 
