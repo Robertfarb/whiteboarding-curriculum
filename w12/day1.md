@@ -26,7 +26,7 @@
 * Dynamic Array Project will go live on Jobberwocky at 3pm today!
     * **First watch the videos above**
     * **Then, go through the [Dynamic Arrays Reading][dynamic-array-reading]**
-    * **Finally, do the project (download from Joberwocky), using the videos and reading as a guide.**
+    * **Finally, do the project (download from Progress Tracker Assessments section), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
 
 ### Evening
