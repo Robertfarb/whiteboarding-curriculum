@@ -222,7 +222,7 @@ One other key observation, however, is that this call tree will terminate when *
 
 => *number of calls* = 2<sup><i>n</i> + 1</sup> - 1
 
-So, `rec_mystery_3` runs in O(2</sup><i>n</i></sup>) time.
+So, `rec_mystery_3` runs in O(2<sup><i>n</i></sup>) time.
 
 ### `grab_bag`
 
