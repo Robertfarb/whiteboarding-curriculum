@@ -1,6 +1,5 @@
 ## W12D2
 ### Homework & Daily Tasks
-* **Go to Ronnie Chen's lecture tonight!**
 * Continue to implement instructor feedback on your projects.
 * Read about the [Job Boards][job-boards]
 * Dynamic Arrays Project due at noon on Progress Tracker
@@ -12,7 +11,7 @@
   * Get comfortable with these interfaces before you start applying. Companies use these for interviews and take-home challenges.
 
 ### Late Morning
-* Roll call at 10am to facilitate previous evening's lecture.
+* Roll call at 10am
 * Finish Dynamic Arrays Project
 
 ### Afternoon
@@ -21,10 +20,6 @@
 * Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
 * HashMap/LRU Cache Video Lectures & Project
     * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
-
-### Evening
-* **Ronnie Chen**, data engineer at Slack, will talk about her job and her job search(es) (6:30pm)
-* Read [Ronnie's tips][ronnie-tips] on job search.
 
 ### Bonus
 
