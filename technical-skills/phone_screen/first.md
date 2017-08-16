@@ -12,7 +12,7 @@
 9. Do you have any questions for me? 
 
 **Number 9 is important! You should always have a go-to list of questions that
-you feel good about asking someone.** Remember how Ronnie mentioned that this is
+you feel good about asking someone.** This is
 a great place to be able to ask intelligent/thoughtful questions to really
 establish yourself as a peer to an engineer. Of, if you're talking to a recruiter,
 it can be your opportunity to show that you've done your homework about ther company.
