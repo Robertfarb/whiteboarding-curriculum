@@ -10,7 +10,7 @@
 
 ### Afternoon
 * HashMap/LRU Cache Review Session
-* [Mock Interviews][pair-boarding-index]
+* Architecture Lecture with Ned 
 * Heaps and Heap Sort Video Lectures and Project
     * Videos on heaps and heapsort:
       * [Heaps 1][heaps1]
