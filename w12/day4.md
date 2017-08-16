@@ -23,7 +23,6 @@
   
 * **Graduation Day**
   * Celebrate! You've graduated a/A!
-  * Teaching staff will put on a special presentation at 5pm (hint: prizes involved for awesome Full-Stack Projects!)
   * Have some drinks and snacks with your cohort, alums, and a/A staff at 6pm
 
 <!-- LINKS -->
