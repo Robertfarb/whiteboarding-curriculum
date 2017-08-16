@@ -7,8 +7,7 @@
 ### Afternoon
 
 * Roll call at 1:30pm as usual
-* Lecture: Introduction to TalentMatch
-* [Pair Boarding][pairboarding-index]
+* [Pair Boarding][pairboarding-index] (pick up right where you left off!)
 * Binary Search Tree Video Lectures and Project
     * First watch the video: [Binary search tree][binary-search-trees-vid]
     * Then read through the [BST Reading][bst-reading]
@@ -26,7 +25,7 @@
 [HackerRank]: https://www.hackerrank.com/
 [codility]: https://codility.com/
 [Codility]: https://codility.com/
-[pairboarding-index]: ../technical-skills/whiteboarding/index.md#d8
+[pairboarding-index]: ../technical-skills/whiteboarding/index.md
 <!-- Algorithms Projects & Lectures -->
 [binary-search-trees-vid]: https://vimeo.com/203204585
 [bst-reading]: ../algorithms/binary_search_trees/bst_reading.md
