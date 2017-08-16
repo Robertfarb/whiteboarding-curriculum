@@ -6,8 +6,9 @@
 
 ### Afternoon
 
-* Roll call at 1:30pm as usual
-* [Pair Boarding][pairboarding-index] (pick up right where you left off!)
+* Roll call at 1:30pm
+* Quicksort project review
+* Architecture lecture with Ned!
 * Binary Search Tree Video Lectures and Project
     * First watch the video: [Binary search tree][binary-search-trees-vid]
     * Then read through the [BST Reading][bst-reading]
