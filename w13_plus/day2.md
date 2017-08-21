@@ -13,7 +13,8 @@
 
 ### Afternoon
 
-* Roll call at 1:30pm
+* Optional Lecture on Personal Finance from 1:30 - 2:30pm
+* Roll call at 2:30pm
 * Solution review: Graphs and Topo Sort
 * [Mock Interviews][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
@@ -26,7 +27,7 @@
 
 <!-- Technical Interview Resources -->
 
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d11
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md
 
 <!-- Algorithms Readings & Projects -->
 [bst]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d3/project5
