@@ -16,8 +16,7 @@
 * Roll call at 1:30pm
 * Solution review: DP 1
 * [Mock Interviews][pair-boarding-index]
-* Video Lecture/Work Time for DP 2 at 4:30pm
-* Project: Dynamic Programming 2 project goes live at 4pm on [Jobberwocky][Jobberwocky], **due by 12pm tomorrow**.
+* Application Materials Work Time
 
 <!-- LINKS -->
 <!-- Internal Resources -->
