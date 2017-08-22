@@ -1,4 +1,4 @@
-# Dynamic Programming: Part 1
+# Dynamic Programming: Project
 
 It's time to practice what we've learned. This project will be part reading, part programming. As we build up your knowledge, you'll take a more active role in *designing* as well as implementing these algorithms. Let's get started!
 
@@ -75,7 +75,7 @@ A frog is sitting at the bottom of a staircase with *n* stairs. Tiny little frog
 
 Given this information, write a function to return the number of ways the frog can get to the top of the stairs. For example, if there are two stairs in the staircase, there are two ways for the frog to get to the top: hop 2 steps, or hop 1 step and then hop 1 step again. For *n* = 3, there are 4 ways: [1, 1, 1], [1, 2], [2, 1], and [3].
 
-Instead of approaching this with top-down DP, let's practice our bottom-up skills. Let <i>s</i><sub>n</sub> be the number of ways the frog can hop to the top of *n* stairs. The first step is to define the recursive relationship between the answer we want, <i>s</i><sub>n</sub>, and previous answers for smaller staircases. The key observation here is that the frog has 3 choices for its first hop: it can hop 1 stair, 2 stairs, or 3 stairs. This means that:
+First, let's practice our bottom-up skills. Let <i>s</i><sub>n</sub> be the number of ways the frog can hop to the top of *n* stairs. The first step is to define the recursive relationship between the answer we want, <i>s</i><sub>n</sub>, and previous answers for smaller staircases. The key observation here is that the frog has 3 choices for its first hop: it can hop 1 stair, 2 stairs, or 3 stairs. This means that:
 
 <i>s</i><sub>n</sub> = <i>s</i><sub>n - 1</sub> + <i>s</i><sub>n - 2</sub> + <i>s</i><sub>n - 3</sub>
 
@@ -84,7 +84,7 @@ Careful, though! This relationship only holds true if *n* is large enough. What 
 The equation above tells us something important: we can build the *ith* solution using only the *i* - 1st, *i* - 2nd, and *i* - 3rd solutions. This is what we will do, until we have built enough previous solutions to get the *n*-th solution. Start by defining two functions in your `DynamicProgramming` class:
 
 ```ruby
-def frog_hops(n)
+def frog_hops_bottom_up(n)
 end
 
 def frog_cache_builder(n)
@@ -110,9 +110,9 @@ def frog_cache_builder(n)
   # Return the cache
 end
 ```
-Now, it's time to build `frog_hops`. This one is easy: build the cache that you need using `frog_cache_builder`, and return the correct entry from that cache. What's the time complexity of `frog_hops(n)`?
+Now, it's time to build `frog_hops_bottom_up`. This one is easy: build the cache that you need using `frog_cache_builder`, and return the correct entry from that cache. What's the time complexity of `frog_hops(n)`?
 
-Next, build a top-down implementation of the same function. As we did with the Blair numbers, write it recursively first, then introduce a cache that gets checked and updated upon finding new solutions.
+**Next, build a top-down implementation of the same function.** As we did with the Blair numbers, write it recursively first, then introduce a cache that gets checked and updated upon finding new solutions.
 
 ### Super-Charged Frogs
 
@@ -130,6 +130,30 @@ If you find yourself getting stuck, try looking at some reasonably-sized example
 
 Once you've defined the recursive relationships here, decide how to optimize. Choose either top-down or bottom-up implementation. What should you store in the cache? What answer should be returned? Create the necessary helper function or instance variable to suit your needs.
 
+### Knapsack
+
+Knapsack Problem: write a function that takes in an array of weights, an array of values, and a weight capacity and returns the maximum value possible given the weight constraint.  For example: if weights = [1, 2, 3], values = [10, 4, 8], and capacity = 3, your function should return 10 + 4 = 14, as the best possible set of items to include are items 0 and 1, whose values are 10 and 4 respectively.  Duplicates are not allowed -- that is, you can only include a particular item once.
+
+Try this with a bottom-up approach.
+
+One way you can do this problem is by creating a table of solutions. The bottom-up approach would suggest that we should solve knapsacks of increasing size and base each next size up on the solutions from smaller bags. The shape of your table might be one array for each increasing capacity size. With each array, you could have a best value entry for each item consideration; either you will add the value of the current item to the solution of a smaller bag, or you will use the most recent solution from this iteration of bag size.
+
+We will be zero-indexing.
+
+For example, if our weights are `[2,3,4]`, and our values are `[1,3,3]`, with a capacity of `7`, then our solutions table would look like: `[[0, 0, 0], [0, 0, 0], [1, 1, 1], [1, 3, 3], [1, 3, 3], [1, 4, 4], [1, 4, 4], [1, 4, 6]]`.
+* Notice that for capacity `1`, none of our items fit, so the max value entry is all zeroes.
+* Notice that for capacity `2`, the best value for each 'item consideration' is progressively copied forward from `table[2][0]` because only the item of weight `2` will fit.
+* Notice in the entry for capacity `3`, that the entry for item `2` is similarly copied forward from item `1` (one item of weight 3 and value 3 will fit).
+* Notice that for capacity `5`, item `1` adds its own value to the best solution from a smaller bag (capacity `2`, item `0`)
+* Notice that for capacity `7`, item `2` adds its own value to the best solution from a smaller bag (capacity `3`, item `1`)
+
+So, for each item consideration, you must select the optimum from between these two paradigms: use either the previous item solution at this capacity, or the previous item solution from a smaller bag plus this item's value.
+
+The final solution is when we have considered all possibilities, having always selected the best one along the way. Therefore our solution is the last spot of the last array.
+
+Having outlined the logical approach, now code it!
+
+## Bonus
 ### Maze Solver
 
 You're given a maze and asked to find a path from its starting location to the finish. The maze is 2-dimensional, and will be represented by an array of characters. Empty squares are represented with `" "`, blocked spaces with `"X"`, your location with `"L"`, and the finish with `"F"`.  Here's an example:
@@ -192,34 +216,10 @@ This is all the setup you need! Now, put your dynamic programming skills to work
 
 How would you approach this problem using a bottom-up implementation? Hint: you may want to record *previous* steps to a solution instead of *next* steps.
 
-### Making the Best Change
-
-In the DP reading, we saw one example of the all too popular `make_change` question. This is a classic interview question, so it's good to know the approach well. This time, we'll return to the question as it's usually stated: write a function that takes in a set of coins and an amount, and returns the set of coins that make change for the amount using the fewest number of coins. Return `nil` if it's not possible for the amount using the given set of coins.
-
-As an example, suppose `coins = [2, 5, 10]`. Then `amt = 14` should return `[2, 2, 10]`, `amt = 3` should return `nil`, and `amt = 15` should return `[5, 10]`.
-
-The recursive approach should be review from earlier in the course, but let's discuss it anyhow. First, find the base case(s). These will be similar to the base cases outlined in the reading.
-
-Next, let's tackle the recursion. It's tempting to use this **flawed** approach:
-
-#### Flawed Approach
-1. Choose one of the coins to be the "first" coin in your set of change. Subtract that coin from your amount and make a recursive call with *amount - first_coin* and the original set of coins.   
-2. Take the best of the answers you get from these recursive calls and return it.
-
-This "solution" has a big flaw, though: the tricky part about this problem is that the order of the coins does *not* matter. So, the solution [2, 2, 5] is the same as the solution [5, 2, 2], and we should count it as such. The algorithm above would make a distinction between these two. What *is* unique about this solution is the number of each coin that is included in the set of change: there are two 2's and one 5. So, we approach our recursion from that perspective.
-
-#### Correct Approach
-1. Find the smallest coin. Include increasing numbers of copies of that coin until you exceed the given amount. E.g., use 0, 1, 2, ... *k* copies of that coin until *k* x *coin* > *amount*. Make a recursive call for each of these. (What should the `coins` array be for these calls?)
-2. Return the optimal solution resulting from Step 1.
-
-If you need the review, implement the purely recursive version of `make_change`. Then, optimize it using a cache and a top-down approach.
-
-Now, go for the bottom-up approach. Build the cache that you ended up with in the top-down implementation, but do so starting with the smallest cases and building up to the biggest case you'll need.
-
-## Bonus
+## DOUBLE Bonus
 
 Make a visual interface for `maze_solver` using Javascript. Having a visualization for a technically complex problem is a great way to appeal to folks like recruiters, who might not have a good sense for the coding side of things. Plus, it's fun and pretty!
 
 ## Next Steps
 
-Tomorrow, we'll do some more advanced Dynamic Programming problems for part 2!
+Dynamic Programming problems are a hallmark of tough technical interviews! Tackling all four implementations of Make Change as outlined in the reading would be a good start. Frog Hop, Knapsack, Maze Solver, and Sudoku are other common problems. There are also a lot of more 'mathy' ones, like finding the Longest Increasing Sub-sequence. Practice as many DP problems as you can!

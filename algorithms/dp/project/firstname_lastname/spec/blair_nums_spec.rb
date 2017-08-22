@@ -12,11 +12,11 @@ describe 'Blair Numbers' do
   end
 
   it 'handles recursive cases' do
-    expect(dp.blair_nums(6)).to equal(62)
-    expect(dp.blair_nums(100)).to eq(3490567772937760827473)
+    expect(dp.blair_nums(6)).to equal(48)
+    expect(dp.blair_nums(100)).to eq(2782118076579236997325)
   end
 
   it 'runs in non-exponential time' do
-    expect { dp.blair_nums(1000) }.to perform_under(10).ms
+    expect { dp.blair_nums(1000) }.to perform_under(100).ms
   end
 end
