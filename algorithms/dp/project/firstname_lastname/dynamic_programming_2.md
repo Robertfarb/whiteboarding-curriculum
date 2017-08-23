@@ -28,7 +28,7 @@ Now that we've dealt with the annoying cache problem, let's start with a problem
 
 - The first Blair number, <i>b<sub>1</sub></i>, is 1,
 - The second Blair number, <i>b<sub>2</sub></i>, is 2,
-- The <i>k</i>th Blair number is the sum of the previous two Blair numbers plus the *k* - 1st odd number. For example, <i>b<sub>3</sub></i> = <i>b<sub>2</sub></i> + <i>b<sub>1</sub></i> + 2nd odd = 1 + 2 + 3 = 6.
+- The <i>k</i>th Blair number is the sum of the previous two Blair numbers plus the (*k* - 1)th odd number. For example, <i>b<sub>3</sub></i> = <i>b<sub>2</sub></i> + <i>b<sub>1</sub></i> + 2nd odd = 1 + 2 + 3 = 6.
 
 Your job in this warmup is to write `blair_nums(n)`, which should return the *nth* Blair number. First, write this function recursively. Here's an outline of the code to get you started:
 
@@ -73,7 +73,7 @@ A frog is sitting at the bottom of a staircase with *n* stairs. Tiny little frog
 
 <img src="dp_images/frog_diagram.png" />
 
-Given this information, write a function to return the number of ways the frog can get to the top of the stairs. For example, if there are two stairs in the staircase, there are two ways for the frog to get to the top: hop 2 steps, or hop 1 step and then hop 1 step again. For *n* = 3, there are 4 ways: [1, 1, 1], [1, 2], [2, 1], and [3].
+Given this information, write a function to return the set of ways the frog can get to the top of the stairs. For example, if there are two stairs in the staircase, there are two ways for the frog to get to the top: hop 2 steps, or hop 1 step and then hop 1 step again. For *n* = 3, there are 4 ways: [1, 1, 1], [1, 2], [2, 1], and [3].
 
 First, let's practice our bottom-up skills. Let <i>s</i><sub>n</sub> be the number of ways the frog can hop to the top of *n* stairs. The first step is to define the recursive relationship between the answer we want, <i>s</i><sub>n</sub>, and previous answers for smaller staircases. The key observation here is that the frog has 3 choices for its first hop: it can hop 1 stair, 2 stairs, or 3 stairs. This means that:
 
@@ -118,7 +118,7 @@ Now, it's time to build `frog_hops_bottom_up`. This one is easy: build the cache
 
 Let's generalize the frog problem. This time, frogs have different jumping capacities. Some frogs can hop up to 10, 20, or 100 times at once, some only 3 or 4 times. The maximum number of jumps a frog can do will be passed in as a parameter, `max_stairs`, to the function you'll write.
 
-Write a function, `super_frog_hops(num_stairs, max_stairs)` that takes in the number of stairs and the maximum number of stairs that can be hopped at once, and returns the number of ways this frog can make its journey.
+Write a function, `super_frog_hops(num_stairs, max_stairs)` that takes in the number of stairs and the maximum number of stairs that can be hopped at once, and returns the set of ways this frog can make its journey.
 
 First, we need to figure out the recursive relationships within this problem. This time, you'll have a heavier hand in designing the algorithm. Here's a list of questions that you should ask yourself as a guide.
 
