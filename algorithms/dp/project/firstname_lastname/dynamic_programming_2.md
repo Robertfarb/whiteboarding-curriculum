@@ -75,9 +75,11 @@ A frog is sitting at the bottom of a staircase with *n* stairs. Tiny little frog
 
 Given this information, write a function to return the set of ways the frog can get to the top of the stairs. For example, if there are two stairs in the staircase, there are two ways for the frog to get to the top: hop 2 steps, or hop 1 step and then hop 1 step again. For *n* = 3, there are 4 ways: [1, 1, 1], [1, 2], [2, 1], and [3].
 
-First, let's practice our bottom-up skills. Let <i>s</i><sub>n</sub> be the number of ways the frog can hop to the top of *n* stairs. The first step is to define the recursive relationship between the answer we want, <i>s</i><sub>n</sub>, and previous answers for smaller staircases. The key observation here is that the frog has 3 choices for its first hop: it can hop 1 stair, 2 stairs, or 3 stairs. This means that:
+First, let's practice our bottom-up skills. Let <i>s</i><sub>n</sub> be the number of ways the frog can hop to the top of *n* stairs. The first step is to define the recursive relationship between the answer we want, <i>s</i><sub>n</sub>, and previous answers for smaller staircases. The key observation here is that the frog has 3 choices for its first hop: it can hop 1 stair, 2 stairs, or 3 stairs. This means that the number of hops is:
 
 <i>s</i><sub>n</sub> = <i>s</i><sub>n - 1</sub> + <i>s</i><sub>n - 2</sub> + <i>s</i><sub>n - 3</sub>
+
+How can we use this relationship to actually build the set of hops?
 
 Careful, though! This relationship only holds true if *n* is large enough. What happens when *n* is below a certain threshold? What is that threshold?
 
