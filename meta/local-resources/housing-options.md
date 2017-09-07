@@ -69,8 +69,6 @@ Doubles rent is $1,275/month
 
 Singles rent is $1,500/month
 
-If groups of 15+ people stay at the location, a 15% discount will be applied to all students’ rents
-
 ## <a href="http://www.flickr.com/photos/131369095@N04/sets/72157650508036689" title="Cohort X">Cohort X</a>
 ### See photos of the location here: [1](http://imgur.com/a/uBqHN) and [2](http://imgur.com/a/7RjzY)
 CohortX is an exclusive living facility for coding bootcamp students.
