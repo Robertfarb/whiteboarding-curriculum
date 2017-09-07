@@ -44,7 +44,7 @@ $45/night for standard 3 people in room - estimated $1,215 after 10% discount
 
 $50/night for shared room for 2 - estimated $1,350 after 10% discount
 
-## <a href=“http://www.1412marketsf.com/” title=“1412 Market Street”>1412 Market Street</a>
+## <a href="http://www.1412marketsf.com/" title="1412 Market Street">1412 Market Street</a>
 1412 Market Street is a dormitory style residence that is for students needing a place to live in San Francisco.
 
 * Fully furnished rooms with bed, dresser, desk, and closet
