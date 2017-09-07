@@ -44,19 +44,23 @@ $45/night for standard 3 people in room - estimated $1,215 after 10% discount
 
 $50/night for shared room for 2 - estimated $1,350 after 10% discount
 
-## <a href="http://851californiasf.com/" title="851 California">851 California</a>
-851 California is a dormitory style residence that is for students needing a place to live in San Francisco.
+## <a href=“http://www.1412marketsf.com/” title=“1412 Market Street”>1412 Market Street</a>
+1412 Market Street is a dormitory style residence that is for students needing a place to live in San Francisco.
 
-* Fully furnished rooms with bed, dresser, desk, closet, refrigerator, and lamp
-* Washers and dryers, commercial kitchen, private bike storage, beautiful backyard patio area, shared bathrooms between a cluster of 6-8 people
+* Fully furnished rooms with bed, dresser, desk, and closet
+* Washers and dryers, commercial kitchen, private bike storage, shared bathrooms in each wing of the building
 * All utilities + high speed Wi-Fi, however no cable
 * General cleaning and evening security 7 days a week
 * Management on-site 5 days/week
 * No credit check and initial refundable deposit of $250 by check or money order
-* Singles, doubles, and triple space rooms
-* Located on California and Powell St.
+* Singles, doubles, and triple space rooms available
+* Located on Market and Fell St.
+* No smoking in building. No alcohol permitted in building. No open flames. No Pets. Respectful Noise Hours 11pm-8am.
 
-851 California caters to large groups and individuals from various coding schools, liberal arts schools, institutes, and educational internships. The building was built in 1910 and has an elegant and warm feeling. It is in a beautiful location that overlooks San Francisco from almost every corner and is a 20 min walk or a short cable car ride away from App Academy. The building has a capacity of 125 students on 5 floors and offers 3 common rooms with super fast wifi throughout the entire building. If interested, talk with fellow students in your cohort and see if you can round up 15+ students together. After that, contact Jason Lindo @ jlindo@minerva.kgi.edu or 209-620-3761.
+The residence hall at 1412 Market Street is a modern building located on a major artery through the heart of the city, with
+very easy access to public transportation. There are three floors of resident rooms, made up of approximately 3 triples, 45
+doubles, and 55 singles; most students share a bathroom and shower room, located in each wing of each floor. Each room
+is equipped for an individual student to have a single bed and about half of the double rooms have bunk beds. If you have questions, please contact Jason Lindo @ jlindo@minerva.kgi.edu or 209-620-3761.
 
 ### Estimated costs
 Triples rent is $1,000/month
