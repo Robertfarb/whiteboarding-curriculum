@@ -93,7 +93,7 @@ Looking for an exceptional **software engineer who knows React, Ruby, Rails and 
 ### Point 3 - ABOUT THEM
 Now here is the place where you can show value.  What do you know about the company?  How would you be an asset specifically?
 
-BAD EXAMPLE:  I know I would be a valuable asset to your team.
+BAD EXAMPLE:  I know I would be a valuable asset to your team
 GOOD EXAMPLE:  I know that your company works in Ruby and React and with my knowledge and my recent projects, I believe I would easily be able to acclimate to your projects and team.
 
 ### FINAL - APPRECIATION/THANK YOU
@@ -113,7 +113,7 @@ Things to look out for:
 https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-software-engineers/
 
 
-## Phase 5: Review Your Letter For Common Pitfalls
+## Review Your Letter For Common Pitfalls
 - [ ] Your cover letter is one page or shorter.
 - [ ] Uses the same font as your Resume, and should be at least 11 point font.
 - [ ] Uses the same header as your Resume.
@@ -123,7 +123,7 @@ https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-
 - [ ] Doesn’t have typos or broken links.
 - [ ] Includes a company blurb that is specific to the company and doesn’t sound generic.
 
-## Phase 6: Emailing Like A Boss
+## Emailing Like A Boss
 Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and also paste your cover letter in the body of the email.
 * The subject line can be helpful to find your email in crowded inbox. "Junior Rails Engineer - New York" is more helpful than "Applying to CoolCompany, inc".
 * Set up a signature with your mail client. Include the link to your portfolio site.  You could try something like this:
@@ -132,7 +132,7 @@ Some companies don't provide exact instructions on how to apply. If that's the c
   markzuckerberg.com
   @finkd
 
-## Phase 7: Iterate
+## A BASE COVER LETTER TEMPLATE
 Once you have a strong template cover letter, the process of writing a new cover letter should be more efficient.  We recommend spending 10-15 minutes to tailor each cover letter.
 * Spend 5 minutes researching the company.
 * Spend 5-7 minutes drafting and editing a company blurb tailored to the company.
