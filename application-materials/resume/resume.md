@@ -257,13 +257,13 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 **N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
 
 * Layout
-  0. Fancy resume fits on 1 page?
+  Fancy resume fits on 1 page?
   0. 1/2 to 1-inch margins on left and right?
   0. Margins and formatting are consistent and organized?
   0. All text point sizes are consistent
   0. Uses a nicer font than defaults?
   
-  0. ATS Resume formatting is correct
+  ATS Resume formatting is correct
   0. No lines, tables, italics
   0. Simple basic fonts at 10pt
 
