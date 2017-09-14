@@ -57,9 +57,7 @@ For FONTS:
    Fancy:  Good "google" accepted fonts no smaller than 9-10 pt.
    ATS:  Arial, Garamond, Times New Roman 10-11 pt font.
 
-Create you FANCY resume first, then take the content into the ATS formatting.  Please make sure to submit both copies for your coach review and feedback.
-
-No fancy fonts or colors. Stick with an easy-to-read sans-serif font. Google has many to choose from.
+## Create you FANCY resume first, then take the content into the ATS formatting.  Please make sure to submit both copies for your coach review and feedback.
 
 #### Order
 
@@ -259,11 +257,15 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 **N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
 
 * Layout
-  0. Fits on 1 page?
-  0. 1-inch margins on left and right?
+  0. Fancy resume fits on 1 page?
+  0. 1/2 to 1-inch margins on left and right?
   0. Margins and formatting are consistent and organized?
-  0. All text >= 11pt?
+  0. All text point sizes are consistent
   0. Uses a nicer font than defaults?
+  
+  0. ATS Resume formatting is correct
+  0. No lines, tables, italics
+  0. Simple basic fonts at 10pt
 
 * Projects
   0. Do you list three or four coding projects, including your Full Stack Project, JavaScript project, and Code Intensive?
