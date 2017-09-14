@@ -22,7 +22,7 @@ Based on the research you’ve done in Phase 0, make an outline and list what yo
 * A closing paragraph
 (TOTAL LENGTH...About 1/2-1/3 page only)
 
-### THE TRIANGLE-Point 1
+# THE TRIANGLE-Point 1
 Introduce yourself, the technologies you know, and your interest in the position.
 
 * If possible, use the hiring manager’s name.  If you don't know the hiring manager's name, start with "Hi [Company Name] Team”.
@@ -60,7 +60,7 @@ DO NOT USE THESE OPENERS.  WRITE YOUR OWN.
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
 
 
-### Point 2--About YOU
+# Point 2--ABOUT YOU
 
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
 * A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.
@@ -90,7 +90,7 @@ Looking for an exceptional **software engineer who knows React, Ruby, Rails and 
 
 
 
-### Point 3 - ABOUT THEM
+# Point 3 - ABOUT THEM
 Now here is the place where you can show value.  What do you know about the company?  How would you be an asset specifically?
 
 BAD EXAMPLE:  I know I would be a valuable asset to your team
