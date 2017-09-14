@@ -278,7 +278,7 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Do you provide benchmarks for your own or your teams success?
   0. Do you emphasize technical or programmatic aspects of your work history?
 
-* Misc
+* Misc 
   0. Do your bullets follow the formula: Accomplished [X] as measured by [Y] by doing [Z]?
   0. Do you provide a skills list of the technologies you are familiar with?
   0. Do you provide contact information and link to your Github and LinkedIn?
