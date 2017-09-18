@@ -15,7 +15,7 @@ Identify two SF Bay Area tech companies that you are excited to work for.  Spend
 5. What makes you a good candidate?
 
 ## Get Organized
-Based on the research you’ve done in Phase 0, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
+Based on the research you’ve done, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
 
 * An awesome opening paragraph that introduces who you are and why you are interested in the company.
 * One to two paragraphs showcasing your skills and background that would make you a good fit for the company.
