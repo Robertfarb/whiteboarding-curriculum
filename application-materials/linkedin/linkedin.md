@@ -11,7 +11,7 @@ The summary is one of the most important parts of your LinkedIn, especially as a
 As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
 **PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
-Title:  Right underneath the photo make sure your titles are up-to-date.  ## Remember, you are now a Software Developer.## 
+Title:  Right underneath the photo make sure your titles are up-to-date.  **Remember, you are now a Software Developer.
   
 **SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
 
