@@ -25,10 +25,6 @@ I have a reputation for asking great questions, shipping quality code, being a s
 
 ---
 
-"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React."
-
----
-
 "I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
 
 I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
