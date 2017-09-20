@@ -8,8 +8,8 @@ If you're good at selling yourself, this is where you shine. Otherwise no worrie
 
 ### YOUR TRIANGLE
 What are the three points you want your interviewer to remember.  As per our discussion try to use these ideas:
-1.  How did you get started in the industry?
-2.  What languages do you know?  One or two (max) projects you have worked on.
+1.  How did you get started in the industry? or Why did you want to become a developer?
+2.  What languages do you know?  Discuss one or two (max) projects you have worked on.
 3.  Something about you and the company and what and how you specifically bring value.  ie "I know you work on XYZ stacks and with my experience on ABC project I know I would easily be able to integrate with your team." or "The reason I really would like to work for XYZ company as I share your companies core values, especially......"
 
 Remember...the importance of three.  Keep this easy, fun and simple for you and your interviewer(s)
