@@ -5,7 +5,9 @@ Welcome to the job search! The job search structure is less rigid than the codin
 ## Table of Contents
 
 [Browse Job Search by Topic](job-search-by-topic.md)
+
 [Resource Library](https://docs.google.com/document/d/11hHOGz3UOpGIbWu4cQoWF8bqeobO5YOobmUgVNqEL_o/edit)
+
 [Interview-DB (Submit your Interviews Here)](http://interview-db.herokuapp.com)
 
 Jump to:
