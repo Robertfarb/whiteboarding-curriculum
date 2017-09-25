@@ -136,6 +136,8 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 ## I'm ready to apply! Let's go!
 
 ### Applying to Jobs
+  * [The Mentat](https://thementat.com/)
+  * [Mentat How To Use Video](https://www.youtube.com/watch?v=WlcLQqmGQmI)
   * [Job Boards](applying/job-boards.md)
   * Practice with [interviewing.io](https://interviewing.io/)
   * [Bay Area Tech Companies][bay-tech-companies]
