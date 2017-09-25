@@ -286,8 +286,8 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Is it a Google Doc where you have granted edit access for your career coach?
   0. Have you eliminated or minimized any timeline gaps in your resume?
   
-  ### THE MENTAT--PLEASE SIGN UP 
-  www.thementat.com is a company App Academy partners with to provide our students with the ability to enhance their online job search.  Using this services allows students to reach out directly to recruiters as well as the ability to network directly with people at companies they apply.  Following is a complete video on how to use the system. [thementat]:https://www.youtube.com/watch?v=WlcLQqmGQmI
+### THE MENTAT--PLEASE SIGN UP 
+  www.thementat.com is a company App Academy partners with to provide our students with the ability to enhance their online job search.  Using this services allows students to reach out directly to recruiters as well as the ability to network directly with people at companies they apply.  Following is a complete video on how to use the system. https://www.youtube.com/watch?v=WlcLQqmGQmI
 
 [drive-templates]: https://drive.google.com/drive/folders/0B3noREts_wUyMFZHWVhvcUUtU1E?usp=sharing
 [example-resumes]: examples/exemplary-resumes.md
