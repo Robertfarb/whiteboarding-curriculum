@@ -94,6 +94,8 @@ https://www.meetup.com/Hack-hers/
 https://www.meetup.com/TechYesBayArea/
 https://techqueria.org/
 
-NETWORKING TIPS:  https://www.youtube.com/watch?v=r-_iC4DUDCU 
+# NETWORKING TIPS:  
+---
+https://www.youtube.com/watch?v=r-_iC4DUDCU 
 
 
