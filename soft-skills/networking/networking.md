@@ -44,7 +44,7 @@ Not everyone loves to network at big events.  Try smaller events if that works f
 
 
 # NETWORKING RESOURCES 2017
----
+
 
  SHAPR  Like Tinder for networking.  Students have met some great people and two are finalizing jobs through people they met on this FREE APP
 
@@ -95,7 +95,7 @@ https://www.meetup.com/TechYesBayArea/
 https://techqueria.org/
 
 # NETWORKING TIPS:  
----
+
 https://www.youtube.com/watch?v=r-_iC4DUDCU 
 
 
