@@ -79,16 +79,22 @@ TECH MEETUP GROUPS NYC
 LGBTQ 
 
 http://www.outintech.com/
+
 Gays Who Tech Meetup  
 https://www.meetup.com/gays-who-tech/events/240561021/
+
 Queer Tech Meetup NYC 
 https://www.meetup.com/queer-tech/ 
+
 Gays Who Tech Meetup  
 https://www.meetup.com/gays-who-tech/events/240561021/
+
 Queer Tech Meetup NYC 
 https://www.meetup.com/queer-tech/ 
+
 TRANS 
 https://www.meetup.com/TranscodeSF/
+
 TRANS 
 http://www.transhack.org/
 
