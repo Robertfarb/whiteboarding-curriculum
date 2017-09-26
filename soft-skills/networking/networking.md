@@ -42,6 +42,10 @@ Not everyone loves to network at big events.  Try smaller events if that works f
 * Showcase a new project, personal website, resume and put online
 * Ask for introductions from college friends, old friends, family
 
+# NETWORKING TIPS:  
+
+https://www.youtube.com/watch?v=r-_iC4DUDCU 
+
 
 # NETWORKING RESOURCES 2017
 
@@ -118,8 +122,6 @@ https://www.meetup.com/TechYesBayArea/
 
 https://techqueria.org/
 
-# NETWORKING TIPS:  
 
-https://www.youtube.com/watch?v=r-_iC4DUDCU 
 
 
