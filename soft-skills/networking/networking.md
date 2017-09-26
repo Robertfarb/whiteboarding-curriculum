@@ -99,11 +99,17 @@ TRANS
 http://www.transhack.org/
 
 https://www.meetup.com/HackerNestSFO/
+
 https://www.meetup.com/San-Francisco-Vets-in-Tech/
+
 https://www.meetup.com/Bay-Area-Tech-for-Social-Impact/
+
 https://www.meetup.com/GITSANFRAN/
+
 https://www.meetup.com/Hack-hers/
+
 https://www.meetup.com/TechYesBayArea/
+
 https://techqueria.org/
 
 # NETWORKING TIPS:  
