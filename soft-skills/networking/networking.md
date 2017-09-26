@@ -60,6 +60,7 @@ Path Forward- http://www.pathforward.org/
 
 
 WOMEN
+
 https://www.hiretechladies.com/#
 https://www.meetup.com/Women-Who-Code-East-Bay/
 https://www.meetup.com/Bay-Area-Women-in-Technology-Meetup
@@ -68,12 +69,15 @@ https://www.meetup.com/Data-Driven-Women/
 https://www.meetup.com/WomenWhoCodeNYC/ 
 http://www.blackgirlscode.com/
 
-LATINO NETWORKING  https://www.meetup.com/Latinos-in-Tech-Bay-Area/
+LATINO NETWORKING  
+
+https://www.meetup.com/Latinos-in-Tech-Bay-Area/
 
 TECH MEETUP GROUPS SF
 TECH MEETUP GROUPS NYC
 
 LGBTQ 
+
 http://www.outintech.com/
 Gays Who Tech Meetup  https://www.meetup.com/gays-who-tech/events/240561021/
 Queer Tech Meetup NYC https://www.meetup.com/queer-tech/ 
