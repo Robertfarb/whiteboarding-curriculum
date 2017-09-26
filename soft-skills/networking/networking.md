@@ -62,11 +62,17 @@ Path Forward- http://www.pathforward.org/
 WOMEN
 
 https://www.hiretechladies.com/#
+
 https://www.meetup.com/Women-Who-Code-East-Bay/
+
 https://www.meetup.com/Bay-Area-Women-in-Technology-Meetup
+
 https://www.meetup.com/SF-Bay-Women-in-Tech/
+
 https://www.meetup.com/Data-Driven-Women/
+
 https://www.meetup.com/WomenWhoCodeNYC/ 
+
 http://www.blackgirlscode.com/
 
 LATINO NETWORKING  
