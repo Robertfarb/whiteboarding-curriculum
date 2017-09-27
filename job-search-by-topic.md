@@ -95,6 +95,9 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * [AngelList](application-materials/angellist/angellist.md) (Optional, but highly recommended)
 * [Portfolio Site](application-materials/portfolio/portfolio.md) (Optional, but highly recommended)
 
+### Networking
+* [Best Networking Practices](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
+
 ## Algorithms Projects
 
 Due dates follow projects. Always due at 12pm PST. Password for videos are `go_video_go`.
