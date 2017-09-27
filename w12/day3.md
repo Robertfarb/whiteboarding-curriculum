@@ -9,7 +9,7 @@
 * Complete HashMap/LRU Cache Project.
 
 ### Afternoon
-* [Networking] (https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
+* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
 * HashMap/LRU Cache Review Session
 * Architecture Lecture with Ned 
 * Heaps and Heap Sort Video Lectures and Project
