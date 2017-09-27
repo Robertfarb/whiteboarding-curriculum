@@ -75,18 +75,18 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 
 ## Application Materials
 ### Resume
-* [Resume Instructions](application-materials/resume/resume.md) (due W10D3, 1:30pm)
+* [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9:00am)
 
 [resume]: application-materials/resume/resume.md
 
 ### Cover Letter
-* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W10D4, 1:30pm)
+* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9:00am)
 * [A Hiring Manager's Thoughts on Cover Letters](https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej)
 * [Samorn's Lecture on Cover Letters](https://vimeo.com/182749397/30c2efb921)
   * Password is `go_video_go`
 
 ### Building your Online Presence: LinkedIn/Github/AngelList/Google Analytics
-* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W10D2, 4:30pm)
+* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W11D1, 9:00am)
   * [Headshots](http://paulsimcock.zenfolio.com/appacademy)
     * Password is `rubyonrails`
 * [Utilizing your LinkedIn to its Full Potential Lecture](https://vimeo.com/189053139)
