@@ -15,11 +15,11 @@ are too easy to deflect.*
  Check out Indeed's latest salary average for Developers    
   * For a San Francisco [Rails Developer][sf-rails] and [Front End Developer][sf-front-end].
 
-##Robert Half Salary Guide
+##[Robert Half Salary Guide](https://www.roberthalf.com/salary-guide)
 
 The Robert Half Salary Guide is an industry reference for salaries
 averages in different fields. According to its numbers, a web developer
-in 2014 makes between $94,850 and $153,792 in San Francisco. In New York it's between $98,700 and $160,035.
+in 2017 makes between $135-228k in San Francisco. In New York it's between $136-229k.
 
 [sf-rails]: http://www.indeed.com/salary?q1=junior+rails+developer&l1=san+francisco
 [sf-front-end]: http://www.indeed.com/salary?q1=junior+front+end+developer&l1=san+francisco
