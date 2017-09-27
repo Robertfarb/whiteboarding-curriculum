@@ -97,6 +97,7 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 
 ### Networking
 * [Best Networking Practices](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
+* [Networking Video Tips](https://www.youtube.com/watch?v=r-_iC4DUDCU&t=7s)
 
 ## Algorithms Projects
 
