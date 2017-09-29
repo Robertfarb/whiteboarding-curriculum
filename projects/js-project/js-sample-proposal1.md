@@ -43,7 +43,7 @@ On the left, there will be an expandable menu allowing the user to control the s
 
 On the left near the bottom, will be an expandable menu allowing users to select the 'instruments'.
 
-![wireframes](https://github.com/amaciver/StochAsteroids/blob/master/images/js_wireframes.png)
+![wireframes](js_wireframes.png)
 
 ### Architecture and Technologies
 
