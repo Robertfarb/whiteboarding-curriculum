@@ -1,24 +1,14 @@
 ## W10D3
 ### Homework
 * Work on JavaScript Project.
-* Work on Resume and Cover Letter: Due tomorrow morning at 9am.
-* Read about online presence:
-  * [Linkedin][linkedin]
-  * [Github][github]
-    * [Readmes][readme]
-    * [Github history][github-history]
-  * [AngelList][angellist]
-  * [Personal portfolio site][portfolio]
-  * [Setting Up Analytics][analytics]
-  * Onine presence materials due Monday 9am (W11D1)
 
 ### Afternoon
 
 #### Lecture
-* Online Presence Lecture 
+* Resume Lecture
 
 #### Work Time
-* JS Project, Resume, and Cover Letter
+* Resumes
 
 #### Peer Reviews
 * [Peer reviews][peer-review-instructions] at 4:30pm.
