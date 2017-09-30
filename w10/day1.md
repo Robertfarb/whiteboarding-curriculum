@@ -16,29 +16,23 @@
 
 ### Morning Off
 * Roll call and lecture at 1:30pm.
-* If you come in early, be respectful of the new cohort, sit in the Job Seeker area.
+* If you want to come in early and start your JS project, feel free to do so!
 
 ### Afternoon
 #### Lectures
 * **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 4+ weeks.
 * **Meet Your Coach!**
-* Followed immediately by **Resumes**.
 
-#### Resume Work Time Part 1
-* [Resume instructions][resume]
-* Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.  Resumes are due by Weds at 9am.  Please make sure all links are accessible on Jobberwocky.
 
-### Projects
+
+### Projects To Work on Tonight
 * [JavaScript Project][js-project]
-* [Resume][resume]
+
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: ../projects/js-project/js-project.md
 [js-sample-proposal]: ../projects/js-project/js-sample-proposal.md
-
-[resume]: ../application-materials/resume/resume.md
-[text-only]: ../application-materials/resume/text-resume.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
