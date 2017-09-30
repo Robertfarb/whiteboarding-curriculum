@@ -1,6 +1,7 @@
 ## W10D3
 ### Homework
 * Work on JavaScript Project.
+* Personal Pitch Video due on Jobberwocky at 9am.
 
 ### Afternoon
 
