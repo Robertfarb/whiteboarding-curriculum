@@ -38,5 +38,6 @@
 [peer-review]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/meta/app-academy/peer-reviews.md
 [flex-project]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-project.md
 
+[cover-letter]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/cover-letter/cover-letter.md
 
 
