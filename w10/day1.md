@@ -4,7 +4,7 @@
     * **Please have the [correct scorecard][project-scorecard]**
     * **The above scorecard has multiple tabs. Please use the same scorecard for your JS project as well.**
 * **Submit your JavaScript Proposal by 9am on Jobberwocky**
-  * Choose a [JavaScript Project][js-project] ([Sample Proposal](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/js-project/js-sample-proposal1.md))
+  * Choose a [JavaScript Project][js-project] ([Sample Proposal][js-sample-proposal])
   * Create your project repo.
   * Write your proposal ([sample proposal][js-sample-proposal]) as a README.md file in the project repo.
   * Submit your proposal by adding links to your repo in [Jobberwocky][Jobberwocky] and hitting "Queue for Review".
@@ -32,7 +32,7 @@
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
-[js-sample-proposal]: ../projects/js-project/js-sample-proposal.md
+[js-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/js-project/js-sample-proposal1.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
