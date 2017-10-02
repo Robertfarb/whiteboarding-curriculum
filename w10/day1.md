@@ -25,8 +25,16 @@
 
 
 
-### Projects To Work on Tonight
+### Projects and Assignments To Work on Tonight
 * [JavaScript Project][js-project]
+* Prep for Personal Pitch workshop by reading through the [personal pitch][personal-pitch] reading.
+* Prep for the Online Presence lecture by reading through the following:
+  * [AngelList][angellist]
+  * [LinkedIn][linkedin]
+  * [Github][github]
+  * [Personal Portfolio][portfolio]
+  * [Google Analytics][google-analytics]
+  
 
 
 <!-- LINKS -->
@@ -41,3 +49,11 @@
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 [project-scorecard]: https://docs.google.com/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit#gid=0
+
+[personal-pitch]: ../soft-skills/interviewing/personal-pitch.md
+
+[angellist]: https://github.com/appacademy/sf-job-search-curriculum/tree/master/application-materials/angellist
+[linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
+[github]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md
+[portfolio]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/portfolio/portfolio.md
+[google-analytics]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/google-analytics/google-analytics-sparknotes.md
