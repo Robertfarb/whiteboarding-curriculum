@@ -26,7 +26,7 @@
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: ../projects/js-project/js-project.md
+[js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
 [flex-project]: ../projects/flex-project/flex-project.md
 
 <!-- Internal Resources -->
