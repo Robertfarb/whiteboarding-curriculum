@@ -170,4 +170,4 @@ If you're new to LinkedIn, it may be worth spending an hour learning about the p
 
 ### Headshots
 
-To access your a/A headshots, visit the [portfolio](http://paulsimcock.zenfolio.com/appacademy). Password is `rubyonrails`.
+To access your a/A headshots, visit the [this google drive](https://drive.google.com/drive/u/0/folders/0B149bnBLalVlYlNFTW5raVJwVVE). 
