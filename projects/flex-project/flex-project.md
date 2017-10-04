@@ -40,7 +40,7 @@ The key goal of the flex project is to help differentiate you from other bootcam
     * **Plan for getting users and reviews** (if your app is a downloadable app)
   * Check out some sample proposals
     * [Sample Proposal for that implements Machine Learning and uses Django](./flex-sample-proposal2/README.md)
-    * [Sample Proposal for Chrome Extension](flex-sample-proposal.md).
+    * [Sample Proposal for a React Native App](https://github.com/JaredTan/Woven/tree/master/docs).
 
 
 ## Project Requirements
