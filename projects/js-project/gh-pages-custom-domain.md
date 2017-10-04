@@ -1,6 +1,6 @@
 # Set up Custom Domain using Github Pages for static front-end project.
 
-This guide will let you set up a custom domain quickly for your front-end project that **isn't attached to a back-end**. Use Heroku for a back-end project.
+This guide will let you set up a custom domain quickly for your front-end project that **isn't attached to a back-end**. Use Heroku for a project with a back-end.
 
 ## Purchase Domain Name
 
@@ -27,13 +27,15 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 + Cloudflare provides a free DNS service, and very fast and quick! Can use others like Amazon Cloudfront and MaxCDN, but those require to pay. Using Cloudflare allows your project sites to load instantly :) It's awesome.
 
++ Go to https://www.cloudflare.com/, and make an account.
+
 + Click +Add Site at the top. Enter your purchased domain url. ex) coloreddiffusion.com
 
 ![add](./gh-pages-images/add-site.png)
 
-+ After Cloudflare locates your site, manage the site's DNS records.
++ After Cloudflare locates your site, manage the site's DNS records. Make take a minute or so.
 
-+ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {github username}.github.io. ex) johndoe123.github.io
++ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {your github username}.github.io. ex) johndoe123.github.io. You'll add your repo name later.
 
 ![cloudflare](./gh-pages-images/manage-dns.png)
 
@@ -61,7 +63,7 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 ![cname](./gh-pages-images/CNAME-in-repo.png)
 
-+ Add, commit and push to master or gh-pages branch (whichever is connected to the site)
++ Add, commit and push to master or gh-pages branch (whichever is connected to github pages)
 
 ### Done!
 
