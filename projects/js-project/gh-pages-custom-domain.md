@@ -1,14 +1,14 @@
 # Set up Custom Domain using Github Pages for static front-end project.
 
-This guide will let you set up a custom domain quickly for your front-end project that **isn't attached to a back-end**. Use Heroku for a project with a back-end. Your project also **must have an index.html**.
+This guide will let you set up a custom domain quickly for your front-end project that **isn't attached to a back-end**. Use Heroku for a project with a back-end. Your project also **must use index.html**.
 
 ## Purchase Domain Name
 
-+ Go to namecheap.com (You can use GoDaddy as well, but this guide will be using Namecheap.)
++ Go to namecheap.com (You can use GoDaddy and others as well, but this guide will be using Namecheap.)
 
 ![purchase](./gh-pages-images/purchase-domain-name.png)
 
-+ Purchase a nice domain name for your project, and make an account. Will manage the newly purchased domain later.
++ Purchase a nice domain name for your project, and make an account. We will manage the newly purchased domain later.
 
 ## Set Up Github Pages in your Github Repo
 
@@ -25,17 +25,19 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 ## Set Up Cloudflare (Domain Name Service)
 
-+ Cloudflare provides a free DNS service, and very fast and quick! Can use others like Amazon Cloudfront and MaxCDN, but those require to pay. Using Cloudflare allows your project sites to load instantly :) It's awesome.
++ Cloudflare provides a free DNS service, and very fast and quick! Can use others like Amazon Cloudfront and MaxCDN, but those require to pay. Using Cloudflare allows your project sites to load instantly through global CDNs :) It's awesome.
 
 + Go to https://www.cloudflare.com/, and make an account.
 
-+ Click +Add Site at the top. Enter your purchased domain url. ex) coloreddiffusion.com
++ Click +Add Site at the top. Enter your purchased domain url. ex) coloreddiffusion.com. It might take 5-10 minutes for the domain to be available if you just purchased it.
 
 ![add](./gh-pages-images/add-site.png)
 
-+ After Cloudflare locates your site, manage the site's DNS records. Make take a minute or so.
++ After Cloudflare locates your site, manage the site's DNS records.
 
-+ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {your github username}.github.io. ex) johndoe123.github.io. Don't worry, you'll add your repo name later.
++ If there is a CNAME DNS type already present, delete that record.
+
++ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {your github username}.github.io. ex) johndoe123.github.io. github.io will be the new domain.
 
 ![cloudflare](./gh-pages-images/manage-dns.png)
 
@@ -65,10 +67,10 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 ![cname](./gh-pages-images/CNAME-in-repo.png)
 
-+ Add, commit and push to master or gh-pages branch (whichever is connected to github pages)
++ Add, commit and push to master or gh-pages branch (whichever is connected to github pages).
+
++ **Make sure you are using index.html! Everything will be loaded from index.html.**
 
 ### Done!
 
-+ In ~20 minutes, your site can be seen at your new domain.
-
-+ In the mean time, your site should be able to be viewed at https://{github_username}.github.io/{repo_name}
++ Within an hour, your site may be viewed at your new custom domain.
