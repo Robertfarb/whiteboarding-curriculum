@@ -8,7 +8,7 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 ![purchase](./gh-pages-images/purchase-domain-name.png)
 
-+ Purchase a nice domain name for your project. :) Will manage the newly purchased domain later.
++ Purchase a nice domain name for your project, and make an account. Will manage the newly purchased domain later.
 
 ## Set Up Github Pages in your Github Repo
 
