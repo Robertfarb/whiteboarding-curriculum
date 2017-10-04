@@ -2,9 +2,9 @@
 
 The Flex Project helps fills in the gaps in your skill presentation not covered by your Full-Stack Project or JavaScript Project. It is flexible because it is designed to show off your strongest skills and to complement the type of job you're looking for.
 
-For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
+For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed, but not recommended, and the expectations for the final product will be higher for 4-people groups). Although you will only have a few days to complete it, alongside attending lectures, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
 
-The key goal of the flex project is to help differentiate you from other bootcamp grads. With that said, here are a couple of directions you can choose to go with the flex project:
+The key goal of the flex project is to help differentiate you from other bootcamp grads, as well as from other App Academy students. With that said, here are a couple of directions you can choose to go with the flex project:
 
 1. Build a project that adds to your tech stack:
   * [Pixpy Pics](http://www.pixpy.tech/)
@@ -24,7 +24,7 @@ The key goal of the flex project is to help differentiate you from other bootcam
 
 ## Flex Project Proposal
   * Due W11D1 at 9am
-  * Similar to other projects, proposal will be written in a repo
+  * Similar to your JavaScript project, the proposal will be written as a `README.md` in a repo.
     * **Only one repo needed per team**
   * Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
     * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
