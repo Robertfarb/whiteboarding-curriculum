@@ -1,14 +1,14 @@
-# Set up Custom Domain using Github Pages. No back-end!
+# Set up Custom Domain using Github Pages for static front-end project.
 
-This guide will let you set up a custom domain quickly for your front-end project that isn't attached to a back-end.
+This guide will let you set up a custom domain quickly for your front-end project that **isn't attached to a back-end**. Use Heroku for a back-end project.
 
 ## Purchase Domain Name
 
-+ Go to namecheap.com (You can use GoDaddy for domain names, but this guide will be using Namecheap.)
++ Go to namecheap.com (You can use GoDaddy as well, but this guide will be using Namecheap.)
 
-![purchase](./gh-pages-images/purchase-domain.png)
+![purchase](./gh-pages-images/purchase-domain-name.png)
 
-+ Purchase a nice domain name for your project :) Will manage the newly purchased domain later.
++ Purchase a nice domain name for your project. :) Will manage the newly purchased domain later.
 
 ## Set Up Github Pages in your Github Repo
 
@@ -29,11 +29,15 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 + Click +Add Site at the top. Enter your purchased domain url. ex) coloreddiffusion.com
 
+![add](./gh-pages-images/add-site.png)
+
 + After Cloudflare locates your site, manage the site's DNS records.
+
++ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {github username}.github.io. ex) johndoe123.github.io
 
 ![cloudflare](./gh-pages-images/manage-dns.png)
 
-+ Add a new record. Choose DNS type: CNAME, Name: www, and the IPv4 address is {github username}.github.io. ex) johndoe123.github.io
++ You will be given two nameservers. Mine were cass.ns.cloudflare.com and graham.ns.cloudflare.com. Yours should be similar. Save them.
 
 ## Connect Cloudflare routing to Namecheap.
 
@@ -43,7 +47,7 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 + Click manage on your newly purchased site.
 
-+ In nameservers, click custom DNS. Add the two cloudflare urls obtained. Mine were cass.ns.cloudflare.com and graham.ns.cloudflare.com. Yours should be similar.
++ In nameservers, click custom DNS. Add the two cloudflare urls obtained. ex) cass.ns.cloudflare.com and graham.ns.cloudflare.com
 
 ![nameservers](./gh-pages-images/add-cloudflare-to-namecheap.png)
 
@@ -57,10 +61,10 @@ This guide will let you set up a custom domain quickly for your front-end projec
 
 ![cname](./gh-pages-images/CNAME-in-repo.png)
 
-+ Push to master or gh-pages branch (whichever is connected to the site)
++ Add, commit and push to master or gh-pages branch (whichever is connected to the site)
 
 ### Done!
 
 + In ~20 minutes, your site can be seen at your new domain.
 
-+ In the mean time, your site should be able to be seen at https://{github_username}.github.io/{repo_name}
++ In the mean time, your site should be able to be viewed at https://{github_username}.github.io/{repo_name}
