@@ -1,5 +1,5 @@
 ## W10D4
-### Homework Due Today
+### Homework
 * Work on JavaScript Project (due Friday morning at 9am).
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
 * Work on [Resume][resume] (due W11D1 at 9am)
@@ -26,7 +26,7 @@
 * Start thinking about your [flex project][flex-project] (proposal due W11D1 at 9am)
 * Work on [resumes][resume] (due W11D1 at 9am)
 * Work on [cover letters][cover-letter] (due W11D1 at 9am)
-* Work on [LinkedIn profile)[linkedin] (due W11D1 at 9am)
+* Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
 * Bonus: [portfolio site][portfolio]
 
 <!-- LINKS -->
