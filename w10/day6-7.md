@@ -1,34 +1,34 @@
-## W10D6-7
+## Weekend Checklist
 
-### Projects, due Monday 9am
-* **To submit your Flex Project Proposal, Resume, and Cover Letter for review, go to [Jobberwocky][Jobberwocky] and paste in the relevant links under the correct job app materials.**
-* [Flex Project][flex-project] Proposal
-  * [Sample flex proposal][flex-sample-proposal]
-  * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
-* [Personal pitch video][personal-pitch-video] due Monday at 9am on [Jobberwocky][Jobberwocky]
-* [LinkedIn profile][linkedin]
-* Bonus: [GitHub cleanup][github]
-  * Change [authorship & commit history][github-history]
-  * Update [READMEs][readme]
-* Bonus: [AngelList profile][angellist]
-* Bonus: [portfolio site][portfolio].
+### Resume (due 9am W11D1 on Jobberwocky)
+- [ ] Links on top for Github and Linked In
+All links work throughout the body (Projects should have a LIVE and GITHUB direct link)
+Discuss what you did to implement features on projects (Problem/Solution)
+ATS
+Simple format based on resume reading sample
+Spell out URL’s
+Doc or txt file
+Upload an editable version to Jobberwocky for coach review/feedback
+Send PRETTY resume direct to your coach
+Make sure your coach can review both
 
-<!-- LINKS -->
-<!-- Job Search Projects -->
-[flex-project]: ../projects/flex-project/flex-project.md
-[flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
-[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
-[portfolio]: ../application-materials/portfolio/portfolio.md
+### Cover Letter (due 9am W11D1 on Jobberwocky)
+Remember your triangle
+Have an amazing opening line
+In the body, discuss languages you know and a specific project/description.  Showcase you are an awesome Software Developer
+Paragraph on how you would be a value add to the company
+Thank you/Appreciate time
+Upload an editable doc on Jobberwocky for coach review and feedback
 
-<!-- Online Presence -->
-[linkedin]: ../application-materials/linkedin/linkedin.md
-[github]: ../application-materials/github/github.md
-[readme]: ../projects/example-readmes.md
-[github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
-[angellist]: ../application-materials/angellist/angellist.md
+### LinkedIn (due 9am W11D1; make sure there is a link to your LinkedIn on your resume)
+Great professional picture of you
+Summary should be personable with good keywords (ie, Ruby, Rails, Javascript, etc)
+Endorsement for skills (put software dev skills at top)
+Education is completed
+Projects are included
 
-<!-- Internal Resources -->
-[Jobberwocky]: http://progress.appacademy.io/jobberwocky
-
-<!-- Self Presentation -->
-[personal-pitch-video]: ../meta/app-academy/uploading-personal-pitch-video.md
+### Github Cleanup
+Good picture of you
+Stars/Followers/Following at top have some numbers
+Projects are featured easily for people to review
+Readme’s have good content, images and code snippets
