@@ -1,8 +1,8 @@
 ## W10D5
 ### Homework
-* **[JavaScript Project][js-project] due 12pm.**
+* **[JavaScript Project] due 12pm on Jobberwocky.**
   * Add live link to [Jobberwocky][Jobberwocky] and click "Queue for review" to submit. NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
-* Work on flex project proposal (due W11D1 at 9am)
+* Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
 
 ### Afternoon
 
@@ -10,21 +10,22 @@
 * Work on Flex Project Pre-Proposals.
 * Start presenting Flex Project Pre-Proposals to Coaches
 
-### Projects
+### Projects and Assignments to Work on This Weekend
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
-* Online presence: LinkedIn, Github, AngelList
+* Work on [resumes][resume] (due W11D1 at 9am)
+* Work on [cover letters][cover-letter] (due W11D1 at 9am)
+* Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
 * Bonus: [portfolio site][portfolio]
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: ../projects/js-project/js-project.md
-[flex-project]: ../projects/flex-project/flex-project.md
-[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
-[portfolio]: ../application-materials/portfolio/portfolio.md
 
+[portfolio]: ../application-materials/portfolio/portfolio.md
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 
-<!-- Self Presentation -->
-[personal-pitch]: ../soft-skills/interviewing/personal-pitch.md
-[personal-pitch-video]: ../meta/app-academy/uploading-personal-pitch-video.md
+[resume]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/resume.md
+[linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
+[cover-letter]: ../application-materials/cover-letter/cover-letter.md
+
+[flex-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md
