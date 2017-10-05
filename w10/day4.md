@@ -33,7 +33,7 @@
 <!-- Job Search Projects -->
 [js-project]: ../projects/js-project/js-project.md
 [flex-project]: ../projects/flex-project/flex-project.md
-[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
+[flex-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md
 [cover-letter]: ../application-materials/cover-letter/cover-letter.md
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [peer-review-instructions]: ../meta/app-academy/peer-reviews.md
