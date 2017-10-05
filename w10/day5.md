@@ -8,6 +8,11 @@
 
 #### Work Time
 * Work on Flex Project Pre-Proposals.
+ * Instructions: Start a google doc and have the following planned out:
+   * General idea for the project with specific features/functionalities 
+   * 1 or 2 backup ideas (don't spend too much time on this unless you're not super sold on your top choice)
+   * Technologies you plan on using
+   * Detailed timeline of how each group member will spend their time to get ramped up for the flex project. (ie. tutorials for new technologies, building a simple CRUD app using that new stack, etc.)
 * Start presenting Flex Project Pre-Proposals to Coaches
 
 ### Projects and Assignments to Work on This Weekend
