@@ -29,6 +29,7 @@ Historically, there's a pretty strong correlation between how well-developed the
 
 Basically, on W10D5, you will spend 1:30 - 4:30pm working on on your pre-proposal. Your pre-proposal should contain:
 * A general idea of what you are trying to build, along with the core functionalities/features of your application.
+* Technologies that you'll be using.
 * A few backup ideas (no need to put too much time into this, unless you really don't like you first choice).
 * A detailed plan of how you will spend your weekend laying the ground work for your flex project. 
 
