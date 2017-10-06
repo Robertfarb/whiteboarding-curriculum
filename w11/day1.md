@@ -44,7 +44,7 @@
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
-[flex-sample-proposal]: ../projects/flex-sample-proposal2/README.md
+[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal2/README.md
 [flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md
