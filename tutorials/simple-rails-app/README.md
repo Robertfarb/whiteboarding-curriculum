@@ -311,7 +311,7 @@ You might also want a way to keep a user logged in. In past apps, we have used s
 
 
 ### More Info
-[Google on OAuth](https://developers.google.com/+/web/api/rest/oauth)
-[Google OAuth2 Playground](https://developers.google.com/oauthplayground)
-[Google API Explorer](https://developers.google.com/apis-explorer/)
-[Figaro docs](https://github.com/laserlemon/figaro)
+* [Google on OAuth](https://developers.google.com/+/web/api/rest/oauth)
+* [Google OAuth2 Playground](https://developers.google.com/oauthplayground)
+* [Google API Explorer](https://developers.google.com/apis-explorer/)
+* [Figaro docs](https://github.com/laserlemon/figaro)
