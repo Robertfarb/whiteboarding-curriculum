@@ -9,9 +9,8 @@
 * Complete HashMap/LRU Cache Project.
 
 ### Afternoon
-* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
 * HashMap/LRU Cache Review Session
-* Architecture Lecture with Ned 
+* [Pairboarding][pairboarding]
 * Heaps and Heap Sort Video Lectures and Project
     * Videos on heaps and heapsort:
       * [Heaps 1][heaps1]
@@ -48,6 +47,7 @@
 [interview-questions]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydHN3UGZfbDZIME1VTEY3Y3pUNWpZZGc#gid=0
 [HackerRank]: https://www.hackerrank.com/
 [elements-book]: http://elementsofprogramminginterviews.com/
+[pairboarding]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d7
 
 <!-- Misc -->
 [performance-cheat-sheet]: ../technical-skills/system-design/performance-cheat-sheet.md
