@@ -29,7 +29,7 @@
     * **Finally, do the project (download from Progress Tracker Assessments section), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
 * Mentat Demo from `3:30 - 4pm` 
-* Networking Lecture and Workshop from `4 - 6pm`.
+* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md) Lecture and Workshop from `4 - 6pm`.
 
 ### Evening
 
