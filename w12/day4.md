@@ -23,7 +23,7 @@
   
 * **Graduation Day**
   * Celebrate! You've graduated a/A!
-  * Have some drinks and snacks with your cohort, alums, and a/A staff at 6pm
+  * Recruiting fair at 6pm.
 
 <!-- LINKS -->
 
