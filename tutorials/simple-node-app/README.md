@@ -2,7 +2,7 @@
 
 ## Quick Launch
 
-Unfortunately there is no live demo link. Clone the repository and follow Phase 0, setting up a Google Cloud Project and a PostgreSQL database. Copy your clientID and client secret from Google into `backend/util.js`. Run `npm start` in the console to start the backend server, and visit http://localhost:3000/ to log in.
+Clone the repository and follow Phase 0, setting up a Google Cloud Project and a PostgreSQL database. Copy your clientID and client secret from Google into `backend/util.js`. Run `npm start` in the console to start the backend server, and visit http://localhost:3000/ to log in.
 
 ## About
 
@@ -53,7 +53,7 @@ export const googleConfig = {
 
 We are now setup to use Google+ API. However, before we can start building, we must have a database to work with. For this tutorial, make sure you have PostgreSQL installed and running on our computer.
 
-From the command line, run `psql` to open PostgreSQL. Type in the following commands to create a new database titled `OAuthTutorial` with a `users` table containing 5 fields. Don't forget the semicolons.
+From the command line, run `psql` to open PostgreSQL. Type in the following commands to create a new database titled `OAuthTutorial` with a `users` table containing the 6 fields listed. Don't forget the semicolons.
 
 1. `CREATE DATABASE OAuthTutorial;`
 2. `\c OAuthTutorial`
