@@ -2,7 +2,6 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import passport from 'passport';
 import session from 'express-session';
-import * as controller from './controller.js';
 import { passportConfig } from './passport.js';
 import { routerConfig } from './routes.js';
 
