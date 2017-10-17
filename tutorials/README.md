@@ -5,6 +5,11 @@
   * Creates a User object from data obtained from Google
   * Shows how to access a user's calendars
 
+## [Google OAuth2 with Node](./simple-node-app/README.md)
+  * Uses Passport.js with Express and PostgreSQL
+  * Creates a User object from data obtained from Google
+  * Does not use an ORM, raw SQL
+
 ## [React Native with ActiveRecord Rails API](./action-cable-rn/README.md)
   * Rails API mode on the backend
   * WebSockets using ActionCable
