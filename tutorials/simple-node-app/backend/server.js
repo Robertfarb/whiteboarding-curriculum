@@ -12,7 +12,7 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 
 //session middleware necessary to save and persists a users login session
-//the session key can be whatever you want, and the other two values should usually always be false
+//the session key can be whatever you want, and the other two values are required defaults
 //docs: https://github.com/expressjs/session
 app.use(session({
   secret: 'PutAnythingYouWantHere',
