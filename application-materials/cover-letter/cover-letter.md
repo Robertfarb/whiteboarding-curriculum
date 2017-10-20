@@ -5,7 +5,7 @@ Employers are busy and typically spend between 15-30 seconds scanning your mater
 
 A strong cover letter shows that *you’ve done research on the company and that your skills are a good fit for the company*.  To increase your chances of getting a screening interview, below are key strategies for writing a compelling cover letter that will get your application noticed.
 
-## Phase 0: Research
+## Research
 Identify two SF Bay Area tech companies that you are excited to work for.  Spend 10-15 minutes researching the company (use their own site, job description, LinkedIn, Glassdoor, and Google). For each company write down the following:
 
 1. What does the company do?
@@ -14,14 +14,15 @@ Identify two SF Bay Area tech companies that you are excited to work for.  Spend
 4. Why are you interested in working there?
 5. What makes you a good candidate?
 
-## Phase 1: Get Organized
-Based on the research you’ve done in Phase 0, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
+## Get Organized
+Based on the research you’ve done, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
 
-* An opening paragraph that introduces who you are and why you are interested in the company.
+* An awesome opening paragraph that introduces who you are and why you are interested in the company.
 * One to two paragraphs showcasing your skills and background that would make you a good fit for the company.
 * A closing paragraph
+(TOTAL LENGTH...About 1/2-1/3 page only)
 
-## Phase 2: Opening Paragraph
+# THE TRIANGLE-Point 1
 Introduce yourself, the technologies you know, and your interest in the position.
 
 * If possible, use the hiring manager’s name.  If you don't know the hiring manager's name, start with "Hi [Company Name] Team”.
@@ -59,7 +60,7 @@ DO NOT USE THESE OPENERS.  WRITE YOUR OWN.
   * Strong: "GeneriCo's userbase is growing fast. I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that simultaneously enabled further growth and improved user experience."
 
 
-## Phase 3: Skills Paragraphs
+# Triangle Point 2--ABOUT YOU
 
 Based on the research you’ve done earlier, draft a few skills paragraphs that include technical and other skills that show you're an engineer capable of filling their position.  Your skills paragraph may include:
 * A description of your fullstack, flex or other projects.  Make sure you provide a live link to the project you’re discussing. This might be  similar to your [resume bullet points][bullet-points] but not the exact same wording.
@@ -89,8 +90,14 @@ Looking for an exceptional **software engineer who knows React, Ruby, Rails and 
 
 
 
+# Triangle Point 3 - ABOUT THEM
+Now here is the place where you can show value.  What do you know about the company?  How would you be an asset specifically?
 
-## Phase 4: Closing Paragraph
+BAD EXAMPLE:  I know I would be a valuable asset to your team
+GOOD EXAMPLE:  I know that your company works in Ruby and React and with my knowledge and my recent projects, I believe I would easily be able to acclimate to your projects and team.
+
+### FINAL - APPRECIATION/THANK YOU
+
 * Thank them for their time and reiterate your interest in the company/position.
 
 * Include a live link to your portfolio site.
@@ -106,7 +113,7 @@ Things to look out for:
 https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-software-engineers/
 
 
-## Phase 5: Review Your Letter For Common Pitfalls
+## Review Your Letter For Common Pitfalls
 - [ ] Your cover letter is one page or shorter.
 - [ ] Uses the same font as your Resume, and should be at least 11 point font.
 - [ ] Uses the same header as your Resume.
@@ -116,7 +123,7 @@ https://www.cybercoders.com/insights/top-5-resume-and-cover-letter-mistakes-for-
 - [ ] Doesn’t have typos or broken links.
 - [ ] Includes a company blurb that is specific to the company and doesn’t sound generic.
 
-## Phase 6: Emailing Like A Boss
+## Emailing Like A Boss
 Some companies don't provide exact instructions on how to apply. If that's the case and you're applying via email, include your cover letter and résumé as attachments and also paste your cover letter in the body of the email.
 * The subject line can be helpful to find your email in crowded inbox. "Junior Rails Engineer - New York" is more helpful than "Applying to CoolCompany, inc".
 * Set up a signature with your mail client. Include the link to your portfolio site.  You could try something like this:
@@ -125,7 +132,7 @@ Some companies don't provide exact instructions on how to apply. If that's the c
   markzuckerberg.com
   @finkd
 
-## Phase 7: Iterate
+## A BASE COVER LETTER TEMPLATE
 Once you have a strong template cover letter, the process of writing a new cover letter should be more efficient.  We recommend spending 10-15 minutes to tailor each cover letter.
 * Spend 5 minutes researching the company.
 * Spend 5-7 minutes drafting and editing a company blurb tailored to the company.

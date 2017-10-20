@@ -12,9 +12,6 @@
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
 
-#### Final Circle Time
-* Join your old circle to pass your wisdom and experience on to the next generation.
-
 
 ### Projects
 * [Flex Project][flex-project]

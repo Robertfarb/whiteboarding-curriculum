@@ -6,9 +6,10 @@
   * Upload your proposal to a github repo
   * Submit your proposal by pasting in your repo url under Flex Project in [Jobberwocky][Jobberwocky].
   * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
-*  **[Personal Pitch video][personal-pitch-video]** in Job Search Folder and Jobberwocky by 9am.
-    * Upload the video to your Job Search Google Drive
-    * Paste the link to Jobberwocky in your "Personal Pitch"
+* **Resume due on Jobberwocky by 9am.**
+  * Paste in your Google doc version where it says `Google Doc URL`.
+  * If you have a pretty version, paste it in as a 'To Do'.
+* **Cover Letter due on Jobberwocky by 9am.**
 * **Complete [LinkedIn profile][linkedin] by 9am**
   * Link to your LinkedIn on your resume.
 * Read about [Behavioral Questions][behavioral-questions].
@@ -44,7 +45,7 @@
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
-[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
+[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal2/README.md
 [flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md

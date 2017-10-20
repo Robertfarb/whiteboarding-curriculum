@@ -8,7 +8,7 @@
 
 * Roll call at 1:30pm
 * Quicksort project review
-* Architecture lecture with Ned!
+* [Pairboarding][pairboarding-index]
 * Binary Search Tree Video Lectures and Project
     * First watch the video: [Binary search tree][binary-search-trees-vid]
     * Then read through the [BST Reading][bst-reading]
@@ -26,7 +26,7 @@
 [HackerRank]: https://www.hackerrank.com/
 [codility]: https://codility.com/
 [Codility]: https://codility.com/
-[pairboarding-index]: ../technical-skills/whiteboarding/index.md
+[pairboarding-index]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d8
 <!-- Algorithms Projects & Lectures -->
 [binary-search-trees-vid]: https://vimeo.com/203204585
 [bst-reading]: ../algorithms/binary_search_trees/bst_reading.md

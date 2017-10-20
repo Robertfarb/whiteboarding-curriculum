@@ -11,7 +11,8 @@ The summary is one of the most important parts of your LinkedIn, especially as a
 As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
 **PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
-Title:  Right underneath the photo make sure your titles are up-to-date.  ## Remember, you are now a Software Developer.## 
+Title:  Right underneath the photo make sure your titles are up-to-date. A lot of folks use their App Academy photo in their LinkedIn profile, but you don't necessarily have to.  
+ **Remember, you are now a Software Developer.
   
 **SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
 
@@ -22,10 +23,6 @@ Title:  Right underneath the photo make sure your titles are up-to-date.  ## Rem
 "Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
 
 I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
-
----
-
-"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.  That is why, as a Software Developer, I took the time and have portfolio projects in Ruby, Rails, Javascript, CSS, HTML5 and React."
 
 ---
 
@@ -55,11 +52,7 @@ That wraps up the career and hobbies. I had a 10-year theatre career before I we
 I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
 
 Another note: you can include images in your summary.  Some folks include screenshots of their projects, which is a good way to showcase your work right off the bat.  
-
-#### Profile Picture  
-
-Use a picture that's friendly, but professional.  Don't use a photo in which you are drinking, partying, or dressed inappropriately (if you wouldn't show up to App Academy in the clothes you're wearing in the picture, find a different one).  A lot of folks use their App Academy photo in their LinkedIn profile, but you don't necessarily have to.  
-
+ 
 #### Projects  
 As an App Academy grad, the projects section of your LinkedIn is very important.  You can use the same bullet points that you use in your resume, but you have a little more flexibility on LinkedIn -- instead of limiting yourself to 3-4 projects, list everything substantial, polished, and complete that you've worked on.  You can (and should) include screenshots as well to show off your work, and you can be slightly more verbose when you're describing your project than you are in your resume.
 
@@ -75,6 +68,8 @@ As with your projects, you can be a bit more expansive with your previous experi
 As with your resume, include a brief summary of the position and 3-5 bullet points describing your responsibilities.  When possible, get endorsements on LinkedIn from coworkers and supervisors from the positions you include.
 
 Also, as with your resume, remember to that your bullets showcase what you have accomplished as well as specific numbers when possible...just like your resume.
+
+Please note that unless you are a paid staff person with App Academy, typically a/A is placed under Education
 
 #### Education
 
@@ -175,4 +170,4 @@ If you're new to LinkedIn, it may be worth spending an hour learning about the p
 
 ### Headshots
 
-To access your a/A headshots, visit the [portfolio](http://paulsimcock.zenfolio.com/appacademy). Password is `rubyonrails`.
+To access your a/A headshots, visit the [this google drive](https://drive.google.com/drive/u/0/folders/0B149bnBLalVlYlNFTW5raVJwVVE). 

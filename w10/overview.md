@@ -4,7 +4,7 @@
 * Afternoons are filled with lectures, group work, and workshops.
 * **There will lots of tasks competing for your time -- plan in advance!**
 * Expected time investment this week:
-  * [JS project][js-project]: 20-30 hours this week
+  * [JS project][js-project]: 20-30 hours this week ([Sample proposal](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/js-project/js-sample-proposal1.md))
   * [Resume][resume]: 5-10 hours (Monday & Tuesday afternoons, and additional edits throughout the week)
   * [Cover letter][cover-letter]: 2-4 hours this week (Wednesday afternoon, and additional edits throughout the week)
   * [Github cleanup][github]: 2-4 hours
@@ -28,7 +28,7 @@
   * [Day 6-7](./day6-7.md)
   <!-- LINKS -->
   <!-- Job Search Projects -->
-  [js-project]: ../projects/js-project/js-project.md
+  [js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
   [flex-project]: ../projects/flex-project/flex-project.md
   [resume]: ../application-materials/resume/resume.md
   [cover-letter]: ../application-materials/cover-letter/cover-letter.md

@@ -4,7 +4,7 @@
     * **Please have the [correct scorecard][project-scorecard]**
     * **The above scorecard has multiple tabs. Please use the same scorecard for your JS project as well.**
 * **Submit your JavaScript Proposal by 9am on Jobberwocky**
-  * Choose a [JavaScript Project][js-project].
+  * Choose a [JavaScript Project][js-project] ([Sample Proposal][js-sample-proposal])
   * Create your project repo.
   * Write your proposal ([sample proposal][js-sample-proposal]) as a README.md file in the project repo.
   * Submit your proposal by adding links to your repo in [Jobberwocky][Jobberwocky] and hitting "Queue for Review".
@@ -16,29 +16,31 @@
 
 ### Morning Off
 * Roll call and lecture at 1:30pm.
-* If you come in early, be respectful of the new cohort, sit in the Job Seeker area.
+* If you want to come in early and start your JS project, feel free to do so!
 
 ### Afternoon
 #### Lectures
 * **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 4+ weeks.
 * **Meet Your Coach!**
-* Followed immediately by **Resumes**.
 
-#### Resume Work Time Part 1
-* [Resume instructions][resume]
-* Coaches will be walking around to answer questions, and you must have your coach sign off on your resume before moving on to other projects.  Resumes are due by Weds at 9am.  Please make sure all links are accessible on Jobberwocky.
 
-### Projects
+
+### Projects and Assignments To Work on Tonight
 * [JavaScript Project][js-project]
-* [Resume][resume]
+* Prep for Personal Pitch workshop by reading through the [personal pitch][personal-pitch] reading.
+* Prep for the Online Presence lecture by reading through the following:
+  * [AngelList][angellist]
+  * [LinkedIn][linkedin]
+  * [Github][github]
+  * [Personal Portfolio][portfolio]
+  * [Google Analytics][google-analytics]
+  
+
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: ../projects/js-project/js-project.md
-[js-sample-proposal]: ../projects/js-project/js-sample-proposal.md
-
-[resume]: ../application-materials/resume/resume.md
-[text-only]: ../application-materials/resume/text-resume.md
+[js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
+[js-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/js-project/js-sample-proposal1.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
@@ -47,3 +49,11 @@
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 [project-scorecard]: https://docs.google.com/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit#gid=0
+
+[personal-pitch]: ../soft-skills/interviewing/personal-pitch.md
+
+[angellist]: https://github.com/appacademy/sf-job-search-curriculum/tree/master/application-materials/angellist
+[linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
+[github]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md
+[portfolio]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/portfolio/portfolio.md
+[google-analytics]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/google-analytics/google-analytics-sparknotes.md

@@ -21,13 +21,15 @@
 
 ### Afternoon
 
-* [Pair Boarding][pair-boarding-index] from `1:30 - 3:00`
+* [Pair Boarding][pair-boarding-index] from `1:00 - 2:30`
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
-* Dynamic Array Project will go live on Jobberwocky at 3pm today!
+* Dynamic Array Project will go live on Jobberwocky at 2:30pm today!
     * **First watch the videos above**
     * **Then, go through the [Dynamic Arrays Reading][dynamic-array-reading]**
     * **Finally, do the project (download from Progress Tracker Assessments section), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
+* Mentat Demo from `3:30 - 4pm` 
+* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md) Lecture and Workshop from `4 - 6pm`.
 
 ### Evening
 

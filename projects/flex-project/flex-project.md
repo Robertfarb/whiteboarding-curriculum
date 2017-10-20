@@ -2,9 +2,9 @@
 
 The Flex Project helps fills in the gaps in your skill presentation not covered by your Full-Stack Project or JavaScript Project. It is flexible because it is designed to show off your strongest skills and to complement the type of job you're looking for.
 
-For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed in certain situations). Although, you will only have a few days to complete it, alongside attending lectures, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
+For the flex project, you are required to work in a group of either 2 or 3 people (4 people are allowed, but not recommended, and the expectations for the final product will be higher for 4-people groups). Although you will only have a few days to complete it, alongside attending lectures, this project will be larger in scale than the JavaScript project. Choose a project that requires sufficient skill to impress potential employers. Remember--you can always choose to continue adding features during your job search, but what you turn in needs to be a complete MVP.
 
-The key goal of the flex project is to help differentiate you from other bootcamp grads. With that said, here are a couple of directions you can choose to go with the flex project:
+The key goal of the flex project is to help differentiate you from other bootcamp grads, as well as from other App Academy students. With that said, here are a couple of directions you can choose to go with the flex project:
 
 1. Build a project that adds to your tech stack:
   * [Pixpy Pics](http://www.pixpy.tech/)
@@ -21,10 +21,23 @@ The key goal of the flex project is to help differentiate you from other bootcam
 3. Make something that leverages a cool library or works with different APIs
   * [Cerebellum](https://mvelk.github.io/cerebellum/)
   * [Uber on Slack](https://uberonslack.com/)
+  
+## Flex Project Pre-Proposal
+Because the flex project is the first group project and also by far the largest-scale project students build while at App Academy, it is extremely important for you to invest heavily in the early planning stages. 
+
+Historically, there's a pretty strong correlation between how well-developed the project proposal is and how well the projects turn out. In addition, students that don't actually sufficiently plan out the flex project often times don't meet the flex project deadline, which can really hurt the start of your job search. Becuase of this trend, we'll be trying something new for this cohort. On Friday afternoon, we'll be dedicating the entire afternoon for you to start working on your **Flex Project Pre-Proposal**. 
+
+Basically, on W10D5, you will spend 1:30 - 4:30pm working on on your pre-proposal. Your pre-proposal should contain:
+* A general idea of what you are trying to build, along with the core functionalities/features of your application.
+* Technologies that you'll be using.
+* A few backup ideas (no need to put too much time into this, unless you really don't like you first choice).
+* A detailed plan of how you will spend your weekend laying the ground work for your flex project. 
+
+At 4:30pm, each group will have about 10 minutes to chat with coaches and TAs about their pre-proposal. During this time, they'll receive feedback about their project as well as how they should be spending their time over the weekend. 
 
 ## Flex Project Proposal
   * Due W11D1 at 9am
-  * Similar to other projects, proposal will be written in a repo
+  * Similar to your JavaScript project, the proposal will be written as a `README.md` in a repo.
     * **Only one repo needed per team**
   * Submit on Jobberwocky, even though only one repo needed, **every team member still needs to submit on Jobberwocky.**
     * Please share **only one** [flex scorecard](https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing) amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
@@ -40,7 +53,7 @@ The key goal of the flex project is to help differentiate you from other bootcam
     * **Plan for getting users and reviews** (if your app is a downloadable app)
   * Check out some sample proposals
     * [Sample Proposal for that implements Machine Learning and uses Django](./flex-sample-proposal2/README.md)
-    * [Sample Proposal for Chrome Extension](flex-sample-proposal.md).
+    * [Sample Proposal for a React Native App](https://github.com/JaredTan/Woven/tree/master/docs).
 
 
 ## Project Requirements

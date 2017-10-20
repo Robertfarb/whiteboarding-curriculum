@@ -17,14 +17,16 @@
 ### Afternoon
 
 * Dynamic Arrays Project Review (1:30 - 3:00)
-* Mock interview practice (see the [pairboarding index][pair-boarding-index] for questions)
+* [Pairboarding][pair-boarding-index]
 * HashMap/LRU Cache Video Lectures & Project
     * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
+
+### Evening
+* Come get valuable advice from one of our recent alum, Sweta, from 7 - 9pm. Sweta is currently a software engineer at Munchery! (Optional, but highly recommended) 
 
 ### Bonus
 
 * Get started on the Arrays chapter of [Elements of Programming Interviews][elements-book]
-* Read [Ronnie's tips][ronnie-tips] on the job search
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky

@@ -75,18 +75,18 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 
 ## Application Materials
 ### Resume
-* [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9am)
+* [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9:00am)
 
 [resume]: application-materials/resume/resume.md
 
 ### Cover Letter
-* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9am)
+* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9:00am)
 * [A Hiring Manager's Thoughts on Cover Letters](https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej)
 * [Samorn's Lecture on Cover Letters](https://vimeo.com/182749397/30c2efb921)
   * Password is `go_video_go`
 
 ### Building your Online Presence: LinkedIn/Github/AngelList/Google Analytics
-* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W11D1, 9am)
+* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W11D1, 9:00am)
   * [Headshots](http://paulsimcock.zenfolio.com/appacademy)
     * Password is `rubyonrails`
 * [Utilizing your LinkedIn to its Full Potential Lecture](https://vimeo.com/189053139)
@@ -94,6 +94,11 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * [Curating your GitHub](application-materials/github/github.md) (Optional, but highly recommended)
 * [AngelList](application-materials/angellist/angellist.md) (Optional, but highly recommended)
 * [Portfolio Site](application-materials/portfolio/portfolio.md) (Optional, but highly recommended)
+
+### Networking
+* [Best Networking Practices](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
+* [Networking Video Tips](https://www.youtube.com/watch?v=r-_iC4DUDCU&t=7s)
+* READING [Networking For People Who Hate Networking](http://myfirstcoachingclient.com/wp-content/uploads/2014/11/Networking-for-People-Who-Hate-Devora-Zack_552.pdf)
 
 ## Algorithms Projects
 
@@ -136,6 +141,8 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 ## I'm ready to apply! Let's go!
 
 ### Applying to Jobs
+  * [The Mentat](https://thementat.com/)
+  * [Mentat How To Use Video](https://www.youtube.com/watch?v=WlcLQqmGQmI)
   * [Job Boards](applying/job-boards.md)
   * Practice with [interviewing.io](https://interviewing.io/)
   * [Bay Area Tech Companies][bay-tech-companies]

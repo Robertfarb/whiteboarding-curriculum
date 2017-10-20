@@ -52,18 +52,19 @@ You __must__ submit your Resume for review as a Google Doc or Slide. You may use
 a fancier layout if you like, but you must still submit a plain-text Google Doc to us through Jobberwocky
 for review. Just include a link to the formatted PDF.
 
-Stick to one page and use lots of whitespace with 1-inch margins on left and right.
+Stick to one page for your FANCY resume.  Margins on the FANCY can be no lower than .5
+For FONTS:
+   Fancy:  Good "google" accepted fonts no smaller than 9-10 pt.
+   ATS:  Arial, Garamond, Times New Roman 10-11 pt font.
 
-No font sizes smaller than 11pt.
-
-No fancy fonts or colors. Stick with an easy-to-read sans-serif font. Google has many to choose from.
+## Create you FANCY resume first, then take the content into the ATS formatting.  Please make sure to submit both copies for your coach review and feedback.
 
 #### Order
 
 As a general guide:
 
-1. Projects
-2. Skills
+1. Skills
+2. Projects
 3. Education
 4. Work History
 
@@ -71,9 +72,9 @@ This is flexible. **If you have professional software experience (i.e. you were 
 
 #### Include these links:
 
-* Github
-* Portfolio Site
-* LinkedIn
+* Github (at top)
+* Portfolio Site (at top)
+* LinkedIn (at top)
 * Projects:
     * Link to live site
     * Link to Github Repo
@@ -113,13 +114,15 @@ before implementing it, you were solving a problem.
 
 * Avoid extremely language or framework-specific bullets, they are incomprehensible unless the reader knows Rails.
    - Example: "Overwrites attr_writer on User#password"
+   
+* Remember, that many resumes will go through an ATS so you will want to make sure your content has searchable words that might be on a job description
 
 * **DO NOT** just enumerate features in your bullet points!
     - Example: "Allows Users to login / logout", "Uploads photos"
 
 ### Communicate as an Engineer
 
-A good resume item does *not* read like a feature list on a product's website. Always write at a higher-level about what engineering solutions you implemented. Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
+A good resume item does *not* read like a feature list on a product's website. **Always write at a higher-level about what engineering solutions you implemented.** Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
 
 ### Keywords are King
 
@@ -254,11 +257,15 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 **N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
 
 * Layout
-  0. Fits on 1 page?
-  0. 1-inch margins on left and right?
+  Fancy resume fits on 1 page?
+  0. 1/2 to 1-inch margins on left and right?
   0. Margins and formatting are consistent and organized?
-  0. All text >= 11pt?
+  0. All text point sizes are consistent
   0. Uses a nicer font than defaults?
+  
+  ATS Resume formatting is correct
+  0. No lines, tables, italics
+  0. Simple basic fonts at 10pt
 
 * Projects
   0. Do you list three or four coding projects, including your Full Stack Project, JavaScript project, and Code Intensive?
@@ -271,13 +278,16 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Do you provide benchmarks for your own or your teams success?
   0. Do you emphasize technical or programmatic aspects of your work history?
 
-* Misc
+* Misc 
   0. Do your bullets follow the formula: Accomplished [X] as measured by [Y] by doing [Z]?
   0. Do you provide a skills list of the technologies you are familiar with?
   0. Do you provide contact information and link to your Github and LinkedIn?
   0. Does your contact information make it clear you are currently in the metro area? (Use a/A office address if this is not the case)
   0. Is it a Google Doc where you have granted edit access for your career coach?
   0. Have you eliminated or minimized any timeline gaps in your resume?
+  
+### THE MENTAT--PLEASE SIGN UP 
+  www.thementat.com is a company App Academy partners with to provide our students with the ability to enhance their online job search.  Using this services allows students to reach out directly to recruiters as well as the ability to network directly with people at companies they apply.  Following is a complete video on how to use the system. https://www.youtube.com/watch?v=WlcLQqmGQmI
 
 [drive-templates]: https://drive.google.com/drive/folders/0B3noREts_wUyMFZHWVhvcUUtU1E?usp=sharing
 [example-resumes]: examples/exemplary-resumes.md

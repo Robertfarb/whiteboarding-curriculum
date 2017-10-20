@@ -25,6 +25,8 @@ __What was the impact or benefit?__: Improved team morale and collaboration.
 
 __Result__: "Founded and managed company softball team, resulting in improved morale and communication."
 
+## TECHNICAL SKILLS IMPORTANT NOTE:  When writing try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
+
 ## Example 2 (Technical)
 __Skill to Demonstrate__: Scaling an App
 
@@ -49,26 +51,35 @@ __Result__: "Integrates Google Maps API with geolocation based searching to disp
 
 
 ### To help get you brainstorming:
+ 
+Did you find some clever way to DRY up your code?
+Did you bootstrap some data to avoid extraneous AJAX requests?
+Did you make some tough choices in your database schema?
+Did you use cookies to store anything other than a session token?
+Does your Javascript use any math to resize something in the DOM?
+Did you use a library in a way that its author probably didn't anticipate?
+Do you have any data that's nested one degree deeper than usual?
+Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)
+Do your ActiveRecord models run any custom SQL queries?
+Did you make any trade-offs related to performance, eg. store information that's costly to compute?
+Are you doing any caching?
+Do you make AJAX requests to any unexpected routes?
+Did you write a custom CompositeView class with a recursive #remove method?
+Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
+Do your chess pieces inherit from a Slideable and Steppable class?
 
-* Did you find some clever way to DRY up your code?
-* Did you bootstrap some data to avoid extraneous AJAX requests?
-* Did you make some tough choices in your database schema?
-* Did you use cookies to store anything other than a session token?
-* Does your JavaScript use any math to resize something in the DOM?
-* Did you use a library in a way that its author probably didn't anticipate?
-* Did you write any custom SQL queries to optimize performance?
-* Did you make any trade-offs related to performance, eg. store information that's costly to compute?
-* Are you doing any caching?
 
 When answering these questions, the key is to point out features you built that went **above and beyond the basic requirements**.
 
 ### Example bullet points:
 
-* Achieves better performance by leveraging Cloudinary to cache different sizes of images.
-* Uses observer pattern to handle management of global Z-indexes for overlapping items.
-* Lowers latency of DB read/write by factor of 7 by using Unicorn to enable virtual multi-threaded processing.
-* Utilizes Redis key-value storage to cache bearer tokens from Uber and Slack, allowing for O(1) lookup.
-* Generates dynamic gameplay in HTML5 canvas element by utilizing vector math for game state updates.
-* Parses XML Bart API responses to obtain departure/arrival information and give real-time advisories per query.
+* Integrated Google Maps API by retrieving coordinates rom PostgressSQL database and presented the locations of the business on Google Maps
+* Utilized Flux architecture's unidirectional data flow with React for reliablle DOM rendering
+* Used observer pattern to handle management of global Z-indexes for overlapping items.
+* Implemented the Ignite framework which employs popular react packages including redux sauce, redux sagas, react native router flux, and react native swiper
+* Lowered latency of DB read/write by factor of 7 by using Unicorn to enable virtual multi-threaded processing.
+* Used xcode in conjunction with React Native library to hook into mobile device cameras and geolocation
+* Designed dynamic data-visualizations with Javascript algorithms based on user input
+
 
 [keywords]: resume-keywords.md

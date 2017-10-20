@@ -1,51 +1,45 @@
 ## W10D3
-### Homework
-* Work on JavaScript Project.
-* Work on Resume and Cover Letter: Due tomorrow morning at 9am.
-* Read about online presence:
-  * [Linkedin][linkedin]
-  * [Github][github]
-    * [Readmes][readme]
-    * [Github history][github-history]
-  * [AngelList][angellist]
-  * [Personal portfolio site][portfolio]
-  * [Setting Up Analytics][analytics]
-  * Onine presence materials due Monday 9am (W11D1)
+### Homework Due Today
+* Continue working on [JavaScript Project][js-project]
+* Personal Pitch video due on Jobberwocky at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
+* Prep for Resume Lecture by reading through [resume reading][resume]
+* Get ready for your first [peer review][peer-review]
+* Prep for [flex project introduction][flex-project]
 
 ### Afternoon
 
 #### Lecture
-* Online Presence Lecture 
+* [Resume][resume] Lecture
 
 #### Work Time
-* JS Project, Resume, and Cover Letter
+* [Resumes][resume]
 
 #### Peer Reviews
-* [Peer reviews][peer-review-instructions] at 4:30pm.
+* [Peer reviews][peer-review] at 4:30pm.
 
 #### Flex Project Introduction (5:30pm lecture)
 * Get introduced to the [Flex Project][flex-project].
 
-### Projects
+### Projects and Assignments to Work On Tonight
 * [JavaScript Project][js-project]
-* [Cover letter][cover-letter]
-* Bonus: [portfolio site][portfolio]
+* Prep for [Cover letter][cover-letter] lecture tomorrow
+* Start thinking about your [flex project][flex-project].
+* Work on [resumes][resume] (due W11D1 at 9am)
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
-[js-project]: ../projects/js-project/js-project.md
+[js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
 [flex-project]: ../projects/flex-project/flex-project.md
-[cover-letter]: ../application-materials/cover-letter/cover-letter.md
-[portfolio]: ../application-materials/portfolio/portfolio.md
-[peer-review-instructions]: ../meta/app-academy/peer-reviews.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 
-<!-- Online Presence -->
-[linkedin]: ../application-materials/linkedin/linkedin.md
-[github]: ../application-materials/github/github.md
-[readme]: ../projects/example-readmes.md
-[github-history]: https://github.com/appacademy/curriculum/blob/9f6dfc224cd16702269e9179420062ded86116d8/ruby/readings/git-fix-authorship.md
-[angellist]: ../application-materials/angellist/angellist.md
-[analytics]: ../projects/google-analytics/google-analytics-sparknotes.md
+[personal-pitch-video]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/meta/app-academy/uploading-personal-pitch-video.md
+
+[resume]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/resume.md
+[peer-review]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/meta/app-academy/peer-reviews.md
+[flex-project]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-project.md
+
+[cover-letter]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/cover-letter/cover-letter.md
+
+
