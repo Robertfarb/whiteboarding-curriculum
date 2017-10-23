@@ -16,7 +16,7 @@
 * Optional Lecture on Personal Finance from 1:30 - 2:30pm
 * Roll call at 2:30pm
 * Solution review: Graphs and Topo Sort
-* [Mock Interviews][pair-boarding-index]
+* [Pair Boarding][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
 
 <!-- LINKS -->
