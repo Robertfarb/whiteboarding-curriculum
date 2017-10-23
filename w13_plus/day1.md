@@ -16,7 +16,7 @@
 
 * Roll call at 1:30pm as usual
 * Solution review: BST
-* [Mock Interviews][pair-boarding-index]
+* [Pair Boarding][pair-boarding-index]
 * Graphs and Topological Sort Video:
   * [Graphs][graphs-vid]
   * [Topological Sort][topological-vid]
