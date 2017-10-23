@@ -1,15 +1,16 @@
 ## W13D5
 ### Homework & Daily Tasks
 
-* None
+* Continue sending out applications and fixing up application materials
 
 ### Morning
 
-* No roll call today! 
+* [Pair Boarding][pair-boarding-index]
 
 ### Afternoon
-* No roll call today!
+* Coding Challenge Workshop
+* Building Out Your Daily Schedule Workshop
 
 
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
-[pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d13
+[pair-boarding-index]: ../technical-skills/whiteboarding/index.md
