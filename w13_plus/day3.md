@@ -14,8 +14,8 @@
 ### Afternoon
 
 * Roll call at 1:30pm
-* Solution review: DP 1
-* [Mock Interviews][pair-boarding-index]
+* Solution review: Dynamic Programming
+* [Pair Boarding][pair-boarding-index]
 * Application Materials Work Time
 
 <!-- LINKS -->
