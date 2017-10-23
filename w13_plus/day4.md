@@ -2,17 +2,18 @@
 ### Homework & Daily Tasks
 
 * Continue applying to companies!  40 application quota begins this week.
-* Continue to think about what your next project will be & who you will work with.
 
 ### Morning
 
 * Roll call at 10am.
-* [Mock Interviews][pair-boarding-index]
+* Application Material Work Time
+
 
 ### Afternoon
 
 * Roll call at 1:30pm
-* Algorithms and Data Structures Wrap Up
+* Frontend Testing Workshop
+* [Pair Boarding][pair-boarding-index]
 
 <!-- LINKS -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
