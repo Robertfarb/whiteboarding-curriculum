@@ -16,7 +16,7 @@ To start, we'll generate a basic rails app.
 
 ![new rails app](./readme_assets/create-rails-app.png)
 
-Then we will add the gems we need: google-api-client (for communicating with Google) and figaro (for securing our API keys). Be sure to run `bundle install`!
+Then we will add the gems we need: google-api-client (for communicating with Google) and figaro (for securing our API keys). This tutorial was written for google-api-client `~> 0.10.0`. Be sure to run `bundle install`!
 
 ![figaro and google gems](./readme_assets/add-gems.png)
 
@@ -127,7 +127,7 @@ The typical Google OAuth2 flow goes as follows:
 8. Once we have all of the information we need, we create or update the user in our database, storing their `access_token` and `refresh_token` along with any other information we need.
 9. Our app can now make requests to Google's server on behalf of the user.
 
-In our AuthController, let's start by setting up the request to obtain the access code.
+In our `AuthController`, let's start by setting up the request to obtain the access code.
 
 Because we will want to manage a user's calendar and name in the future, we need to add the correct scopes. Let's require the `calendar_v3` module.
 
@@ -135,9 +135,9 @@ Because we will want to manage a user's calendar and name in the future, we need
 require 'google/apis/calendar_v3'
 ```
 
-All we need to do is call `#setup_client`, update the scope, use the @client to generate the right URI, and redirect the user to that URI.
+All we need to do is call `#setup_client`, update the scope, use the `@client` to generate the right URI, and redirect the user to that URI. We will need the `profile`, `email`, and `calendar` scopes in order to obtain the appropriate permissions for users.
 
-![](./readme_assets/auth-fetch-code.png)
+![](./readme_assets/scope.png)
 
 ---
 
