@@ -1,5 +1,6 @@
 ## W13D5
 ### Homework & Daily Tasks
+* Review [frontend testing solutions](./bench_bnb_jest.zip)
 
 * Continue sending out applications and fixing up application materials
 
