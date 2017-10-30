@@ -10,7 +10,7 @@
   * Creates a User object from data obtained from Google
   * Does not use an ORM, raw SQL
 
-## [React Native with ActiveRecord Rails API](./action-cable-rn/README.md)
+## [React Native with ActionCable Rails API](./action-cable-rn/README.md)
   * Rails API mode on the backend
   * WebSockets using ActionCable
   * React Native frontend
