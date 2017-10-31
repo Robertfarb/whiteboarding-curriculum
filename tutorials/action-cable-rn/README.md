@@ -44,7 +44,7 @@ Let's go ahead and create a controller and some routes that will allow us to bro
 rails g controller messages
 ```
 
-In `app/controllers/messages` we will set up a simple method that will take a message from a post request and send that message to all subscibers who are listening to the `test_room_channel`.
+In `app/controllers/messages` we will set up a simple method that will take a message from a post request and send that message to all subscribers who are listening to the `test_room_channel`.
 
 ```ruby
 class MessagesController < ApplicationController
