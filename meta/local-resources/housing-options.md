@@ -12,16 +12,6 @@ Zeus provides furnished (and curated) housing close to App Academy HQ. Zeus apar
 
 If you are interested, please email      [hello@zeusliving.com](mailto:hello@zeusliving.com) or call 650.817.7343. Just mention that you are with App Academy.  Also, please note ZeusLiving has other properties that are always being added that may not be shown on our website.
 
-## <a href="http://accommodation.startupbed.com/" title="StartupBed">StartupBed</a>
-StartupBed is focused on dedicated co-living and co-working environments.
-
-The first floor is co-working, shared desks while the second floor has 60 beds broken down into 14 beds for women and 46 beds for men. These beds are in a hostel setup with bunk beds and separators for slight privacy. StartupHouse caters to international startups, tech interns, etc.
-
-StartupBed availability is wide open from October to December. Amenities include free and fast wifi, workspace, utilities, water, and free laundry. Students can extend up to one month after the program in case they need additional housing.
-
-### Estimated costs
-The cost is $1,200 per month for housing. With a 10% discount for App Academy students, it comes out to $1,080.
-
 ## <a href="http://hacknsleep.com/" title="Hack'n'Sleep">Hack'n'Sleep</a>
 Hack'n'Sleep has 3 newly remodeled coliving houses located in San Francisco.
 
