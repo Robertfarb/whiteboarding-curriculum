@@ -33,7 +33,7 @@ end
 
 ```
 
-### CSS (3 mins)
+### CSS (3 + 12 mins)
 
 Given some HTML,
 ```HTML
@@ -51,3 +51,5 @@ How would you select the last element?
 ### Solution
 
 div + div (sibling selector)
+
+Are there other ways? Do some extra research together!

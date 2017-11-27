@@ -20,7 +20,7 @@ def maxChocolates(arr)
 end
 ```
 
-### HTML5
+### HTML5 (3 + 12 mins)
 
 what is unique about html5?
 
@@ -32,4 +32,4 @@ Webworker that offloads expensive work
 
 video and audio support
 
-cleaner code !
+More?? Do some research together!
