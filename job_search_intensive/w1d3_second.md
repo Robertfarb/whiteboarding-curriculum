@@ -3,10 +3,19 @@
 
 ### Rocks and Water (40 mins)
 
-Given:  a string of stars (rocks) and tildas (water).... **~~*~*~~*~***~~~*
+Given:  a string of stars (rocks) and tildas (water)....
+
+ \*\*\~\~\*\~\*\~\~\*\~\*\*\*\~\~\~\*
+
 Given: You start at index 0 and your speed is 0.
+
 Given:  At each step you can only do one of three things: speed += 0; speed += 1, speed -=1
          ...e.g. if your speed = 2, you will advance 2 indices on the string.
+
+```ruby
+ rocks_and_water('**~*~*~~*~***~~*') ==> true
+ rocks_and_water('**~~~*~*~~*~***~~*') ==> false
+```
 
 ### Solution
 

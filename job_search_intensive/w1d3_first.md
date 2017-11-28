@@ -37,5 +37,5 @@ def speak_n_say(num)
 end
 ```
 
-### React Fast (5 mins)
-What makes React fast compared to other front ends?
+### React Fast (5 + 5 mins)
+What makes React fast compared to other front ends? Research and expand your response!
