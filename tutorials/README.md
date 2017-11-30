@@ -13,4 +13,8 @@
 ## [React Native with ActionCable Rails API](./action-cable-rn/README.md)
   * Rails API mode on the backend
   * WebSockets using ActionCable
-  * React Native frontend
+  * React Native frontend 
+  
+## Django Tutorials
+  * [Combine React Frontend with Django back-end using Webpack](https://github.com/Adrianjewell91/madscience-django-react-webpack)
+  * [A Commentary on Useful Tutorials for Getting Up To Speed With Django](https://github.com/Adrianjewell91/how-to-build-tl-overflow)
