@@ -11,16 +11,16 @@ Explain the Lifecycle methods in React
 Given an integer as input, write a function that will draw (print out on the command line) a spiral starting with that integer length of each side, spiraling inward with space of one character between all walls.
 
 Example: input 6 looks like this
-
+```
 ||||||
      |
 |||| |
 |  | |
 |    |
 ||||||
-
+```
 Example: input 8 looks like this
-
+```
 ||||||||
        |
 |||||| |
@@ -29,9 +29,9 @@ Example: input 8 looks like this
 | |||| |
 |      |
 ||||||||
-
+```
 Example: input 12 looks like this
-
+```
 ||||||||||||
            |
 |||||||||| |
@@ -44,7 +44,7 @@ Example: input 12 looks like this
 | |||||||| |
 |          |
 ||||||||||||
-
+```
 
 ### Solution
 Make a matrix and populate it appropriately ;) Or develop an algorithm. What do you notice about rows 0-3 in the three examples? Can you start to generalize a pattern? Brainstorm with your interviewee
