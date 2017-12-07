@@ -30,19 +30,16 @@ testFunc(true);
 
 9) What happens if I change var a = 4; to const a = 4; ?"
 
-### Store a Tree (40 mins)
+### Store a Tree (90 mins)
 Store an poly-ary tree using sql such that I can find all the children of a given node with A SINGLE QUERY!
 
-Design your schema and write a controller action for storing new nodes in Rails.
+Start a Rails project, design and migrate your schema and write routes and a controller action for storing new nodes and accessing lists of children in Rails.
 
 Note: the result is a list of children nodes, not a subtree.
 
 What if we wanted to insert a node in between a node and its parent? How would your code handle this?
 
 
-### Popular times to eat (35 mins)
-Given a series of LogRecords, how could we figure out the hour where there were the most people at a restaurant? Each LogRecord has 1) the number of people in a group who came to eat, 2) The time they came in, 3) the time they left
 
-Write your code in ActiveRecord!
 
 **Zip up your work and email to amaciver@appacademy.io**
