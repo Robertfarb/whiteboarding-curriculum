@@ -2,10 +2,10 @@
 
 ## Partner B Interviews Partner A
 
-### Cirlce of Life (10 mins)
+### Circle of Life (10 mins)
 Explain the Lifecycle methods in React
 
-[Lifecylce methods] (https://reactjs.org/docs/react-component.html)
+[Lifecycle methods] (https://reactjs.org/docs/react-component.html)
 
 ### Spiralize (40 mins)
 Given an integer as input, write a function that will draw (print out on the command line) a spiral starting with that integer length of each side, spiraling inward with space of one character between all walls.
