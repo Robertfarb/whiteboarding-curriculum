@@ -73,6 +73,6 @@ highlight={this.state.highlight}>
 {this.state.buttonText}
 </Btn>
 ```
-[Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
-[Imperative and (Functional) Declarative JS In Practice](http://www.redotheweb.com/2015/09/18/declarative-imperative-js.html)
-[Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+* [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+* [Imperative and (Functional) Declarative JS In Practice](http://www.redotheweb.com/2015/09/18/declarative-imperative-js.html)
+* [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)

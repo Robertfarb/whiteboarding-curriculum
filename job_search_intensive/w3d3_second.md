@@ -32,8 +32,8 @@ end
 What is HTTP and how does it work? What are HTTP Headers, what are they for, and give some examples of their usage? What is CORS and how is it used?
 
 ### Solution
-[List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
-[HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+* [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 
-[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-[Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+* [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* [Cross-origin resource sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
