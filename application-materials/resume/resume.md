@@ -46,7 +46,7 @@ This is a pretty typical scenario. Build your resume to grab a recruiter's atten
 
 ### General Guidelines
 
-Use the example resumes above as guides for formatting, or [customize one of our templates.][drive-templates]  
+Use the example resumes above as guides for formatting, or [customize one of our templates.][drive-templates]  [https://drive.google.com/open?id=186b8YXBheO45d4rSseYhxU4YyPzSricl]
 
 You __must__ submit your Resume for review as a Google Doc or Slide. You may use a different program to build
 a fancier layout if you like, but you must still submit a plain-text Google Doc to us through Jobberwocky
