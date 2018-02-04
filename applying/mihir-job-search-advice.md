@@ -54,7 +54,7 @@ Read engineering blogs:
   * http://highscalability.com/blog/2014/11/24/a-flock-of-tasty-sources-on-how-to-start-learning-high-scala.html
 Do Mock interviews, both technical phone screen mocks and whiteboarding mocks. Do soft skills mocks as well(Product based interview questions)
 
-###3. Figuring out which companies to apply to
+### 3. Figuring out which companies to apply to
 
 - Here are some sources that helped me see which helped me identify which companies to watch out for:
 
@@ -87,7 +87,7 @@ If no API,
 
 Every interviewer will be impressed by this. It will put a lot of work on your plate though so be ready for that!
 
-###6. Take home challenges
+### 6. Take home challenges
 
 * The company will usually ask you when to send it. Ask for it on a Thursday or a Friday. Then, you can use the weekend to complete it too. They will not ask for it back on a Saturday or Sunday, Monday morning is the usual answer.
 * Make sure to allocate more hours on this than they suggest, it shows that you are really interested
@@ -100,7 +100,7 @@ Every interviewer will be impressed by this. It will put a lot of work on your p
 
 Here's my take home challenge for Cloudflare: https://github.com/mihirjham/certificates-rest-api
 
-###7. Researching a company
+### 7. Researching a company
 
 * Company website
 * Crunchbase
@@ -110,7 +110,7 @@ Here's my take home challenge for Cloudflare: https://github.com/mihirjham/certi
 * Read their blog(IMPORTANT)
 * https://mitmproxy.org/ => To better understand some of the API structures and analyze how they are handling requests.
 
-###8. Onsite
+### 8. Onsite
 
 * One day before the onsite, don't do anymore problems from Cracking the coding interview. Just research the company. Don't psych yourself out.
 * Enjoy the interview, show that you are interested by asking good questions.
