@@ -14,7 +14,7 @@ keywords to tell the story.
 
 Compile a list of the skills you want to demonstrate, then craft your bullets around them.
 
-## Example 1 (Non technical)
+### Example 1 (Non technical)
 __Skill to Demonstrate__: Leadership
 
 __What did I do?__: Founded company softball team
@@ -25,10 +25,42 @@ __What was the impact or benefit?__: Improved team morale and collaboration.
 
 __Result__: "Founded and managed company softball team, resulting in improved morale and communication."
 
+**Software related skills**
+* Anything you coded.  Even if it was brief or unfinished or unofficial
+* Quantitative analysis / handling data
+* Improvements to a website 
+
+**Recognition**
+* Published something
+* Gave a talk
+* Won an award
+* Given a new responsibility or job title
+
+**Interpersonal skills**
+* Were part of a team
+* Handled heavy volume of customer...
+* Mentored someone
+* Made clients happy
+* Made coworkers happy
+* Attracted customers
+* Negotiated something
+
+**Output**
+* Made something faster or better
+* Reduced number of errors
+* Took initiative to do something
+* Delivered project on time
+
+**Money**
+* Made or saved money
+* Handled lots of money (or widgets worth a lot of money)
+* Delivered project within budget
+
+
+### Example 2 (Technical)
 
 ## TECHNICAL SKILLS IMPORTANT NOTE:  When writing try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
 
-## Example 2 (Technical)
 __Skill to Demonstrate__: Scaling an App
 
 __What did I do?__: Stored images in the cloud.
