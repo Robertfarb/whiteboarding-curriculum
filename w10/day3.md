@@ -24,7 +24,7 @@
 * [JavaScript Project][js-project]
 * Prep for [Cover letter][cover-letter] lecture tomorrow
 * Start thinking about your [flex project][flex-project].
-* Work on [resumes][resume] (due W11D1 at 9am)
+* Work on [resumes][resume] (due TOMORROW at 9am)
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
