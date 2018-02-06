@@ -25,23 +25,6 @@ __What was the impact or benefit?__: Improved team morale and collaboration.
 
 __Result__: "Founded and managed company softball team, resulting in improved morale and communication."
 
-***Get brainstorming!***    
-Did you find some clever way to DRY up your code?
-Did you bootstrap some data to avoid extraneous AJAX requests?
-Did you make some tough choices in your database schema?
-Did you use cookies to store anything other than a session token?
-Does your Javascript use any math to resize something in the DOM?
-Did you use a library in a way that its author probably didn't anticipate?
-Do you have any data that's nested one degree deeper than usual?
-Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)
-Do your ActiveRecord models run any custom SQL queries?
-Did you make any trade-offs related to performance, eg. store information that's costly to compute?
-Are you doing any caching?
-Do you make AJAX requests to any unexpected routes?
-Did you write a custom CompositeView class with a recursive #remove method?
-Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
-Do your chess pieces inherit from a Slideable and Steppable class?
-
 
 ## TECHNICAL SKILLS IMPORTANT NOTE:  When writing try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
 
@@ -98,6 +81,26 @@ When answering these questions, the key is to point out features you built that 
 * Lowered latency of DB read/write by factor of 7 by using Unicorn to enable virtual multi-threaded processing.
 * Used xcode in conjunction with React Native library to hook into mobile device cameras and geolocation
 * Designed dynamic data-visualizations with Javascript algorithms based on user input
+* Created custom modal framework using React parent component, allowing for efficient development of new forms.
+*Created top-level music player using HTML5 audio and React, giving the user seamless audio streaming during navigation.
+* Leveraged custom event listeners and the Redux cycle to dynamically sync audio waveforms and play-pause toggle buttons with music player.
+* Utilized CSS media queries to create a fully responsive, device agnostic design. 
+* Configured the Node backend with PostgreSQL, using the Sequelize ORM for validations and database queries.
+* Structured Express app to follow the MVC framework and engineered JSON REST API for CRUD operations.
+* Implemented local strategy for user authentication with Passport.js, using BCrypt for password hashing.
+* Generated intelligent, movement-based animation using asynchronous Javascript.
+*Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
+*Utilized HTML Image Maps to allow users to click directly on an item in a photograph.
+* Recorded user activity using React Router and browser history to create a seamless user
+experience during authentication process.
+*Implemented user authentication to persist a user's cart to subsequent sessions.
+* Queried database and filtered results using jBuilder to allow users to search by product
+keywords.
+* Designed intuitive, device-agnostic UI using Adobe Xd to meet Progressive Web
+App (PWA) standards.
+* Hand-rolled responsive calendar using pure CSS to display logged infusions.
+* Implemented user authentication using Passport.JS to persist user information to
+subsequent sessions.
 
 
 [keywords]: resume-keywords.md
