@@ -56,7 +56,7 @@ For FONTS:
    Fancy:  Good "google" accepted fonts no smaller than 9-10 pt.
    ATS:  Arial, Garamond, Times New Roman 10-11 pt font.
 
-## Create you FANCY resume first, then take the content into the ATS formatting.  Please make sure to submit both copies for your coach review and feedback.
+## Create your resume with one of our formatted templates.  Make sure to have a plain text document for yourself.
 
 #### Order
 
@@ -121,7 +121,7 @@ before implementing it, you were solving a problem.
 
 ### Communicate as an Engineer
 
-A good resume item does *not* read like a feature list on a product's website. **Always write at a higher-level about what engineering solutions you implemented.** Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
+A good resume item does *not* read like a feature list on a product's website. **Always write at a higher-level about what engineering solutions and features YOU implemented.** Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
 
 ### Keywords are King
 
