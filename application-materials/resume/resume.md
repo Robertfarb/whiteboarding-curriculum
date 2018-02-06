@@ -1,9 +1,8 @@
 # Crafting Your Resume
 
 ## Finished Product
-Here are some templates to give you an idea of what the finished product should look like:
-* [ATS Version][ats-resume]
-* [Etsy Versions][etsy-resume]
+For your initial resume, please use one of the templates from our library.  Please copy and create your own resume from the link below:
+* [online resume templates](https://drive.google.com/open?id=186b8YXBheO45d4rSseYhxU4YyPzSricl)
 
 At the end, to see how your resume is being parsed by an ATS system, paste/upload your resume and a job posting here at [Jobscan][jobscan].
 
