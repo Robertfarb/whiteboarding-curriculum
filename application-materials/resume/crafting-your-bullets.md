@@ -53,21 +53,21 @@ __Result__: "Integrates Google Maps API with geolocation based searching to disp
 
 ### To help get you brainstorming:
  
-Did you find some clever way to DRY up your code?
-Did you bootstrap some data to avoid extraneous AJAX requests?
-Did you make some tough choices in your database schema?
-Did you use cookies to store anything other than a session token?
-Does your Javascript use any math to resize something in the DOM?
-Did you use a library in a way that its author probably didn't anticipate?
-Do you have any data that's nested one degree deeper than usual?
-Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)
-Do your ActiveRecord models run any custom SQL queries?
-Did you make any trade-offs related to performance, eg. store information that's costly to compute?
-Are you doing any caching?
-Do you make AJAX requests to any unexpected routes?
-Did you write a custom CompositeView class with a recursive #remove method?
-Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
-Do your chess pieces inherit from a Slideable and Steppable class?
+* Did you find some clever way to DRY up your code?
+* Did you bootstrap some data to avoid extraneous AJAX requests?
+* Did you make some tough choices in your database schema?
+* Did you use cookies to store anything other than a session token?
+* Does your Javascript use any math to resize something in the DOM?
+* Did you use a library in a way that its author probably didn't anticipate?
+* Do you have any data that's nested one degree deeper than usual?
+* Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)
+* Do your ActiveRecord models run any custom SQL queries?
+* Did you make any trade-offs related to performance, eg. store information that's costly to compute?
+* Are you doing any caching?
+* Do you make AJAX requests to any unexpected routes?
+* Did you write a custom CompositeView class with a recursive #remove method?
+* Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
+* Do your chess pieces inherit from a Slideable and Steppable class?
 
 
 When answering these questions, the key is to point out features you built that went **above and beyond the basic requirements**.
