@@ -25,6 +25,24 @@ __What was the impact or benefit?__: Improved team morale and collaboration.
 
 __Result__: "Founded and managed company softball team, resulting in improved morale and communication."
 
+***Get brainstorming!***    
+Did you find some clever way to DRY up your code?
+Did you bootstrap some data to avoid extraneous AJAX requests?
+Did you make some tough choices in your database schema?
+Did you use cookies to store anything other than a session token?
+Does your Javascript use any math to resize something in the DOM?
+Did you use a library in a way that its author probably didn't anticipate?
+Do you have any data that's nested one degree deeper than usual?
+Did you override a Rails or Backbone.js method? (eg. Model#parse or Model#as_json)
+Do your ActiveRecord models run any custom SQL queries?
+Did you make any trade-offs related to performance, eg. store information that's costly to compute?
+Are you doing any caching?
+Do you make AJAX requests to any unexpected routes?
+Did you write a custom CompositeView class with a recursive #remove method?
+Does your chess game make a recursive deep_dup to validate moves without modifying the game state?
+Do your chess pieces inherit from a Slideable and Steppable class?
+
+
 ## TECHNICAL SKILLS IMPORTANT NOTE:  When writing try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
 
 ## Example 2 (Technical)
