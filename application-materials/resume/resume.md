@@ -257,15 +257,13 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 **N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
 
 * Layout
-  Fancy resume fits on 1 page?
+  Resume fits on 1 page?
   0. 1/2 to 1-inch margins on left and right?
   0. Margins and formatting are consistent and organized?
   0. All text point sizes are consistent
   0. Uses a nicer font than defaults?
   
-  ATS Resume formatting is correct
-  0. No lines, tables, italics
-  0. Simple basic fonts at 10pt
+  You should also have a **plain text resume** as well
 
 * Projects
   0. Do you list three or four coding projects, including your Full Stack Project, JavaScript project, and Code Intensive?
@@ -279,15 +277,13 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Do you emphasize technical or programmatic aspects of your work history?
 
 * Misc 
-  0. Do your bullets follow the formula: Accomplished [X] as measured by [Y] by doing [Z]?
+  0. Do your bullets follow the formula of saying what YOU DID vs. FEATURES: 
+  ie. Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
   0. Do you provide a skills list of the technologies you are familiar with?
   0. Do you provide contact information and link to your Github and LinkedIn?
   0. Does your contact information make it clear you are currently in the metro area? (Use a/A office address if this is not the case)
   0. Is it a Google Doc where you have granted edit access for your career coach?
   0. Have you eliminated or minimized any timeline gaps in your resume?
-  
-### THE MENTAT--PLEASE SIGN UP 
-  www.thementat.com is a company App Academy partners with to provide our students with the ability to enhance their online job search.  Using this services allows students to reach out directly to recruiters as well as the ability to network directly with people at companies they apply.  Following is a complete video on how to use the system. https://www.youtube.com/watch?v=WlcLQqmGQmI
 
 [drive-templates]: https://drive.google.com/drive/folders/0B3noREts_wUyMFZHWVhvcUUtU1E?usp=sharing
 [example-resumes]: examples/exemplary-resumes.md
