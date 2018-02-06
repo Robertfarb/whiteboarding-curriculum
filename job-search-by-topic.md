@@ -75,7 +75,7 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 
 ## Application Materials
 ### Resume
-* [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9:00am)
+* [Resume Instructions](application-materials/resume/resume.md) (due W11D1,9am)
 
 [resume]: application-materials/resume/resume.md
 
