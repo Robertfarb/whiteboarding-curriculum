@@ -1,6 +1,6 @@
 
 
-## RESUME SCORECARD ##
+##RESUME SCORECARD##
 *Sections
 Contact/Background Info-LINKS MUST WORK (5 points)
 Name
