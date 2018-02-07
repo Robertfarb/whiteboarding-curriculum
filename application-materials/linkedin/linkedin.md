@@ -52,7 +52,10 @@ That wraps up the career and hobbies. I had a 10-year theatre career before I we
 I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
 
 Another note: you can include images in your summary.  Some folks include screenshots of their projects, which is a good way to showcase your work right off the bat.  
- 
+
+### Click here for [Tips For Writing A Great LinkedIn Summary](https://www.thebalance.com/good-linkedin-summary-with-examples-4126809)
+
+
 #### Projects  
 As an App Academy grad, the projects section of your LinkedIn is very important.  You can use the same bullet points that you use in your resume, but you have a little more flexibility on LinkedIn -- instead of limiting yourself to 3-4 projects, list everything substantial, polished, and complete that you've worked on.  You can (and should) include screenshots as well to show off your work, and you can be slightly more verbose when you're describing your project than you are in your resume.
 
