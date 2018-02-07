@@ -5,15 +5,6 @@ Employers are busy and typically spend between 15-30 seconds scanning your mater
 
 A strong cover letter shows that *you’ve done research on the company and that your skills are a good fit for the company*.  To increase your chances of getting a screening interview, below are key strategies for writing a compelling cover letter that will get your application noticed.
 
-## Research
-Identify two SF Bay Area tech companies that you are excited to work for.  Spend 10-15 minutes researching the company (use their own site, job description, LinkedIn, Glassdoor, and Google). For each company write down the following:
-
-1. What does the company do?
-2. What makes the company better/different than their competitors?
-3. What are the desired skills (technical and other) listed on the job posting?
-4. Why are you interested in working there?
-5. What makes you a good candidate?
-
 ## Get Organized
 Based on the research you’ve done, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
 
@@ -96,6 +87,8 @@ Now here is the place where you can show value.  What do you know about the comp
 BAD EXAMPLE:  I know I would be a valuable asset to your team
 GOOD EXAMPLE:  I know that your company works in Ruby and React and with my knowledge and my recent projects, I believe I would easily be able to acclimate to your projects and team.
 
+REMEMBER:  They want to work with someone who can "hit the ground running"
+
 ### FINAL - APPRECIATION/THANK YOU
 
 * Thank them for their time and reiterate your interest in the company/position.
@@ -144,11 +137,11 @@ Once you have a strong template cover letter, the process of writing a new cover
 
 [Opening paragraph:  introduction of who you are and company specific blurb]  GeneriCo's userbase is growing fast. As a web developer with a background in Ruby, JavaScript, and frameworks such as Rails and React, I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth.
 
-[Technical skills paragraph option 1 - front end position]  I love to create software that is beautiful and interactive.  You can see an example of my frontend skills in my project [name/link].  I achieved the smooth user interface through careful utilization of React rendering and event listeners, and used Flexbox with React transitions for the clean, pixel-perfect look.
+[Technical skills paragraph option 1 - front end position]  I create software that is beautiful and interactive.  You can see an example of my frontend skills in my project [name/link].  I achieved the smooth user interface through careful utilization of React rendering and event listeners, and used Flexbox with React transitions for the clean, pixel-perfect look.
 
-[Technical skills paragraph option 2 - back end position]  I love to create software that’s fast and functional.  Thinking about questions of optimization and hunting down bottlenecks is something I’m passionate about and well-trained for.  You can experience my skills with attacking backend problems in one of my recent projects, [name/link].  It’s built with a PostgreSQL database with a Rails backend, utilizing customized ActiveRecord queries and minimal AJAX calls for a performant app.
+[Technical skills paragraph option 2 - back end position]  I create software that’s fast and functional.  Thinking about questions of optimization and hunting down bottlenecks is something I’m passionate about and well-trained for.  You can experience my skills with attacking backend problems in one of my recent projects, [name/link].  It’s built with a PostgreSQL database with a Rails backend, utilizing customized ActiveRecord queries and minimal AJAX calls for a performant app.
 
-[Technical skills paragraph option 3 - fullstack position] I love to create software that’s fast, functional, and beautiful.  My skills extend across the full stack, including a variety of languages and frameworks.  In a recent project, [name/link], I used React with Redux to create a clean, interactive, optimized frontend, and Rails with a PostgreSQL database for the backend.  I’m excited to find a position in which I can add new technologies to my toolbox and refine my craft by working in all parts of the stack.
+[Technical skills paragraph option 3 - fullstack position] I create software that’s fast, functional, and beautiful.  My skills extend across the full stack, including a variety of languages and frameworks.  In a recent project, [name/link], I used React with Redux to create a clean, interactive, optimized frontend, and Rails with a PostgreSQL database for the backend.  I’m excited to find a position in which I can add new technologies to my toolbox and refine my craft by working in all parts of the stack.
 
 [If relevant, other skills paragraph] In addition to my programming skills, I have gained invaluable experience as a US Army pilot, flying the KC-10 on critical missions around the world. As an officer, I was entrusted with flying an $80M aircraft and leading a crew of up to 15 officers. Flexibility and the ability to react to rapidly changing situations were key skills necessary to successfully complete over 50 missions.
 
@@ -163,11 +156,7 @@ Collaborating with teams, working efficiently and paying attention to detail is 
 
 * Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
 
-* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
-
-* Point on one of their bullet points and specifics on your experience as it relates to the job description.  For example, “as someone who has Ruby and Rails experience I…..
-
-(Quick sentence about how you relate to the company).  I love AirBnB and as a software developer, I know….  (Next sentence)
+(Quick sentence about how you relate to the company).  I know AirBNB is looking for a capable frontend person and as a software developer, I know….  (Next sentence)
 
 I realize you are super busy, so I appreciate your time and consideration and hope that we may schedule a time to talk sometime soon.
 
