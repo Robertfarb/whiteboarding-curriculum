@@ -12,13 +12,17 @@ As you are writing your profile, remember to **add in keywords that Recruiters c
 
 ---
 
-**PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
+**PHOTO**  
+
+Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
 Title:  Right underneath the photo make sure your titles are up-to-date. A lot of folks use their App Academy photo in their LinkedIn profile, but you don't necessarily have to.  
  **Remember, you are now a Software Developer.
  
  ---
   
-**SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  
+**SUMMARY**  
+
+_Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  
 
 # Click here for [Tips For Writing A Great LinkedIn Summary](https://www.thebalance.com/good-linkedin-summary-with-examples-4126809)
 
@@ -65,11 +69,13 @@ Another note: you can include images in your summary.  Some folks include screen
 ---
 
 #### Projects  
+
 As an App Academy grad, the projects section of your LinkedIn is very important.  You can use the same bullet points that you use in your resume, but you have a little more flexibility on LinkedIn -- instead of limiting yourself to 3-4 projects, list everything substantial, polished, and complete that you've worked on.  You can (and should) include screenshots as well to show off your work, and you can be slightly more verbose when you're describing your project than you are in your resume.
 
 ---
 
 #### Experience
+
 As with your projects, you can be a bit more expansive with your previous experience than in your resume.  Include any positions that fall into any of the following categories:
 
 - Positions that involved quantitative/technical work or research
@@ -86,16 +92,19 @@ Please note that unless you are a paid staff person with App Academy, typically 
 ---
 
 #### Education
+
 Include anything post-high school, even if it's not a degree from a STEM field.  List them in chronological order, with App Academy at the top.  It's not necessary to include informal/online education unless it was part of a certificate/degree program or was relatively formal in nature (e.g., if you did a part-time course through General Assembly before a/A, include it, but don't include Coursera courses).  
 
 ---
 
 #### Skills
+
 This is the place to showcase all of the technical skills that you've learned at App Academy and beyond.  List your strongest skills first (Ruby on Rails, JavaScript, and React should be right at the top) followed by other programming skills, followed by any non-programming skills that you have.  Make sure that your settings on LinkedIn allow your connections to endorse your skills, and also take some time to endorse the skills of other students in your cohort (they'll likely reciprocate if you do so!).  
 
 ---
 
 #### Volunteer Experience
+
 Most employers won't pay much attention to the volunteer section of your LinkedIn, but it can have significant benefit if a recruiter, CEO, or hiring manager shares your passion for a particular cause.  It's an immediate personal connection that you wouldn't otherwise get.  
 
 One potential pitfall of the volunteer experience section is that certain causes are controversial.  If you did organizing work around a hot button political issue, you may turn off an employer who falls on the other side of the issue.  Use your best judgment -- if you're comfortable being "out" about supporting a particular cause/organization/community, then by all means include the experience on your LinkedIn.  
@@ -103,6 +112,7 @@ One potential pitfall of the volunteer experience section is that certain causes
 ---
 
 #### Publications
+
 If you have any academic publications such as research papers, a thesis or dissertation, etc., definitely include these.  Anything STEM-related should go at the top of your publication list.  Other publications such as poetry, creative nonfiction, fiction, etc., is fine to include as well, but make sure it's writing that you'd be fine with a potential employer reading.  
 
 ### Building Your LinkedIn Network
