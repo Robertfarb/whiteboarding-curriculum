@@ -10,18 +10,7 @@ At the end, to see how your resume is being parsed by an ATS system, paste/uploa
 
 Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
 
-## Warmup
 
-Go through the following steps for each of these [example resumes][example-resumes] from past graduates.
-
-1. Look at the Resume for 6 seconds
-2. Write down the following observations:
-  * What was your eye drawn to?
-  * What skills does this candidate have?
-  * Would you hire this candidate?
-3. Now take a couple minutes to read it over in depth.
-  * What did you miss in the 6 second test?
-  * What stands out to you now?
 
 ### Filling a Need
 
@@ -77,6 +66,9 @@ This is flexible. **If you have professional software experience (i.e. you were 
 * Projects:
     * Link to live site
     * Link to Github Repo
+    
+## FOLLOWING IS A LINK TO A [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) WHERE YOU WILL NEED 100 POINTS## 
+
 
 ## Phase 2: Projects
 
