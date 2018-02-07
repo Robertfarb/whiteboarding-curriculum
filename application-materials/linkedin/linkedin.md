@@ -10,9 +10,13 @@ The summary is one of the most important parts of your LinkedIn, especially as a
 
 As you are writing your profile, remember to **add in keywords that Recruiters can search.**  For example, Software Engineer, Software Developer, Ruby, Rails, Javascript, React, etc.  Here are a couple examples that show how widely summaries can vary:
 
+---
+
 **PHOTO**  Make sure you have a great photo up of you that looks professional.  A picture of you on the beach with sunglasses might be nice for Instagram but for LinkedIn a nice headshot of you smiling and looking good goes further.
 Title:  Right underneath the photo make sure your titles are up-to-date. A lot of folks use their App Academy photo in their LinkedIn profile, but you don't necessarily have to.  
  **Remember, you are now a Software Developer.
+ 
+ ---
   
 **SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
 
@@ -26,15 +30,15 @@ I have a reputation for asking great questions, shipping quality code, being a s
 
 ---
 
-"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
+<i>"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.</i>
 
-I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
+<i>I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."</i>
 
 ---
 
 **Majd:**
 
-"People ask me what I do. Here's the list:
+<i>"People ask me what I do. Here's the list:
 
 - Software Developer who knows Javascript, Ruby, Rails, CSS and Django (Rhumbix)
 - Mask Maker (Arté Masks)
@@ -43,7 +47,7 @@ I love the battle of developing an idea into existence, and forging the bridge b
 - Capoeirista-in-training (Capoeira Angola Quintal)
 - Acrobat-in-training (Circus Center)
 
-That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of them. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."
+That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of them. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."</i>
 
 **Marc:**
 
