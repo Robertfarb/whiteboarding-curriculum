@@ -53,4 +53,4 @@ Review Typos, grammatical errors, consistent punctuation and format. (1 point)
 
 ---
 
-##Submit your resume for review through Jobberwocky as a Google Doc with edit permissions for all your coaches [career-coaches@appacademy.io](career-coaches@appacademy.io).## (10 points)
+### Submit your resume for review through Jobberwocky as a Google Doc with edit permissions for all your coaches [career-coaches@appacademy.io](career-coaches@appacademy.io).## (10 points) ###
