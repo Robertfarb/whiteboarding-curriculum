@@ -30,7 +30,7 @@ Following are some good examples for your review:
 
 SAMPLE 1
 
-<i>"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”</i>
+<i>"I'm a curious puzzle-solver who enjoys pouring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”</i>
 
 
 SAMPLE 2
