@@ -18,25 +18,30 @@ Title:  Right underneath the photo make sure your titles are up-to-date. A lot o
  
  ---
   
-**SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  Following are some good examples for your review:
+**SUMMARY**  _Now this is IMPORTANT._  This is the area where you get to describe yourself, a little personality, what you are doing/looking to do in life AND show off what you know.  **Keywords are important** as recruiters do search for possible candidates based on various criterias.  Make sure your summary mentions the languages you know, ie.  Ruby, Rails, HTML5, React Native, Javascript etc.  
 
-"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”
+# Click here for [Tips For Writing A Great LinkedIn Summary](https://www.thebalance.com/good-linkedin-summary-with-examples-4126809)
 
----
+Following are some good examples for your review:
 
-"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
+SAMPLE 1
 
-I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."
+<i>"I'm a curious puzzle-solver who enjoys poring over server logs and error messages. I have a passion for software that sews together the desktop and mobile experiences. I'm an enthusiastic teammate and a patient communicator. I have a near-compulsive desire to explore the unfamiliar. My favorite languages are Ruby, JavaScript, and Korean.”</i>
 
----
+
+SAMPLE 2
+
+<i>"Simply put, I love to code. The sleuthwork of identifying the source of a bug (especially when the error message is less than helpful). The zen-like state of refactoring tests in a massive codebase. The excitement of implementing a long-anticipated feature. The consistent vacillation between questioning and understanding.
+
+I have a reputation for asking great questions, shipping quality code, being a strong pair and working well across teams. I also have great experience working in Ruby, Rails, jsNode, React and Javascript.  For fun I love finding new food carts in town and hanging with my friends at Dolores Park."</i>
+
+SAMPLE 3
 
 <i>"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.</i>
 
 <i>I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."</i>
 
----
-
-**Majd:**
+SAMPLE 4
 
 <i>"People ask me what I do. Here's the list:
 
@@ -49,15 +54,13 @@ I have a reputation for asking great questions, shipping quality code, being a s
 
 That wraps up the career and hobbies. I had a 10-year theatre career before I went to a coding bootcamp and revamped my lifestyle. I'm the kind of guy who focuses on many pursuits at once, but really dives deep into all of them. Triple Aries, Triple Sagittarius, and Mars in Gemini, for people who like astrology."</i>
 
-**Marc:**
+SAMPLE 5
 
-"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
+<i>"I’m a passionate software developer with the innovative and creative mindset of an entrepreneur. I have experience building dynamic web applications in JavaScript, Ruby on Rails, and HTML/CSS.
 
-I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."
+I love the battle of developing an idea into existence, and forging the bridge between conceptualization and a tangible, impactful product. Programming has been my outlet for problem-solving and creative expression."</i>
 
 Another note: you can include images in your summary.  Some folks include screenshots of their projects, which is a good way to showcase your work right off the bat.  
-
-## Click here for [Tips For Writing A Great LinkedIn Summary](https://www.thebalance.com/good-linkedin-summary-with-examples-4126809)
 
 ---
 
@@ -67,7 +70,6 @@ As an App Academy grad, the projects section of your LinkedIn is very important.
 ---
 
 #### Experience
-
 As with your projects, you can be a bit more expansive with your previous experience than in your resume.  Include any positions that fall into any of the following categories:
 
 - Positions that involved quantitative/technical work or research
@@ -84,23 +86,23 @@ Please note that unless you are a paid staff person with App Academy, typically 
 ---
 
 #### Education
+Include anything post-high school, even if it's not a degree from a STEM field.  List them in chronological order, with App Academy at the top.  It's not necessary to include informal/online education unless it was part of a certificate/degree program or was relatively formal in nature (e.g., if you did a part-time course through General Assembly before a/A, include it, but don't include Coursera courses).  
 
 ---
 
-Include anything post-high school, even if it's not a degree from a STEM field.  List them in chronological order, with App Academy at the top.  It's not necessary to include informal/online education unless it was part of a certificate/degree program or was relatively formal in nature (e.g., if you did a part-time course through General Assembly before a/A, include it, but don't include Coursera courses).  
-
 #### Skills
-
 This is the place to showcase all of the technical skills that you've learned at App Academy and beyond.  List your strongest skills first (Ruby on Rails, JavaScript, and React should be right at the top) followed by other programming skills, followed by any non-programming skills that you have.  Make sure that your settings on LinkedIn allow your connections to endorse your skills, and also take some time to endorse the skills of other students in your cohort (they'll likely reciprocate if you do so!).  
 
-#### Volunteer Experience
+---
 
+#### Volunteer Experience
 Most employers won't pay much attention to the volunteer section of your LinkedIn, but it can have significant benefit if a recruiter, CEO, or hiring manager shares your passion for a particular cause.  It's an immediate personal connection that you wouldn't otherwise get.  
 
 One potential pitfall of the volunteer experience section is that certain causes are controversial.  If you did organizing work around a hot button political issue, you may turn off an employer who falls on the other side of the issue.  Use your best judgment -- if you're comfortable being "out" about supporting a particular cause/organization/community, then by all means include the experience on your LinkedIn.  
 
-#### Publications
+---
 
+#### Publications
 If you have any academic publications such as research papers, a thesis or dissertation, etc., definitely include these.  Anything STEM-related should go at the top of your publication list.  Other publications such as poetry, creative nonfiction, fiction, etc., is fine to include as well, but make sure it's writing that you'd be fine with a potential employer reading.  
 
 ### Building Your LinkedIn Network
