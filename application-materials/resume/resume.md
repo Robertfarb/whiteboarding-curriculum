@@ -6,6 +6,8 @@ For your initial resume, please use one of the templates from our library.  Plea
 
 At the end, to see how your resume is being parsed by an ATS system, paste/upload your resume and a job posting here at [Jobscan][jobscan].
 
+**Here is your [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) as you will need to get 100 points.**
+
 ## Phase 0: Motivation
 
 Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
