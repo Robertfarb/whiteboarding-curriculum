@@ -45,7 +45,7 @@ with an awkward moment seal background. I like to make things that make people s
 I excel at quickly learning new programs and immediately applying them to my personal and professional projects. I’m looking 
 forward to hearing from you, and to contributing to the Salesforce Ohana. 
 
-COVER LETTER SAMPLE 3
+## COVER LETTER SAMPLE 3 ##
 
 As a Quality Engineer, I did very important work but I missed the creative freedom that was inherent in development. 
 In order to re-enter that role, I have worked hard to improve my development skills with various side projects and by studying and
@@ -64,11 +64,11 @@ I have always been both eager to learn and to contribute my knowledge. I enjoy h
 that I have previously learned. I thrive in collaborative environments and actively seek opportunities to contribute. For this 
 reason and along with my skills, I know I could hit the ground running.
 
-COVER LETTER SAMPLE 4
+## COVER LETTER SAMPLE 4 ##
 
  As a bioengineer turned software developer, I like learning about logic, and have self-taught and been trained in 
  such languages as Ruby on Rails, React, Redux, JavaScript, HTML, and CSS. Writing, optimizing, and even debugging code 
- is genuinely fun for me, especially when collaborating with others. [I am drawn to Airbnb because of its fast paced, 
+ is genuinely fun for me, especially when collaborating with others. I am drawn to Airbnb because of its fast paced, 
  collaborative culture of programming.
 	
 One of my biggest assets is my ability to pick up new technologies rapidly. In just ten days, I built a full-stack application, 
@@ -81,6 +81,6 @@ storing images in the cloud with Cloudinary.
 	
 Due to my strong work ethic and high aptitude for learning, I have achieved consistent academic success. I am confident that 
 these traits combined with my software-development knowledge and sociable personality will allow me to thrive as a member of 
-the [Airbnb team]. 
+the team. 
 
 Thank you for your time and consideration; I look forward to speaking with you further about the role.
