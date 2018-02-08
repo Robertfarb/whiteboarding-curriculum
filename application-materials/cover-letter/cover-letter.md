@@ -133,6 +133,8 @@ Once you have a strong template cover letter, the process of writing a new cover
 
 ## Sample Cover Letter
 
+Here are some [SAMPLE COVER LETTERS](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/Sample-Cover-Letters.md)
+
 [Salutation] Hello GeneriCo’s Team,
 
 [Opening paragraph:  introduction of who you are and company specific blurb]  GeneriCo's userbase is growing fast. As a web developer with a background in Ruby, JavaScript, and frameworks such as Rails and React, I've dealt with scaling databases and leveraged my mathematics background to develop faster algorithms that enabled further growth.
