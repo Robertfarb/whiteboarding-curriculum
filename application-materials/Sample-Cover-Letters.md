@@ -11,11 +11,15 @@ JavaScript, React, and Redux, then you’ve found your man.
 My experience includes a wide range of technologies across the full stack. A recent project of
 mine, SoundStorm, was a full-stack single page web application based on the music sharing
 platform, SoundCloud:
+
 • The Project was built with Ruby on Rails, PostgreSQL, React, and Redux.
+
 • I implemented a custom modal framework using React that allowed me to
 efficiently develop new forms.
+
 • The project integrated with AWS S3 and Paperclip with the Rails backend to
 store uploaded audio and images.
+
 • For audio playback, I developed a site-wide UI that utilizes Redux actions to
 sync the main audio player with waveforms and play-pause toggle buttons
 
