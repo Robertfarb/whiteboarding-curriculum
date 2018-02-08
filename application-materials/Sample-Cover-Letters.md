@@ -1,7 +1,8 @@
 
- COVER LETTER SAMPLE 1
+
+## COVER LETTER SAMPLE 1 ##
  
- You could say my career as a programmer began way back in September 2003. This was back in
+You could say my career as a programmer began way back in September 2003. This was back in
 the 4th Grade, when I wrote my first lines of code programming LEGO robots after school. At
 that point I was hooked. Unfortunately I am no longer fluent in the LEGO Mindstorms
 language, but if you’re looking for a software developer with experience in Ruby on Rails,
@@ -23,27 +24,8 @@ them that they might not have heard elsewhere. I understand you’re looking for
 can jump right in, and I’m excited about the prospect of applying my skills as a developer to
 your team.
 
- As a bioengineer turned software developer, I like learning about logic, and have self-taught and been trained in 
- such languages as Ruby on Rails, React, Redux, JavaScript, HTML, and CSS. Writing, optimizing, and even debugging code 
- is genuinely fun for me, especially when collaborating with others. [I am drawn to Airbnb because of its fast paced, 
- collaborative culture of programming.
-	
-One of my biggest assets is my ability to pick up new technologies rapidly. In just ten days, I built a full-stack application, 
-using a Ruby on Rails backend with a PostgreSQL database and React with Redux on the front-end to create a seamless, lightning fast 
-single-page app. 
 
-Some new skills I had to teach myself in order to complete the project included sending AJAX requests to Google Maps 
-and Directions Service APIs, dynamically generating search results based upon user input, and handling uploads on the front-end by 
-storing images in the cloud with Cloudinary. 
-	
-Due to my strong work ethic and high aptitude for learning, I have achieved consistent academic success. I am confident that 
-these traits combined with my software-development knowledge and sociable personality will allow me to thrive as a member of 
-the [Airbnb team]. 
-
-Thank you for your time and consideration; I look forward to speaking with you further about the role.
-
-
-COVER LETTER SAMPLE 2
+## COVER LETTER SAMPLE 2 ##
 
 In my three years running a web development shop, I solved problems at every stage of the product development process. 
 I gained a deeper understanding of the Salesforce data integration tools when Pediafed (a healthcare GPO) hired us to build 
