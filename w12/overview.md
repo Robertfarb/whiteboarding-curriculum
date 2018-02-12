@@ -2,7 +2,6 @@
 * Algorithms mini-course begins
 * Begin studying for interviews!
 * Attend alumni lectures/panels
-* Graduation!
 
 Days:
 * [Day 1](./day1.md)
