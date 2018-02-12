@@ -13,7 +13,6 @@
 
 ### Afternoon
 
-* Optional Lecture on Personal Finance from 1:30 - 2:30pm
 * Roll call at 2:30pm
 * Solution review: Graphs and Topo Sort
 * [Pair Boarding][pair-boarding-index]
