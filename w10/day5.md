@@ -1,6 +1,6 @@
 ## W10D5
 ### Homework
-* **JavaScript Project due 12pm on Jobberwocky.**
+* **JavaScript Project due 9AM on Jobberwocky.**
   * Add live link to [Jobberwocky][Jobberwocky] and click "Queue for review" to submit. NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
 
@@ -26,6 +26,7 @@
 <!-- Job Search Projects -->
 
 [portfolio]: ../application-materials/portfolio/portfolio.md
+[peer-review-instructions]: ../meta/app-academy/peer-reviews.md
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 
@@ -33,4 +34,5 @@
 [linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
 [cover-letter]: ../application-materials/cover-letter/cover-letter.md
 
+[flex-project]: ../projects/flex-project/flex-project.md
 [flex-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md
