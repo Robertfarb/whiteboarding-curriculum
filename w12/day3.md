@@ -9,7 +9,7 @@
 * Complete HashMap/LRU Cache Project.
 
 ### Afternoon
-* HashMap/LRU Cache Review Session
+* HashMap/LRU Cache Review Session (1:30-3:00)
 * [Pairboarding][pairboarding]
 * Heaps and Heap Sort Video Lectures and Project
     * Videos on heaps and heapsort:
