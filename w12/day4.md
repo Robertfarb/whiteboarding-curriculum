@@ -6,7 +6,6 @@
 
 ### Late Morning
 
-* Roll call at 10am because of graduation!
 * Finish Heaps and Heap Sort Project
 * Open work time: use this time to revise your projects!
 
@@ -20,10 +19,6 @@
 * Bonus videos on sorting
    * [Sorting Algorithms 1][sorting1]
    * [Sorting Algorithms 2][sorting2]
-  
-* **Graduation Day**
-  * Celebrate! You've graduated a/A!
-  * Recruiting fair at 6pm.
 
 <!-- LINKS -->
 
