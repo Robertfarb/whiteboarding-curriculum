@@ -109,9 +109,9 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 * [Lecture on Math for Programmers](https://vimeo.com/176206594)
 * [Lecture on Memory and Assembly](https://vimeo.com/175634887) (optional)
 * Algorithms Worksheet 1 Big O Analysis (sent by email) (due W11D2)
-* [Project 1: Static and Dynamic Arrays][project1] (due W12D1)
+* [Project 1: Static and Dynamic Arrays][project1] (due W12D2)
      * [Lecture on Static and Dynamic Arrays](https://vimeo.com/175717721)
-* [Project 2: HashMap, Linked List, LRU Cache][project2] (due W12D1)
+* [Project 2: HashMap, Linked List, LRU Cache][project2] (due W12D3)
     * [Set and Int Set](https://vimeo.com/159431377)
     * [Resizing Int Set Part 1](https://vimeo.com/159433039)
     * [Resizing Int Set Part 2](https://vimeo.com/159437719)
@@ -120,23 +120,23 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
     * [Linked Lists and Hashmaps](https://vimeo.com/159440267)
     * [Caches](https://vimeo.com/159441490)
     * [LRU Cache](https://vimeo.com/159435146)
-* [Project 3: Heap, HeapSort][project3] (due W12D2)
+* [Project 3: Heap, HeapSort][project3] (due W12D4)
   * [Priority Queues][heaps1]
   * [Understanding Heaps][heaps2]
   * [Heap Implementation][heaps3]
   * [Heapsort (naive)][heapsort1]
   * [Heapsort (in-place)][heapsort2]
-* [Project 4: QuickSort][project4] (due W12D3)
+* [Project 4: QuickSort][project4] (due W12D5)
   * [Quicksort Review][quicksort1]
   * [In Place Quicksort][quicksort2]
   * [Quicksort Analysis and Choosing Pivot][quicksort3]
   * [Comparing Sorting Algorithms][sorting1]
   * [Sorting Stability][sorting2]
 * [Project 5: Binary Search Trees and AVL Trees][project5] (due W13D1)
-* Algorithms Worksheet 2 (due W13D2)
-* [Project 6: Graphs - Topological Sort][project6] (due W13D3)
-* [Project 7: Graphs - Dijkstra's Algorithm][project7] (due W13D4)
-* Project 8: Dynamic Programming (Upcoming) (due W13D5)
+* [Project 6: Graphs - Topological Sort][project6] (due W13D2)
+* Project 7: [Dynamic Programming][project7] (due W13D3)
+
+### [Whiteboarding Concepts/Videos](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding-videos.md)
 
 ## I'm ready to apply! Let's go!
 
