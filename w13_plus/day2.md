@@ -18,7 +18,7 @@
 * Solution review: Graphs and Topo Sort
 * [Pair Boarding][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
-* [Additional Videos]:(https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding-videos.md)
+* [Additional Videos](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding-videos.md)
 
 <!-- LINKS -->
 
