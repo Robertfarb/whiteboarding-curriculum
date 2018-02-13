@@ -22,23 +22,14 @@
 * Last day of [peer reviewing][peer-review-instructions]. Focus on JavaScript Project today!
 
 ### Projects and Assignments to Work On Tonight
-* [JavaScript Project][js-project], due tomorrow at 12pm
+* [JavaScript Project][js-project], due tomorrow at 9AM
 * Start thinking about your [flex project][flex-project] (proposal due W11D1 at 9am)
-* Work on [resumes][resume] (due W11D1 at 9am)
-* Work on [cover letters][cover-letter] (due W11D1 at 9am)
-* Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
-* Bonus: [portfolio site][portfolio]
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [js-project]: ../projects/js-project/js-project.md
 [flex-project]: ../projects/flex-project/flex-project.md
 [flex-sample-proposal]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md
-[cover-letter]: ../application-materials/cover-letter/cover-letter.md
-[portfolio]: ../application-materials/portfolio/portfolio.md
-[peer-review-instructions]: ../meta/app-academy/peer-reviews.md
-[resume]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/resume.md
-[linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
 
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
