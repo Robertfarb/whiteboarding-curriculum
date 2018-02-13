@@ -8,7 +8,7 @@
 ### Morning
 
 * Roll call at 10am.
-* Office Hours with TAs, Josh, and Andrew from 10am-12pm.
+* Office Hours with TAs, Trevor, and Andrew from 10am-12pm.
 * Open work time: work on your algorithms project, implementing instructor feedback on projects, or sending applications.
 
 ### Afternoon
