@@ -19,6 +19,7 @@
 ### Projects and Assignments to Work On Tonight
 * [JavaScript Project][js-project], due tomorrow at 9AM
 * Start thinking about your [flex project][flex-project] (proposal due W11D1 at 9am)
+* Prep for [Cover Letter/Written Presence][cover-letter] lecture tomorrow
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
