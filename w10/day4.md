@@ -10,9 +10,6 @@
 * Form groups for the [flex project][flex-project]
 * Start brainstorming ideas for flex project
 
-#### Lecture
-* [Cover Letter][cover-letter]
-
 #### Work time
 * JS Project (Afternoon)
 
