@@ -5,8 +5,8 @@
 * **There will lots of tasks competing for your time -- plan in advance!**
 * Expected time investment this week:
   * [JS project][js-project]: 20-30 hours this week ([Sample proposal](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/js-project/js-sample-proposal1.md))
-  * [Resume][resume]: 5-10 hours (Monday & Tuesday afternoons, and additional edits throughout the week)
-  * [Cover letter][cover-letter]: 2-4 hours this week (Wednesday afternoon, and additional edits throughout the week)
+  * [Resume][resume]: 5-10 hours 
+  * [Cover letter][cover-letter]: 2-4 hours this week 
   * [Github cleanup][github]: 2-4 hours
   * [LinkedIn][linkedin] & [AngelList][angellist]: 2-4 hours
   * [Personal pitch][personal-pitch]: 2-3 hours
