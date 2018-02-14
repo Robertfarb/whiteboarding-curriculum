@@ -22,7 +22,7 @@
 
 ### Projects and Assignments to Work On Tonight
 * [JavaScript Project][js-project]
-* Prep for [Cover letter][cover-letter] lecture tomorrow
+
 * Start thinking about your [flex project][flex-project].
 * Work on [resumes][resume] (due TOMORROW at 9am)
 
