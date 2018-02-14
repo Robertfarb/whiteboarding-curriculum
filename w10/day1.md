@@ -21,7 +21,7 @@
 ### Afternoon
 #### Lectures
 * **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 4+ weeks.
-* **Meet Your Coach!**
+
 
 
 
