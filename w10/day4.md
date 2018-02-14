@@ -14,8 +14,7 @@
 * [Cover Letter][cover-letter]
 
 #### Work time
-* Cover Letter and Resume (3 - 4:30)
-* JS Project (5:30 - 6)
+* JS Project (Afternoon)
 
 #### Peer Reviews
 * Last day of [peer reviewing][peer-review-instructions]. Focus on JavaScript Project today!
