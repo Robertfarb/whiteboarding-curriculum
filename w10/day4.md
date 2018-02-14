@@ -19,7 +19,13 @@
 ### Projects and Assignments to Work On Tonight
 * [JavaScript Project][js-project], due tomorrow at 9AM
 * Start thinking about your [flex project][flex-project] (proposal due W11D1 at 9am)
-* Prep for [Cover Letter/Written Presence][cover-letter] lecture tomorrow
+* Prep for [cover letter](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/cover-letter/cover-letter.md)
+
+Summaries/Profiles:  
+
+* [LinkedIn](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md)
+
+* [AngelList](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/angellist/angellist.md)
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
