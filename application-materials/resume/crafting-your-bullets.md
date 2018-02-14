@@ -114,18 +114,18 @@ When answering these questions, the key is to point out features you built that 
 * Used xcode in conjunction with React Native library to hook into mobile device cameras and geolocation
 * Designed dynamic data-visualizations with Javascript algorithms based on user input
 * Created custom modal framework using React parent component, allowing for efficient development of new forms.
-*Created top-level music player using HTML5 audio and React, giving the user seamless audio streaming during navigation.
+* Created top-level music player using HTML5 audio and React, giving the user seamless audio streaming during navigation.
 * Leveraged custom event listeners and the Redux cycle to dynamically sync audio waveforms and play-pause toggle buttons with music player.
 * Utilized CSS media queries to create a fully responsive, device agnostic design. 
 * Configured the Node backend with PostgreSQL, using the Sequelize ORM for validations and database queries.
 * Structured Express app to follow the MVC framework and engineered JSON REST API for CRUD operations.
 * Implemented local strategy for user authentication with Passport.js, using BCrypt for password hashing.
 * Generated intelligent, movement-based animation using asynchronous Javascript.
-*Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
-*Utilized HTML Image Maps to allow users to click directly on an item in a photograph.
+* Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
+* Utilized HTML Image Maps to allow users to click directly on an item in a photograph.
 * Recorded user activity using React Router and browser history to create a seamless user
 experience during authentication process.
-*Implemented user authentication to persist a user's cart to subsequent sessions.
+* Implemented user authentication to persist a user's cart to subsequent sessions.
 * Queried database and filtered results using jBuilder to allow users to search by product
 keywords.
 * Designed intuitive, device-agnostic UI using Adobe Xd to meet Progressive Web
