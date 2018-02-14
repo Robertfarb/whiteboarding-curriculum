@@ -2,13 +2,7 @@
 ### Homework
 * Check your [calendar][calendar] for events happening today. Note times for office hours and lectures.
 * Work on JavaScript Project.
-* Prep for Personal Pitch workshop by reading through the [personal pitch][personal-pitch] reading.
-* Prep for the Online Presence lecture by reading through the following:
-  * [AngelList][angellist]
-  * [LinkedIn][linkedin]
-  * [Github][github]
-  * [Personal Portfolio][portfolio]
-  * [Google Analytics][google-analytics]
+
   
 
 ### Afternoon
