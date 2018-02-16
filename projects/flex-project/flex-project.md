@@ -40,7 +40,7 @@ Basically, on W10D5, you will spend 9:00AM - 12:00pm working on on your pre-prop
 * A few backup ideas (no need to put too much time into this, unless you really don't like you first choice).
 * A detailed plan of how you will spend your weekend laying the ground work for your flex project.
 
-At 4:30pm, each group will have about 10 minutes to chat with coaches and TAs about their pre-proposal. During this time, they'll receive feedback about their project as well as how they should be spending their time over the weekend.
+At 4:30pm, each group will have about 10 minutes to chat with coaches about their pre-proposal. During this time, they'll receive feedback about their project as well as how they should be spending their time over the weekend.
 
 ## Flex Project Proposal
 
