@@ -4,8 +4,7 @@
 
 ### Afternoon
 
-#### Lecture
-* **Negotiations**
+#### Lecture - Negotiations
 
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
@@ -17,6 +16,7 @@
 [offer-negotiation]: soft-skills/negotiating/email-negotiations.md
 [salary-data]: soft-skills/negotiating/salary-data.md
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
+
 
 * **Architecture Part 2**
 
