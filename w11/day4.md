@@ -6,6 +6,19 @@
 
 #### Lecture
 * **Negotiations**
+
+### Negotiations and Accepting an Offer
+* Read about [negotiating an offer][offer-negotiation].
+* Get some data points for [salary negotiations][salary-data].
+* You can also check out this [HackerNews article][hn-negotiation-article]
+* [How Not to Bomb Your Offer Negotiation](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/) by a/A grad Haseeb Qureshi (Software Engineer at Airbnb)
+* Find out about [Stock options, equity, RSU's and more](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp)
+
+[hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
+[offer-negotiation]: soft-skills/negotiating/email-negotiations.md
+[salary-data]: soft-skills/negotiating/salary-data.md
+[hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
+
 * **Architecture Part 2**
 
 #### Mock Interviews & Pairboarding
