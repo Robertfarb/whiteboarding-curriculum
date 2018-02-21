@@ -7,7 +7,6 @@
 #### Lecture
 * **Negotiations**
 
-### Negotiations and Accepting an Offer
 * Read about [negotiating an offer][offer-negotiation].
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNews article][hn-negotiation-article]
