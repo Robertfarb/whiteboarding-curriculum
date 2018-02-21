@@ -18,7 +18,7 @@
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 
-* **Architecture Part 2**
+#### Architecture Part 2
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
