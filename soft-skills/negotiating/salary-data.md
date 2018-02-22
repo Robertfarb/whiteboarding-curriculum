@@ -1,4 +1,4 @@
-#What do Web Developers Make?
+# What do Web Developers Make?
 
 Let's consider the data. Keep in mind that you are more mid-level than junior when you come out of App Academy. Junior means you know how to program and can pick up Rails in the first few months of the job. Mid-level means you've built Rails apps before so you can already debug and implement features.    
 
@@ -10,7 +10,7 @@ hired several a/A grads. Those numbers don't mean anything to most companies and
 are too easy to deflect.*
 
 
-##Indeed
+## Indeed
 
  Check out Indeed's latest salary average for Developers    
   * For a San Francisco [Rails Developer][sf-rails] and [Front End Developer][sf-front-end].
