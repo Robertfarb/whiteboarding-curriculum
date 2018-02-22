@@ -6,8 +6,8 @@
 
 #### Lecture - Negotiations
 
-* Read about [negotiating an offer][offer-negotiation].
-* Get some data points for [salary negotiations][salary-data].
+* Read about [negotiating an offer][https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/email-negotiations.md].
+* Get some data points for [salary negotiations][https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/salary-data.md].
 * You can also check out this [HackerNews article][hn-negotiation-article]
 * [How Not to Bomb Your Offer Negotiation](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/) by a/A grad Haseeb Qureshi (Software Engineer at Airbnb)
 * Find out about [Stock options, equity, RSU's and more](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp)
