@@ -15,7 +15,7 @@ are too easy to deflect.*
  Check out Indeed's latest salary average for Developers    
   * For a San Francisco [Rails Developer][sf-rails] and [Front End Developer][sf-front-end].
 
-##[Robert Half Salary Guide](https://www.roberthalf.com/salary-guide)
+## [Robert Half Salary Guide](https://www.roberthalf.com/salary-guide)
 
 The Robert Half Salary Guide is an industry reference for salaries
 averages in different fields. According to its numbers, a web developer
