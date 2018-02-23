@@ -1,7 +1,7 @@
 # Time Complexity Workshop
 
 
-### October Cohort: This is a solo exercise this time, with no solutions :) Please submit your answers [HERE](https://goo.gl/forms/7BYZeH1VEmSyy1Rq1)
+### December Cohort: This is a solo exercise this time, with no solutions :) Please submit your answers [HERE](https://goo.gl/forms/7BYZeH1VEmSyy1Rq1)
 
 Today we're going to practice analyzing a few functions' time complexities. This is a unique topic; you'll have to be able to conjure the time complexity of your code on the spot in interviews, and you'll be expected to do so without the benefit of Googling the basics (like "What is a logarithm?"). 
 
@@ -12,7 +12,7 @@ over to the solutions to make sure you and your partner got it right and to
 be sure that you understand before moving on! Don't look ahead in the solutions!
 3. The partner sitting on the left is now **Partner A**, and on the right sits **Partner B**.
 4. The `placements-queue` will be open during this workshop, but since only 
-Andrew and Josh will be available (TAs are starting to grade flex projets), please
+Andrew and Trevor will be available (TAs are starting to grade flex projets), please
 first discuss with your partner, then refer to the solutions, and then if you
 still don't understand, then ask for help on the `placements-queue`.
 
@@ -194,6 +194,7 @@ Recursive functions are among the toughest to evaluate for time complexity. Reme
 
 Let's start with something nice and simple. Don't forget to find the constant factor! (As a bonus, figure out a better name for this function than `rec_mystery` -- what is it doing?)
 
+4.
 ```ruby
 def rec_mystery(n)
   return n if n < 5
@@ -203,6 +204,7 @@ end
 ```
 Let's change things ever so slightly.  Now what is the time complexity?
 
+5.
 ```ruby
 def rec_mystery_2(n)
   return 0 if n == 0
@@ -213,6 +215,7 @@ end
 
 Now let's add in a bit of complexity with some extra variables in the mix.
 
+6.
 ```java
 void rec_mystery_3(int n, int m, int o)
 {
@@ -231,6 +234,7 @@ void rec_mystery_3(int n, int m, int o)
 The next one is a bit harder. If you're stumped, feel free to take a look
 at the solution, and then come back and try to explain in your own words.
 
+7.
 ```ruby
 class Array
   def grab_bag
