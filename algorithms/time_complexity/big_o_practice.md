@@ -50,7 +50,7 @@ Ok, now move onto this one. It's **Partner B**'s turn to explain:
 ```ruby
 def print_arr_1(arr)
   arr.each do |idx|
-    puts el
+    puts idx
   end
 end
 ```
