@@ -13,16 +13,14 @@
 ### Late Morning
 * Roll call at 10am
 * Finish Dynamic Arrays Project
+* Office hours from 10:00-12:00
 
 ### Afternoon
 
 * Dynamic Arrays Project Review (1:30 - 3:00)
-* [Pairboarding][pair-boarding-index]
+* [Pairboarding][pair-boarding-index] (3:00-4:30)
 * HashMap/LRU Cache Video Lectures & Project
     * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
-
-### Evening
-* Come get valuable advice from one of our recent alum, Sweta, from 7 - 9pm. Sweta is currently a software engineer at Munchery! (Optional, but highly recommended) 
 
 ### Bonus
 
