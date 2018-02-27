@@ -45,7 +45,7 @@ As you can see, this process takes `O(n)` time for an array of size `n`, since w
 
 You can probably think of a few potential approaches to this problem.  Perhaps we could add one space only when we need it; perhaps we could add 100.  Take a moment to formulate an idea or two for how *you* might approach this problem.  After we detail our approach, go back and ask yourself if any of your ideas would have resulted in the same (or better!) time complexity for our basic functionality.  
 
-The approach we will use is this: each time we find ourselves in a situation where our allocated space is too small, we will *double* the current size of the array, reallocate memory, and copy over the elements currently stored in the array.  As an example, imagine that we create a static array of size 5.  We allocate a large enough space in memory and push in elements <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, <i>a</i><sub>3</sub>, and <i>a</i><sub>4</sub>:
+The approach we will use is this: each time we find ourselves in a situation where our allocated space is too small, we will *double* the current size of the array, reallocate memory, and copy over the elements currently stored in the array.  As an example, imagine that we create a static array of size 4.  We allocate a large enough space in memory and push in elements <i>a</i><sub>1</sub>, <i>a</i><sub>2</sub>, <i>a</i><sub>3</sub>, and <i>a</i><sub>4</sub>:
 
 <img src="./diagrams/filled_array.png" />
 
