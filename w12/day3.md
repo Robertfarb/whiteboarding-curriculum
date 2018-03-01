@@ -19,11 +19,6 @@
       * [Heapsort 1][heapsort1]
       * [Heapsort 2][heapsort2]
 
-### Evening
-#### Alumni Panel
-* Guest Alumni Panel at 6:30pm (optional, recommended)
-  * Ask about life as a software engineer, tips for people coming from an App Academy background, strategies for the job search, and more!
-
 ### Bonus
 
 * Start on some linked list problems from [Elements of Programming Interview][elements-book] or [HackerRank][hackerrank].
