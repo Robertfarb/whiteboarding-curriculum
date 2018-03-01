@@ -1,13 +1,13 @@
 ## W12D5
 ### Homework
 
-### Morning Off
-* It's the day after Graduation! Attendance is **not required** this morning.
+### Morning
+* Office hours 10AM-12PM
 
 ### Afternoon
 
-* Roll call at 1:30pm
-* Quicksort project review
+* TalentMatch Intro at 1:30
+* Quicksort project review at 2:00
 * [Pairboarding][pairboarding-index]
 * Binary Search Tree Video Lectures and Project
     * First watch the video: [Binary search tree][binary-search-trees-vid]
