@@ -5,7 +5,7 @@
 * Continue to implement instructor feedback on your projects.
 
 ### Late Morning
-* Roll call at 10am to facilitate evening's alumni panel.
+* Roll call at 10am 
 * Complete HashMap/LRU Cache Project.
 
 ### Afternoon
