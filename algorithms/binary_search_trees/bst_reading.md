@@ -65,7 +65,7 @@ You may wonder why we chose to insert using this algorithm.  Perhaps you can ima
 
 There are a couple other unanswered questions about this algorithm, too.  First, does it always work?  Will we always be able to find a "landing" position for the element we wish to insert?  The answer is yes -- so long as all of our elements are pairwise comparable (that is, we can always tell whether `node1 > node2` or `node1 < node2`).  If this is the case, then each step of our algorithm can always be resolved.  And of course, since our tree is necessarily of finite size, we will always encounter an endpoint at which we can place our node.  
 
-One last point: what about the case in which out data set *does* contain repeats?  This is a common problem that we must address.  Our solution is to change our BST definition only slightly: instead of requiring that all elements of left subtree are less than the root, we'll require that all elements are *less than or equal to* the root. We also must propagate this change to our `#insert` method -- exactly how is left to you as an exercise.
+One last point: what about the case in which our data set *does* contain repeats?  This is a common problem that we must address.  Our solution is to change our BST definition only slightly: instead of requiring that all elements of left subtree are less than the root, we'll require that all elements are *less than or equal to* the root. We also must propagate this change to our `#insert` method -- exactly how is left to you as an exercise.
 
 ## Key Operation 2: `#find`
 
