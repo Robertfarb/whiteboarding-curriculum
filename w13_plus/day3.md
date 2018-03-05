@@ -30,3 +30,7 @@
 [graphs-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d1
 [topological-sort-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d2
 [topological-sort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w13d2/project6
+
+### Evening
+
+* Q&A with guest speakers & alumni from 6:30-8:30PM
