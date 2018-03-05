@@ -13,7 +13,7 @@
 
 ### Afternoon
 
-* Roll call at 2:30pm
+* Roll call at 1:30pm
 * Solution review: Graphs and Topo Sort
 * [Pair Boarding][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
