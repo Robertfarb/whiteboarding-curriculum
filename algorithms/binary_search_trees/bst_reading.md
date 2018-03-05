@@ -307,9 +307,9 @@ We'll do our recording by pushing into an array, `results = []`.
 
 **Step 3b.** Record the value of `root` = `5`. Now, `results = [0, 2, 3, 4, 5]`.
 
-**Step 3c.** Perform an in-order traversal of the right subtree, another singleton node, `6`. After this step, `results = [0, 2, 3, 4, 6]`.
+**Step 3c.** Perform an in-order traversal of the right subtree, another singleton node, `6`. Then, we are back in the context of its parent, so we record the value of the root. After this step, `results = [0, 2, 3, 4, 6, 10]`.
 
-Lo and behold, we return our sorted data set, `[0, 2, 3, 4, 6]`.
+Lo and behold, we return our sorted data set, `[0, 2, 3, 4, 6, 10]`.
 
 ## Your Turn
 
