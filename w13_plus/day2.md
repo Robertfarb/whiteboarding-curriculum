@@ -20,7 +20,7 @@
 
 ### Evening
 
-#### Dynamic Programming Video Lectures
+#### Dynamic Programming Video Lectures (1.5 hours)
 
 * Password: go_video_go
 * [Intro to Dynamic Programming][intro to dp]
