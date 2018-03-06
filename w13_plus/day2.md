@@ -17,8 +17,19 @@
 * Solution review: Graphs and Topo Sort
 * [Pair Boarding][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
-* Optional Dynamic Programming lecture from 5-6PM
-* [Additional Videos](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding-videos.md)
+
+### Evening
+
+#### Dynamic Programming Video Lectures
+
+* Password: go_video_go
+* [Intro to Dynamic Programming][intro to dp]
+* [Burglar Problem][burglar problem]
+* [Max Sum to Leaf][max_sum_to_leaf]
+
+[intro to dp]: https://vimeo.com/251363058
+[burglar problem]: https://vimeo.com/255637214
+[max_sum_to_leaf]: https://vimeo.com/256648012
 
 <!-- LINKS -->
 
