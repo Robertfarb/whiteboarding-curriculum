@@ -6,7 +6,12 @@
 ### Morning
 
 * Roll call at 10am.
-* Application Material Work Time
+* Create an action plan for each project you will work on next week:
+  * What will you accomplish by the engineering showcase on Tuesday?
+  * What will you accomplish by Friday?
+  * In which order will you feature this project on your resume? (strongest projects first)
+* Add each action plan as a comment on the project page on Jobberwocky
+* If you finish early, spend the remaining time working on your job application materials
 
 
 ### Afternoon
