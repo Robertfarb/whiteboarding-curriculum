@@ -1,7 +1,7 @@
 ## W13D4
 ### Homework & Daily Tasks
 
-* Continue applying to companies!  40 application quota begins this week.
+* Start applying to companies!  40 application quota begins next week.
 
 ### Morning
 
