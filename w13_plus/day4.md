@@ -17,7 +17,7 @@
 ### Afternoon
 
 * Roll call at 1:30pm
-* Frontend Testing Workshop
+* Coding Challenge Workshop
 * [Pair Boarding][pair-boarding-index]
 
 <!-- LINKS -->
