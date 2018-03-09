@@ -6,7 +6,7 @@
 
 ### Afternoon
 * Frontend Testing Workshop (1:30-4:00)
-  * http://redux.js.org/docs/recipes/WritingTests.html
+  * https://redux.js.org/recipes/writing-tests
   * https://facebook.github.io/jest/docs/en/expect.html
 * Send off lecture (4:00-5:00)
 * Graduation party! (5:00-7:00)
