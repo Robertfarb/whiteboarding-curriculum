@@ -24,6 +24,7 @@ Here's how.
 Then...
 
 Use an amazing Subject Line so you get noticed.  Do not be shy.  Personalize it.  Examples:
+
 *"Looking for an awesome developer?  My name is _____"*
 
 *"Hey Joe.  Amazing Front End Developer Here.  I'm (insert name here)*
