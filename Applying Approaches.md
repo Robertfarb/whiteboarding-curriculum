@@ -34,11 +34,11 @@ Use an amazing Subject Line so you get noticed.  Do not be shy.  Personalize it.
 Be bold or go home.  What might make you stand out?  If they do not open your email, no harm done.  
 If they do....hopefully they call.
 
-# It is recommended to email ALL THE RECRUITERS AT A COMPANY.  
+### It is recommended to email ALL THE RECRUITERS AT A COMPANY.  
 
-a) It will show them you are interested in a position and 
+> a) It will show them you are interested in a position and 
 
-b) you never know what other roles they might be hiring for.  Following is a sample email you can write:
+> b) you never know what other roles they might be hiring for.  Following is a sample email you can write:
 
 **_Hi (Name here)_**
 
@@ -53,4 +53,12 @@ this week?_**
 
 **_In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
 to hearing from you._**
+
+# RESOURCE LIBRARY
+
+One thing to know about is our updated [App Academy Resource Page](https://docs.google.com/document/d/11hHOGz3UOpGIbWu4cQoWF8bqeobO5YOobmUgVNqEL_o/edit)  On this page your will find:
+A plethora of applying resources
+Ways for you to study
+Ways to network
+Tons of technical and non technical interview questions
 
