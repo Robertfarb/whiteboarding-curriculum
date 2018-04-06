@@ -57,8 +57,12 @@ to hearing from you._**
 # RESOURCE LIBRARY
 
 One thing to know about is our updated [App Academy Resource Page](https://docs.google.com/document/d/11hHOGz3UOpGIbWu4cQoWF8bqeobO5YOobmUgVNqEL_o/edit)  On this page your will find:
+
 A plethora of applying resources
+
 Ways for you to study
+
 Ways to network
+
 Tons of technical and non technical interview questions
 
