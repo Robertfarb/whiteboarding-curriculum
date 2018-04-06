@@ -1,5 +1,5 @@
 
-## DIVERSIFY YOUR SEARCH 
+## DIVERSIFY YOUR SEARCH
 
 It seems like many job seekers are only looking on AngelList, Indeed and LinkedIn.  Time to diversify!  Please use Google search 
 (ie. Software developer jobs Bay area.  Ruby jobs San Francisco) as it aggregates many various platforms and you can really 
@@ -14,15 +14,21 @@ Here is what I am noticing.  Job seekers who are reaching out directly to people
 Here's how.
 
 > Apply for a job
+
 > Go to LinkedIn and find out who the recruiters/engineers are
+
 > Get CLEARBIT CONNECT which is a free Chrome extension
+
 > Get DIRECT EMAIL ADDRESSES
+
 Then...
 
 Use an amazing Subject Line so you get noticed.  Do not be shy.  Personalize it.  Examples:
-"Looking for an awesome developer?  My name is _____"
-"Hey Joe.  Amazing Front End Developer Here.  I'm (insert name here)"
-"Sue, I'm Joan Smith.  Software Engineer.  Check me out."
+*"Looking for an awesome developer?  My name is _____"*
+
+*"Hey Joe.  Amazing Front End Developer Here.  I'm (insert name here)*
+
+*"Sue, I'm Joan Smith.  Software Engineer.  Check me out."*
 
 Be bold or go home.  What might make you stand out?  If they do not open your email, no harm done.  
 If they do....hopefully they call.
