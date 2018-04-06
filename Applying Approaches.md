@@ -34,20 +34,23 @@ Use an amazing Subject Line so you get noticed.  Do not be shy.  Personalize it.
 Be bold or go home.  What might make you stand out?  If they do not open your email, no harm done.  
 If they do....hopefully they call.
 
-It is recommended to email ALL THE RECRUITERS AT A COMPANY.  a) It will show them you are interested in a position and b) you never 
-know what other roles they might be hiring for.  Following is a sample email you can write:
+# bIt is recommended to email ALL THE RECRUITERS AT A COMPANY.  
 
-**_Hi (Name here)_*
+a) It will show them you are interested in a position and 
 
-**_Today I applied for the Software Developer position I saw on XXXXX and noticed you are a Recruiter at Amazing Company.  
+b) you never know what other roles they might be hiring for.  Following is a sample email you can write:
+
+**Hi (Name here)*
+
+**Today I applied for the Software Developer position I saw on XXXXX and noticed you are a Recruiter at Amazing Company.  
 While I do not know if you are the right person to connect with I definitely have the  (Ruby, Front end, Full Stack, Angular, etc.) 
 experience that your team is seeking.  I am a skilled developer who can code quickly and also believe I would be a great fit for 
-your team who could hit the ground running._*
+your team who could hit the ground running.*
 
-**_I know you are super busy, but I would really enjoy the opportunity to hop on a quick Skype/call to learn more about what 
+**I know you are super busy, but I would really enjoy the opportunity to hop on a quick Skype/call to learn more about what 
 roles you and your team are recruiting for and to learn more about you and the company.  Might you be free to chat for 15 minutes 
-this week_?*
+this week?*
 
-**_In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
-to hearing from you._*
+**In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
+to hearing from you.*
 
