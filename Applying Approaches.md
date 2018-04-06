@@ -38,15 +38,16 @@ I would email ALL THE RECRUITERS AT A COMPANY.  a) It will show them you are int
 know what other roles they might be hiring for.  Following is a sample email you can write:
 
 *Hi (Name here)
-Today I applied for the Software Developer position I saw on XXXXX and noticed you are a Recruiter at Amazing Company.  
+
+*Today I applied for the Software Developer position I saw on XXXXX and noticed you are a Recruiter at Amazing Company.  
 While I do not know if you are the right person to connect with I definitely have the  (Ruby, Front end, Full Stack, Angular, etc.) 
 experience that your team is seeking.  I am a skilled developer who can code quickly and also believe I would be a great fit for 
 your team who could hit the ground running.
 
-I know you are super busy, but I would really enjoy the opportunity to hop on a quick Skype/call to learn more about what 
+*I know you are super busy, but I would really enjoy the opportunity to hop on a quick Skype/call to learn more about what 
 roles you and your team are recruiting for and to learn more about you and the company.  Might you be free to chat for 15 minutes 
 this week?
 
-In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
-to hearing from you.*
+*In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
+to hearing from you.
 
