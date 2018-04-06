@@ -1,5 +1,5 @@
 
-## DIVERSIFY YOUR SEARCH
+# DIVERSIFY YOUR SEARCH
 
 It seems like many job seekers are only looking on AngelList, Indeed and LinkedIn.  Time to diversify!  Please use Google search 
 (ie. Software developer jobs Bay area.  Ruby jobs San Francisco) as it aggregates many various platforms and you can really 
@@ -8,9 +8,9 @@ customize your search based on the type of job you are seeking, area, date job w
 Also, remember...Many companies do not put their jobs on specialty sites.  When applying, please also go to company websites and 
 their Career pages.
 
-## GET PERSONAL
+# GET PERSONAL
 
-Here is what I am noticing.  Job seekers who are reaching out directly to people are getting a higher percentage of response.  
+Here is what I am noticing.  Job seekers who are reaching out directly to people are getting a higher percentage of responses.  
 Here's how.
 
 > Apply for a job
