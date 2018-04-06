@@ -6,7 +6,7 @@ It seems like many job seekers are only looking on AngelList, Indeed and LinkedI
 customize your search based on the type of job you are seeking, area, date job was posted.  
 
 Also, remember...**Many companies do not put their jobs on specialty sites.  When applying, please also go to company websites and 
-their Career pages.
+their Career pages.**
 
 # GET PERSONAL
 
