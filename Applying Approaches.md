@@ -46,7 +46,7 @@ your team who could hit the ground running.
 
 *I know you are super busy, but I would really enjoy the opportunity to hop on a quick Skype/call to learn more about what 
 roles you and your team are recruiting for and to learn more about you and the company.  Might you be free to chat for 15 minutes 
-this week?
+this week?*
 
 *In advance, I have attached my resume for your review and really appreciate your consideration and look forward 
 to hearing from you.
