@@ -41,7 +41,7 @@ Your life story should be just that -- *a story.*  It should have a beginning, m
 Notice that each part of the story includes specific details such as time/place, projects, and accomplishments.  A few specifics are critical for your listener to fully understand your story.
 
 ## HELPFUL TIP 1:  
-When creating your personal pitch keep in mind that about 40% should be about you and 60% should be about your life/experience as a developer (How you got started, what you have done/are working on, why you love the industry, etc.) 
+When creating your personal pitch keep in mind that about 40% should be about you and 60% should be about your life/experience as a developer (How you got started, what you have done/are working on, why you love the industry, etc.) BE SPECIFIC...what have you done tech related (ie.  HTML, CSS, C, Java).
 
 ## HELPFUL TIP 2:
 Your pitch IS important.  The best way to practice are as follows:
