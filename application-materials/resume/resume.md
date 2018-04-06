@@ -69,7 +69,7 @@ This is flexible. **If you have professional software experience (i.e. you were 
     * Link to live site
     * Link to Github Repo
     
-## FOLLOWING IS A LINK TO A [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) WHERE YOU WILL NEED 100 POINTS## 
+## FOLLOWING IS A LINK TO A [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) WHERE YOU WILL NEED 100 POINTS
 
 
 ## Phase 2: Projects
