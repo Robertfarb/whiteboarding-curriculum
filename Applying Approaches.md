@@ -3,9 +3,9 @@
 
 It seems like many job seekers are only looking on AngelList, Indeed and LinkedIn.  Time to diversify!  Please use Google search 
 (ie. Software developer jobs Bay area.  Ruby jobs San Francisco) as it aggregates many various platforms and you can really 
-customize your search based on the type of job you are seeking, area, date job was posted.  When searching click on the blue bar.
+customize your search based on the type of job you are seeking, area, date job was posted.  
 
-Also, remember...Many companies do not put their jobs on specialty sites.  When applying, please also go to company websites and 
+Also, remember...**Many companies do not put their jobs on specialty sites.  When applying, please also go to company websites and 
 their Career pages.
 
 # GET PERSONAL
