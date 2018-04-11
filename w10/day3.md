@@ -2,8 +2,6 @@
 ### Homework Due Today
 * Continue working on [JavaScript Project][js-project]
 * Personal Pitch video due on Jobberwocky at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
-* Prep for Resume Lecture by reading through [resume reading][resume]
-* Get ready for your first [peer review][peer-review]
 * Prep for [flex project introduction][flex-project]
 
 ### Afternoon
