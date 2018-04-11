@@ -40,6 +40,9 @@
 #### Work time
 * [Flex project][flex-project] (5 - 6pm)
 
+## HOMEWORK FOR TOMORROW
+PAR (Problem/Action/Results) Worksheet due tomorrow on JOBBERWOCKY by 9am
+
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
