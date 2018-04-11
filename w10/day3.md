@@ -24,7 +24,7 @@
 * Start thinking about your [flex project][flex-project].
 * Work on [resumes][resume] (due TOMORROW at 9am)
 
-* THE FOLLOWING READINGS ARE QUICK READS SO PLEASE REVIEW:
+THE FOLLOWING READINGS ARE QUICK READS SO PLEASE REVIEW:
 * [Github Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md)
 * [LinkedIn Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md)
 * [AngelList Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/angellist/angellist.md)
