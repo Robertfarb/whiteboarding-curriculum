@@ -133,9 +133,9 @@ Once you have a strong template cover letter, the process of writing a new cover
 
 ## Sample Cover Letter
 
-# Click here for some additional [SAMPLE COVER LETTER TEMPLATES](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/Sample-Cover-Letters.md)
+## Click here for some additional [SAMPLE COVER LETTER TEMPLATES](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/Sample-Cover-Letters.md)
 
-Here are some examples:
+Here are some example paragraphs:
 
 [Salutation] Hello GeneriCo’s Team,
 
