@@ -19,7 +19,6 @@ just look at the lower salary.
 
 # Here is a great [article on Stock Options and more](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp)
 
-Also: **I am not a lawyer**.
 
 ## Stock Options
 
