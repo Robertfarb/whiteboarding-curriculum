@@ -19,8 +19,9 @@
 
 ### Projects and Assignments to Work on This Weekend
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
-* Work on [cover letters][cover-letter] (due W11D1 at 9am)
 * Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
+* Read about [Behavioral Questions][behavioral-questions].
+  * Familiarize yourself with more [behavioral questions][31-questions].
 * Bonus: [portfolio site][portfolio]
 
 <!-- LINKS -->
