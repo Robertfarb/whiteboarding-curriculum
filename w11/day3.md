@@ -17,6 +17,11 @@
 ### Projects
 * [Flex Project][flex-project]
 
+### HOMEWORK FOR TOMORROW
+* Read about [negotiating an offer](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/email-negotiations.md).
+* Read abut [Stock options and equity](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/equity.md)
+* Get some data points for [salary negotiations](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/salary-data.md).
+
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
