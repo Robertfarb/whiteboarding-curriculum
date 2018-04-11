@@ -7,6 +7,7 @@
 #### Lecture - Negotiations
 
 * Read about [negotiating an offer](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/email-negotiations.md).
+* Read abut [Stock options and equity](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/equity.md)
 * Get some data points for [salary negotiations](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/salary-data.md).
 * You can also check out this [HackerNews article][hn-negotiation-article]
 * [How Not to Bomb Your Offer Negotiation](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/) by a/A grad Haseeb Qureshi (Software Engineer at Airbnb)
