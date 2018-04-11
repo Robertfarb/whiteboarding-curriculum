@@ -5,6 +5,8 @@ Employers are busy and typically spend between 15-30 seconds scanning your mater
 
 A strong cover letter shows that *you’ve done research on the company and that your skills are a good fit for the company*.  To increase your chances of getting a screening interview, below are key strategies for writing a compelling cover letter that will get your application noticed.
 
+## Click here for some additional [SAMPLE COVER LETTER TEMPLATES](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/Sample-Cover-Letters.md)
+
 ## Get Organized
 Based on the research you’ve done, make an outline and list what you want to emphasize in each paragraph.  Your cover letter should include:
 
