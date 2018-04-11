@@ -232,3 +232,8 @@ That's why it's important to multiply by zero.
 ## 83(b)
 
 There are tax reasons why you might want to exercise early. Read about 83(b) elections if you want to waste more time on this, or just enjoy tax laws.
+
+# NEGOTIATION LECTURE VIDEO
+Prior to discussing any negotiation, please review our [NEGOTIATION LECTURE](https://vimeo.com/204132917)
+
+Password is:  go_video_go
