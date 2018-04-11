@@ -23,6 +23,10 @@
 
 * Start thinking about your [flex project][flex-project].
 * Work on [resumes][resume] (due TOMORROW at 9am)
+* REVIEW:  [Github Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md)
+* REVIEW: [LinkedIn Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md)
+* REVIEW:  [AngelList Reading](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/angellist/angellist.md)
+
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
