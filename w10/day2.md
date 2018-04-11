@@ -1,6 +1,7 @@
 ## W10D2
 ### Homework
 * Check your [calendar][calendar] for events happening today. Note times for office hours and lectures.
+* Personal Pitch video due on Jobberwocky TOMORROW at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
 * Work on JavaScript Project.
 
   
