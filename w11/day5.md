@@ -1,6 +1,7 @@
 ## W11D5
 ### Homework
 * Continue working on flex project.
+* For Monday REVIEW [NETWORKING MATERIALS](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
 
 ### Morning
 * Flex project work time
