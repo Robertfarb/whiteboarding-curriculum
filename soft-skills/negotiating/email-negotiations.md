@@ -1,5 +1,6 @@
 # NEGOTIATION LECTURE VIDEO
 Prior to discussing any negotiation, please review our [NEGOTIATION LECTURE](https://vimeo.com/204132917)
+
 Password is:  go_video_go
 
 # Negotiation Emails
