@@ -6,10 +6,7 @@
   * Upload your proposal to a github repo
   * Submit your proposal by pasting in your repo url under Flex Project in [Jobberwocky][Jobberwocky].
   * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
-* **Resume due on Jobberwocky by 9am.**
-  * Paste in your Google doc version where it says `Google Doc URL`.
-  * If you have a pretty version, paste it in as a 'To Do'.
-* **Cover Letter due on Jobberwocky by 9am.**
+
 * **Complete [LinkedIn profile][linkedin] by 9am**
   * Link to your LinkedIn on your resume.
 * Read about [Behavioral Questions][behavioral-questions].
