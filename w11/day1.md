@@ -32,7 +32,7 @@
 
 #### Lecture & Workshop
 * **[Behavioral Interviewing][behavioral-questions]**. Bring pen and paper or a computer.
-* **[Problem/Action/Result Worksheet](https://docs.google.com/presentation/d/15ZM9azUssmhUL6A1apWdh76ceIi2OVMQw-Bj9iX6f64/edit#slide=id.p)
+**[Problem/Action/Result Worksheet](https://docs.google.com/presentation/d/15ZM9azUssmhUL6A1apWdh76ceIi2OVMQw-Bj9iX6f64/edit#slide=id.p)
 
 #### Workshop
 * UX testing
