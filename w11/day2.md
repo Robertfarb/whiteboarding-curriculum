@@ -1,7 +1,7 @@
 ## W11D2
 ### Homework
 
-* PAR SHEETS DUE TUES 9am
+* PAR SHEETS DUE Today 9am
 * Continue working on flex project.
 
 ### Morning
