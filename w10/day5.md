@@ -15,8 +15,6 @@
    * Detailed timeline of how each group member will spend their time to get ramped up for the flex project. (ie. tutorials for new technologies, building a simple CRUD app using that new stack, etc.)
 * Start presenting Flex Project Pre-Proposals to Coaches
 
-* 3-6pm [Cover Letters/Written Presence][cover-letter]
-
 ### Projects and Assignments to Work on This Weekend
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
 * Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
