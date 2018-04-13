@@ -2,7 +2,7 @@
 ### Homework
 * Work on JavaScript Project (due Friday morning at 9am).
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
-* Prep for the cover letter/Written Presence lecture today by going through the [reading][cover-letter].
+
 
 ### Afternoon
 
