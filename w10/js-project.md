@@ -261,7 +261,3 @@ Note:
 * Job Search is crazy hard, harder than what you have done so far. We know it’s hard! But, we shape our curriculum to prepare you for the challenges of the Job Search!
 * You will be basically on your own. That is on purpose; in the real world you have to learn a lot on your own.
 * Your TAs and Job Coaches are here to support you, but you must show independence and self-direction.
-
----
-
-# Questions?
