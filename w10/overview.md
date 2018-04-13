@@ -22,7 +22,7 @@
   * [Day 6-7](./day6-7.md)
   <!-- LINKS -->
   <!-- Job Search Projects -->
-  [js-project]: https://docs.google.com/presentation/d/1Tx5FiNujBGygj2QWQun-OJSTpD549p-D5YHysWFGMno/edit#slide=id.g11cb08b625_0_0
+  [js-project]: ./js-project.md
   [flex-project]: ../projects/flex-project/flex-project.md
   [resume]: ../application-materials/resume/resume.md
   [cover-letter]: ../application-materials/cover-letter/cover-letter.md
