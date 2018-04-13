@@ -106,33 +106,29 @@ When answering these questions, the key is to point out features you built that 
 
 ### Example bullet points:
 
-* Integrated Google Maps API by retrieving coordinates rom PostgressSQL database and presented the locations of the business on Google Maps
-* Utilized Flux architecture's unidirectional data flow with React for reliablle DOM rendering
+* Integrated Google Maps API with the Ruby Geocoder gem and custom search functionality to dynamically present business locations based on user parameters.
+* Utilized Redux architecture's unidirectional data flow with React for predictable state and reliablle DOM rendering
 * Used observer pattern to handle management of global Z-indexes for overlapping items.
-* Implemented the Ignite framework which employs popular react packages including redux sauce, redux sagas, react native router flux, and react native swiper
 * Lowered latency of DB read/write by factor of 7 by using Unicorn to enable virtual multi-threaded processing.
-* Used xcode in conjunction with React Native library to hook into mobile device cameras and geolocation
-* Designed dynamic data-visualizations with Javascript algorithms based on user input
-* Created custom modal framework using React parent component, allowing for efficient development of new forms.
+* Used xcode in conjunction with React Native library to hook into mobile device cameras and geolocation.
+* Designed dynamic data-visualizations with Javascript implemented algorithms based on user input
+* Created custom modal framework using React component architecture allowing for efficient development of new forms.
 * Created top-level music player using HTML5 audio and React, giving the user seamless audio streaming during navigation.
 * Leveraged custom event listeners and the Redux cycle to dynamically sync audio waveforms and play-pause toggle buttons with music player.
 * Utilized CSS media queries to create a fully responsive, device agnostic design. 
 * Configured the Node backend with PostgreSQL, using the Sequelize ORM for validations and database queries.
-* Structured Express app to follow the MVC framework and engineered JSON REST API for CRUD operations.
+* Incorporated MVC architecture with Polymorphic model associations, reducing the number of required tables by almost 50%.
 * Implemented local strategy for user authentication with Passport.js, using BCrypt for password hashing.
 * Generated intelligent, movement-based animation using asynchronous Javascript.
-* Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
+* Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to predict future player direction and movement.
 * Utilized HTML Image Maps to allow users to click directly on an item in a photograph.
-* Recorded user activity using React Router and browser history to create a seamless user
-experience during authentication process.
-* Implemented user authentication to persist a user's cart to subsequent sessions.
-* Queried database and filtered results using jBuilder to allow users to search by product
-keywords.
+* Recorded user activity using React Router to create a seamless user
+experience during authentication process and app navigation.
+* Processed and displayed reat-time BTC price data in the Sentiment Analysis by simultaneously leveraging Twitter Streaming API and CoinBase Digital Currency API
 * Designed intuitive, device-agnostic UI using Adobe Xd to meet Progressive Web
 App (PWA) standards.
-* Hand-rolled responsive calendar using pure CSS to display logged infusions.
-* Implemented user authentication using Passport.JS to persist user information to
-subsequent sessions.
+* Developed a custom responsive calendar using CSS3 to display logged infusions.
+
 
 
 [keywords]: resume-keywords.md
