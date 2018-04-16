@@ -84,16 +84,16 @@ __Result__: "Integrates Google Maps API with geolocation based searching to disp
 
 ## Notes from a Technical Coach:
 
-All of our bullet points should be substantive.  A good pattern to follow is the following:
+All obullet points should be substantive.  A good pattern to follow is the following:
 
-> # GOOD:
+> ### GOOD:
 "Used [technology] to implement [feature/idea/functionality] allowing for [very brief description of the capabilities]"
 
 Example: "Utilized AWS S3 and the Paperclip gem to implement user image uploads reducing server load and allowing for scalability of image services." 
 
 We do not want to you use overly simple, un-substantive, or all jargon bullet points. We also do not want to simply describe what our apps do:
 
-> # BAD:
+> ### BAD:
 "Implemented CRUD functionality for note taking."
 "Persisted user data with AJAX requests to the Rails backend"
 "Leveraged ActiveRecord in Rails to make queries to the PostgreSQL database and generate JSON views with the jBuilder gem."
@@ -109,7 +109,7 @@ We do not want to you use overly simple, un-substantive, or all jargon bullet po
 
 > We want to avoid terms like 'handrolled' and 'vanilla' in a resume.  They are fine in conversation, but don't read well on a resume.  Instead use words like 'custom'  or say that you 'designed' or 'implemented' the idea or technology in question.  Rather than say 'vanilla' you can use the term 'basic' in some cases  (like when you build your own middleware from basic javascript) or simply say the name of the tech or library without any qualifiers.  It conveys the same message.
 
-Also, we do not want to talk about the amount of time it took to build our apps or their features.  It does not read as impressive when you say "Implemented music sharing functionality in 2 weeks."  If you want to highlight an impressive time constraint (say, 48 hours for a fullstack app at a hackathon) Include the name of the event/the amount of time you took to build it in parenthesis in the description of the app before the bullet points, BUT DO THIS SPARINGLY.
+> Also, we #do not want to talk about the amount of time it took to build our apps or their features.#  It does not read as impressive when you say "Implemented music sharing functionality in 2 weeks."  If you want to highlight an impressive time constraint (say, 48 hours for a fullstack app at a hackathon) Include the name of the event/the amount of time you took to build it in parenthesis in the description of the app before the bullet points, BUT DO THIS SPARINGLY.
 
 
 ### To help get you brainstorming:
