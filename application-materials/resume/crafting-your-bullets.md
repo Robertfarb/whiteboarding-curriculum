@@ -84,33 +84,34 @@ __Result__: "Integrates Google Maps API with geolocation based searching to disp
 
 ## Notes from a Technical Coach:
 
-All obullet points should be substantive.  A good pattern to follow is the following:
+Bullet points should be substantive.  A good pattern to follow is the following:
 
-> ### GOOD:
-"Used [technology] to implement [feature/idea/functionality] allowing for [very brief description of the capabilities]"
+<b> GOOD:</b>
+<b> "Used [technology] to implement [feature/idea/functionality] allowing for [very brief description of the capabilities]"</b>
 
-Example: "Utilized AWS S3 and the Paperclip gem to implement user image uploads reducing server load and allowing for scalability of image services." 
+
+Example: <i>"Utilized AWS S3 and the Paperclip gem to implement user image uploads reducing server load and allowing for scalability of image services." </i>
 
 We do not want to you use overly simple, un-substantive, or all jargon bullet points. We also do not want to simply describe what our apps do:
 
-> ### BAD:
-"Implemented CRUD functionality for note taking."
-"Persisted user data with AJAX requests to the Rails backend"
-"Leveraged ActiveRecord in Rails to make queries to the PostgreSQL database and generate JSON views with the jBuilder gem."
+<b> BAD:</b>
 
-(maybe invite them to try and make these bad bullet points better?)
+"Implemented CRUD functionality for note taking."
+
+"Persisted user data with AJAX requests to the Rails backend"
+
+"Leveraged ActiveRecord in Rails to make queries to the PostgreSQL database and generate JSON views with the jBuilder gem."
 
 -Technical language that's too casual.
 
-> # BAD:
+<b> BAD:</b>
 "Vanilla"
 "Hand rolled"
 "..in 2 weeks"
 
-> We want to avoid terms like 'handrolled' and 'vanilla' in a resume.  They are fine in conversation, but don't read well on a resume.  Instead use words like 'custom'  or say that you 'designed' or 'implemented' the idea or technology in question.  Rather than say 'vanilla' you can use the term 'basic' in some cases  (like when you build your own middleware from basic javascript) or simply say the name of the tech or library without any qualifiers.  It conveys the same message.
+> We want to <b>avoid terms like 'handrolled' and 'vanilla' in a resume.</b>  They are fine in conversation, but don't read well on a resume.  Instead use words like 'custom'  or say that you 'designed' or 'implemented' the idea or technology in question.  Rather than say 'vanilla' you can use the term 'basic' in some cases  (like when you build your own middleware from basic javascript) or simply say the name of the tech or library without any qualifiers.  It conveys the same message.
 
-> Also, we #do not want to talk about the amount of time it took to build our apps or their features.#  It does not read as impressive when you say "Implemented music sharing functionality in 2 weeks."  If you want to highlight an impressive time constraint (say, 48 hours for a fullstack app at a hackathon) Include the name of the event/the amount of time you took to build it in parenthesis in the description of the app before the bullet points, BUT DO THIS SPARINGLY.
-
+> Also, <b>do not want to talk about the amount of time it took to build apps or their features.</b>  It does not read as impressive when you say "Implemented music sharing functionality in 2 weeks."  If you want to highlight an impressive time constraint (say, 48 hours for a fullstack app at a hackathon) Include the name of the event/the amount of time you took to build it in parenthesis in the description of the app before the bullet points, BUT DO THIS SPARINGLY.
 
 ### To help get you brainstorming:
  
