@@ -76,7 +76,6 @@ All projects need to have these elements:
 * Make sure there's no .DS_Stores, node_modules, etc.
 * If it is a non-live project (ie. Chrome extension, mobile app, slackbot, npm package), then it **is required** to have a demo page.
   * [Uber on Slack demo page](https://uberonslack.com/)
-  * [VS Code Org Mode](https://jsonreeder.github.io/vscode-org-mode/)
 * **If it is a mobile app**, then it must have a link to an emulator on the demo page.
   * [Demo Page with Emulator](https://jastack.github.io/demo_page/)
 * Demo pages should be super simple. It's basically like making a [personal portfolio](../../application-materials/portfolio/portfolio.md), except for your project. Use templates, and keep it simple!
