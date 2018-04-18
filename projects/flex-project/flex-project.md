@@ -8,11 +8,8 @@ The key goal of the flex project is to help differentiate you from other bootcam
 
 1. Build a project that adds to your tech stack:
 
-* [Pixpy Pics](http://www.pixpy.tech/)
-  * Built with Django/Python backend + React/Redux frontend (these students' cohort learned React/Flux)
-* [Algo Arena](http://algorithm-arena.appspot.com/)
-  * Node.js/Express backend
-* [iPict](https://itunes.apple.com/us/app/ipict/id1155986338)
+* [Schemer](http://www.schemer.me/#/home)
+* [Woven](http://woven-app.com/)
 
 2. Create an app that solves a relevant problem
 
