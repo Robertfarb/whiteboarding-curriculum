@@ -33,14 +33,14 @@ Because the flex project is the first group project and also by far the largest-
 
 Historically, there's a pretty strong correlation between how well-developed the project proposal is and how well the projects turn out. In addition, students that don't actually sufficiently plan out the flex project often times don't meet the flex project deadline, which can really hurt the start of your job search. Becuase of this trend, we'll be trying something new for this cohort. On Friday afternoon, we'll be dedicating the entire afternoon for you to start working on your **Flex Project Pre-Proposal**.
 
-Basically, on W10D5, you will spend 9:00AM - 12:00pm working on on your pre-proposal. Your pre-proposal should contain:
+Basically, on W10D5, you will spend 1:30PM - 4:30pm working on on your pre-proposal. Your pre-proposal should contain:
 
 * A general idea of what you are trying to build, along with the core functionalities/features of your application.
 * Technologies that you'll be using.
 * A few backup ideas (no need to put too much time into this, unless you really don't like you first choice).
 * A detailed plan of how you will spend your weekend laying the ground work for your flex project.
 
-At 1:30pm, each group will have about 10 minutes to chat with coaches about their pre-proposal. During this time, they'll receive feedback about their project as well as how they should be spending their time over the weekend.
+At 4:30pm, each group will have about 10 minutes to chat with coaches about their pre-proposal. During this time, they'll receive feedback about their project as well as how they should be spending their time over the weekend.
 
 ## Flex Project Proposal
 
