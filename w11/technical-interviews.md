@@ -17,12 +17,6 @@
 
 ## What are employers looking for?
 
-![beer-test](http://www.cheatsheet.com/wp-content/uploads/2015/08/Coworkers-at-bar.jpg)
-
----
-
-## What are employers looking for?
-
 * Ability to work through a difficult problem and utilize different tools
 * Good design decision making -- clean, readable, maintainable code
 * Familiarity with a variety of “basics” that all software developers should know
