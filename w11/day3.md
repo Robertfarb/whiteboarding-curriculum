@@ -6,7 +6,7 @@
 ### Afternoon
 
 #### Lecture
-* Architecture Part 1 (with Ned), an introduction to scaling web applications and system design.
+* Architecture (with Ned), an introduction to scaling web applications and system design.
 
 #### Flex project check-ins
 * With TAs and Coaches
