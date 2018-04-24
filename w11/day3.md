@@ -6,7 +6,7 @@
 ### Afternoon
 
 #### Lecture
-* Architecture (with Ned), an introduction to scaling web applications and system design.
+* Trivia!
 
 #### Flex project check-ins
 * With TAs and Coaches
