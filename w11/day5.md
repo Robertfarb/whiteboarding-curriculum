@@ -8,7 +8,7 @@
 
 ### Afternoon
 #### Lecture
-* **Architecture Part 3**
+* **Trivia Part 2**
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
