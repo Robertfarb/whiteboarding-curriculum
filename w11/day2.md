@@ -10,7 +10,7 @@
 
 ### Afternoon
 #### Lecture
-* **Tackling Technical Interviews**
+* [Tackling Technical Interviews](./technical-interviews.md)
 
 #### Lecture
 * **Pairboarding**
