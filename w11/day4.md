@@ -19,7 +19,7 @@
 [hn-negotiation-article]: https://news.ycombinator.com/item?id=3289750
 
 
-#### Trivia Part 2
+#### Trivia Part 1
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
