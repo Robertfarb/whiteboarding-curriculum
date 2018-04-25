@@ -22,7 +22,7 @@ just look at the lower salary.
 
 ## Stock Options
 
-This is a very abbreviated discussion of what stock options are.
+This is a very abbreviated discussion of what [stock options](https://blog.carta.com/equity-101-stock-option-basics/) are.
 
 Many companies offer stock options to their employees as part of their
 compensation. An **option** is a right to purchase a share of the
