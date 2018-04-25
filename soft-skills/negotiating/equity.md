@@ -56,6 +56,8 @@ strike price, and then buy. There is no benefit in exercising early
 (well, there are tax reasons); just let your options vest and exercise
 when they're worth something.
 
+<b>ARTICLE:  [14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)</b>
+
 ## Options vs Shares
 
 Companies may offer you shares (they often call these **restricted
