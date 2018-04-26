@@ -7,8 +7,8 @@
 * Flex project work time
 
 ### Afternoon
-#### Lecture
-* **Trivia Part 2**
+#### Optional Lecture
+* **Building a Portfolio Site**
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]
