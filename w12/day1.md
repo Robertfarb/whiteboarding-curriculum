@@ -56,7 +56,7 @@
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d5
 
 <!-- Algorithms Readings & Projects -->
-[big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
+[big-o-readings]: ./readings
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
 [dynamic-array-reading]: ../algorithms/arrays/arrays_reading.md
 [static-arrays]: https://vimeo.com/202107013
