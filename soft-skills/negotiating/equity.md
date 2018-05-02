@@ -22,7 +22,7 @@ just look at the lower salary.
 
 ## Stock Options
 
-This is a very abbreviated discussion of what stock options are.
+This is a very abbreviated discussion of what [stock options](https://blog.carta.com/equity-101-stock-option-basics/) are.
 
 Many companies offer stock options to their employees as part of their
 compensation. An **option** is a right to purchase a share of the
@@ -55,6 +55,8 @@ The key to options is to wait until they are worth more than the
 strike price, and then buy. There is no benefit in exercising early
 (well, there are tax reasons); just let your options vest and exercise
 when they're worth something.
+
+<b>ARTICLE:  [14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)</b>
 
 ## Options vs Shares
 

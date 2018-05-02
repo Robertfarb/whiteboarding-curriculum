@@ -1,7 +1,7 @@
 # Time Complexity Workshop
 
 
-### December Cohort: Please submit your answers [HERE](https://goo.gl/forms/xneRWzlvSTERxcdI3)
+### February Cohort: Please submit your answers [HERE](https://goo.gl/forms/yduPdCGbVW89PCio2)
 
 Today we're going to practice analyzing a few functions' time complexities. This is a unique topic; you'll have to be able to conjure the time complexity of your code on the spot in interviews, and you'll be expected to do so without the benefit of Googling the basics (like "What is a logarithm?"). 
 
@@ -11,10 +11,6 @@ on how you're answering each question. The more detailed your answers, the bette
 over to the solutions to make sure you and your partner got it right and to
 be sure that you understand before moving on! Don't look ahead in the solutions!
 3. The partner sitting on the left is now **Partner A**, and on the right sits **Partner B**.
-4. The `placements-queue` will be open during this workshop, but since only 
-Andrew and Trevor will be available (TAs are starting to grade flex projets), please
-first discuss with your partner, then refer to the solutions, and then if you
-still don't understand, then ask for help on the `placements-queue`.
 
 Notice also that we are somewhat language agnostic in this assignment -- that't intentional. Some of the subtler time complexity points do depend upon what language you're using, but for the most part the language won't matter for the big stuff. There are some exceptions, but for today, assume language doesn't matter.
 

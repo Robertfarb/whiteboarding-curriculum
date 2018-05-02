@@ -45,7 +45,7 @@
 <!-- Internal Resources -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
-[job-search-curriculum-drive-folder]: https://drive.google.com/folderview?id=0B3noREts_wUyNnhZMTZPMjJhU2M&usp=sharing
+[job-search-curriculum-drive-folder]: https://drive.google.com/drive/folders/0B3noREts_wUyfnA5Ry03OS1jOHhlX2hfVzlVVkNUZ29KWl9mN1pYNnZjdkpOUDB5eGxkR1k?usp=sharing
 [hunters-channel]: https://app-academy.slack.com/messages/hunters
 [project-scorecard]: https://docs.google.com/a/appacademy.io/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit?usp=sharing
 [project-scorecard]: https://docs.google.com/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit#gid=0

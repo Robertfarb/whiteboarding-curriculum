@@ -10,7 +10,9 @@
 
 ### Afternoon
 #### Lecture
-* **Tackling Technical Interviews**
+* [Tackling Technical Interviews](./technical-interviews.md)
+
+#### [Sign up for Pramp](https://www.pramp.com/promo/app-academy)
 
 #### Lecture
 * **Pairboarding**

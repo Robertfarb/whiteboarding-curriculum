@@ -7,8 +7,9 @@
 * Flex project work time
 
 ### Afternoon
-#### Lecture
-* **Architecture Part 3**
+#### Optional Lecture
+* **Building a Portfolio Site**
+* Check out some [portfolio site resources](./resources.md)
 
 #### Mock Interviews & Pairboarding
 * [Mock Interview Index][pair-boarding-index]

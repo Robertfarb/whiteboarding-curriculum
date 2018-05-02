@@ -28,7 +28,6 @@
     * **Then, go through the [Dynamic Arrays Reading][dynamic-array-reading]**
     * **Finally, do the project (download from Progress Tracker Assessments section), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
-* Dynamic Array Video Demo from `3:00 - 4pm` 
 * [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md) Lecture and Workshop from `4 - 6pm`.
 
 ### Evening
@@ -57,7 +56,7 @@
 [pair-boarding-index]: ../technical-skills/whiteboarding/index.md#d5
 
 <!-- Algorithms Readings & Projects -->
-[big-o-readings]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d1
+[big-o-readings]: ./readings
 [memory-pointers-readings]:https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w11d2
 [dynamic-array-reading]: ../algorithms/arrays/arrays_reading.md
 [static-arrays]: https://vimeo.com/202107013
