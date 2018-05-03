@@ -11,7 +11,7 @@
 
 ### Afternoon
 * Heaps and Heap Sort Project Review
-* Optional: [Heaps Practical Challenge](../supplemental-problems/find_median_from_data_stream.md)
+* Optional: [Heaps Practical Challenge](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/find_median_from_data_stream.md)
 * [Mock Phone Screen][phone-screen]
 * Quick Sort Video Lecture/Project
    * [Quicksort 1][quicksort1]
