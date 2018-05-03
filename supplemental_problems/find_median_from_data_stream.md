@@ -32,7 +32,7 @@ find_median() => 8
 ### Hints:
 
 * You could store incoming elements in an array, sort it after each insertion, and index into the middle of the array to find the median. However, this exceeds our time limit.
-* You could use insertion sort to maintain a sorted list. However, finding the median would take ```O(nlog n)``` time, which also exceeds our limit.
+* You could use insertion sort to maintain a sorted list. However, insertion would take ```O(nlog n)``` time, which also exceeds our limit.
 * If only there were a data structure with ```log n``` insertion which allowed us to look up its maximum or minimum value in constant time...
 
 ### [Solution](./find_median_from_data_stream_solution.md)
