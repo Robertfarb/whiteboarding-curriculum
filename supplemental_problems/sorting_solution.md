@@ -65,6 +65,26 @@ class Array
 end
 ```
 
+#### Time Complexity
+
+### A discussion of time complexity
+
+First let's review why QuickSort is `O(nlogn)`
+
+* We consider each element the number of times it takes to reach a single element by recursively splitting our set in half(ish).
+
+* `n` elements times `logn` ---> `O(nlogn)`
+
+So, why is QuickSelect `O(n)`?
+
+* Take note that each time we cut our set in half, we already know the part in which our desired element lies, based on the size of the partitions.
+* Thus, each time we consider fewer and fewer elements. How many?
+* The first time we consider `n` elements.
+* Then, `n/2`, `n/4`...`1`
+* Adding these all together, we get something called a Geometric Series, since `1, 1/2, 1/4...` can be seen as increasing powers of `1/2`
+* The sum of an convergent infinite geometric series (where the multiplicative factor, `r` is less than 1) can be found with the formula `a/(1-r)`, where a is the first term.
+* Without being fully rigorous about the variations of partition size, we can nevertheless see that if `r = 1/2` this comes out to `2n`, and since our series is not in fact infinite, `O(QuickSelect) < 2n ~ n`
+
 ### Challenge 3 Solution:
 
 We can solve this problem in ```O(n logM)``` time by using a heap! We construct a min heap of size M and insert the first element of each list into it. Then, we pop the root element from the heap and insert the next element from the same list as the popped element. We repeat this process until the heap is exhausted.
