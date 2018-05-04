@@ -11,7 +11,7 @@ Explanation: Since intervals [1, 3] and [2, 6] overlap, merge them into [1, 6].
 ```
 
 #### Example 2:
-```r
+```
 Input: [[1, 4], [4, 5]]
 Output: [[1, 5]]
 ```
