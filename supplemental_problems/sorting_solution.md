@@ -50,7 +50,7 @@ class Array
   def select_kth_smallest(k)
     left = 0
     right = self.length - 1
-    while true
+    loop do
       return self[left] if left == right
       pivot_idx = Array.partition(self, left, right-left+1)
       if k-1 == pivot_idx
