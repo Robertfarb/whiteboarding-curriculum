@@ -1,4 +1,4 @@
-### Challenge 1 Solution
+### Warmup Solution
 
 If we sort the intervals by their start value, then each set of intervals that can be merged will appear as a contiguous "run" in the sorted list. After sorting, we insert the first interval into our merged list and continue considering each interval in turn as follows: If the current interval begins after the previous interval ends, then they do not overlap and we can append the current interval to merged. Otherwise, they do overlap, and we merge them by updating the end of the previous interval if it is less than the end of the current interval.
 
@@ -21,7 +21,7 @@ end
 
 Credit: [Leetcode](https://leetcode.com/problems/merge-intervals/description/)
 
-### Challenge 2 Solution
+### Challenge 1 Solution
 
 ```ruby
 class Array
@@ -82,7 +82,7 @@ So, why is QuickSelect `O(n)`?
 * The sum of an convergent infinite geometric series (where the multiplicative factor, `r` is less than 1) can be found with the formula `a/(1-r)`, where a is the first term.
 * Without being fully rigorous about the variations of partition size, we can nevertheless see that if `r = 1/2` this comes out to `2n`, and since our series is not in fact infinite, `O(QuickSelect) < 2n ~ n`
 
-### Challenge 3 Solution:
+### Challenge 2 Solution:
 
 We can solve this problem in ```O(n logM)``` time by using a heap! We construct a min heap of size M and insert the first element of each list into it. Then, we pop the root element from the heap and insert the next element from the same list as the popped element. We repeat this process until the heap is exhausted.
 
