@@ -47,3 +47,5 @@ The output is:
 
 #### Hint
 We could create an array containing all elements of all lists then sort it. However, this would result in a worst case time complexity of ```O(n logn)```, where ```n``` is the total number of elements in all lists. This approach does not take advantage of the fact the lists are already sorted. Given our time complexity constraints, what kind of data structure could we use to make sure we are always inserting the minimum element from our sorted array? Perhaps one that we learned about yesterday? 🤔
+
+### [Solutions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/sorting_solution.md)
