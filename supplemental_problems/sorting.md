@@ -1,6 +1,6 @@
 ## Sorting Challenges
 
-### Challenge 1: Merge Intervals
+### Warm Up: Merge Intervals
 Given a collection of intervals, merge all overlapping intervals.
 
 #### Example 1:
@@ -16,7 +16,7 @@ Input: [[1, 4], [4, 5]]
 Output: [[1, 5]]
 ```
 
-### Challenge 2: QuickSelect
+### Challenge 1: QuickSelect
 Write an in-place instance method on the Array class that will find the ```kth``` smallest element in ```O(n)``` time. You will likely want to use a partition method similar to if not exactly the same as that which you used for QuickSort! For a bonus, how can we eliminate any extra space cost?
 
 NB: 1st smallest is the 0-th element in a sorted array.
@@ -27,7 +27,7 @@ NB: 1st smallest is the 0-th element in a sorted array.
 [1, 5, 7, 4, 3, 2, 8, 9].select_kth_smallest(2) => 3
 ```
 
-### Challenge 3: Merge M Sorted Lists
+### Challenge 2: Merge M Sorted Lists
 Given M sorted lists of variable length, print them in sorted order efficiently. You must do so in O(n log M) time.
 
 #### Example
