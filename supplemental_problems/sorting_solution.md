@@ -66,9 +66,6 @@ end
 ```
 
 #### Time Complexity
-
-### A discussion of time complexity
-
 First let's review why QuickSort is `O(nlogn)`
 
 * We consider each element the number of times it takes to reach a single element by recursively splitting our set in half(ish).
