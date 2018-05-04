@@ -11,7 +11,7 @@ Explanation: Since intervals [1, 3] and [2, 6] overlap, merge them into [1, 6].
 ```
 
 #### Example 2:
-```ruby
+```r
 Input: [[1, 4], [4, 5]]
 Output: [[1, 5]]
 ```
@@ -24,7 +24,7 @@ NB: 1st smallest is the 0-th element in a sorted array.
 #### Example
 
 ```ruby
-[1, 5, 7, 4, 3, 2, 8, 9].quickselect(2) => 3
+[1, 5, 7, 4, 3, 2, 8, 9].select_kth_smallest(2) => 3
 ```
 
 ### Challenge 3: Merge M Sorted Lists
