@@ -6,8 +6,8 @@
 
 ### Afternoon
 
-* TalentMatch Intro at 1:30
-* Quicksort project review at 2:00
+* Quicksort project review at 1:30
+* Alternatively, solve some challenging [practical problems](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/sorting.md)
 * [Pairboarding][pairboarding-index]
 * Binary Search Tree Video Lectures and Project
     * First watch the video: [Binary search tree][binary-search-trees-vid]
