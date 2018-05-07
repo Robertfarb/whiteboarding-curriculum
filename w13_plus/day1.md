@@ -3,7 +3,7 @@
 ### Homework & Daily Tasks
 
 * **Finish Friday's Binary Search Tree project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
-* Start applying to companies!  40 application quota begins this week.
+* Start applying to companies!  25 application quota begins this week.
 * Begin to think about what your next project will be & who you would like to work with.
 
 ### Morning
