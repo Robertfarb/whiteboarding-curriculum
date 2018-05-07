@@ -1,13 +1,13 @@
 ## W13D4
 ### Homework & Daily Tasks
 
-* Start applying to companies!  40 application quota begins next week.
+* Start applying to companies! 25 application quota begins next week.
 
 ### Morning
 
 * Roll call at 10am.
 * Create an action plan for each project you will work on next week:
-  * What will you accomplish by the engineering showcase on Tuesday?
+  * What will you accomplish by the engineering showcase?
   * What will you accomplish by Friday?
   * In which order will you feature this project on your resume? (strongest projects first)
 * Add each action plan as a comment on the project page on Jobberwocky
