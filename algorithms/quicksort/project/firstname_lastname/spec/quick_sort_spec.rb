@@ -41,13 +41,11 @@ describe QuickSort do
         el1 <=> el2
       end
       p num_comparisons
-      # When pivot is first element...
       # If pivot is swapped while iterating through the array,
       # then num_comparisons = 10.
       # If pivot is swapped after iterating through the array,
       # then num_comparisons = 11.
       expect([10]).to include(num_comparisons)
-
     end
 
     it "makes the right number of comparisons (worst case)" do
