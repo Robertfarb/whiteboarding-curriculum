@@ -40,7 +40,6 @@ describe QuickSort do
         num_comparisons += 1
         el1 <=> el2
       end
-      p num_comparisons
       # If pivot is swapped while iterating through the array,
       # then num_comparisons = 10.
       # If pivot is swapped after iterating through the array,
