@@ -4,12 +4,11 @@
 
 ### Morning
 
-* [Pairboarding](pair-boarding-index)
+* [Pairboarding](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md)
 
 ### Afternoon
-* Frontend Testing Workshop (1:30-4:00)
-  * https://redux.js.org/recipes/writing-tests
-  * https://facebook.github.io/jest/docs/en/expect.html
+* Coding Challenge Workshop (1:30-3:00)
+* Alumni Pane; (3:00 - 4:00) 
 * Send off lecture (4:00-5:00)
 * Graduation party! (5:00-7:00)
 
