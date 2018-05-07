@@ -1,8 +1,10 @@
 ## W13D5
 ### Homework & Daily Tasks
-
-* Roll call at 1:30PM due to graduation!
 * Continue sending out applications and fixing up application materials
+
+### Morning
+
+* [Pairboarding](pair-boarding-index)
 
 ### Afternoon
 * Frontend Testing Workshop (1:30-4:00)
