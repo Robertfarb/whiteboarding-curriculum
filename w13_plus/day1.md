@@ -14,8 +14,9 @@
 
 ### Afternoon
 
-* Roll call at 1:30pm as usual
+* Roll call at 1:30pm
 * Solution review: BST
+* Alternatively, build a [self-balancing tree](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/red-black-tree.md) (workshop starts at 1:00)
 * [Pair Boarding][pair-boarding-index]
 * Graphs and Topological Sort Video:
   * [Graphs][graphs-vid]
