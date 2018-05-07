@@ -2,7 +2,7 @@
 ### Homework & Daily Tasks
 
 * **Finish yesterday's DP project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
-* Continue applying to companies!  40 application quota begins this week.
+* Continue applying to companies! 25 application quota begins this week.
 * Continue to think about what your next project will be & who you will work with.
 
 ### Morning
