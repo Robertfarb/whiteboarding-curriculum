@@ -17,7 +17,9 @@
 ### Afternoon
 
 * Roll call at 1:30pm
-* Coding Challenge Workshop
+* Frontend Testing Workshop
+  * https://redux.js.org/recipes/writing-tests
+  * https://facebook.github.io/jest/docs/en/expect.html
 * [Pair Boarding][pair-boarding-index]
 
 <!-- LINKS -->
