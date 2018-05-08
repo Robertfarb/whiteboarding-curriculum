@@ -51,4 +51,10 @@ Output: 'c', 'a', 'b'
 
 ---
 
+## Bonus 
+
+If you have extra time, work on [this](https://www.geeksforgeeks.org/snake-ladder-problem-2/) problem (don't scroll down the solution!)
+
+---
+
 ## [Solutions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/topological_sort_solution.md)
