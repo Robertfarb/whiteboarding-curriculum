@@ -15,22 +15,19 @@ Rewrite install order. In this version of the problem, all packages will be list
 NB: For clarity here, the package IDs are listed as integers. However, they may be strings, class instances, or anything else.
 
 ```ruby
-arr = [[3, 1], [2, 1], [6, 5],
-       [3, 6], [3, 2], [4, 3],
-       [9, 1], [1, nil], [5, nil]]
+arr = [["mocha", "browserify"], ["bower", "browserify"], ["underscore", "cheerio"],
+       ["mocha", "underscore"], ["mocha", "bower"], ["passport", "mocha"],
+       ["hapi", "browserify"], ["browserify", nil], ["cheerio", nil]]
 
-install_order(arr) #=> [1, 5, 2, 9, 6, 3, 4]
+install_order2(arr) #=> ["browserify", "cheerio", "bower", "hapi", "underscore", "mocha", "passport"]
 ```
----
 
-Bonus: Allow for independent packages that are dependencies not to be listed seperately in the input array.
-
+Bonus: Allow for independent packages that are dependencies not to be listed separately in the input array.
 ```ruby
-arr = [[3, 1], [2, 1], [6, 5],
-       [3, 6], [3, 2], [4, 3],
-       [9, 1]]
-       
-install_order(arr) #=> [1, 5, 2, 9, 6, 3, 4]
+arr = [["bower", "browserify"], ["mocha", "browserify"], ["cheerio", "passport"],
+       ["bower", "cheerio"], ["bower", "mocha"], ["hapi", "bower"],
+       ["underscore", "browserify"]]
+install_order2(arr) #=> ["browserify", "passport", "mocha", "underscore", "cheerio", "bower", "hapi"]
 ```
 ---
 
