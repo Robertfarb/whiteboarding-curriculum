@@ -15,6 +15,7 @@
 
 * Roll call at 1:30pm
 * Solution review: Graphs and Topo Sort
+* Alternatively, work through [these topological sorting problems](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/topological_sort.md).
 * [Pair Boarding][pair-boarding-index]
 * Project: Dynamic Programming 1 project goes live at 4pm (all associated readings are in the project), **due by 12pm tomorrow**.
 
