@@ -38,4 +38,4 @@ install_order(arr) #=> [1, 5, 2, 9, 6, 3, 4]
 
 ---
 
-## [Solutions]()
+## [Solutions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/topological_sort_solution.md)
