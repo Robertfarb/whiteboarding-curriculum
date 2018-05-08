@@ -4,7 +4,8 @@
 
 ### Morning
 
-* [Pairboarding](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md)
+* [Pairboarding](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md) (10:00 - 11:30)
+* Post graduation discussion (11:30 - 12:00)
 
 ### Afternoon
 * Coding Challenge Workshop (1:30-3:00)
