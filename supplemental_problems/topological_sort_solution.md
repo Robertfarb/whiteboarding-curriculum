@@ -48,7 +48,7 @@ def alien_letter_order(words)
     end
   end
   
-  topological_sort(vertices.values)
+  topological_sort(vertices.values).map { |v| v.value }
 end
 ```
 
