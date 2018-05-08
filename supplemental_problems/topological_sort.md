@@ -24,10 +24,10 @@ install_order2(arr) #=> ["browserify", "cheerio", "bower", "hapi", "underscore",
 
 Bonus: Allow for independent packages that are dependencies not to be listed separately in the input array.
 ```ruby
-arr = [["bower", "browserify"], ["mocha", "browserify"], ["cheerio", "passport"],
-       ["bower", "cheerio"], ["bower", "mocha"], ["hapi", "bower"],
-       ["underscore", "browserify"]]
-install_order2(arr) #=> ["browserify", "passport", "mocha", "underscore", "cheerio", "bower", "hapi"]
+arr = [["mocha", "browserify"], ["bower", "browserify"], ["underscore", "cheerio"],
+       ["mocha", "underscore"], ["mocha", "bower"], ["passport", "mocha"],
+       ["hapi", "browserify"]]
+install_order2(arr) #=> ["browserify", "cheerio", "bower", "hapi", "underscore", "mocha", "passport"]
 ```
 ---
 
