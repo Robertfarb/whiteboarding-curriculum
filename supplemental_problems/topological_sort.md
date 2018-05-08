@@ -35,3 +35,7 @@ install_order(arr) #=> [1, 5, 2, 9, 6, 3, 4]
 ---
 
 ## Question 3
+
+---
+
+## [Solutions]()
