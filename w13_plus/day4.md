@@ -1,18 +1,12 @@
 ## W13D4
 ### Homework & Daily Tasks
-
+* **Finish the DP project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Start applying to companies! 25 application quota begins next week.
 
 ### Morning
 
 * Roll call at 10am.
-* Create an action plan for each project you will work on next week:
-  * What will you accomplish by the engineering showcase?
-  * What will you accomplish by Friday?
-  * In which order will you feature this project on your resume? (strongest projects first)
-* Add each action plan as a comment on the project page on Jobberwocky
-* If you finish early, spend the remaining time working on your job application materials
-
+* Dynamic Programming project review
 
 ### Afternoon
 
