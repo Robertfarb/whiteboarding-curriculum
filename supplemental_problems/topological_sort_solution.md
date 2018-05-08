@@ -25,7 +25,7 @@ We can solve this problem by creating vertices of the characters, then finding t
 
 * For every pair of adjacent words in given sorted array:
   * Let the current pair of words be word1 and word2. One by one compare characters of both words and find the first mismatching characters.
-  * Create an edge in g from mismatching character of word1 to that of word2.
+  * Create an edge from the mismatching character of word1 to that of word2.
 * Print the topological sorting of the vertices.
 
 ```ruby
