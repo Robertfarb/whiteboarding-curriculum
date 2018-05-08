@@ -36,6 +36,19 @@ install_order(arr) #=> [1, 5, 2, 9, 6, 3, 4]
 
 ## Question 3
 
+Given a sorted dictionary (array of words) of an alien language, find the order of the characters in the language.
+
+### Example
+```
+Input:  words = ["baa", "abcd", "abca", "cab", "cad"]
+Output: 'b', 'd', 'a', 'c'
+```
+Note that words are sorted and in the given language "baa" comes before "abcd", therefore 'b' is before 'a' in output. Similarly, we can find other orders:
+```
+Input:  words[] = {"caa", "aaa", "aab"}
+Output: Order of characters is 'c', 'a', 'b'
+```
+
 ---
 
 ## [Solutions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/topological_sort_solution.md)
