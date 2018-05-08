@@ -1,7 +1,6 @@
 ## W13D3
 ### Homework & Daily Tasks
 
-* **Finish yesterday's DP project and turn in on [Jobberwocky][Jobberwocky] by 12pm.**
 * Continue applying to companies! 25 application quota begins this week.
 * Continue to think about what your next project will be & who you will work with.
 
@@ -15,7 +14,7 @@
 
 * Roll call at 1:30pm
 * Lecture on Personal Finance from 1:30 - 2:30pm
-* Solution review: Dynamic Programming
+* Live Lecture: Dynamic Programming
 * [Pair Boarding][pair-boarding-index]
 * Application Materials Work Time
 
