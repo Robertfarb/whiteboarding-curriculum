@@ -9,7 +9,7 @@
 
 ### Afternoon
 * Coding Challenge Workshop (1:30-3:00)
-* Alumni Pane; (3:00 - 4:00) 
+* Alumni Panel (3:00 - 4:00) 
 * Send off lecture (4:00-5:00)
 * Graduation party! (5:00-7:00)
 
