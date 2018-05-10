@@ -11,10 +11,10 @@
 ### Afternoon
 
 * Roll call at 1:30pm
-* Frontend Testing Workshop
+* [Pair Boarding][pair-boarding-index]
+* Frontend Testing Workshop (optional) 3:30 - 6:00
   * https://redux.js.org/recipes/writing-tests
   * https://facebook.github.io/jest/docs/en/expect.html
-* [Pair Boarding][pair-boarding-index]
 
 <!-- LINKS -->
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
