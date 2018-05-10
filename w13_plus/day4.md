@@ -9,9 +9,9 @@
 * Dynamic Programming project review in Hopper
 * If you're not planning on attending the review session, please spend your time applying to jobs
 * Bonus DP problems:
- * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) (see solution 3)
- * [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
- * [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) (Hard!!)
+  * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) (see solution 3)
+  * [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
+  * [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) (Hard!!)
 
 ### Afternoon
 
