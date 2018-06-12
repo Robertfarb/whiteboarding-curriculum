@@ -42,10 +42,9 @@ You __must__ submit your Resume for review as a Google Doc or Slide. You may use
 a fancier layout if you like, but you must still submit a plain-text Google Doc to us through Jobberwocky
 for review. Just include a link to the formatted PDF.
 
-Stick to one page for your FANCY resume.  Margins on the FANCY can be no lower than .5
-For FONTS:
-   Fancy:  Good "google" accepted fonts no smaller than 9-10 pt.
-   ATS:  Arial, Garamond, Times New Roman 10-11 pt font.
+Stick to one page for a PARSEABLE resume.  If you want to use a fancier resume template from a source like Etsy, only send
+the fancy resume when you are reaching out directly to a person.  Otherwise, for most purposes you will want to use 
+a parseable resume with simple font and typically around 9-12 point size depending on the readability of the resume.
 
 ## Create your resume with one of our formatted templates.  Make sure to have a plain text document for yourself.
 
