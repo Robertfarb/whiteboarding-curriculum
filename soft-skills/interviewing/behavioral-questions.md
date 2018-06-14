@@ -59,13 +59,17 @@ You'll be prompted to read about this again next week, but if you want to skip a
 ## INTERVIEWING TIPS
 **1.  Take care of yourself first!**
 
-Like being on an airplace you need to put the oxygen mask on you, first!  During the interview, breathe, go slow. If you
-are asked a tricky question, repeat and rephrase, then take a few moments to ponder your calm response.  Remember...
-there is a fine line between taking a gentle quiet moment vs. a creepy long period of uncomfortable silence. However, some questions might need you to take care of yourself and take a moment to compose a good response
+Like being on an airplane you need to put the oxygen mask on you, first!  During the interview, breathe, go slow. If you
+are asked a tricky question, repeat and rephrase the question, then take a few moments to ponder your calm response.  Remember...there is a fine line between taking a gentle quiet moment vs. a creepy long period of uncomfortable silence. 
+
+Burn off excess energy before if need be.  Go to the gym.  Take a walk.  Meditate.  Whatever YOU need to do to help you 
+feel more at ease during the interview.
+
+Bring water (not coffee or carbonated beverages) as you might need a moment to "refresh".
 
 **2. How you say it matters more than what you say.**
 
-Your energy and volume is ESSENTIAL during the interview.  Keep in mind that a typical recruiter or interview team talk to
+Your energy and volume is ESSENTIAL during the interview.  Keep in mind that a typical recruiter or interview team talk with
 many people.  What will make a huge difference between you and other candidates is how you respond.  On a level of 1-10 your
 interview positive energy must be at 9-10.  What do you need to do to get your volume and energy up?  Remember, there
 is an amazing carrot at the end of the stick.
@@ -81,8 +85,9 @@ Also, go back and review your PAR (Problem. Action. Result.) worksheets as THIS 
 **4.  Nervousness vs. Taking Your Power Back During An Interview**
 
 Being a little nervous is healthy during an interview.  However, being extremely nervous can be dangerous.  Remember, you
-are powerless over people and their responses.  All you can do is bring your most authentic self to the interview.  Keep
-in mind that if you have a phone screen, they already like you!  Something on your resume has resonated with the company
+are powerless over people and their responses.  All you can do is bring your most authentic self to the interview.  
+
+Keep in mind that if you have a phone screen, they already like you!  Something on your resume has resonated with the company
 and / or you have a referral that has helped you get in.  You are halfway there.  If you are green-lighted for an onsite, by this time they already have liked you and probably your technical abilities.  All you have to do now is put the "icing on the cake".
 
 Following is an article for your consideration:  [Take Your Power Back During An Interview](https://blog.appacademy.io/the-dear-eli-take-power-job-int/)
