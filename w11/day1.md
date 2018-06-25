@@ -35,11 +35,8 @@
 
 * **[Problem/Action/Result Worksheet](https://docs.google.com/presentation/d/15ZM9azUssmhUL6A1apWdh76ceIi2OVMQw-Bj9iX6f64/edit#slide=id.p)
 
-#### Workshop
-* UX testing
-
 #### Work time
-* [Flex project][flex-project] (5 - 6pm)
+* [Flex project][flex-project] (4:30 - 6:00pm)
 
 ## HOMEWORK FOR TOMORROW
 PAR (Problem/Action/Results) Worksheet due tomorrow on JOBBERWOCKY by 9am
