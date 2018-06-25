@@ -26,7 +26,6 @@
 #### Work time
 * [Flex project][flex-project] (10 - 12)
   * Get off to a strong start!
-  * Make sure your group has wireframes for the UX workshop at 4:30pm.
 
 ### Afternoon
 
