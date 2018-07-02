@@ -21,14 +21,15 @@
 
 ### Afternoon
 
-* [Pair Boarding][pair-boarding-index] from `1:30 - 3:00`
+* Financial Literacy lecture from `1:30-2:30`
+* [Pair Boarding][pair-boarding-index] from `2:30 - 4:00`
+* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md) Lecture and Workshop from `4 - 6pm`.
 * **Start watching [Static Array video][static-arrays] and [Dynamic Array video][dynamic-arrays] videos.**
 * Dynamic Array Project will go live on Jobberwocky at 3:00pm today!
     * **First watch the videos above**
     * **Then, go through the [Dynamic Arrays Reading][dynamic-array-reading]**
     * **Finally, do the project (download from Progress Tracker Assessments section), using the videos and reading as a guide.**
     * **Turn in Dynamic Array Project on Progress Tracker before noon tomorrow**
-* [Networking](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md) Lecture and Workshop from `4 - 6pm`.
 
 ### Evening
 
