@@ -12,6 +12,30 @@ keywords to tell the story.
   * How does it demonstrate the key skill?
   * What was the impact or benefit?
 
+**Steps to take:**
+A. Identify a key skill or technology you want to demonstrate knowledge in.
+
+B. Pick a feature from one of your projects that either was enabled by said technology or let you use the skill you want to demonstrate.
+
+C. Use the skill and feature in a bullet point that tells us how you implemented said feature using said skill/technology. Your goal is to demonstrate that you understand how that skill/technology actually works from an engineering standpoint.
+
+Examples:
+
+<b>Skill: APIs</b>
+Feature: Global on-off switch
+
+<i>Designed global on-off switch & dimmer React-Native components by making HTTP post requests to the Phillips Hue API changing the state of the bulbs in turn.</i>
+
+<b>Skill: UI/UX Design</b>
+Feature: Drag and drop canvas for lightbulbs
+
+<i>Developed a smooth, intuitive UI with high usability by leveraging the React-Native PanResponder Library to allow users to map bulbs to their physical space in their room</i>
+
+<b>Skill: JS Promises & Async Functions </b>
+Feature: Saving user preferences
+
+<i>Implemented scenes feature to allow users to save their current settings by utilizing React-Native’s AsyncStorage library & JavaScript promises to fetch & store data asynchronously</i>
+
 Compile a list of the skills you want to demonstrate, then craft your bullets around them.
 
 ### Example 1 (Non technical)
@@ -59,7 +83,7 @@ __Result__: "Founded and managed company softball team, resulting in improved mo
 
 ### Example 2 (Technical)
 
-## TECHNICAL SKILLS IMPORTANT NOTE:  When writing try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
+## TECHNICAL SKILLS IMPORTANT NOTE:  When writing, try not to discuss a feature, but try to let the reader know about the feature and what YOU did to make it happen!
 
 __Skill to Demonstrate__: Scaling an App
 
