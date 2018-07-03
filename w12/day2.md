@@ -18,6 +18,7 @@
 ### Afternoon
 
 * Dynamic Arrays Project Review (1:30 - 3:00)
+   * Alternatively, whiteboard some [array practice problems](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/dynamic_array.md)
 * [Pairboarding][pair-boarding-index] (3:00-4:30)
 * HashMap/LRU Cache Video Lectures & Project
     * If you need a refresher, refer to the [videos from W2D5][hm-lru-videos]
