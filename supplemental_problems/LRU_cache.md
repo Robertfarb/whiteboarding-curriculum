@@ -3,6 +3,11 @@
 
 Given the root node of a binary search tree,
 return an in-order doubly-linked circular linked list
+
+You can solve this in 0(1) extra space by reassigning the left / right
+pointers of the tree to function as prev / next pointers for a linked list
+
+
 ```
 input:
      3
