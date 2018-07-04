@@ -5,9 +5,9 @@ Given the root node of a binary search tree,
 return an in-order doubly-linked circular linked list
 ```
 input:
-	  3
-	/   \
-  1       5
+     3
+   /   \
+  1      5
  / \     / \
 0   2   4   6
 
@@ -18,9 +18,9 @@ output:
 or...
 
  0 <=> 1 <=> 2
- ^			 ^
- |			 3
- v			 v
+ ^		^
+ |		3
+ v		v
  6 <=> 5 <=> 4
 ```
 
