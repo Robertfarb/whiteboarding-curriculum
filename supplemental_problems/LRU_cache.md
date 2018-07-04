@@ -59,7 +59,7 @@ class Node
 end
 
 def bst_to_cll(node)
-	if !node.left && !node.left
+	if !node.left && !node.right
 		node.left = node
 		node.right = node
 		return node
