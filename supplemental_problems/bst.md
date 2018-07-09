@@ -17,8 +17,7 @@ Given a node in a Binary Search Tree, find the node with the next largest value.
 
 ## `is_bst?`
 
-Given a binary tree, write a function to check whether it’s a binary
-search tree or not.
+Given a binary tree, write a function to check whether it’s a binary search tree or not.
 
 ## `isBalancedTree`
 
