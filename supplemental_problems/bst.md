@@ -15,6 +15,11 @@ In a binary search tree, an *ancestor* of a `example_node` is a node that is on 
 
 Given a node in a Binary Search Tree, find the node with the next largest value. Assume you don't have the root of the tree, just a single node from it. Implement this function using ruby.
 
+## `is_bst?`
+
+Given a binary tree, write a function to check whether it’s a binary
+search tree or not.
+
 ## `isBalancedTree`
 
 Write a JavaScript function to check if a binary tree is balanced. A tree is balanced if, at every node, the depth of subtree on the left hand side is equal to the depth of the subtree on the right (plus or minus one). 
