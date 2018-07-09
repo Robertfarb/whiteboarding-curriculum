@@ -11,21 +11,12 @@
 
 In a binary search tree, an *ancestor* of a `example_node` is a node that is on a higher level than `example_node`, and can be traced directly back to `example_node` without going up any levels. (I.e., this is intuitively what you think an ancestor should be.) Every node in a binary tree shares at least one ancestor -- the root. In this exercise, write a function that takes in a BST and two nodes, and returns the node that is the lowest common ancestor of the given nodes. Assume no duplicate values.
 
-## Reverse Pairs
+## `next_largest`
 
-Given an array nums, we call ```(i, j)``` an important reverse pair if ```i < j``` and ```nums[i] > 2*nums[j]```.
+Given a node in a Binary Search Tree, find the node with the next largest value. Assume you don't have the root of the tree, just a single node from it.
 
-Your goal is to return the number of important reverse pairs in the given array.
+## `isBalancedTree`
 
-### Examples
-
-```
-Input: [1,3,2,3,1]
-Output: 2
-```
-```
-Input: [2,4,3,5,1]
-Output: 3
-```
+Write a JavaScript function to check if a binary tree is balanced. A tree is balanced if, at every node, the depth of subtree on the left hand side is equal to the depth of the subtree on the right (plus or minus one).
 
 ## [Solutions](./bst-solution.md)
