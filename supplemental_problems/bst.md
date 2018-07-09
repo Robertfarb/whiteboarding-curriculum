@@ -1,4 +1,4 @@
-# Binary Search Tree
+# BST Whiteboarding
 
 ## Warm Up
 
