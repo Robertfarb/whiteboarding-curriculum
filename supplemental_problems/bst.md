@@ -2,6 +2,8 @@
 
 ## Warm Up
 
+### [Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
 * Implement Post Order Traversal
   * Left, Right, Root
 * Implement Pre Order Traversal
