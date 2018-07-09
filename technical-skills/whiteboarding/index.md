@@ -206,6 +206,17 @@ in order.
 
 ### D15
 
+#### [Question set A](./questions/16A.md)
+
+- `duplicates`
+- `choose_a_record` (weighted random selection)
+
+#### [Question set B](./questions/16B.md)
+
+- Connected Components
+
+### D16
+
 #### [Question set A](./questions/12A.md)
 
 - `next_largest`
@@ -215,14 +226,3 @@ in order.
 
 - `is_bst?`
 - `findCommonAncestor`
-
-### D16
-
-#### [Question set A](./questions/16A.md)
-
-- `duplicates`
-- `choose_a_record` (weighted random selection)
-
-#### [Question set B](./questions/16B.md)
-
-- Connected Components
