@@ -150,7 +150,6 @@
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
 [personal-pitch]: ../soft-skills/interviewing/personal-pitch.md
 [personal-pitch-video]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/meta/app-academy/uploading-personal-pitch-video.md
-[angellist]: https://github.com/appacademy/sf-job-search-curriculum/tree/master/application-materials/angellist
 [linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
 [github]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md
 [portfolio]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/portfolio/portfolio.md
