@@ -32,7 +32,7 @@
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
 * Join the ```#hunters``` Slack channel. Alumni post job openings and networking opportunities there.
- * In Slack, hold CMD+K and type "hunters"
+  * In Slack, hold CMD+K and type "hunters"
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
 
 ### Morning Off
