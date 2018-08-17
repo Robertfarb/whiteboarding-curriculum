@@ -257,7 +257,7 @@ The difference in the depths is 2 - 2 = 0. So far, so good!
   </li>
   <li><b>Step 3b.</b> Determine if full_bst.right_subtree.left_subtree is balanced. This tree is empty, so it is vacuously balanced (i.e., there's nothing there to balance, so we consider it balanced by default).
   </li>
-  <li><b>Step 3c.</b> Determine if full_bst.left_subtree.right_subtree is balanced. Once again, this tree is just a single node, so it is balanced.
+  <li><b>Step 3c.</b> Determine if full_bst.right_subtree.right_subtree is balanced. Once again, this tree is just a single node, so it is balanced.
 </ul>
 
 All three steps in our algorithm to determine balance hold true. Hence, our tree is balanced. Again, that's good! We want a case like this to fall into the "balanced" category.
