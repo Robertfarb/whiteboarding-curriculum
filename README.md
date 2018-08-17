@@ -4,7 +4,7 @@ This repository contains the curriculum for the last four weeks of App Academy. 
 
 Material is divided by week:
 
-* [Week 10](./w10/overview.md)
+* [Week 10](./w10)
 * [Week 11](./w11/overview.md)
 * [Week 12](./w12/overview.md)
 * [Week 13](./w13/overview.md)
