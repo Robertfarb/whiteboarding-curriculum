@@ -31,8 +31,8 @@
   * Submit your proposal by adding links to your repo in [Jobberwocky][Jobberwocky] and hitting "Queue for Review".
 * Bookmark or add the [Job Search Google Calendar][calendar], check it daily.
 * Also check out the [Job Search Curriculum drive folder][job-search-curriculum-drive-folder].  Useful docs and lecture slides are there.
-* Join the [#hunters][hunters-channel] Slack channel. Alumni post job openings and networking opportunities there.
- * In Slack, CMD+K and type "hunters"
+* Join the ```#hunters``` Slack channel. Alumni post job openings and networking opportunities there.
+ * In Slack, hold CMD+K and type "hunters"
 * Verify your Job Search Folder on Google Drive is shared with `career-coaches@appacademy.io` with edit privileges. Verify you have a *copy* of the [Project Scorecard][project-scorecard] in your Job Search Folder.
 
 ### Morning Off
@@ -129,7 +129,7 @@
 
 
 <!-- LINKS -->
-<!-- Job Search Projects -->
+[job-search-curriculum-drive-folder]: https://drive.google.com/open?id=0B3noREts_wUyfnA5Ry03OS1jOHhlX2hfVzlVVkNUZ29KWl9mN1pYNnZjdkpOUDB5eGxkR1k
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [resume]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/resume.md
 [linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
