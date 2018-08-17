@@ -17,11 +17,12 @@ raises in the future. Future employers won't understand that you took
 a low salary because you traded cash for a bunch of options. They'll
 just look at the lower salary.
 
-Also: **I am not a lawyer**.
+# Here is a great [article on Stock Options and more](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp)
+
 
 ## Stock Options
 
-This is a very abbreviated discussion of what stock options are.
+This is a very abbreviated discussion of what [stock options](https://blog.carta.com/equity-101-stock-option-basics/) are.
 
 Many companies offer stock options to their employees as part of their
 compensation. An **option** is a right to purchase a share of the
@@ -54,6 +55,8 @@ The key to options is to wait until they are worth more than the
 strike price, and then buy. There is no benefit in exercising early
 (well, there are tax reasons); just let your options vest and exercise
 when they're worth something.
+
+<b>ARTICLE:  [14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/)</b>
 
 ## Options vs Shares
 
@@ -232,3 +235,8 @@ That's why it's important to multiply by zero.
 ## 83(b)
 
 There are tax reasons why you might want to exercise early. Read about 83(b) elections if you want to waste more time on this, or just enjoy tax laws.
+
+# NEGOTIATION LECTURE VIDEO
+Prior to discussing any negotiation, please review our [NEGOTIATION LECTURE](https://vimeo.com/204132917)
+
+Password is:  go_video_go

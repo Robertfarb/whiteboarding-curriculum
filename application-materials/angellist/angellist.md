@@ -85,12 +85,16 @@ Start by following your classmates, TAs, and other people you know personally.  
 
 AngelList allows you to give references to your peers and to request references.  AngelList's rules for references are a little weird -- you can *give* a reference to anyone who you're following and who is also following you.  But you can only *request* references from people you have worked with in a professional capacity, not collaborators on projects or fellow students.  
 
-If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  Additionally, if you worked closely with a fellow App Academy student on a large project, you may want to give them a reference and request a reference from them (of course, you'll have to use some other means to make this request -- such as asking them in person :).  
+If you previously worked in tech in some capacity and you have good references who are on AngelList, it's worth reaching out.  Be sure to mention that you're on the job market as a software developer.  Additionally, if you worked closely with a fellow App Academy student on a large project, you may want to give them a reference and request a reference from them (of course, you'll have to use some other means to make this request -- such as asking them in person :). 
+
+### Telling Your Story On AngelList
+A great [quick read](https://medium.com/maiden-lane/telling-your-life-story-on-angellist-e9ec8af8d67b) from Medium
 
 
-### Examples of Great AngelList Profiles
+### Examples of Great AngelList Profiles from Past Graduates
 
-- [Noah Wiener, App Academy August 2015](https://angel.co/noah-wiener)
-- [Billy Littlefield, App Academy August 2015](https://angel.co/billylittlefield)
-- [Minh Nguyen, App Academy August 2015](https://angel.co/minh-ngoc-nguyen)
-- [Satnam Dhanoa, App Academy June 2015](https://angel.co/satnam14)
+- [Noah Wiener](https://angel.co/noah-wiener)
+- [Billy Littlefield](https://angel.co/billylittlefield)
+- [Minh Nguyen](https://angel.co/minh-ngoc-nguyen)
+- [Satnam Dhanoa](https://angel.co/satnam14)
+- [Andrew MacIver](https://angel.co/andrew-maciver)

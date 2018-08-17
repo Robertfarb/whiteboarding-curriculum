@@ -31,3 +31,8 @@ not that big and you'll likely cross paths with many of the people you
 talk to again. So always say thank you, don't do stupid things, stick to
 your word, etc. etc.
 
+# NEGOTIATION LECTURE VIDEO
+Prior to discussing any negotiation, please review our [NEGOTIATION LECTURE](https://vimeo.com/204132917)
+
+Password is:  go_video_go
+

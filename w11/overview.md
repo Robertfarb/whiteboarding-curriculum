@@ -10,7 +10,6 @@
   * Use a good [git workflow][git-workflow]
 * Learning the skills to tackle behavioral and technical interviews
 * Learning about [web architecture][architecture-slides] and [systems design][systems-design]
-* One-on-one meetings with your career coach
 
 Days:
 * [Day 1](./day1.md)

@@ -44,6 +44,16 @@ The primary technical challenges will be:
 
 The colors will be identified by mapping classes in the DOM to a variety of attributes in the CSS such as `color`, `background-color`, and perhaps others.  Going from color to grey scale will be done with a standard algorithm.  Going from color to high-contrast color will be more challenging: currently, I plan to utilize a subset of high-contrast colors and map the given colors via some distance algorithm to the best match for these colors.
 
+### Things we accomplished this weekend.
+1. Both Munyo and Ryan went through the tutorial on building Google Chrome applications.
+2. Both Munyo and Ryan did more research on color blindness. Specifically:
+    - Munyo researched how colors are perceived by people with different types of
+    colorblindness.
+    - Ryan researched the standard web accomodations made for people with color blindness
+3. Ryan researched and started practicing DOM manipulation through Chrome extensions.
+4. The team also started the skeleton of the project and started the developmental
+   version of the chrome extension.
+
 ### Group Members & Work Breakdown
 
 Our group consists of two members, Munyo Frey and Ryan Hall.

@@ -6,9 +6,7 @@
   * Upload your proposal to a github repo
   * Submit your proposal by pasting in your repo url under Flex Project in [Jobberwocky][Jobberwocky].
   * Please share **only one** [flex scorecard][flex-scorecard] amongst all of your group members. Each group member should submit **the same scorecard URL** in Jobberwocky.
-*  **[Personal Pitch video][personal-pitch-video]** in Job Search Folder and Jobberwocky by 9am.
-    * Upload the video to your Job Search Google Drive
-    * Paste the link to Jobberwocky in your "Personal Pitch"
+
 * **Complete [LinkedIn profile][linkedin] by 9am**
   * Link to your LinkedIn on your resume.
 * Read about [Behavioral Questions][behavioral-questions].
@@ -21,22 +19,31 @@
   * **Remember to share access with your coach!**
 
 ### Morning
-#### Lecture & Workshop
-* **[Behavioral Interviewing][behavioral-questions]**. Bring pen and paper or a computer.
 
-
-### Afternoon
 #### Lecture
 * [**Github Workflow**][git-workflow]
 
 #### Work time
-* [Flex project][flex-project] (2:30 - 6pm)
+* [Flex project][flex-project] (10 - 12)
   * Get off to a strong start!
+
+### Afternoon
+
+#### Lecture & Workshop
+* **[Behavioral Interviewing][behavioral-questions]**. Bring pen and paper or a computer.
+
+* **[Problem/Action/Result Worksheet](https://docs.google.com/presentation/d/15ZM9azUssmhUL6A1apWdh76ceIi2OVMQw-Bj9iX6f64/edit#slide=id.p)
+
+#### Work time
+* [Flex project][flex-project] (4:30 - 6:00pm)
+
+## HOMEWORK FOR TOMORROW
+PAR (Problem/Action/Results) Worksheet due tomorrow on JOBBERWOCKY by 9am
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
 [flex-project]: ../projects/flex-project/flex-project.md
-[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal.md
+[flex-sample-proposal]: ../projects/flex-project/flex-sample-proposal2/README.md
 [flex-scorecard]: https://docs.google.com/spreadsheets/d/18tWMvVYWXgPqz0g7MwKQ3EGWKczxQaeTuISgfo34PqM/edit?usp=sharing
 [portfolio]: ../application-materials/portfolio/portfolio.md
 [analytics-sparknotes]: ../projects/google-analytics/google-analytics-sparknotes.md

@@ -1,29 +1,36 @@
 ## W12D4
 ### Homework & Daily Tasks
-
 * Read about [negotiating an offer][offer-negotiation].
 * Continuing implementing staff feedback on your projects.
-* **Turn in the HashMap & LRU Cache project on [Jobberwocky][Jobberwocky] by 9am.**
-
-* Get some data points for [salary negotiations][salary-data].
-* You can also check out this [HackerNews article][hn-negotiation-article]
+* Heaps and Heap Sort Project due on Progress Tracker by noon.
 
 ### Late Morning
 
-* Roll call at 10am because of graduation!
-* Office hours 10am-12pm: TAs, Josh, & Scott on the floor for technical and non-technical questions
-* Open work time: use this time to revise your projects!  
+* Finish Heaps and Heap Sort Project
+* Open work time: use this time to revise your projects!
 
 ### Afternoon
-* Review: HashMap & LRU Cache project solution
-* [Mock Interviews][pair-boarding-index]
-* **Graduation Day**
-  *  Celebrate!  You've graduated a/A!
-  * Teaching staff will put on a special presentation at 5pm (hint: prizes involved for awesome Full-Stack Projects!)
-  * Have some drinks and snacks with your cohort, alums, and a/A staff at 6pm
+* Heaps and Heap Sort Project Review
+* Optional: [Heaps Practical Challenge](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/find_median_from_data_stream.md)
+* [Mock Phone Screen][phone-screen]
+* Quick Sort Video Lecture/Project
+   * [Quicksort 1][quicksort1]
+   * [Quicksort 2][quicksort2]
+   * [Quicksort 3][quicksort3]
+* Bonus videos on sorting
+   * [Sorting Algorithms 1][sorting1]
+   * [Sorting Algorithms 2][sorting2]
 
 <!-- LINKS -->
 
 <!-- Internal Resources -->
+[offer-negotiation]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/negotiating/pay-talk.md
 [Jobberwocky]: http://progress.appacademy.io/jobberwocky
 [calendar]: https://calendar.google.com/calendar/embed?src=appacademy.io_r61pl5c3vl1vatl28hquvhtf4o%40group.calendar.google.com&ctz=America/Los_Angeles
+[phone-screen]: ../technical-skills/phone_screen/README.md
+
+[quicksort1]: https://vimeo.com/192003395/f90890d138
+[quicksort2]: https://vimeo.com/192206159/917569833b
+[quicksort3]: https://vimeo.com/192493786/dd6520c77d
+[sorting1]: https://vimeo.com/193472770/d43f132776
+[sorting2]: https://vimeo.com/193473425/dd01b240ee

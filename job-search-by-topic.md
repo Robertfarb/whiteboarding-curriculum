@@ -4,6 +4,10 @@
 
 ## Essential a/A Job Seeker Links
 
+### After Job Search Curriculum
+* [Resources][after-jsc]
+  * **Please let us know if you find other excellent resources!**
+
 ### Job Search Curriculum Related Links
 * [Jobberwocky][jobberwocky]
 * [Mock Interviews & Pairboarding Index][pair-boarding-index]
@@ -35,7 +39,7 @@
 For **submission instructions**, go to the project due date in [Job Search by Day][job-search-by-day]
 
 ## Coding Projects
-* [Add Google Analytics to your final projects](projects/google-analytics.md)
+* [Add Google Analytics to your final projects](./projects/google-analytics/google-analytics-sparknotes.md)
 
 ### Full Stack Project
 * [Full-Stack Project][fsp] (due W9D5)
@@ -71,18 +75,18 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 
 ## Application Materials
 ### Resume
-* [Resume Instructions](application-materials/resume/resume.md) (due W11D1, 9am)
+* [Resume Instructions](application-materials/resume/resume.md) (due W11D1,9am)
 
 [resume]: application-materials/resume/resume.md
 
 ### Cover Letter
-* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9am)
+* [Cover Letter Instructions](application-materials/cover-letter/cover-letter.md) (due W11D1, 9:00am)
 * [A Hiring Manager's Thoughts on Cover Letters](https://www.fastcompany.com/3064221/hit-the-ground-running/i-review-hundreds-of-cover-letters-these-are-the-ones-i-instantly-rej)
 * [Samorn's Lecture on Cover Letters](https://vimeo.com/182749397/30c2efb921)
   * Password is `go_video_go`
 
 ### Building your Online Presence: LinkedIn/Github/AngelList/Google Analytics
-* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W11D1, 9am)
+* [Make your LinkedIN StandOUT](application-materials/linkedin/linkedin.md) (due W11D1, 9:00am)
   * [Headshots](http://paulsimcock.zenfolio.com/appacademy)
     * Password is `rubyonrails`
 * [Utilizing your LinkedIn to its Full Potential Lecture](https://vimeo.com/189053139)
@@ -90,6 +94,11 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * [Curating your GitHub](application-materials/github/github.md) (Optional, but highly recommended)
 * [AngelList](application-materials/angellist/angellist.md) (Optional, but highly recommended)
 * [Portfolio Site](application-materials/portfolio/portfolio.md) (Optional, but highly recommended)
+
+### Networking
+* [Best Networking Practices](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/networking/networking.md)
+* [Networking Video Tips](https://www.youtube.com/watch?v=r-_iC4DUDCU&t=7s)
+* READING [Networking For People Who Hate Networking](http://myfirstcoachingclient.com/wp-content/uploads/2014/11/Networking-for-People-Who-Hate-Devora-Zack_552.pdf)
 
 ## Algorithms Projects
 
@@ -100,9 +109,9 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 * [Lecture on Math for Programmers](https://vimeo.com/176206594)
 * [Lecture on Memory and Assembly](https://vimeo.com/175634887) (optional)
 * Algorithms Worksheet 1 Big O Analysis (sent by email) (due W11D2)
-* [Project 1: Static and Dynamic Arrays][project1] (due W12D1)
+* [Project 1: Static and Dynamic Arrays][project1] (due W12D2)
      * [Lecture on Static and Dynamic Arrays](https://vimeo.com/175717721)
-* [Project 2: HashMap, Linked List, LRU Cache][project2] (due W12D1)
+* [Project 2: HashMap, Linked List, LRU Cache][project2] (due W12D3)
     * [Set and Int Set](https://vimeo.com/159431377)
     * [Resizing Int Set Part 1](https://vimeo.com/159433039)
     * [Resizing Int Set Part 2](https://vimeo.com/159437719)
@@ -111,27 +120,29 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
     * [Linked Lists and Hashmaps](https://vimeo.com/159440267)
     * [Caches](https://vimeo.com/159441490)
     * [LRU Cache](https://vimeo.com/159435146)
-* [Project 3: Heap, HeapSort][project3] (due W12D2)
+* [Project 3: Heap, HeapSort][project3] (due W12D4)
   * [Priority Queues][heaps1]
   * [Understanding Heaps][heaps2]
   * [Heap Implementation][heaps3]
   * [Heapsort (naive)][heapsort1]
   * [Heapsort (in-place)][heapsort2]
-* [Project 4: QuickSort][project4] (due W12D3)
+* [Project 4: QuickSort][project4] (due W12D5)
   * [Quicksort Review][quicksort1]
   * [In Place Quicksort][quicksort2]
   * [Quicksort Analysis and Choosing Pivot][quicksort3]
   * [Comparing Sorting Algorithms][sorting1]
   * [Sorting Stability][sorting2]
 * [Project 5: Binary Search Trees and AVL Trees][project5] (due W13D1)
-* Algorithms Worksheet 2 (due W13D2)
-* [Project 6: Graphs - Topological Sort][project6] (due W13D3)
-* [Project 7: Graphs - Dijkstra's Algorithm][project7] (due W13D4)
-* Project 8: Dynamic Programming (Upcoming) (due W13D5)
+* [Project 6: Graphs - Topological Sort][project6] (due W13D2)
+* Project 7: [Dynamic Programming][project7] (due W13D3)
+
+### [Whiteboarding Concepts/Videos](https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding-videos.md)
 
 ## I'm ready to apply! Let's go!
 
 ### Applying to Jobs
+  * [The Mentat](https://thementat.com/)
+  * [Mentat How To Use Video](https://www.youtube.com/watch?v=WlcLQqmGQmI)
   * [Job Boards](applying/job-boards.md)
   * Practice with [interviewing.io](https://interviewing.io/)
   * [Bay Area Tech Companies][bay-tech-companies]
@@ -143,6 +154,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
   * [Ronnie's Lecture on the Job Search and why you shouldn't give up so fast](https://vimeo.com/176531540) pw is go_video_go
   * ["I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned."][spent-3-months]
   * [Advanced Tips for the Job Search](soft-skills/advanced-tips.md)
+  * [LGBTQ Job Seeker Talk by Scott Duane](https://vimeo.com/216591298)
 
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 [spent-3-months]: https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.t2fr6z692
@@ -192,6 +204,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 * Get some data points for [salary negotiations][salary-data].
 * You can also check out this [HackerNews article][hn-negotiation-article]
 * [How Not to Bomb Your Offer Negotiation](http://haseebq.com/how-not-to-bomb-your-offer-negotiation/) by a/A grad Haseeb Qureshi (Software Engineer at Airbnb)
+* Find out about [Stock options, equity, RSU's and more](https://www.investopedia.com/articles/personal-finance/041515/equity-vs-salary-what-you-need-know.asp)
 
 [hackreactor-article]: http://venturebeat.com/2013/08/28/the-developers-guide-to-interviewing/
 [offer-negotiation]: soft-skills/negotiating/email-negotiations.md
@@ -282,3 +295,5 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
 
 [lever-job-board]: https://docs.google.com/spreadsheets/d/1o2PsuE9DVsDN5W1oyIjAyQlDpB3Rb2uNWa6_auLTvw8/edit?usp=sharing
 [job-search-by-day]: README.md
+
+[after-jsc]: ./w13_plus/afterJSC.md

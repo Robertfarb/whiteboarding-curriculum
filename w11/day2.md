@@ -1,5 +1,7 @@
 ## W11D2
 ### Homework
+
+* PAR SHEETS DUE Today 9am
 * Continue working on flex project.
 
 ### Morning
@@ -8,13 +10,15 @@
 
 ### Afternoon
 #### Lecture
-* **Tackling Technical Interviews**
+* [Tackling Technical Interviews](./technical-interviews.md)
+
+#### [Sign up for Pramp](https://www.pramp.com/promo/app-academy)
 
 #### Lecture
 * **Pairboarding**
 
 #### Mock Interviews & Pairboarding
-* [Mock Interview Index][pair-boarding-index]
+* [Mock Interview Index][pair-boarding-index] (Start on Day 1)
 
 ### Projects
 * [Flex Project][flex-project]

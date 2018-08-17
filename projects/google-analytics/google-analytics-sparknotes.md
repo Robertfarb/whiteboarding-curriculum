@@ -28,11 +28,7 @@ On the other hand, if your projects are getting absolutely no views, then that m
 ![settings view](images/ga_setup3.png)
 
   * Under the middle column, 'Property', click on 'User Management'.
-  * Then, in the 'Add permissions for:' field, please put your coach's email.
-    * Eli: eli@appacademy.io
-    * Laura: laura@appacademy.io
-    * Josh: jling@appacademy.io
-    * Scott: sduane@appacademy.io
+  * Then, in the 'Add permissions for:' field, please put the career coach email: ```career-coaches@appacademy.io```
   * And then, check 'Notify this user by email'
 
 4. Finally, filter out your own IP address so you don't end up tracking your own views as well. Do this by clicking the gear icon on the bottom left corner again. Then, on the right most column, labeled 'View/All Web Site Data', click 'Filters', which should take you to this view:
@@ -45,6 +41,7 @@ On the other hand, if your projects are getting absolutely no views, then that m
   * Choose "that are equal to"
   * Paste in your IP address (Google: "What's my IP address?")
   * Also, add App Academy's IP address (66.162.144.78)
+  * Another option could be to add this [Chrome Extension](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
 
 #### Viewing the Data
 * Finally, to view the data breakdown between your different projects, go to the left hand column and click on the 'behavior' icon:

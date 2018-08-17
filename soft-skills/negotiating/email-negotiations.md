@@ -1,3 +1,8 @@
+# NEGOTIATION LECTURE VIDEO
+Prior to discussing any negotiation, please review our [NEGOTIATION LECTURE](https://vimeo.com/204132917)
+
+Password is:  go_video_go
+
 # Negotiation Emails
 
 ## After getting an offer
@@ -54,7 +59,7 @@ you take can inspiration from.
 
 ## If they give you a verbal offer 
 
- If a verbal offer is made, a response could be, “I’m very excited about the opportunity to work for you and this organization. Since this is such a significant decision for both of us, I’d be more comfortable if the offer was formalized in writing and I could look it over.”  
+ If a verbal offer is made, a response could be, “I’m very excited about the opportunity to work for you and this organization. Since this is such a significant decision for both of us, I’d be more comfortable if the offer was formalized in writing and I could look it over.”  or "This is an exciting opportunity and I will be looking forward to reviewing this information in an email."
  
  (If you already missed your chance to do this, you can consider writing a followup email where you reiterate the details of the verbal offer.  This isn't as good as an offer letter, but puts at least some details in writing in the meantime.)
 
@@ -115,8 +120,8 @@ both cases.
 > Thanks for sending this over! I think [company name] is a great
 > company, and that I'd be a good fit. My one apprehension right now is
 > the compensation. [Lowball figure] is on the low side of the offers I
-> am considering, as well as what I am hearing from my App Academy
-> peers. The average is closer to [average in city]. This Indeed search
+> am considering, as well as what I am hearing from my peers. The average 
+> is closer to [average in city]. This Indeed search
 > shows a [number] average for a [job title] in [city] [links to
 > Indeed search]. If you were able to raise the offer, I would feel much
 > more comfortable accepting it.
@@ -155,7 +160,7 @@ both cases.
 
 ## Accepting or rejecting an offer
 
-**Accetpting an offer**
+**Accepting an offer**
 
 > It is with great excitement that I accept the offer for the position of [role]. I have included the signed offer letter. > I have been communicating with the relocation company and am currently in the process of moving to [city]. I expect to
 > be settled in by the end of the month and ready to start in [timeline]. I will contact you as my start date approaches. > Please feel free to contact me if you have any questions. I look forward to my new position at [company]. 

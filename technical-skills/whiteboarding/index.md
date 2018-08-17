@@ -173,18 +173,6 @@ in order.
 
 ### D12
 
-#### [Question set A](./questions/12A.md)
-
-- `next_largest`
-- `isBalancedTree`
-
-#### [Question set B](./questions/12B.md)
-
-- `is_bst?`
-- `findCommonAncestor`
-
-### D13
-
 #### [Question set A](./questions/13A.md)
 
 - `rand7`
@@ -195,7 +183,7 @@ in order.
 - Sudoku Solver
 - `sqroot`
 
-### D14
+### D13
 
 #### [Question set A](./questions/14A.md)
 
@@ -205,7 +193,7 @@ in order.
 
 - `print_spiral`
 
-### D15
+### D14
 
 #### [Question set A](./questions/15A.md)
 
@@ -216,7 +204,7 @@ in order.
 - `filterLinkedList`
 - `median`
 
-### D16
+### D15
 
 #### [Question set A](./questions/16A.md)
 
@@ -226,3 +214,15 @@ in order.
 #### [Question set B](./questions/16B.md)
 
 - Connected Components
+
+### D16
+
+#### [Question set A](./questions/12A.md)
+
+- `next_largest`
+- `isBalancedTree`
+
+#### [Question set B](./questions/12B.md)
+
+- `is_bst?`
+- `findCommonAncestor`

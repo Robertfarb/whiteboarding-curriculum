@@ -1,21 +1,18 @@
 # Crafting Your Resume
 
+## Finished Product
+For your initial resume, please use one of the templates from our library.  Please copy and create your own resume from the link below:
+* [online resume templates](https://drive.google.com/open?id=186b8YXBheO45d4rSseYhxU4YyPzSricl)
+
+At the end, to see how your resume is being parsed by an ATS system, paste/upload your resume and a job posting here at [Jobscan][jobscan].
+
+**Here is your [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) as you will need to get 100 points.**
+
 ## Phase 0: Motivation
 
 Every student coming out of App Academy is much better in practice than they look on paper. The goal here is to close that gap. An excellent resume will provide the opportunity to demonstrate technical expertise during phone screens and on-sites.
 
-## Warmup
 
-Go through the following steps for each of these [example resumes][example-resumes] from past graduates.
-
-1. Look at the Resume for 6 seconds
-2. Write down the following observations:
-  * What was your eye drawn to?
-  * What skills does this candidate have?
-  * Would you hire this candidate?
-3. Now take a couple minutes to read it over in depth.
-  * What did you miss in the 6 second test?
-  * What stands out to you now?
 
 ### Filling a Need
 
@@ -39,24 +36,24 @@ This is a pretty typical scenario. Build your resume to grab a recruiter's atten
 
 ### General Guidelines
 
-Use the example resumes above as guides for formatting, or [customize one of our templates.][drive-templates]  
+Use the example resumes above as guides for formatting, or customize one of our templates:  [online resume templates](https://drive.google.com/open?id=186b8YXBheO45d4rSseYhxU4YyPzSricl)
 
 You __must__ submit your Resume for review as a Google Doc or Slide. You may use a different program to build
 a fancier layout if you like, but you must still submit a plain-text Google Doc to us through Jobberwocky
 for review. Just include a link to the formatted PDF.
 
-Stick to one page and use lots of whitespace with 1-inch margins on left and right.
+Stick to one page for a PARSEABLE resume.  If you want to use a fancier resume template from a source like Etsy, only send
+the fancy resume when you are reaching out directly to a person.  Otherwise, for most purposes you will want to use 
+a parseable resume with simple font and typically around 9-12 point size depending on the readability of the resume.
 
-No font sizes smaller than 11pt.
-
-No fancy fonts or colors. Stick with an easy-to-read sans-serif font. Google has many to choose from.
+## Create your resume with one of our formatted templates.  Make sure to have a plain text document for yourself.
 
 #### Order
 
 As a general guide:
 
-1. Projects
-2. Skills
+1. Skills
+2. Projects
 3. Education
 4. Work History
 
@@ -64,12 +61,15 @@ This is flexible. **If you have professional software experience (i.e. you were 
 
 #### Include these links:
 
-* Github
-* Portfolio Site
-* LinkedIn
+* Github (at top)
+* Portfolio Site (at top)
+* LinkedIn (at top)
 * Projects:
     * Link to live site
     * Link to Github Repo
+    
+## FOLLOWING IS A LINK TO A [RESUME SCORECARD](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/resume/ScoreCard.md) WHERE YOU WILL NEED 100 POINTS
+
 
 ## Phase 2: Projects
 
@@ -106,13 +106,15 @@ before implementing it, you were solving a problem.
 
 * Avoid extremely language or framework-specific bullets, they are incomprehensible unless the reader knows Rails.
    - Example: "Overwrites attr_writer on User#password"
+   
+* Remember, that many resumes will go through an ATS so you will want to make sure your content has searchable words that might be on a job description
 
 * **DO NOT** just enumerate features in your bullet points!
     - Example: "Allows Users to login / logout", "Uploads photos"
 
 ### Communicate as an Engineer
 
-A good resume item does *not* read like a feature list on a product's website. Always write at a higher-level about what engineering solutions you implemented. Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
+A good resume item does *not* read like a feature list on a product's website. **Always write at a higher-level about what engineering solutions and features YOU implemented.** Describe *engineering problems you solved* or the solutions you found in *implementing* those features. Employers want to hear about what kind of an engineer you are and how you approach problem-solving.
 
 ### Keywords are King
 
@@ -247,11 +249,13 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 **N.B. Address these so your career coach can give substantive personal feedback instead of rehashing project guidelines**
 
 * Layout
-  0. Fits on 1 page?
-  0. 1-inch margins on left and right?
+  Resume fits on 1 page?
+  0. 1/2 to 1-inch margins on left and right?
   0. Margins and formatting are consistent and organized?
-  0. All text >= 11pt?
+  0. All text point sizes are consistent
   0. Uses a nicer font than defaults?
+  
+  You should also have a **plain text resume** as well
 
 * Projects
   0. Do you list three or four coding projects, including your Full Stack Project, JavaScript project, and Code Intensive?
@@ -264,8 +268,9 @@ Before you submit your résumé for review, make sure you can answer yes to all 
   0. Do you provide benchmarks for your own or your teams success?
   0. Do you emphasize technical or programmatic aspects of your work history?
 
-* Misc
-  0. Do your bullets follow the formula: Accomplished [X] as measured by [Y] by doing [Z]?
+* Misc 
+  0. Do your bullets follow the formula of saying what YOU DID vs. FEATURES: 
+  ie. Developed collision detection algorithm for sprite characters, and integrated with keystroke event listeners to seamlessly predict future player direction and movement.
   0. Do you provide a skills list of the technologies you are familiar with?
   0. Do you provide contact information and link to your Github and LinkedIn?
   0. Does your contact information make it clear you are currently in the metro area? (Use a/A office address if this is not the case)
@@ -279,3 +284,6 @@ Before you submit your résumé for review, make sure you can answer yes to all 
 [resume-bullets]: crafting-your-bullets.md
 [resume-verbs]: resume-verbs.md
 [resume-keywords]: resume-keywords.md
+[etsy-resume]: https://www.etsy.com/search?q=resume%20template&ref=auto1
+[ats-resume]: https://docs.google.com/document/d/1RkgQJR1SHYFDiLY9cWT1isrWf610xs3JuO4wlA4Yqao/edit?usp=sharing
+[jobscan]: https://www.jobscan.co/

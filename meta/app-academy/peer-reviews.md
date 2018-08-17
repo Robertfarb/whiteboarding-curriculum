@@ -4,14 +4,12 @@ The point of this is to get your job application materials as perfect as possibl
 
 ## Instructions
 
-You'll be assigned two people every day from W10D2..W10D5 and you'll review all of their job application materials. That includes:
+You'll be assigned two people every day on W10D3 and W10D4, and you'll review all of their job application materials. That includes:
 
 * Resume
 * Cover Letter
 * JavaScript Project
 * Full-Stack Project
-* Portfolio
-* LinkedIn profile
 * Github Readme's
 
 To get the links for everything you need to review, just ask the person you're reviewing to email them to you. You'll need Google Doc URLs for the Resume and Cover Letter, and GitHub and Live URLs for all the other materials.

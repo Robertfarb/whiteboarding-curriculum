@@ -1,23 +1,22 @@
 ## W12D5
+### Homework
 
-### Morning Off
-* It's the day after Graduation! Attendance is **not required** this morning.
+### Morning
+* Office hours 10AM-12PM
 
 ### Afternoon
 
-* Roll call at 1:30pm as usual
-* Lecture: Introduction to TalentMatch
-* Videos on heaps and heapsort:
-   * [Heaps 1][heaps1]
-   * [Heaps 2][heaps2]
-   * [Heaps 3][heaps3]
-   * [Heapsort 1][heapsort1]
-   * [Heapsort 2][heapsort2]
-* Project: [Heaps and Heapsort][heaps-heapsort]
+* Quicksort project review at 1:30
+* Alternatively, solve some challenging [practical problems](https://github.com/appacademy/sf-job-search-curriculum/blob/master/supplemental_problems/sorting.md)
+* [Pairboarding][pairboarding-index]
+* Binary Search Tree Video Lectures and Project
+    * First watch the video: [Binary search tree][binary-search-trees-vid]
+    * Then read through the [BST Reading][bst-reading]
+    * Finally, download the BST project from Progress Tracker.
 
 ### Bonus
 
-* Work some heap problems on [HackerRank][hackerrank] or from [Elements of Programming Interviews][elements-book]
+* Work some heap problems on [HackerRank][hackerrank].
 
 <!-- LINKS -->
 <!-- Job Search Projects -->
@@ -27,12 +26,7 @@
 [HackerRank]: https://www.hackerrank.com/
 [codility]: https://codility.com/
 [Codility]: https://codility.com/
-
+[pairboarding-index]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/technical-skills/whiteboarding/index.md#d8
 <!-- Algorithms Projects & Lectures -->
-[heaps1]: https://vimeo.com/191997749/b59a137b19
-[heaps2]: https://vimeo.com/191997750/83ff39ba6a
-[heaps3]: https://vimeo.com/191997751/6db2554bbb
-[heapsort1]: https://vimeo.com/191997808/3d0a223bb1
-[heapsort2]: https://vimeo.com/191997809/849cf1b7ad
-
-[heaps-heapsort]: https://github.com/appacademy/job-search-curriculum/tree/master/SF/algorithms/w12d1/project3
+[binary-search-trees-vid]: https://vimeo.com/203204585
+[bst-reading]: ../algorithms/binary_search_trees/bst_reading.md

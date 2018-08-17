@@ -20,6 +20,6 @@
 [well-grounded-rubyist]: http://www.manning.com/black2/
 
 ```ruby
-def fucntion (input)
+def function (input)
 end
 ```
