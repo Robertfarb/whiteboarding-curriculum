@@ -121,7 +121,7 @@
    * Detailed timeline of how each group member will spend their time to get ramped up for the flex project. (ie. tutorials for new technologies, building a simple CRUD app using that new stack, etc.)
 * Start presenting Flex Project Pre-Proposals to Coaches
 
-### [Weekend Checklist]('./weekend-checklist.md')
+### [Weekend Checklist](https://github.com/appacademy/sf-job-search-curriculum/blob/master/w10/weekend-checklist.md)
 
 
 <!-- LINKS -->
