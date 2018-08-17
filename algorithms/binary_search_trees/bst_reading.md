@@ -9,7 +9,7 @@ With that, we begin by defining how a *binary search tree* is built.
 
 ## Building a BST
 
-Imagine that we have a data set that we would like to store, perhaps a list of integer values, `data = [3, 2, 10, 5, 6, 0, 4]`.  We will use a build a binary search tree (BST) using `data` as an example set.  A BST is made up of *nodes*; each value in `data` will be stored in one of these nodes.  The nodes themselves will be connected using very specific parent-child relationships that, as we'll see, will help us keep our data organized and define our three key operations.  Each BST originates with a single node called the *root*.  We'll build our tree, `bst`, starting with `data[0] = 3`.  
+Imagine that we have a data set that we would like to store, perhaps a list of integer values, `data = [3, 2, 10, 5, 6, 0, 4]`.  We will use an array to build a binary search tree (BST) using `data` as an example set.  A BST is made up of *nodes*; each value in `data` will be stored in one of these nodes.  The nodes themselves will be connected using very specific parent-child relationships that, as we'll see, will help us keep our data organized and define our three key operations.  Each BST originates with a single node called the *root*.  We'll build our tree, `bst`, starting with `data[0] = 3`.  
 
 <img src="./diagrams/build_bst_1.png" />
 
