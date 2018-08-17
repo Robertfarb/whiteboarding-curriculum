@@ -42,7 +42,7 @@
 ### Lectures
 * **Introduction to the Job Search**, which will give you a solid understanding of the expectations and schedule of the next 4+ weeks.
 
-### Projects
+### Assignments
 * Work on your [JavaScript Project][js-project]
 * Prep for Personal Pitch workshop by reading through the [personal pitch][personal-pitch] reading.
 * Prep for the Online Presence lecture by reading through the following:
