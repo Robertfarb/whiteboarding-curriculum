@@ -21,7 +21,8 @@ describe 'TopologicalSort' do
       [v1.value, v2.value, v3.value, v4.value, v5.value, v6.value, v7.value, v8.value],
       [v1.value, v2.value, v3.value, v5.value, v4.value, v6.value, v7.value, v8.value],
       [v1.value, v3.value, v2.value, v4.value, v5.value, v6.value, v7.value, v8.value],
-      [v1.value, v3.value, v2.value, v5.value, v4.value, v6.value, v7.value, v8.value]
+      [v1.value, v3.value, v2.value, v5.value, v4.value, v6.value, v7.value, v8.value],
+      [v1.value, v2.value, v5.value, v3.value, v4.value, v6.value, v7.value, v8.value]
     ]
 
     1.times do
