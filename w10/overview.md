@@ -157,7 +157,7 @@
 [google-analytics]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/google-analytics/google-analytics-sparknotes.md
 [project-scorecard]: https://docs.google.com/spreadsheets/d/1MY1K-_kXYrS-7K_XFYkJs-U8kL-mDnYY3lQIw-IgIm0/edit#gid=0
 [personal-pitch]: ../soft-skills/interviewing/personal-pitch.md
-[angellist]: https://github.com/appacademy/sf-job-search-curriculum/tree/master/application-materials/angellist
+[angellist]: https://github.com/appacademy/sf-job-search-curriculum/tree/master/application-materials/angellist/angellist.md
 [linkedin]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md
 [github]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/github/github.md
 [portfolio]: https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/portfolio/portfolio.md
