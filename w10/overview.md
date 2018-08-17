@@ -56,36 +56,32 @@
 
 ### Materials
 * Check your [calendar][calendar] for events happening today. Note times for office hours and lectures.
-* Personal Pitch video due on Jobberwocky tomorrow at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
-* Work on JavaScript Project.
+* Continue working on your JavaScript Project.
 
 ### Lectures
-* [Personal Pitch Workshop][personal-pitch]
+* Personal Pitch Workshop
 * Online Presence lecture
 
 ### Assignments
-* [JavaScript Project][js-project]
 * Personal Pitch video due on Jobberwocky tomorrow at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
 * Prep for Resume Lecture by reading through [resume reading][resume]
 * Get ready for your first [peer review][peer-review]
-* Prep for [flex project introduction][flex-project]
+* Prep for the [flex project introduction][flex-project]
 
 ## w10d3
 
 ### Homework
-* Continue working on [JavaScript Project][js-project]
-* Personal Pitch video due on Jobberwocky at 9am. [Follow these instructions][personal-pitch-video] on how to record and submit.
-* Prep for the [flex project introduction][flex-project]
+* Submit your personal pitch video
 
 ### Lectures
 * [Resume][resume] Lecture
-* Followed by work time and peer reviews
+  * Work time and peer reviews immediately follow the lecture
 * Get introduced to the [Flex Project][flex-project].
 
 ### Assignments
-* Continue working on your [JavaScript Project][js-project]
-* Start thinking about your [Flex Project][flex-project].
-* Work on [resumes][resume] (due tomorrow at 9am)
+* Continue working on your JavaScript Project
+* Start brainstorming for your flex project
+* Finish your resume (due tomorrow at 9am)
 
 ## w10d4
 
