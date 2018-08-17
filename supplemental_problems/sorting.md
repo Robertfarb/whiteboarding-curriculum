@@ -24,7 +24,7 @@ NB: 1st smallest is the 0-th element in a sorted array.
 #### Example
 
 ```ruby
-[1, 5, 7, 4, 3, 2, 8, 9].select_kth_smallest(2) => 3
+[1, 5, 7, 4, 3, 2, 8, 9].select_kth_smallest(2) => 2
 ```
 
 ### Challenge 2: Merge M Sorted Lists
