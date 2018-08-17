@@ -154,6 +154,7 @@ Due dates follow projects. Always due at 12pm PST. Password for videos are `go_v
   * [Ronnie's Lecture on the Job Search and why you shouldn't give up so fast](https://vimeo.com/176531540) pw is go_video_go
   * ["I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned."][spent-3-months]
   * [Advanced Tips for the Job Search](soft-skills/advanced-tips.md)
+  * [LGBTQ Job Seeker Talk by Scott Duane](https://vimeo.com/216591298)
 
 [bay-tech-companies]: https://docs.google.com/a/appacademy.io/spreadsheet/ccc?key=0AnnoREts_wUydFpJSVZLM25wdmc0Vk56UzEwUzJiY3c#gid=0
 [spent-3-months]: https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.t2fr6z692
