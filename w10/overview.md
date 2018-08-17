@@ -100,7 +100,7 @@
 * Last day of [peer reviewing][peer-review]. Focus on JavaScript Project today!
 
 ### Assignments
-* [JavaScript Project][js-project], due tomorrow at 9AM
+* JavaScript project due tomorrow at 9AM
 * Start thinking about your [flex project][flex-project] (proposal due W11D1 at 9am)
 
 ## w10d5
