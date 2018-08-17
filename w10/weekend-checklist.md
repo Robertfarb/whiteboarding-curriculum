@@ -1,10 +1,9 @@
 ## Weekend Checklist
 
-* Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
-* Work on [LinkedIn profile][linkedin] (due W11D1 at 9am)
-* Read about [Behavioral Questions][behavioral-questions].
-  * Familiarize yourself with more [behavioral questions][31-questions].
-* Bonus: [portfolio site][portfolio]
+* Work on [flex project proposal](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md) (due W11D1 at 9am)
+* Work on your [LinkedIn profile](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/linkedin/linkedin.md) (due W11D1 at 9am)
+* Read about [Behavioral Questions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/soft-skills/interviewing/behavioral-questions.md)
+* Bonus: [portfolio site](https://github.com/appacademy/sf-job-search-curriculum/blob/master/application-materials/portfolio/portfolio.md)
 
 ### Flex Project Proposal (due 9am W11D1 on Jobberwocky)
 - [ ] Read through the example proposals: [example 1](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/flex-sample-proposal2/README.md) and [example 2](https://github.com/JaredTan/Woven/tree/master/docs)
