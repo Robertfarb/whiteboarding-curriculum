@@ -67,6 +67,7 @@
 * Prep for Resume Lecture by reading through [resume reading][resume]
 * Get ready for your first [peer review][peer-review]
 * Prep for the [flex project introduction][flex-project]
+* Read about [Google Analytics](https://github.com/appacademy/sf-job-search-curriculum/blob/94c908e4d61df6008e70ce9fc1d449ef6f9e4848/projects/google-analytics/google-analytics-sparknotes.md)
 
 ## w10d3
 
