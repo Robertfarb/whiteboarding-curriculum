@@ -115,7 +115,7 @@
 ### Work Time
 
 * Work on Flex Project Pre-Proposals.
- * Instructions for Pre-Proposals: Start a google doc and have the following planned out:
+ * Instructions for Pre-Proposals: Start a google doc (share it with career-coaches@appacademy.io) and have the following planned out:
    * General idea for the project with specific features/functionalities
    * 1 or 2 backup ideas (don't spend too much time on this unless you're not super sold on your top choice)
    * Technologies you plan on using
