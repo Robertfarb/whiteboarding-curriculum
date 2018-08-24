@@ -65,7 +65,7 @@ For **submission instructions**, go to the project due date in [Job Search by Da
 * Flex Project Proposal (due W11D1, 9am)
   * [Sample Project Proposal][flex-proposal]
   * [Flex Project Proposal Submission Form][flex-proposal-submission]
-* [Flex Project][flex-project] (due W12D4, 10am)
+* [Flex Project][flex-project] (due W12D1, 10am)
 * Resources:
   * [List of Public APIs](https://rapidapi.com/)
 
