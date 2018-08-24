@@ -255,6 +255,12 @@ Let's head back to our users route file and setup a route for user registration.
 const bcrypt = require('bcryptjs');
 ```
 
+And the User model:
+
+```JavaScript
+const User = require('../../models/User');
+```
+
 Now let's setup a route to register new users:
 
 ```JavaScript
