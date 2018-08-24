@@ -773,3 +773,18 @@ router.post(
 If this were a real app, we would want to create an authenticated route to delete posts, and perhaps some additional routes to add comments or likes. However, for the sake of this tutorial, we are going to keep things simple and stick with the ability to retrieve and create posts.
 
 Use Postman to test your new routes.
+
+## Next Steps
+
+* Think through your database schema
+* Finish setting up your backend skeleton
+  * Models
+  * Routes
+  * Validations
+* Populate your database with some dummy data
+
+## Further Reading
+
+* [Promises in JavaScript](https://developers.google.com/web/fundamentals/primers/promises)
+* [SQL vs. NoSQL](https://www.janbasktraining.com/blog/sql-vs-nosql/)
+* [Async functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
