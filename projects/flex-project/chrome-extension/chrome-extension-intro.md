@@ -1,6 +1,6 @@
 # Building a Chrome Extension
 
-a/A students are perfectly skilled to create a Chrome Extension, since all they use is HTML, CSS, and JavaScript. If necessary, you could construct an API backend for it as well--this usually won't be needed.
+You already possess the toolkit you need to create a Chrome Extension since all they use is HTML, CSS, and JavaScript. If necessary, you can construct an API backend for it as well - this usually won't be needed.
 
 Building a Chrome Extension is usually best to do if you're addressing a real need. The Chrome Web Store is more discerning, and is less interested in "toy" extensions. Ideally, you'll be building something that will have actual users.
 
@@ -18,6 +18,7 @@ Building a Chrome Extension is usually best to do if you're addressing a real ne
   * [Debugging Tutorial](https://developer.chrome.com/extensions/tut_debugging)
   * [Chrome APIs](https://developer.chrome.com/extensions/api_index)
   * [Developer's Guide](https://developer.chrome.com/extensions/devguide)
+  * [A video tutorial series](https://www.youtube.com/watch?v=jyhu42WSC6Y)
 * Examples:
   * [Readable Readme](https://github.com/edabot/readable-readme)
   * [SafeScroll](https://github.com/ksalehi/SafeScroll)
