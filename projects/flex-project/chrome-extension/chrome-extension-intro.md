@@ -23,7 +23,6 @@ Building a Chrome Extension is usually best to do if you're addressing a real ne
   * [Readable Readme](https://github.com/edabot/readable-readme)
   * [SafeScroll](https://github.com/ksalehi/SafeScroll)
   * [Endorser](https://github.com/Tonyhliu/Endorser)
-  * [Impulse for LoL](https://github.com/mattyshen/impulse)
   * [Jobberwocky Job Adder](https://github.com/timhwang21/jobberwocky-job-adder)
 
 [tutorial]: https://developer.chrome.com/extensions/getstarted
