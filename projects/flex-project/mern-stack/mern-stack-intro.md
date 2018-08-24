@@ -82,7 +82,7 @@ app.listen(port, () => console.log(`Server is running on port ${port}`));
 
 This will also log a success message to the console when our server is running successfully.
 
-Now open your terminal and run ```node server```. If you have followed the steps correctly you will see your success message: 'Server running on port 5000.' Open up ```localhost:5000``` in Chrome and you should see the text 'Hello World'!
+Now open your terminal and run ```node app```. If you have followed the steps correctly you will see your success message: 'Server running on port 5000.' Open up ```localhost:5000``` in Chrome and you should see the text 'Hello World'!
 
 ### Using nodemon
 
