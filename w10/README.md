@@ -111,6 +111,9 @@
   * Add live link to [Jobberwocky][Jobberwocky] and click "Queue for review" to submit.
     * NB: Make sure you've moved your proposal readme to a 'docs' folder. Then, create a production readme.
 * Work on [flex project proposal][flex-sample-proposal] (due W11D1 at 9am)
+* Read the corresponding intro for your flex project:
+  * [MERN Stack](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/mern-stack/mern-stack-intro.md)
+  * [Chrome Extensions](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/chrome-extension/chrome-extension-intro.md)
 
 ### Work Time
 
