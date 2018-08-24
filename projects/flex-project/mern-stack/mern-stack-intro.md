@@ -173,7 +173,6 @@ NB: The callback for every Express route requires a request and response as argu
 ```JavaScript
 const users = require("./routes/api/users");
 const events = require("./routes/api/events");
-const comments = require("./routes/api/comments");
 ```
 
 * At some point in the file, after the line where you instantiated ```app```, tell Express to use your newly imported routes:
@@ -181,7 +180,6 @@ const comments = require("./routes/api/comments");
 ```JavaScript
 app.use("/api/users", users);
 app.use("/api/events", events);
-app.use("/api/comments", comments);
 ```
 
 Try visiting ```localhost:5000/api/users/test``` - you should see the JSON you entered in the route's callback function. Check the other routes and make sure they are working as well.
