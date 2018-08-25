@@ -14,7 +14,7 @@ The key goal of the flex project is to help differentiate you from other bootcam
 2. Create an app that solves a relevant problem
 
 * [SafeScroll](https://chrome.google.com/webstore/detail/safescroll/lkkeaiancamiccigdofacokfdjegoanm/related)
-  * Tips for [Chrome Extension](chrome-extension.md)
+  * Tips for [Chrome Extension](https://github.com/appacademy/sf-job-search-curriculum/blob/master/projects/flex-project/chrome-extension/chrome-extension-intro.md)
 * [eos-redux](https://www.npmjs.com/package/eos-redux)
   * Tips for creating [gems, packages, or libraries](gem-or-library.md)
 * [Prism](http://www.prismextension.com/)
